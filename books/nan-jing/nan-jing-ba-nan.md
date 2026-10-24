@@ -1,0 +1,22 @@
+---
+id: nan-jing-ba-nan
+title: 八难
+book: 难经
+bookSlug: nan-jing
+author: 扁鹊
+authorSlug: bian-que
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 46
+sourceId: 10626
+---
+
+## 正文
+
+曰：寸口脉平而死者，何谓也？
+
+然：诸十二经脉者，皆系于生气之原。所谓生气之原者，谓十二经之根本也，谓肾间动气也。此五脏六腑之本，十二经脉之根，呼吸之门，三焦之原。一名守邪之神。故气者，人之根本也，根绝则茎叶枯矣。寸口脉平而死者，生气独绝于内也。

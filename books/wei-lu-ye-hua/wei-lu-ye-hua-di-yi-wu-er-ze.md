@@ -1,0 +1,20 @@
+---
+id: wei-lu-ye-hua-di-yi-wu-er-ze
+title: 第一五二则
+book: 围炉夜话
+bookSlug: wei-lu-ye-hua
+author: 王永彬
+authorSlug: wang-yong-bin
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 152
+sourceId: 6005
+---
+
+## 正文
+
+性情执抛之人，不可与谋事也；机趣流通之士，始可与言文也。

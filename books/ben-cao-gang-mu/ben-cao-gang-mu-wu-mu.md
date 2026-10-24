@@ -1,0 +1,30 @@
+---
+id: ben-cao-gang-mu-wu-mu
+title: 乌木
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+author: 李时珍
+authorSlug: li-shi-zhen
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 277
+sourceId: 2061
+---
+
+## 正文
+
+### 释名
+
+乌木、乌文木。
+
+### 气味
+
+甘、咸、平、无毒。
+
+### 主治
+
+解毒，亦治霍乱吐利。取木片研为还想，温酒冲服。

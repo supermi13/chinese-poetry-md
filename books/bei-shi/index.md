@@ -1,0 +1,127 @@
+---
+id: bei-shi
+title: 北史
+author: 李延寿
+authorSlug: li-yan-shou
+dynasty: 唐
+dynastySlug: tang
+type: book
+tags:
+  - 古籍
+  - 史部
+  - 正史类
+---
+
+# 北史
+
+- 作者：李延寿
+- 朝代：唐
+- 分类：史部 / 正史类
+- 章节数：100
+
+## 简介
+
+《北史》是汇合并删节记载北朝历史的《魏书》、《北齐书》、《周书》而编成的纪传体史书。魏本纪五卷、齐本纪三卷、周本纪二卷、隋本纪二卷、列传八十八卷，共一百卷。记述从北魏登国元年(386（丙戌年）)到隋义宁二年(618)的历史。《南史》与《北史》为姊妹篇，是由李大师及其子李延寿两代人编撰完成的。
+
+## 目录
+
+1. [卷一](./bei-shi-juan-yi.md)
+2. [卷二](./bei-shi-juan-er.md)
+3. [卷三](./bei-shi-juan-san.md)
+4. [卷四](./bei-shi-juan-si.md)
+5. [卷五](./bei-shi-juan-wu.md)
+6. [卷六](./bei-shi-juan-liu.md)
+7. [卷七](./bei-shi-juan-qi.md)
+8. [卷八](./bei-shi-juan-ba.md)
+9. [卷九](./bei-shi-juan-jiu.md)
+10. [卷十](./bei-shi-juan-shi.md)
+11. [卷十一](./bei-shi-juan-shi-yi.md)
+12. [卷十二](./bei-shi-juan-shi-er.md)
+13. [卷十三](./bei-shi-juan-shi-san.md)
+14. [卷十四](./bei-shi-juan-shi-si.md)
+15. [卷十五](./bei-shi-juan-shi-wu.md)
+16. [卷十六](./bei-shi-juan-shi-liu.md)
+17. [卷十七](./bei-shi-juan-shi-qi.md)
+18. [卷十八](./bei-shi-juan-shi-ba.md)
+19. [卷十九](./bei-shi-juan-shi-jiu.md)
+20. [卷二十](./bei-shi-juan-er-shi.md)
+21. [卷二十一](./bei-shi-juan-er-shi-yi.md)
+22. [卷二十二](./bei-shi-juan-er-shi-er.md)
+23. [卷二十三](./bei-shi-juan-er-shi-san.md)
+24. [卷二十四](./bei-shi-juan-er-shi-si.md)
+25. [卷二十五](./bei-shi-juan-er-shi-wu.md)
+26. [卷二十六](./bei-shi-juan-er-shi-liu.md)
+27. [卷二十七](./bei-shi-juan-er-shi-qi.md)
+28. [卷二十八](./bei-shi-juan-er-shi-ba.md)
+29. [卷二十九](./bei-shi-juan-er-shi-jiu.md)
+30. [卷三十](./bei-shi-juan-san-shi.md)
+31. [卷三十一](./bei-shi-juan-san-shi-yi.md)
+32. [卷三十二](./bei-shi-juan-san-shi-er.md)
+33. [卷三十三](./bei-shi-juan-san-shi-san.md)
+34. [卷三十四](./bei-shi-juan-san-shi-si.md)
+35. [卷三十五](./bei-shi-juan-san-shi-wu.md)
+36. [卷三十六](./bei-shi-juan-san-shi-liu.md)
+37. [卷三十七](./bei-shi-juan-san-shi-qi.md)
+38. [卷三十八](./bei-shi-juan-san-shi-ba.md)
+39. [卷三十九](./bei-shi-juan-san-shi-jiu.md)
+40. [卷四十](./bei-shi-juan-si-shi.md)
+41. [卷四十一](./bei-shi-juan-si-shi-yi.md)
+42. [卷四十二](./bei-shi-juan-si-shi-er.md)
+43. [卷四十三](./bei-shi-juan-si-shi-san.md)
+44. [卷四十四](./bei-shi-juan-si-shi-si.md)
+45. [卷四十五](./bei-shi-juan-si-shi-wu.md)
+46. [卷四十六](./bei-shi-juan-si-shi-liu.md)
+47. [卷四十七](./bei-shi-juan-si-shi-qi.md)
+48. [卷四十八](./bei-shi-juan-si-shi-ba.md)
+49. [卷四十九](./bei-shi-juan-si-shi-jiu.md)
+50. [卷五十](./bei-shi-juan-wu-shi.md)
+51. [卷五十一](./bei-shi-juan-wu-shi-yi.md)
+52. [卷五十二](./bei-shi-juan-wu-shi-er.md)
+53. [卷五十三](./bei-shi-juan-wu-shi-san.md)
+54. [卷五十四](./bei-shi-juan-wu-shi-si.md)
+55. [卷五十五](./bei-shi-juan-wu-shi-wu.md)
+56. [卷五十六](./bei-shi-juan-wu-shi-liu.md)
+57. [卷五十七](./bei-shi-juan-wu-shi-qi.md)
+58. [卷五十八](./bei-shi-juan-wu-shi-ba.md)
+59. [卷五十九](./bei-shi-juan-wu-shi-jiu.md)
+60. [卷六十](./bei-shi-juan-liu-shi.md)
+61. [卷六十一](./bei-shi-juan-liu-shi-yi.md)
+62. [卷六十二](./bei-shi-juan-liu-shi-er.md)
+63. [卷六十三](./bei-shi-juan-liu-shi-san.md)
+64. [卷六十四](./bei-shi-juan-liu-shi-si.md)
+65. [卷六十五](./bei-shi-juan-liu-shi-wu.md)
+66. [卷六十六](./bei-shi-juan-liu-shi-liu.md)
+67. [卷六十七](./bei-shi-juan-liu-shi-qi.md)
+68. [卷六十八](./bei-shi-juan-liu-shi-ba.md)
+69. [卷六十九](./bei-shi-juan-liu-shi-jiu.md)
+70. [卷七十](./bei-shi-juan-qi-shi.md)
+71. [卷七十一](./bei-shi-juan-qi-shi-yi.md)
+72. [卷七十二](./bei-shi-juan-qi-shi-er.md)
+73. [卷七十三](./bei-shi-juan-qi-shi-san.md)
+74. [卷七十四](./bei-shi-juan-qi-shi-si.md)
+75. [卷七十五](./bei-shi-juan-qi-shi-wu.md)
+76. [卷七十六](./bei-shi-juan-qi-shi-liu.md)
+77. [卷七十七](./bei-shi-juan-qi-shi-qi.md)
+78. [卷七十八](./bei-shi-juan-qi-shi-ba.md)
+79. [卷七十九](./bei-shi-juan-qi-shi-jiu.md)
+80. [卷八十](./bei-shi-juan-ba-shi.md)
+81. [卷八十一](./bei-shi-juan-ba-shi-yi.md)
+82. [卷八十二](./bei-shi-juan-ba-shi-er.md)
+83. [卷八十三](./bei-shi-juan-ba-shi-san.md)
+84. [卷八十四](./bei-shi-juan-ba-shi-si.md)
+85. [卷八十五](./bei-shi-juan-ba-shi-wu.md)
+86. [卷八十六](./bei-shi-juan-ba-shi-liu.md)
+87. [卷八十七](./bei-shi-juan-ba-shi-qi.md)
+88. [卷八十八](./bei-shi-juan-ba-shi-ba.md)
+89. [卷一](./bei-shi-juan-yi-7347.md)
+90. [卷二](./bei-shi-juan-er-7348.md)
+91. [卷三](./bei-shi-juan-san-7349.md)
+92. [卷四](./bei-shi-juan-si-7350.md)
+93. [卷五](./bei-shi-juan-wu-7351.md)
+94. [卷六](./bei-shi-juan-liu-7352.md)
+95. [卷七](./bei-shi-juan-qi-7353.md)
+96. [卷八](./bei-shi-juan-ba-7354.md)
+97. [卷九](./bei-shi-juan-jiu-7355.md)
+98. [卷十](./bei-shi-juan-shi-7356.md)
+99. [卷十一](./bei-shi-juan-shi-yi-7357.md)
+100. [卷十二](./bei-shi-juan-shi-er-7358.md)

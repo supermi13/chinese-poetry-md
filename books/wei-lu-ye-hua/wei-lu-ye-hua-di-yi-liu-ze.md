@@ -1,0 +1,20 @@
+---
+id: wei-lu-ye-hua-di-yi-liu-ze
+title: 第一Ｏ六则
+book: 围炉夜话
+bookSlug: wei-lu-ye-hua
+author: 王永彬
+authorSlug: wang-yong-bin
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 106
+sourceId: 5959
+---
+
+## 正文
+
+忠实而无才，尚可立功，心志专一也；忠实而无识，必至偾事，意见多偏也。

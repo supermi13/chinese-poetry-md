@@ -1,0 +1,24 @@
+---
+id: shen-nong-ben-cao-jing-qu-cao
+title: 屈草
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+author: 佚名
+authorSlug: yi-ming
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 351
+sourceId: 10350
+---
+
+## 正文
+
+味苦。主胸胁下痛，邪气，腹问寒热阴痹。久服，轻身益气，耐老（《御览》作补益能老）。生川泽（旧在《唐本草》中无毒，今增）。
+
+《名医》曰：生汉中，五月采。
+
+案陶宏景云：方药不复用，俗无识者。

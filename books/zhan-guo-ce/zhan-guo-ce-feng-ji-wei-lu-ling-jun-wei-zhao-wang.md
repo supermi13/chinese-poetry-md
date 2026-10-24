@@ -1,0 +1,20 @@
+---
+id: zhan-guo-ce-feng-ji-wei-lu-ling-jun-wei-zhao-wang
+title: 冯忌为庐陵君谓赵王
+book: 战国策
+bookSlug: zhan-guo-ce
+author: 刘向
+authorSlug: liu-xiang
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 38
+sourceId: 4623
+---
+
+## 正文
+
+冯忌为庐陵君谓赵王曰：“王之逐庐陵君，为燕也。”王曰：“吾所以重者，无燕、秦也。”对曰：“秦三以虞卿为言，而王不逐也。今燕一以庐陵君为言，而王逐之。是王轻强秦而重弱燕也。”王曰：“吾非为燕也，吾固将逐之。”“然则王逐庐陵君，又不为燕也。行逐爱弟，又兼无燕、秦，臣窃为大王不取也。”

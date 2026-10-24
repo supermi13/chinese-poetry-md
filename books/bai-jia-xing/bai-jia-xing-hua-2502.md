@@ -1,0 +1,32 @@
+---
+id: bai-jia-xing-hua-2502
+title: 滑
+book: 百家姓
+bookSlug: bai-jia-xing
+author: 佚名
+authorSlug: yi-ming
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 196
+sourceId: 2502
+---
+
+## 正文
+
+历史来源
+
+「滑」源出：
+
+出自姬姓。据《英贤传》云：周公族后有滑氏。据《通志·氏族略·以国为氏》云，滑国是周朝分封的同姓小国，国都故址在今河南睢县西北，后来迁到费（在今河南省偃师县氏缑镇西南）故又称为费滑。后被晋国所灭，子孙以国名"滑"为氏。
+
+地望分布
+
+江苏省西北地区
+
+陕西省西安至华县一带
+
+湖北省安陆县地

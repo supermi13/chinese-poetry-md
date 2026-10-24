@@ -1,0 +1,20 @@
+---
+id: wei-lu-ye-hua-di-wu-jiu-ze
+title: 第五九则
+book: 围炉夜话
+bookSlug: wei-lu-ye-hua
+author: 王永彬
+authorSlug: wang-yong-bin
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 59
+sourceId: 5912
+---
+
+## 正文
+
+奢侈足以败家；悭吝亦足以败家。奢侈之败家，犹出常情；而悭吝之败家，必遭奇祸。庸愚足以覆事；精明亦足以覆事。庸愚之覆事，犹为小咎；而精明之覆事，必见大凶。

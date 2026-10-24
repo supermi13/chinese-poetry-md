@@ -1,0 +1,30 @@
+---
+id: ben-cao-gang-mu-jin-xing-cao
+title: 金星草
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+author: 李时珍
+authorSlug: li-shi-zhen
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 819
+sourceId: 1821
+---
+
+## 正文
+
+### 释名
+
+金钏草、凤尾草、七星草。
+
+### 气味
+
+苦、寒、无毒。
+
+### 主治
+
+解热，通淋，消痈疮，解硫磺中毒。用根泡油涂头上，能大生毛发。

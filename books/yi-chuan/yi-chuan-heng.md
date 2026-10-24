@@ -1,0 +1,22 @@
+---
+id: yi-chuan-heng
+title: 恒
+book: 易传
+bookSlug: yi-chuan
+author: 佚名
+authorSlug: yi-ming
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 67
+sourceId: 377
+---
+
+## 正文
+
+雷风，恒；君子以立不易方。
+
+浚恒之凶，始求深也。九二悔亡，能久中也。不恒其德，无所容也。久非其位，安得禽也。妇人贞吉，从一而终也。夫子制义，从妇凶也。振恒在上，大无功也。

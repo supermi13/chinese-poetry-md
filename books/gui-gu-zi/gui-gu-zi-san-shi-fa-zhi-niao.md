@@ -1,0 +1,20 @@
+---
+id: gui-gu-zi-san-shi-fa-zhi-niao
+title: 散势法鸷鸟
+book: 鬼谷子
+bookSlug: gui-gu-zi
+author: 佚名
+authorSlug: yi-ming
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 19
+sourceId: 3305
+---
+
+## 正文
+
+散势者，神之使也。用之，必循间而动。威肃内盛，推间而行之，则势散。夫散势者，心虚志溢；意衰威失，精神不专，其言外而多变。故观其志意，为度数，乃以揣说图事，尽圆方，齐短长。无间则不散势者，待间而动，动而势分矣。故善思间者，必内精五气，外视虚实，动而不失分散之实。动则随其志意，知其计谋。势者，利害之决，权变之威。势败者，不可神肃察也。

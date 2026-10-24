@@ -1,0 +1,20 @@
+---
+id: wei-lu-ye-hua-di-shi-jiu-ze
+title: 第十九则
+book: 围炉夜话
+bookSlug: wei-lu-ye-hua
+author: 王永彬
+authorSlug: wang-yong-bin
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 19
+sourceId: 5872
+---
+
+## 正文
+
+打算精明，自谓自计，然败祖父子家声者，必此人也；朴实浑厚，初无甚奇，然培子孙之元气者，必此人也。

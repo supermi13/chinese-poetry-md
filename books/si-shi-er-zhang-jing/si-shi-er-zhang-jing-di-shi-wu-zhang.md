@@ -1,0 +1,20 @@
+---
+id: si-shi-er-zhang-jing-di-shi-wu-zhang
+title: 第十五章
+book: 四十二章经
+bookSlug: si-shi-er-zhang-jing
+author: 佚名
+authorSlug: yi-ming
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 子部
+  - 释家类
+chapterIndex: 15
+sourceId: 6179
+---
+
+## 正文
+
+沙门问佛：何者多力？何者最明？佛言：忍辱多力，不怀恶故，兼加安健；忍者无恶，必为人尊。心垢灭尽，净无瑕秽，是为最明。未有天地逮于今日，十方所有，无有不见，无有不知，无有不闻，得一切智可谓明矣。

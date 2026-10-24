@@ -1,0 +1,20 @@
+---
+id: guo-yu-wei-jiang-jian-dao-gong-fa-zhu-rong
+title: 魏绛谏悼公伐诸戎
+book: 国语
+bookSlug: guo-yu
+author: 左丘明
+authorSlug: zuo-qiu-ming
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 180
+sourceId: 9717
+---
+
+## 正文
+
+五年，无终子嘉父使孟乐因魏庄子纳虎豹之皮以和诸戎。公曰：“戎、狄无亲而好得，不若伐之。”魏绛曰：“劳师于戎，而失诸华，虽有功，犹得兽而失人也，安用之？且夫戎、狄荐处，贵货而易土。予之货而获其土，其利一也；边鄙耕农不儆，其利二也；戎、狄事晋，四邻莫不震动，其利三也。君其图之！”公说，故使魏绛抚诸戎，于是乎遂伯。

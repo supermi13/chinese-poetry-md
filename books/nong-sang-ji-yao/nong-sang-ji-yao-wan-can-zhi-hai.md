@@ -1,0 +1,20 @@
+---
+id: nong-sang-ji-yao-wan-can-zhi-hai
+title: 晚蚕之害
+book: 农桑辑要
+bookSlug: nong-sang-ji-yao
+author: 佚名
+authorSlug: yi-ming
+dynasty: 元
+dynastySlug: yuan
+tags:
+  - 古籍
+  - 子部
+  - 农家类
+chapterIndex: 44
+sourceId: 6523
+---
+
+## 正文
+
+《韩氏直说》：晚蚕，迟老多病，费叶少丝，不惟晚却今年蚕，又损却来年桑。世人惟知婪多为利，不知趋早之为大利。压覆蚕连，以待桑叶之盛，其蚕既晚，明年之桑，其生也尤晚矣。

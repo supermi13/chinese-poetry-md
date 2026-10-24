@@ -1,0 +1,38 @@
+---
+id: ben-cao-gang-mu-lian-qiao
+title: 连翘
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+author: 李时珍
+authorSlug: li-shi-zhen
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 711
+sourceId: 1713
+---
+
+## 正文
+
+### 释名
+
+异翘、旱莲子、兰华、三廉，根名连轺、竹根。
+
+### 气味
+
+（茎、叶）苦、平、无毒。（翘根）甘、寒、平、有小毒。
+
+### 主治
+
+瘰疬结核，用连翘、脂订等分为末，随时吞服。
+
+痔疮肿痛。用连翘煎汤熏洗，后以绿矾加麝香少许敷贴。
+
+痈疸肿毒。用连翘草及根各一升，加水一斗六升，煮成三升服。出汗为见效。
+
+### 附方
+
+连翘的主要功用是清热解毒，称为疮家的良药。

@@ -1,0 +1,22 @@
+---
+id: yi-chuan-di-ba-zhang
+title: 第八章
+book: 易传
+bookSlug: yi-chuan
+author: 佚名
+authorSlug: yi-ming
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 75
+sourceId: 431
+---
+
+## 正文
+
+《易》之为书也！不可远，为道也屡迁，变动不居，周流六虚，上下无常，刚柔相易，不可为典要，唯变所适。
+
+其出入以度外内，使知惧。又明于忧患与故。无有师保，如临父母。初率其辞而揆其方，既有典常。苟非其人，道不虚行。

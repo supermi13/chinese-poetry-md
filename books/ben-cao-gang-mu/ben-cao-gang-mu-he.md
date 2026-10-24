@@ -1,0 +1,36 @@
+---
+id: ben-cao-gang-mu-he
+title: 鹤
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+author: 李时珍
+authorSlug: li-shi-zhen
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 206
+sourceId: 2188
+---
+
+## 正文
+
+### 释名
+
+仙禽、胎禽。
+
+### 气味
+
+白鹤血：咸、平、无毒。
+
+卵：甘、咸、平、无毒。
+
+### 主治
+
+白鹤血：益气力，补虚乏，去风益肺。
+
+脑：和天雄、葱实服，令人目明。
+
+卵：预解痘毒，多者令少，少者令不出。每用一枚，煮给小儿吃。

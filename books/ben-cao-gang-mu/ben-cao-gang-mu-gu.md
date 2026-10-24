@@ -1,0 +1,32 @@
+---
+id: ben-cao-gang-mu-gu
+title: 菰
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+author: 李时珍
+authorSlug: li-shi-zhen
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 806
+sourceId: 1808
+---
+
+## 正文
+
+### 释名
+
+茭草、蒋草。
+
+### 气味
+
+（菰笋）甘、冷 滑、无毒。
+
+### 主治
+
+（菰笋，一名茭笋、茭白、菰菜）利大小便，止热痢，除目黄，止渴。
+
+（菰根）大寒，治消渴、肠胃痼热。外敷治蛇伤，疮毒。

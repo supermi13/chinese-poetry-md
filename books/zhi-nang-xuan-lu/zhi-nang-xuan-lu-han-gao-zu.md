@@ -1,0 +1,24 @@
+---
+id: zhi-nang-xuan-lu-han-gao-zu
+title: 汉高祖
+book: 智囊(选录)
+bookSlug: zhi-nang-xuan-lu
+author: 冯梦龙
+authorSlug: feng-meng-long
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 142
+sourceId: 6384
+---
+
+## 正文
+
+【原文】
+
+楚、汉久相持未决，项羽谓汉王曰：“天下汹汹，徒以我两人。愿与王挑战决雌雄，毋徒罢天下父子为也。”汉王笑谢曰：“吾宁斗智，不能斗力。”项王乃与汉王相与临广武间而语，汉王数羽罪十，项王大怒，伏弩射中汉王，汉王伤胸，乃扪足曰：“虏中吾指。”汉王病创卧，张良强起行劳军，以安士卒，毋令楚乘胜于汉。汉王出行军，病甚，因驰入成皋。
+
+〔评〕小白不僵而僵，汉王伤而不伤。一时之计，俱造百世之业!

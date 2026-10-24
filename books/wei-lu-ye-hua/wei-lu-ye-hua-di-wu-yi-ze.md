@@ -1,0 +1,20 @@
+---
+id: wei-lu-ye-hua-di-wu-yi-ze
+title: 第五一则
+book: 围炉夜话
+bookSlug: wei-lu-ye-hua
+author: 王永彬
+authorSlug: wang-yong-bin
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 51
+sourceId: 5904
+---
+
+## 正文
+
+行善济人，人遂得以安全，即在我亦为快意；逞奸谋事，事难必其稳重，可惜他徒自坏心。

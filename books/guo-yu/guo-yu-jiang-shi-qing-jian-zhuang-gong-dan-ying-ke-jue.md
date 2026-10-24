@@ -1,0 +1,20 @@
+---
+id: guo-yu-jiang-shi-qing-jian-zhuang-gong-dan-ying-ke-jue
+title: 匠师庆谏庄公丹楹刻桷
+book: 国语
+bookSlug: guo-yu
+author: 左丘明
+authorSlug: zuo-qiu-ming
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 64
+sourceId: 9593
+---
+
+## 正文
+
+庄公丹桓宫之楹，而刻其桷。匠师庆言于公曰：“臣闻圣王公之先封者，遗后之人法，使无陷于恶。其为后世昭前之令闻也，使长监于世，故能摄固不解以久。今先君俭而君侈，令德替矣。”公曰：“吾属欲美之。”对曰：“无益于君，而替前之令德，臣故曰庶可已矣。”公弗听。

@@ -1,0 +1,26 @@
+---
+id: shen-nong-ben-cao-jing-ku-hu
+title: 苦瓠
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+author: 佚名
+authorSlug: yi-ming
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 214
+sourceId: 10615
+---
+
+## 正文
+
+味苦寒。
+
+主大水，面目四肢浮肿，下水，令人吐。生川泽。
+
+《名医》曰：生晋地。
+
+案《说文》云：瓠匏，匏瓠也。《广雅》云：匏瓠也。《尔雅》云：瓠栖瓣。《毛诗》云：瓠有苦叶。《传》云：匏谓之瓠，又九月断壶。《传》云：壶瓠也。古今注云：瓠，壶芦也，壶芦，瓠之无柄者，瓠，有柄者。又云：瓢瓠也，其曰匏，瓠则别名。

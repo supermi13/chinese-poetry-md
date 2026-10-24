@@ -1,0 +1,34 @@
+---
+id: ben-cao-gang-mu-li-1944
+title: 李
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+author: 李时珍
+authorSlug: li-shi-zhen
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 388
+sourceId: 1944
+---
+
+## 正文
+
+### 气味
+
+果实：苦、酸、微温、无毒。
+
+核仁：苦、平、无毒。
+
+根白皮（树皮刮去外层皱皮后炙黄入药）：大寒、无毒。
+
+### 主治
+
+果实：肝病人宜食。
+
+核仁：利小肠，下水气，消浮肿。
+
+根白皮：煮汁服，止消渴，治赤白痢及赤白带；煎水含漱，治齿痛。

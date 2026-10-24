@@ -1,0 +1,20 @@
+---
+id: liao-zhai-zhi-yi-yan-luo-11641
+title: 阎罗
+book: 聊斋志异
+bookSlug: liao-zhai-zhi-yi
+author: 蒲松龄
+authorSlug: pu-song-ling
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 352
+sourceId: 11641
+---
+
+## 正文
+
+沂州徐公星自言夜作阎罗王。州有马生亦然。徐闻之，访诸其家，问马昨夕冥中处分何事？马曰“无他事，但送左萝石升天。天上堕莲花，朵大如屋”云。

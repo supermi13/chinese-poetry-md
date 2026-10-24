@@ -1,0 +1,20 @@
+---
+id: rong-zhai-sui-bi-ou-lv-geng-tie
+title: 欧率更帖
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+author: 洪迈
+authorSlug: hong-mai
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 1
+sourceId: 5525
+---
+
+## 正文
+
+临川石刻杂法帖一卷，载欧阳率更一帖云：“年二十馀，至鄱阳，地沃土平，饮食丰贱，众士往往凑聚。每日赏华，恣口所须。其二张才华议论，一时俊杰；殷、薛二侯，故不可言；载君国士，出言便是月旦；萧中郎颇纵放诞，亦有雅致；彭君摛藻，特有自然，至如《阁山神诗》，先辈亦不能加。此数子遂无一在，殊使痛心。”兹盖吾乡故实也。

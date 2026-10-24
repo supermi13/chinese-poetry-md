@@ -9,12 +9,23 @@
 
 - `poems/<作者slug>/<诗题slug>.md` — 单首诗词的 Markdown（正文、拼音、译文、注释、赏析等）
 - `poems/<作者slug>/bio.md` — 该作者的简介（可选）
+- `books/<书名slug>/<章节slug>.md` — 古籍典籍单章的 Markdown（正文、出处等）
+- `books/<书名slug>/index.md` — 该典籍的目录页（作者、朝代、简介、章节链接）
+- `books/README.md` / `books/catalog.json` — 典籍总索引与机器可读目录
 
-示例：`poems/li-bai/jing-ye-si.md`、`poems/su-shi/bio.md`。
+示例：`poems/li-bai/jing-ye-si.md`、`poems/su-shi/bio.md`、`books/lun-yu/lun-yu-xue-er-pian.md`。
 
 ## 单首 .md 格式
 
 每个 .md 包含 **YAML frontmatter**（标题、作者、朝代、标签、词牌等）和 **正文区块**：`## 正文`、`## 拼音`、`## 译文`、`## 赏析`、`## 注释`。路径为 `poems/<作者slug>/<诗题slug>.md`，slug 为无声调拼音 + 连字符。详细约定见 [chinese-poetry-site 的 markdown-format](https://github.com/daichangya/chinese-poetry-site/blob/main/docs/markdown-format.md)。
+
+## 古籍典籍（books/）
+
+`books/` 收录整理自 [赏诗词网·古文典籍](http://www.shangshici.com/dianji.asp) 的中国古籍全文，与 `poems/` 并列，互不干扰。当前收录 151 部典籍、约 1.4 万章，涵盖经、史、子、集四部（如《论语》《史记》《本草纲目》《红楼梦》）。
+
+单章 .md 同样采用 YAML frontmatter：`id` / `title` / `book` / `bookSlug` / `author` / `authorSlug` / `dynasty` / `tags`（含 `古籍` 与四部分类）/ `chapterIndex` / `sourceId`，正文位于 `## 正文` 区块；每部典籍另有 `index.md` 目录页。
+
+采集与生成脚本见 `tools/`（`shangshici_scraper.py` 抓取、`build_books.py` 生成 Markdown），可重跑以更新或增补。
 
 ## 访问站点
 

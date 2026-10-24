@@ -1,0 +1,20 @@
+---
+id: wei-lu-ye-hua-di-er-ba-ze
+title: 第二八则
+book: 围炉夜话
+bookSlug: wei-lu-ye-hua
+author: 王永彬
+authorSlug: wang-yong-bin
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 28
+sourceId: 5881
+---
+
+## 正文
+
+肯救人坑坎中，便是活菩萨；能脱身牢笼外，便是大英雄。

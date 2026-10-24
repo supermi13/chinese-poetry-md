@@ -1,0 +1,24 @@
+---
+id: zuo-zhuan-zhuang-gong-shi-wu-nian
+title: 庄公十五年
+book: 左传
+bookSlug: zuo-zhuan
+author: 左丘明
+authorSlug: zuo-qiu-ming
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 15
+sourceId: 2825
+---
+
+## 正文
+
+【经】十有五年春，齐侯、宋公、陈侯、卫侯、郑伯会于鄄。夏，夫人姜氏如齐。秋，宋人、齐人、邾人伐郳。郑人侵宋。冬十月。
+
+【传】十五年春，复会焉，齐始霸也。
+
+秋，诸侯为宋伐郳。郑人间之而侵宋。
