@@ -1,0 +1,20 @@
+---
+id: yi-ming-jin-gang-jing-wu-wei-fu-sheng
+title: 无为福胜
+author: 佚名
+authorSlug: yi-ming
+book: 金刚经
+bookSlug: jin-gang-jing
+dynasty: 汉唐
+dynastySlug: han-tang
+tags:
+  - 古籍
+  - 子部
+  - 释家类
+chapterIndex: 11
+sourceId: 5240
+---
+
+## 正文
+
+须菩提。如恒河中所有沙数。如是沙等恒河。于意云何。是诸恒河沙宁为多不。须菩提言。甚多。世尊。但诸恒河尚多无数。何况其沙。须菩提。我今实言告汝。若有善男子善女人。以七宝满尔所恒河沙数三千大千世界。以用布施。得福多不。须菩提言。甚多。世尊。佛告须菩提。若善男子善女人。于此经中乃至受持四句偈等。为他人说。而此福德胜前福德。

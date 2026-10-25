@@ -7,25 +7,26 @@
 
 ## 目录结构
 
-- `poems/<作者slug>/<诗题slug>.md` — 单首诗词的 Markdown（正文、拼音、译文、注释、赏析等）
-- `poems/<作者slug>/bio.md` — 该作者的简介（可选）
-- `books/<书名slug>/<章节slug>.md` — 古籍典籍单章的 Markdown（正文、出处等）
-- `books/<书名slug>/index.md` — 该典籍的目录页（作者、朝代、简介、章节链接）
-- `books/README.md` / `books/catalog.json` — 典籍总索引与机器可读目录
+- `poems/<2字母前缀>/<作者slug>/<作者slug>-<题名slug>.md` — 单首诗词的 Markdown（正文、拼音、译文、注释、赏析等）
+- `poems/<2字母前缀>/<作者slug>/bio.md` — 该作者的简介（可选）
 
-示例：`poems/li-bai/jing-ye-si.md`、`poems/su-shi/bio.md`、`books/lun-yu/lun-yu-xue-er-pian.md`。
+示例：`poems/li/li-bai/li-bai-jing-ye-si-chuang-qian-ming-yue-guang.md`、`poems/su/su-shi/bio.md`。
+
+古籍条目同在此结构内，文件名带书名段：`poems/yi/yi-ming/yi-ming-lun-yu-xue-er-pian.md`、`poems/si/si-ma-qian/si-ma-qian-shi-ji-wu-di-ben-ji.md`。
 
 ## 单首 .md 格式
 
 每个 .md 包含 **YAML frontmatter**（标题、作者、朝代、标签、词牌等）和 **正文区块**：`## 正文`、`## 拼音`、`## 译文`、`## 赏析`、`## 注释`。路径为 `poems/<作者slug>/<诗题slug>.md`，slug 为无声调拼音 + 连字符。详细约定见 [chinese-poetry-site 的 markdown-format](https://github.com/daichangya/chinese-poetry-site/blob/main/docs/markdown-format.md)。
 
-## 古籍典籍（books/）
+## 古籍典籍（收录在 poems/ 内）
 
-`books/` 收录整理自 [赏诗词网·古文典籍](http://www.shangshici.com/dianji.asp) 的中国古籍全文，与 `poems/` 并列，互不干扰。当前收录 151 部典籍、约 1.4 万章，涵盖经、史、子、集四部（如《论语》《史记》《本草纲目》《红楼梦》）。
+仓内古籍条目与诗词共用 `poems/` 结构，整理自 [赏诗词网·古文典籍](http://www.shangshici.com/dianji.asp)。当前收录 151 部典籍、13861 章，涵盖经、史、子、集四部（如《论语》《史记》《本草纲目》《红楼梦》），已按作者归入既有作者 slug（`yi-ming`、`si-ma-qian`、`pu-song-ling` 等）。
 
-单章 .md 同样采用 YAML frontmatter：`id` / `title` / `book` / `bookSlug` / `author` / `authorSlug` / `dynasty` / `tags`（含 `古籍` 与四部分类）/ `chapterIndex` / `sourceId`，正文位于 `## 正文` 区块；每部典籍另有 `index.md` 目录页。
+单篇 .md 沿用本站诗人的 frontmatter：`id` / `title` / `author` / `authorSlug` / `dynasty` / `tags`（首项为 `古籍`，后接四部分类），另增 `book` / `bookSlug` / `chapterIndex` / `sourceId` 便于按书检索；文件名形如 `<作者slug>-<书名slug>-<章节slug>.md`。
 
-采集与生成脚本见 `tools/`（`shangshici_scraper.py` 抓取、`build_books.py` 生成 Markdown），可重跑以更新或增补。
+典籍层级的元数据（书名、作者、朝代、四部分类、章节数与落盘路径）见仓库根 `dianji_catalog.json`。
+
+采集与生成脚本见 `tools/`（`shangshici_scraper.py` 抓取、`build_poems.py` 生成 Markdown），可重跑以更新或增补。
 
 ## 访问站点
 

@@ -1,0 +1,22 @@
+---
+id: yi-ming-yi-chuan-qian
+title: 乾
+author: 佚名
+authorSlug: yi-ming
+book: 易传
+bookSlug: yi-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 36
+sourceId: 346
+---
+
+## 正文
+
+天行，健；君子以自强不息。
+
+潜龙勿用，阳在下也。见龙在田，德施普也。终日乾乾，反复道也。或跃在渊，进无咎也。飞龙在天，大人造也。亢龙有悔，盈不可久也。用九，天德不可为首也。

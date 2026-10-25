@@ -1,0 +1,28 @@
+---
+id: zuo-qiu-ming-zuo-zhuan-zhuang-gong-san-shi-nian
+title: 庄公三十年
+author: 左丘明
+authorSlug: zuo-qiu-ming
+book: 左传
+bookSlug: zuo-zhuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 30
+sourceId: 2840
+---
+
+## 正文
+
+【经】三十年春王正月。夏，次于成。秋七月，齐人降鄣。八月癸亥，葬纪叔。九月庚午朔，日有食之，鼓、用牲于社。冬，公及齐侯遇于鲁济。齐人伐山戎。
+
+【传】三十年春，王命虢公讨樊皮。夏四月丙辰，虢公入樊，执樊仲皮，归于京师。
+
+楚公子元归自伐郑，而处王宫，斗射师谏，则执而梏之。
+
+秋，申公斗班杀子元，斗谷于菟为令尹，自毁其家以纾楚国之难。
+
+冬，遇于鲁济，谋山戎也，以其病燕故也。

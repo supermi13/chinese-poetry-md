@@ -1,0 +1,20 @@
+---
+id: sun-bin-sun-bin-bing-fa-jiang-yi
+title: 将义
+author: 孙膑
+authorSlug: sun-bin
+book: 孙膑兵法
+bookSlug: sun-bin-bing-fa
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 23
+sourceId: 4196
+---
+
+## 正文
+
+将者不可以不义，不义则不严，不严则不威，不威则卒弗死。故义者，兵之首也。将者不可以不仁，不仁则军不克，军不克则军无动。故仁者，兵之腹也。将者不可以无德，无德则无力，无力则三军之利不得。故德者，兵之手也。将者不可以不信，不信则令不行，令不行则军不，军不则无名。故信者；兵之足也。将者不可不智胜，不智胜..则军无□，故决者，兵之尾也。

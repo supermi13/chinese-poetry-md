@@ -1,0 +1,34 @@
+---
+id: yi-ming-zhou-yi-sun-gua
+title: 损卦
+author: 佚名
+authorSlug: yi-ming
+book: 周易
+bookSlug: zhou-yi
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 41
+sourceId: 258
+---
+
+## 正文
+
+（山泽损）艮上兑下
+
+《损》：有孚，元吉，无咎。可贞，利有攸往。曷之用？二簋可用享。
+
+初九，已事遄往，无咎。酌损之。
+
+九二，利贞。征凶，弗损，益之。
+
+六三，三人行则损一人，一人行则得其友。
+
+六四，损其疾，使遄有喜，无咎。
+
+六五，或益之十朋之龟，弗克违，元吉。
+
+上九，弗损，益之，无咎，贞吉，利有攸往，得臣无家。

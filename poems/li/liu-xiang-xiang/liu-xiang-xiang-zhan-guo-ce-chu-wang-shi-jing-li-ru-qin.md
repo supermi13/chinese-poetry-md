@@ -1,0 +1,22 @@
+---
+id: liu-xiang-xiang-zhan-guo-ce-chu-wang-shi-jing-li-ru-qin
+title: 楚王使景鲤如秦
+author: 刘向
+authorSlug: liu-xiang-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 252
+sourceId: 4443
+---
+
+## 正文
+
+楚王使景鲤如秦。客谓秦王曰：“景鲤，楚王使景所甚爱，王不如留之以市地。楚王听，则不用兵而得地；楚王不听，则杀景鲤，更不与不如景鲤留，是便计也。”秦王乃留景鲤。
+
+景鲤使人说秦王曰：“臣见王之权轻天下，而地不可得也。臣来使也，闻齐、魏皆且割地以事秦。所以然者，以秦与楚为昆弟国。今大王留臣，是示天下无楚也，齐、魏有何重于孤国也。楚知秦之孤，不与地，而外结交诸侯以图，则社稷必危，不如出臣。”秦王乃出之。

@@ -1,0 +1,22 @@
+---
+id: bian-que-nan-jing-wu-shi-wu-nan
+title: 五十五难
+author: 扁鹊
+authorSlug: bian-que
+book: 难经
+bookSlug: nan-jing
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 75
+sourceId: 10673
+---
+
+## 正文
+
+曰：病有积、有聚，何以别之？
+
+然：积者，阴气也；聚者，阳气也。故阴沉而伏，阳浮而动。气之所积，名曰积；气之所聚，名曰聚。故积者，五脏所生；聚者，六腑所成也。积者，阴气也，其始发有常处，其痛不离其部，上下有所终始，左右有所穷处；聚者，阳气也，其始发无根本，上下无所留止，其痛无常处谓之聚。故以是别知积聚也。

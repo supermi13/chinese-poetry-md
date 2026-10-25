@@ -1,0 +1,24 @@
+---
+id: feng-meng-long-zhi-nang-xuan-lu-wang-dao
+title: 王导
+author: 冯梦龙
+authorSlug: feng-meng-long
+book: 智囊(选录)
+bookSlug: zhi-nang-xuan-lu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 39
+sourceId: 6370
+---
+
+## 正文
+
+【原文】
+
+王导王丞相善于国事。初渡江，帑藏空竭，唯有练数千端。丞相与朝贤共制练布单衣。一时士人翕然竞服，练遂踊贵。乃令主者卖之，每端至一金。
+
+〔评〕此事正与“恶紫”对照。谢安之乡人有罢官者，还，诣安。安问其归资，答曰：“唯有蒲葵扇五万。”安乃取一中者捉之。士庶竞市，价遂数倍。此即王丞相之故智。

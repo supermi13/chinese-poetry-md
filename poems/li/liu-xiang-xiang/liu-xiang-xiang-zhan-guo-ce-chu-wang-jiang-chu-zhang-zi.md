@@ -1,0 +1,24 @@
+---
+id: liu-xiang-xiang-zhan-guo-ce-chu-wang-jiang-chu-zhang-zi
+title: 楚王将出张子
+author: 刘向
+authorSlug: liu-xiang-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 494
+sourceId: 4539
+---
+
+## 正文
+
+楚王将出张子，恐其败己也，靳尚谓楚王曰：“臣请随之。仪事王不善．臣请杀之。”
+
+楚小臣，靳尚之仇也，谓张旄曰：“以张仪之知，而有秦、楚之用，君必穷矣。君不如使人微要靳尚而刺之，楚王必大怒仪也。彼仪穷，则子重矣。楚、秦相难，则魏无患矣。”
+
+张旄果令人要靳尚刺之。楚王大怒，秦⑥构兵而战。秦、楚争事魏，张旄果大重。

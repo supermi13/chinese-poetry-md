@@ -1,0 +1,34 @@
+---
+id: yi-ming-zhou-yi-da-you-gua
+title: 大有卦
+author: 佚名
+authorSlug: yi-ming
+book: 周易
+bookSlug: zhou-yi
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 14
+sourceId: 231
+---
+
+## 正文
+
+（火天大有）离上乾下
+
+《大有》：元亨。
+
+初九，无交害匪咎。艰则无咎。
+
+九二，大车以载，有攸往，无咎。
+
+九三，公用亨于天子，小人弗克。
+
+九四，匪其彭，无咎。
+
+六五，厥孚交如威如，吉。
+
+上九，自天佑之，吉，无不利。

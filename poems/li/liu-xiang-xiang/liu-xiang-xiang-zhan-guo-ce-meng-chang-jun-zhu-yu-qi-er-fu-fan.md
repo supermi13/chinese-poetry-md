@@ -1,0 +1,20 @@
+---
+id: liu-xiang-xiang-zhan-guo-ce-meng-chang-jun-zhu-yu-qi-er-fu-fan
+title: 孟尝君逐于齐而复反
+author: 刘向
+authorSlug: liu-xiang-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 310
+sourceId: 4495
+---
+
+## 正文
+
+孟尝君逐于齐而复反。谭拾子迎之于境，谓孟尝君曰：“君得无有所怨齐士大夫?”孟尝君曰：“有。”“君满意杀之乎?”孟尝君曰：“然。”谭拾子曰：“事有必至，理有固然，君知之乎?”孟尝君曰：“不知。”谭拾子曰：“事之必至者，死也；理之固然者，富贵则就之，贫贱则去之。此事之必至，理之固然者。请以市谕。市，朝则满，夕则虚，非朝爱市而夕憎之也，求存故往，亡故去。愿君勿怨！”孟尝君乃取所怨五百牒削去之，不敢以为言。

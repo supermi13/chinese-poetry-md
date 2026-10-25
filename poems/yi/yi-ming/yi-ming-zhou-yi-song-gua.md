@@ -1,0 +1,34 @@
+---
+id: yi-ming-zhou-yi-song-gua
+title: 讼卦
+author: 佚名
+authorSlug: yi-ming
+book: 周易
+bookSlug: zhou-yi
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 6
+sourceId: 223
+---
+
+## 正文
+
+（天水讼）乾上坎下
+
+《讼》：有孚窒惕，中吉，终凶。利见大人。不利涉大川。
+
+初六，不永所事，小有言，终吉。
+
+九二，不克讼，归而逋。其邑人三百户，无眚。
+
+六三，食旧德，贞厉，终吉。或从王事，无成。
+
+九四，不克讼，复既命渝。安贞吉。
+
+九五：讼，元吉。
+
+上九：或锡之鞶带，终朝三褫之。

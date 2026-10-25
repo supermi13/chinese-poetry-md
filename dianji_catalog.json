@@ -1,0 +1,2267 @@
+[
+ {
+  "id": 1,
+  "title": "山海经",
+  "slug": "shan-hai-jing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 18,
+  "tocCount": 18
+ },
+ {
+  "id": 2,
+  "title": "论语",
+  "slug": "lun-yu",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "四书类"
+  ],
+  "chapters": 20,
+  "tocCount": 20
+ },
+ {
+  "id": 3,
+  "title": "孙子兵法",
+  "slug": "sun-zi-bing-fa",
+  "author": "孙武",
+  "authorSlug": "sun-wu",
+  "path": "poems/su/sun-wu/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 13,
+  "tocCount": 13
+ },
+ {
+  "id": 4,
+  "title": "三十六计",
+  "slug": "san-shi-liu-ji",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "明清",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 36,
+  "tocCount": 36
+ },
+ {
+  "id": 5,
+  "title": "史记",
+  "slug": "shi-ji",
+  "author": "司马迁",
+  "authorSlug": "si-ma-qian",
+  "path": "poems/si/si-ma-qian/",
+  "dynasty": "汉",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 130,
+  "tocCount": 130
+ },
+ {
+  "id": 6,
+  "title": "周易",
+  "slug": "zhou-yi",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 64,
+  "tocCount": 64
+ },
+ {
+  "id": 7,
+  "title": "易传",
+  "slug": "yi-chuan",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 168,
+  "tocCount": 168
+ },
+ {
+  "id": 8,
+  "title": "资治通鉴",
+  "slug": "zi-zhi-tong-jian",
+  "author": "司马光",
+  "authorSlug": "si-ma-guang",
+  "path": "poems/si/si-ma-guang/",
+  "dynasty": "宋",
+  "categories": [
+   "史部",
+   "编年类"
+  ],
+  "chapters": 294,
+  "tocCount": 294
+ },
+ {
+  "id": 9,
+  "title": "续资治通鉴",
+  "slug": "xu-zi-zhi-tong-jian",
+  "author": "毕沅",
+  "authorSlug": "bi-yuan",
+  "path": "poems/bi/bi-yuan/",
+  "dynasty": "清",
+  "categories": [
+   "史部",
+   "编年类"
+  ],
+  "chapters": 220,
+  "tocCount": 220
+ },
+ {
+  "id": 10,
+  "title": "黄帝内经",
+  "slug": "huang-di-nei-jing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 162,
+  "tocCount": 162
+ },
+ {
+  "id": 11,
+  "title": "孟子",
+  "slug": "meng-zi",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "礼类"
+  ],
+  "chapters": 261,
+  "tocCount": 261
+ },
+ {
+  "id": 12,
+  "title": "本草纲目",
+  "slug": "ben-cao-gang-mu",
+  "author": "李时珍",
+  "authorSlug": "li-shi-zhen",
+  "path": "poems/li/li-shi-zhen/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 885,
+  "tocCount": 885
+ },
+ {
+  "id": 13,
+  "title": "了凡四训",
+  "slug": "le-fan-si-xun",
+  "author": "袁黄",
+  "authorSlug": "yuan-huang",
+  "path": "poems/yu/yuan-huang/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "释家类"
+  ],
+  "chapters": 4,
+  "tocCount": 4
+ },
+ {
+  "id": 14,
+  "title": "梦溪笔谈",
+  "slug": "meng-xi-bi-tan",
+  "author": "沈括",
+  "authorSlug": "shen-kuo",
+  "path": "poems/sh/shen-kuo/",
+  "dynasty": "宋",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 30,
+  "tocCount": 30
+ },
+ {
+  "id": 15,
+  "title": "三字经",
+  "slug": "san-zi-jing",
+  "author": "王应麟",
+  "authorSlug": "wang-ying-lin",
+  "path": "poems/wa/wang-ying-lin/",
+  "dynasty": "宋",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 1,
+  "tocCount": 1
+ },
+ {
+  "id": 16,
+  "title": "百家姓",
+  "slug": "bai-jia-xing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "宋",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 438,
+  "tocCount": 438
+ },
+ {
+  "id": 17,
+  "title": "千字文",
+  "slug": "qian-zi-wen",
+  "author": "周兴嗣",
+  "authorSlug": "zhou-xing-si",
+  "path": "poems/zh/zhou-xing-si/",
+  "dynasty": "南北朝",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 1,
+  "tocCount": 1
+ },
+ {
+  "id": 18,
+  "title": "世说新语",
+  "slug": "shi-shuo-xin-yu",
+  "author": "刘义庆",
+  "authorSlug": "liu-yi-qing",
+  "path": "poems/li/liu-yi-qing/",
+  "dynasty": "南北朝",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 36,
+  "tocCount": 36
+ },
+ {
+  "id": 19,
+  "title": "左传",
+  "slug": "zuo-zhuan",
+  "author": "左丘明",
+  "authorSlug": "zuo-qiu-ming",
+  "path": "poems/zu/zuo-qiu-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "春秋类"
+  ],
+  "chapters": 255,
+  "tocCount": 255
+ },
+ {
+  "id": 20,
+  "title": "大学",
+  "slug": "da-xue",
+  "author": "曾参",
+  "authorSlug": "ceng-can",
+  "path": "poems/ce/ceng-can/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "礼类"
+  ],
+  "chapters": 11,
+  "tocCount": 11
+ },
+ {
+  "id": 21,
+  "title": "中庸",
+  "slug": "zhong-yong",
+  "author": "孔伋",
+  "authorSlug": "kong-ji",
+  "path": "poems/ko/kong-ji/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "四书类"
+  ],
+  "chapters": 33,
+  "tocCount": 33
+ },
+ {
+  "id": 22,
+  "title": "尚书",
+  "slug": "shang-shu",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "书类"
+  ],
+  "chapters": 56,
+  "tocCount": 56
+ },
+ {
+  "id": 23,
+  "title": "礼记",
+  "slug": "li-ji",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "礼类"
+  ],
+  "chapters": 49,
+  "tocCount": 49
+ },
+ {
+  "id": 24,
+  "title": "周礼",
+  "slug": "zhou-li",
+  "author": "周公旦",
+  "authorSlug": "zhou-gong-dan",
+  "path": "poems/zh/zhou-gong-dan/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "礼类"
+  ],
+  "chapters": 51,
+  "tocCount": 51
+ },
+ {
+  "id": 25,
+  "title": "仪礼",
+  "slug": "yi-li",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "礼类"
+  ],
+  "chapters": 17,
+  "tocCount": 17
+ },
+ {
+  "id": 26,
+  "title": "庄子",
+  "slug": "zhuang-zi",
+  "author": "庄子",
+  "authorSlug": "zhuang-zi",
+  "path": "poems/zh/zhuang-zi/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 33,
+  "tocCount": 33
+ },
+ {
+  "id": 27,
+  "title": "鬼谷子",
+  "slug": "gui-gu-zi",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 21,
+  "tocCount": 21
+ },
+ {
+  "id": 28,
+  "title": "老子",
+  "slug": "lao-zi",
+  "author": "李耳",
+  "authorSlug": "li-er",
+  "path": "poems/li/li-er/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 81,
+  "tocCount": 81
+ },
+ {
+  "id": 29,
+  "title": "墨子",
+  "slug": "mo-zi",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 54,
+  "tocCount": 54
+ },
+ {
+  "id": 30,
+  "title": "荀子",
+  "slug": "xun-zi",
+  "author": "荀况",
+  "authorSlug": "xun-kuang",
+  "path": "poems/xu/xun-kuang/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 32,
+  "tocCount": 32
+ },
+ {
+  "id": 31,
+  "title": "韩非子",
+  "slug": "han-fei-zi",
+  "author": "韩非",
+  "authorSlug": "han-fei",
+  "path": "poems/ha/han-fei/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "法家类"
+  ],
+  "chapters": 55,
+  "tocCount": 55
+ },
+ {
+  "id": 32,
+  "title": "列子",
+  "slug": "lie-zi",
+  "author": "列御寇",
+  "authorSlug": "lie-yu-kou",
+  "path": "poems/li/lie-yu-kou/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 8,
+  "tocCount": 8
+ },
+ {
+  "id": 33,
+  "title": "淮南子",
+  "slug": "huai-nan-zi",
+  "author": "刘安",
+  "authorSlug": "liu-an",
+  "path": "poems/li/liu-an/",
+  "dynasty": "汉",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 21,
+  "tocCount": 21
+ },
+ {
+  "id": 34,
+  "title": "管子",
+  "slug": "guan-zi",
+  "author": "管仲",
+  "authorSlug": "guan-zhong",
+  "path": "poems/gu/guan-zhong/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "法家类"
+  ],
+  "chapters": 76,
+  "tocCount": 76
+ },
+ {
+  "id": 35,
+  "title": "尉缭子",
+  "slug": "wei-liao-zi",
+  "author": "尉缭",
+  "authorSlug": "wei-liao",
+  "path": "poems/we/wei-liao/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 24,
+  "tocCount": 24
+ },
+ {
+  "id": 36,
+  "title": "吴子",
+  "slug": "wu-zi",
+  "author": "吴起",
+  "authorSlug": "wu-qi",
+  "path": "poems/wu/wu-qi/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 6,
+  "tocCount": 6
+ },
+ {
+  "id": 37,
+  "title": "伤寒论",
+  "slug": "shang-han-lun",
+  "author": "张仲景",
+  "authorSlug": "zhang-zhong-jing",
+  "path": "poems/zh/zhang-zhong-jing/",
+  "dynasty": "汉",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 22,
+  "tocCount": 22
+ },
+ {
+  "id": 38,
+  "title": "天工开物",
+  "slug": "tian-gong-kai-wu",
+  "author": "宋应星",
+  "authorSlug": "song-ying-xing",
+  "path": "poems/so/song-ying-xing/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "农家类"
+  ],
+  "chapters": 18,
+  "tocCount": 18
+ },
+ {
+  "id": 39,
+  "title": "素书",
+  "slug": "su-shu",
+  "author": "黄石公",
+  "authorSlug": "huang-shi-gong",
+  "path": "poems/hu/huang-shi-gong/",
+  "dynasty": "秦汉",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 6,
+  "tocCount": 6
+ },
+ {
+  "id": 40,
+  "title": "汉书",
+  "slug": "han-shu",
+  "author": "班固",
+  "authorSlug": "ban-gu",
+  "path": "poems/ba/ban-gu/",
+  "dynasty": "汉",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 120,
+  "tocCount": 120
+ },
+ {
+  "id": 41,
+  "title": "后汉书",
+  "slug": "hou-han-shu",
+  "author": "范晔",
+  "authorSlug": "fan-ye-ye",
+  "path": "poems/fa/fan-ye-ye/",
+  "dynasty": "南北朝",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 130,
+  "tocCount": 130
+ },
+ {
+  "id": 42,
+  "title": "商君书",
+  "slug": "shang-jun-shu",
+  "author": "商鞅",
+  "authorSlug": "shang-yang",
+  "path": "poems/sh/shang-yang/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "法家类"
+  ],
+  "chapters": 24,
+  "tocCount": 24
+ },
+ {
+  "id": 43,
+  "title": "文心雕龙",
+  "slug": "wen-xin-diao-long",
+  "author": "刘勰",
+  "authorSlug": "liu-xie",
+  "path": "poems/li/liu-xie/",
+  "dynasty": "南北朝",
+  "categories": [
+   "集部",
+   "诗文评类"
+  ],
+  "chapters": 50,
+  "tocCount": 50
+ },
+ {
+  "id": 44,
+  "title": "吕氏春秋",
+  "slug": "lv-shi-chun-qiu",
+  "author": "吕不韦",
+  "authorSlug": "lv-bu-wei",
+  "path": "poems/lv/lv-bu-wei/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "春秋类"
+  ],
+  "chapters": 26,
+  "tocCount": 26
+ },
+ {
+  "id": 45,
+  "title": "孝经",
+  "slug": "xiao-jing",
+  "author": "孔丘",
+  "authorSlug": "kong-qiu",
+  "path": "poems/ko/kong-qiu/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "孝经类"
+  ],
+  "chapters": 18,
+  "tocCount": 18
+ },
+ {
+  "id": 46,
+  "title": "孔子家语",
+  "slug": "kong-zi-jia-yu",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "汉",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 44,
+  "tocCount": 44
+ },
+ {
+  "id": 47,
+  "title": "颜氏家训",
+  "slug": "yan-shi-jia-xun",
+  "author": "颜之推",
+  "authorSlug": "yan-zhi-tui",
+  "path": "poems/ya/yan-zhi-tui/",
+  "dynasty": "南北朝",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 20,
+  "tocCount": 20
+ },
+ {
+  "id": 48,
+  "title": "孙膑兵法",
+  "slug": "sun-bin-bing-fa",
+  "author": "孙膑",
+  "authorSlug": "sun-bin",
+  "path": "poems/su/sun-bin/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 30,
+  "tocCount": 30
+ },
+ {
+  "id": 49,
+  "title": "搜神记",
+  "slug": "sou-shen-ji",
+  "author": "干宝",
+  "authorSlug": "gan-bao",
+  "path": "poems/ga/gan-bao/",
+  "dynasty": "晋",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 20,
+  "tocCount": 20
+ },
+ {
+  "id": 50,
+  "title": "搜神后记",
+  "slug": "sou-shen-hou-ji",
+  "author": "陶渊明",
+  "authorSlug": "tao-yuan-ming",
+  "path": "poems/ta/tao-yuan-ming/",
+  "dynasty": "晋",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 10,
+  "tocCount": 10
+ },
+ {
+  "id": 51,
+  "title": "笑林广记",
+  "slug": "xiao-lin-guang-ji",
+  "author": "游戏主人",
+  "authorSlug": "you-xi-zhu-ren",
+  "path": "poems/yo/you-xi-zhu-ren/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 12,
+  "tocCount": 12
+ },
+ {
+  "id": 52,
+  "title": "百战奇略",
+  "slug": "bai-zhan-qi-lve",
+  "author": "刘基",
+  "authorSlug": "liu-ji-2",
+  "path": "poems/li/liu-ji-2/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 100,
+  "tocCount": 100
+ },
+ {
+  "id": 53,
+  "title": "战国策",
+  "slug": "zhan-guo-ce",
+  "author": "刘向",
+  "authorSlug": "liu-xiang-xiang",
+  "path": "poems/li/liu-xiang-xiang/",
+  "dynasty": "汉",
+  "categories": [
+   "史部",
+   "杂史类"
+  ],
+  "chapters": 497,
+  "tocCount": 497
+ },
+ {
+  "id": 54,
+  "title": "三国志",
+  "slug": "san-guo-zhi",
+  "author": "陈寿",
+  "authorSlug": "chen-shou",
+  "path": "poems/ch/chen-shou/",
+  "dynasty": "晋",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 65,
+  "tocCount": 65
+ },
+ {
+  "id": 55,
+  "title": "将苑",
+  "slug": "jiang-yuan",
+  "author": "诸葛亮",
+  "authorSlug": "zhu-ge-liang",
+  "path": "poems/zh/zhu-ge-liang/",
+  "dynasty": "三国",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 50,
+  "tocCount": 50
+ },
+ {
+  "id": 56,
+  "title": "六韬",
+  "slug": "liu-tao",
+  "author": "姜子牙",
+  "authorSlug": "jiang-zi-ya",
+  "path": "poems/ji/jiang-zi-ya/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 60,
+  "tocCount": 60
+ },
+ {
+  "id": 57,
+  "title": "反经",
+  "slug": "fan-jing",
+  "author": "赵蕤",
+  "authorSlug": "zhao-rui",
+  "path": "poems/zh/zhao-rui/",
+  "dynasty": "唐",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 64,
+  "tocCount": 64
+ },
+ {
+  "id": 58,
+  "title": "公孙龙子",
+  "slug": "gong-sun-long-zi",
+  "author": "公孙龙",
+  "authorSlug": "gong-sun-long",
+  "path": "poems/go/gong-sun-long/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 6,
+  "tocCount": 6
+ },
+ {
+  "id": 59,
+  "title": "司马法",
+  "slug": "si-ma-fa",
+  "author": "司马穰苴",
+  "authorSlug": "si-ma-rang-ju",
+  "path": "poems/si/si-ma-rang-ju/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 5,
+  "tocCount": 5
+ },
+ {
+  "id": 60,
+  "title": "逸周书",
+  "slug": "yi-zhou-shu",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 62,
+  "tocCount": 62
+ },
+ {
+  "id": 61,
+  "title": "黄帝四经",
+  "slug": "huang-di-si-jing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 26,
+  "tocCount": 26
+ },
+ {
+  "id": 62,
+  "title": "贞观政要",
+  "slug": "zhen-guan-zheng-yao",
+  "author": "吴兢",
+  "authorSlug": "wu-jing-jing",
+  "path": "poems/wu/wu-jing-jing/",
+  "dynasty": "唐",
+  "categories": [
+   "史部",
+   "杂史类"
+  ],
+  "chapters": 40,
+  "tocCount": 40
+ },
+ {
+  "id": 63,
+  "title": "金刚经",
+  "slug": "jin-gang-jing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "汉唐",
+  "categories": [
+   "子部",
+   "释家类"
+  ],
+  "chapters": 32,
+  "tocCount": 32
+ },
+ {
+  "id": 64,
+  "title": "文昌孝经",
+  "slug": "wen-chang-xiao-jing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "清",
+  "categories": [
+   "经部",
+   "孝经类"
+  ],
+  "chapters": 7,
+  "tocCount": 7
+ },
+ {
+  "id": 65,
+  "title": "六祖坛经",
+  "slug": "liu-zu-tan-jing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "唐",
+  "categories": [
+   "子部",
+   "释家类"
+  ],
+  "chapters": 38,
+  "tocCount": 38
+ },
+ {
+  "id": 66,
+  "title": "地藏经",
+  "slug": "di-zang-jing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "唐",
+  "categories": [
+   "子部",
+   "释家类"
+  ],
+  "chapters": 13,
+  "tocCount": 13
+ },
+ {
+  "id": 67,
+  "title": "徐霞客游记",
+  "slug": "xu-xia-ke-you-ji",
+  "author": "徐弘祖",
+  "authorSlug": "xu-hong-zu",
+  "path": "poems/xu/xu-hong-zu/",
+  "dynasty": "明",
+  "categories": [
+   "史部",
+   "地理类"
+  ],
+  "chapters": 155,
+  "tocCount": 155
+ },
+ {
+  "id": 68,
+  "title": "弟子规",
+  "slug": "di-zi-gui",
+  "author": "李毓秀",
+  "authorSlug": "li-yu-xiu",
+  "path": "poems/li/li-yu-xiu/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 8,
+  "tocCount": 8
+ },
+ {
+  "id": 69,
+  "title": "增广贤文",
+  "slug": "zeng-guang-xian-wen",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 2,
+  "tocCount": 2
+ },
+ {
+  "id": 70,
+  "title": "幼学琼林",
+  "slug": "you-xue-qiong-lin",
+  "author": "程登吉",
+  "authorSlug": "cheng-deng-ji",
+  "path": "poems/ch/cheng-deng-ji/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 33,
+  "tocCount": 33
+ },
+ {
+  "id": 71,
+  "title": "冰鉴",
+  "slug": "bing-jian",
+  "author": "曾国藩",
+  "authorSlug": "ceng-guo-fan",
+  "path": "poems/ce/ceng-guo-fan/",
+  "dynasty": "清",
+  "categories": [
+   "集部",
+   "别集类"
+  ],
+  "chapters": 7,
+  "tocCount": 7
+ },
+ {
+  "id": 72,
+  "title": "容斋随笔",
+  "slug": "rong-zhai-sui-bi",
+  "author": "洪迈",
+  "authorSlug": "hong-mai",
+  "path": "poems/ho/hong-mai/",
+  "dynasty": "宋",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 329,
+  "tocCount": 329
+ },
+ {
+  "id": 73,
+  "title": "围炉夜话",
+  "slug": "wei-lu-ye-hua",
+  "author": "王永彬",
+  "authorSlug": "wang-yong-bin",
+  "path": "poems/wa/wang-yong-bin/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 221,
+  "tocCount": 221
+ },
+ {
+  "id": 74,
+  "title": "论衡",
+  "slug": "lun-heng",
+  "author": "王充",
+  "authorSlug": "wang-chong",
+  "path": "poems/wa/wang-chong/",
+  "dynasty": "汉",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 84,
+  "tocCount": 84
+ },
+ {
+  "id": 75,
+  "title": "菜根谭",
+  "slug": "cai-gen-tan",
+  "author": "洪应明",
+  "authorSlug": "hong-ying-ming",
+  "path": "poems/ho/hong-ying-ming/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 5,
+  "tocCount": 5
+ },
+ {
+  "id": 76,
+  "title": "四十二章经",
+  "slug": "si-shi-er-zhang-jing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "汉",
+  "categories": [
+   "子部",
+   "释家类"
+  ],
+  "chapters": 42,
+  "tocCount": 42
+ },
+ {
+  "id": 77,
+  "title": "水经注",
+  "slug": "shui-jing-zhu",
+  "author": "郦道元",
+  "authorSlug": "li-dao-yuan",
+  "path": "poems/li/li-dao-yuan/",
+  "dynasty": "南北朝",
+  "categories": [
+   "史部",
+   "地理类"
+  ],
+  "chapters": 40,
+  "tocCount": 40
+ },
+ {
+  "id": 78,
+  "title": "智囊(选录)",
+  "slug": "zhi-nang-xuan-lu",
+  "author": "冯梦龙",
+  "authorSlug": "feng-meng-long",
+  "path": "poems/fe/feng-meng-long/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 247,
+  "tocCount": 247
+ },
+ {
+  "id": 79,
+  "title": "农桑辑要",
+  "slug": "nong-sang-ji-yao",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "元",
+  "categories": [
+   "子部",
+   "农家类"
+  ],
+  "chapters": 59,
+  "tocCount": 59
+ },
+ {
+  "id": 80,
+  "title": "睡虎地秦墓竹简",
+  "slug": "shui-hu-di-qin-mu-zhu-ji-b455bda9",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "秦",
+  "categories": [
+   "子部",
+   "法家类"
+  ],
+  "chapters": 25,
+  "tocCount": 25
+ },
+ {
+  "id": 81,
+  "title": "晋书",
+  "slug": "jin-shu",
+  "author": "房玄龄",
+  "authorSlug": "fang-xuan-ling",
+  "path": "poems/fa/fang-xuan-ling/",
+  "dynasty": "唐",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 130,
+  "tocCount": 130
+ },
+ {
+  "id": 82,
+  "title": "宋书",
+  "slug": "song-shu",
+  "author": "沈约",
+  "authorSlug": "shen-yue",
+  "path": "poems/sh/shen-yue/",
+  "dynasty": "南北朝",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 99,
+  "tocCount": 99
+ },
+ {
+  "id": 83,
+  "title": "南齐书",
+  "slug": "nan-qi-shu",
+  "author": "萧子显",
+  "authorSlug": "xiao-zi-xian",
+  "path": "poems/xi/xiao-zi-xian/",
+  "dynasty": "南北朝",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 59,
+  "tocCount": 59
+ },
+ {
+  "id": 84,
+  "title": "梁书",
+  "slug": "liang-shu",
+  "author": "姚思廉",
+  "authorSlug": "yao-si-lian",
+  "path": "poems/ya/yao-si-lian/",
+  "dynasty": "唐",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 56,
+  "tocCount": 56
+ },
+ {
+  "id": 85,
+  "title": "陈书",
+  "slug": "chen-shu",
+  "author": "唐姚思",
+  "authorSlug": "tang-yao-si",
+  "path": "poems/ta/tang-yao-si/",
+  "dynasty": "唐",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 36,
+  "tocCount": 36
+ },
+ {
+  "id": 86,
+  "title": "魏书",
+  "slug": "wei-shu",
+  "author": "魏收",
+  "authorSlug": "wei-shou",
+  "path": "poems/we/wei-shou/",
+  "dynasty": "南北朝",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 124,
+  "tocCount": 124
+ },
+ {
+  "id": 87,
+  "title": "北齐书",
+  "slug": "bei-qi-shu",
+  "author": "李百药",
+  "authorSlug": "li-bai-yao",
+  "path": "poems/li/li-bai-yao/",
+  "dynasty": "唐",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 50,
+  "tocCount": 50
+ },
+ {
+  "id": 88,
+  "title": "周书",
+  "slug": "zhou-shu",
+  "author": "令狐德棻",
+  "authorSlug": "ling-hu-de-fen",
+  "path": "poems/li/ling-hu-de-fen/",
+  "dynasty": "唐",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 50,
+  "tocCount": 50
+ },
+ {
+  "id": 89,
+  "title": "隋书",
+  "slug": "sui-shu",
+  "author": "魏征",
+  "authorSlug": "wei-zheng",
+  "path": "poems/we/wei-zheng/",
+  "dynasty": "唐",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 85,
+  "tocCount": 85
+ },
+ {
+  "id": 90,
+  "title": "南史",
+  "slug": "nan-shi",
+  "author": "李延寿",
+  "authorSlug": "li-yan-shou",
+  "path": "poems/li/li-yan-shou/",
+  "dynasty": "唐",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 80,
+  "tocCount": 80
+ },
+ {
+  "id": 91,
+  "title": "北史",
+  "slug": "bei-shi",
+  "author": "李延寿",
+  "authorSlug": "li-yan-shou",
+  "path": "poems/li/li-yan-shou/",
+  "dynasty": "唐",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 100,
+  "tocCount": 100
+ },
+ {
+  "id": 92,
+  "title": "旧唐书",
+  "slug": "jiu-tang-shu",
+  "author": "沈昫",
+  "authorSlug": "shen-xu",
+  "path": "poems/sh/shen-xu/",
+  "dynasty": "五代",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 200,
+  "tocCount": 200
+ },
+ {
+  "id": 93,
+  "title": "新唐书",
+  "slug": "xin-tang-shu",
+  "author": "欧阳修",
+  "authorSlug": "ou-yang-xiu",
+  "path": "poems/ou/ou-yang-xiu/",
+  "dynasty": "宋",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 225,
+  "tocCount": 225
+ },
+ {
+  "id": 94,
+  "title": "旧五代史",
+  "slug": "jiu-wu-dai-shi",
+  "author": "薛居正",
+  "authorSlug": "xue-ju-zheng",
+  "path": "poems/xu/xue-ju-zheng/",
+  "dynasty": "宋",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 151,
+  "tocCount": 151
+ },
+ {
+  "id": 95,
+  "title": "新五代史",
+  "slug": "xin-wu-dai-shi",
+  "author": "欧阳修",
+  "authorSlug": "ou-yang-xiu",
+  "path": "poems/ou/ou-yang-xiu/",
+  "dynasty": "宋",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 74,
+  "tocCount": 74
+ },
+ {
+  "id": 96,
+  "title": "宋史",
+  "slug": "song-shi",
+  "author": "脱脱",
+  "authorSlug": "tuo-tuo",
+  "path": "poems/tu/tuo-tuo/",
+  "dynasty": "元",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 496,
+  "tocCount": 496
+ },
+ {
+  "id": 97,
+  "title": "辽史",
+  "slug": "liao-shi",
+  "author": "脱脱",
+  "authorSlug": "tuo-tuo",
+  "path": "poems/tu/tuo-tuo/",
+  "dynasty": "元",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 117,
+  "tocCount": 117
+ },
+ {
+  "id": 98,
+  "title": "金史",
+  "slug": "jin-shi",
+  "author": "脱脱",
+  "authorSlug": "tuo-tuo",
+  "path": "poems/tu/tuo-tuo/",
+  "dynasty": "元",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 136,
+  "tocCount": 136
+ },
+ {
+  "id": 99,
+  "title": "元史",
+  "slug": "yuan-shi",
+  "author": "宋濂",
+  "authorSlug": "song-lian",
+  "path": "poems/so/song-lian/",
+  "dynasty": "明",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 210,
+  "tocCount": 210
+ },
+ {
+  "id": 100,
+  "title": "明史",
+  "slug": "ming-shi",
+  "author": "张廷玉",
+  "authorSlug": "zhang-ting-yu",
+  "path": "poems/zh/zhang-ting-yu/",
+  "dynasty": "清",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 333,
+  "tocCount": 333
+ },
+ {
+  "id": 101,
+  "title": "子夏易传",
+  "slug": "zi-xia-yi-chuan",
+  "author": "卜商",
+  "authorSlug": "bo-shang",
+  "path": "poems/bo/bo-shang/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "易类"
+  ],
+  "chapters": 69,
+  "tocCount": 69
+ },
+ {
+  "id": 102,
+  "title": "笠翁对韵",
+  "slug": "li-weng-dui-yun",
+  "author": "李渔",
+  "authorSlug": "li-yu-10",
+  "path": "poems/li/li-yu-10/",
+  "dynasty": "清",
+  "categories": [
+   "经部",
+   "诗类"
+  ],
+  "chapters": 30,
+  "tocCount": 30
+ },
+ {
+  "id": 103,
+  "title": "抱朴子",
+  "slug": "bao-pu-zi",
+  "author": "葛洪",
+  "authorSlug": "ge-hong-hong",
+  "path": "poems/ge/ge-hong-hong/",
+  "dynasty": "晋",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 70,
+  "tocCount": 70
+ },
+ {
+  "id": 104,
+  "title": "国语",
+  "slug": "guo-yu",
+  "author": "左丘明",
+  "authorSlug": "zuo-qiu-ming",
+  "path": "poems/zu/zuo-qiu-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 243,
+  "tocCount": 243
+ },
+ {
+  "id": 105,
+  "title": "红楼梦",
+  "slug": "hong-lou-meng",
+  "author": "曹雪芹",
+  "authorSlug": "cao-xue-qin",
+  "path": "poems/ca/cao-xue-qin/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 120,
+  "tocCount": 120
+ },
+ {
+  "id": 106,
+  "title": "三国演义",
+  "slug": "san-guo-yan-yi",
+  "author": "罗贯中",
+  "authorSlug": "luo-guan-zhong",
+  "path": "poems/lu/luo-guan-zhong/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 120,
+  "tocCount": 120
+ },
+ {
+  "id": 107,
+  "title": "水浒传",
+  "slug": "shui-hu-zhuan",
+  "author": "施耐庵",
+  "authorSlug": "shi-nai-an",
+  "path": "poems/sh/shi-nai-an/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 120,
+  "tocCount": 120
+ },
+ {
+  "id": 108,
+  "title": "西游记",
+  "slug": "xi-you-ji",
+  "author": "吴承恩",
+  "authorSlug": "wu-cheng-en",
+  "path": "poems/wu/wu-cheng-en/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "tocCount": 100
+ },
+ {
+  "id": 109,
+  "title": "神农本草经",
+  "slug": "shen-nong-ben-cao-jing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "汉",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 358,
+  "tocCount": 358
+ },
+ {
+  "id": 110,
+  "title": "难经",
+  "slug": "nan-jing",
+  "author": "扁鹊",
+  "authorSlug": "bian-que",
+  "path": "poems/bi/bian-que/",
+  "dynasty": "汉",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 81,
+  "tocCount": 81
+ },
+ {
+  "id": 111,
+  "title": "棋经十三篇",
+  "slug": "qi-jing-shi-san-pian",
+  "author": "张拟",
+  "authorSlug": "zhang-ni",
+  "path": "poems/zh/zhang-ni/",
+  "dynasty": "宋",
+  "categories": [
+   "子部",
+   "艺术类"
+  ],
+  "chapters": 13,
+  "tocCount": 13
+ },
+ {
+  "id": 112,
+  "title": "朱子家训",
+  "slug": "zhu-zi-jia-xun",
+  "author": "朱柏庐",
+  "authorSlug": "zhu-bai-lu",
+  "path": "poems/zh/zhu-bai-lu/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 1,
+  "tocCount": 1
+ },
+ {
+  "id": 113,
+  "title": "三略",
+  "slug": "san-lve",
+  "author": "黄石公",
+  "authorSlug": "huang-shi-gong",
+  "path": "poems/hu/huang-shi-gong/",
+  "dynasty": "汉",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 3,
+  "tocCount": 3
+ },
+ {
+  "id": 114,
+  "title": "声律启蒙",
+  "slug": "sheng-lv-qi-meng",
+  "author": "车万育",
+  "authorSlug": "che-wan-yu",
+  "path": "poems/ch/che-wan-yu/",
+  "dynasty": "清",
+  "categories": [
+   "集部",
+   "诗文评类"
+  ],
+  "chapters": 30,
+  "tocCount": 30
+ },
+ {
+  "id": 115,
+  "title": "说苑",
+  "slug": "shuo-yuan",
+  "author": "刘向",
+  "authorSlug": "liu-xiang-xiang",
+  "path": "poems/li/liu-xiang-xiang/",
+  "dynasty": "汉",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 20,
+  "tocCount": 20
+ },
+ {
+  "id": 116,
+  "title": "罗织经",
+  "slug": "luo-zhi-jing",
+  "author": "来俊臣",
+  "authorSlug": "lai-jun-chen",
+  "path": "poems/la/lai-jun-chen/",
+  "dynasty": "唐",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 12,
+  "tocCount": 12
+ },
+ {
+  "id": 117,
+  "title": "大唐西域记",
+  "slug": "da-tang-xi-yu-ji",
+  "author": "玄奘",
+  "authorSlug": "xuan-zang",
+  "path": "poems/xu/xuan-zang/",
+  "dynasty": "唐",
+  "categories": [
+   "史部",
+   "地理类"
+  ],
+  "chapters": 15,
+  "tocCount": 15
+ },
+ {
+  "id": 118,
+  "title": "浮生六记",
+  "slug": "fu-sheng-liu-ji",
+  "author": "沈复",
+  "authorSlug": "shen-fu",
+  "path": "poems/sh/shen-fu/",
+  "dynasty": "清",
+  "categories": [
+   "史部",
+   "传记类"
+  ],
+  "chapters": 4,
+  "tocCount": 4
+ },
+ {
+  "id": 119,
+  "title": "太平广记",
+  "slug": "tai-ping-guang-ji",
+  "author": "李昉",
+  "authorSlug": "li-fang",
+  "path": "poems/li/li-fang/",
+  "dynasty": "宋",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 501,
+  "tocCount": 501
+ },
+ {
+  "id": 120,
+  "title": "镜花缘",
+  "slug": "jing-hua-yuan",
+  "author": "李汝珍",
+  "authorSlug": "li-ru-zhen",
+  "path": "poems/li/li-ru-zhen/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "tocCount": 100
+ },
+ {
+  "id": 121,
+  "title": "聊斋志异",
+  "slug": "liao-zhai-zhi-yi",
+  "author": "蒲松龄",
+  "authorSlug": "pu-song-ling",
+  "path": "poems/pu/pu-song-ling/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 495,
+  "tocCount": 495
+ },
+ {
+  "id": 122,
+  "title": "醒世恒言",
+  "slug": "xing-shi-heng-yan",
+  "author": "冯梦龙",
+  "authorSlug": "feng-meng-long",
+  "path": "poems/fe/feng-meng-long/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 41,
+  "tocCount": 41
+ },
+ {
+  "id": 123,
+  "title": "警世通言",
+  "slug": "jing-shi-tong-yan",
+  "author": "冯梦龙",
+  "authorSlug": "feng-meng-long",
+  "path": "poems/fe/feng-meng-long/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 41,
+  "tocCount": 41
+ },
+ {
+  "id": 124,
+  "title": "喻世明言",
+  "slug": "yu-shi-ming-yan",
+  "author": "冯梦龙",
+  "authorSlug": "feng-meng-long",
+  "path": "poems/fe/feng-meng-long/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 41,
+  "tocCount": 41
+ },
+ {
+  "id": 125,
+  "title": "初刻拍案惊奇",
+  "slug": "chu-ke-pai-an-jing-qi",
+  "author": "凌濛初",
+  "authorSlug": "ling-meng-chu",
+  "path": "poems/li/ling-meng-chu/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 40,
+  "tocCount": 40
+ },
+ {
+  "id": 126,
+  "title": "二刻拍案惊奇",
+  "slug": "er-ke-pai-an-jing-qi",
+  "author": "凌濛初",
+  "authorSlug": "ling-meng-chu",
+  "path": "poems/li/ling-meng-chu/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 41,
+  "tocCount": 41
+ },
+ {
+  "id": 127,
+  "title": "三刻拍案惊奇",
+  "slug": "san-ke-pai-an-jing-qi",
+  "author": "梦觉道人",
+  "authorSlug": "meng-jue-dao-ren",
+  "path": "poems/me/meng-jue-dao-ren/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 31,
+  "tocCount": 31
+ },
+ {
+  "id": 128,
+  "title": "随园诗话",
+  "slug": "sui-yuan-shi-hua",
+  "author": "袁枚",
+  "authorSlug": "yuan-mei",
+  "path": "poems/yu/yuan-mei/",
+  "dynasty": "清",
+  "categories": [
+   "集部",
+   "诗文评类"
+  ],
+  "chapters": 27,
+  "tocCount": 27
+ },
+ {
+  "id": 129,
+  "title": "封神演义",
+  "slug": "feng-shen-yan-yi",
+  "author": "许仲琳",
+  "authorSlug": "xu-zhong-lin",
+  "path": "poems/xu/xu-zhong-lin/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "tocCount": 100
+ },
+ {
+  "id": 130,
+  "title": "老残游记",
+  "slug": "lao-can-you-ji",
+  "author": "刘鹗",
+  "authorSlug": "liu-e-e",
+  "path": "poems/li/liu-e-e/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 21,
+  "tocCount": 21
+ },
+ {
+  "id": 131,
+  "title": "老残游记续集",
+  "slug": "lao-can-you-ji-xu-ji",
+  "author": "刘鹗",
+  "authorSlug": "liu-e-e",
+  "path": "poems/li/liu-e-e/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 11,
+  "tocCount": 11
+ },
+ {
+  "id": 132,
+  "title": "儒林外史",
+  "slug": "ru-lin-wai-shi",
+  "author": "吴敬梓",
+  "authorSlug": "wu-jing-zi",
+  "path": "poems/wu/wu-jing-zi/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 55,
+  "tocCount": 55
+ },
+ {
+  "id": 133,
+  "title": "隋唐演义",
+  "slug": "sui-tang-yan-yi",
+  "author": "褚人获",
+  "authorSlug": "chu-ren-huo",
+  "path": "poems/ch/chu-ren-huo/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "tocCount": 100
+ },
+ {
+  "id": 134,
+  "title": "孽海花",
+  "slug": "nie-hai-hua",
+  "author": "曾朴",
+  "authorSlug": "ceng-pu",
+  "path": "poems/ce/ceng-pu/",
+  "dynasty": "清",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 35,
+  "tocCount": 35
+ },
+ {
+  "id": 135,
+  "title": "奇经八脉考",
+  "slug": "qi-jing-ba-mai-kao",
+  "author": "李时珍",
+  "authorSlug": "li-shi-zhen",
+  "path": "poems/li/li-shi-zhen/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 18,
+  "tocCount": 18
+ },
+ {
+  "id": 136,
+  "title": "针灸甲乙经",
+  "slug": "zhen-jiu-jia-yi-jing",
+  "author": "皇甫谧",
+  "authorSlug": "huang-fu-mi-mi",
+  "path": "poems/hu/huang-fu-mi-mi/",
+  "dynasty": "晋",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 142,
+  "tocCount": 142
+ },
+ {
+  "id": 137,
+  "title": "千金方",
+  "slug": "qian-jin-fang",
+  "author": "孙思邈",
+  "authorSlug": "sun-si-miao",
+  "path": "poems/su/sun-si-miao/",
+  "dynasty": "唐",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 44,
+  "tocCount": 44
+ },
+ {
+  "id": 138,
+  "title": "民国演义",
+  "slug": "min-guo-yan-yi",
+  "author": "蔡东藩",
+  "authorSlug": "cai-dong-fan",
+  "path": "poems/ca/cai-dong-fan/",
+  "dynasty": "民国",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 160,
+  "tocCount": 161
+ },
+ {
+  "id": 139,
+  "title": "清史演义",
+  "slug": "qing-shi-yan-yi",
+  "author": "蔡东藩",
+  "authorSlug": "cai-dong-fan",
+  "path": "poems/ca/cai-dong-fan/",
+  "dynasty": "民国",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "tocCount": 101
+ },
+ {
+  "id": 140,
+  "title": "明史演义",
+  "slug": "ming-shi-yan-yi",
+  "author": "蔡东藩",
+  "authorSlug": "cai-dong-fan",
+  "path": "poems/ca/cai-dong-fan/",
+  "dynasty": "民国",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "tocCount": 101
+ },
+ {
+  "id": 141,
+  "title": "元史演义",
+  "slug": "yuan-shi-yan-yi",
+  "author": "蔡东藩",
+  "authorSlug": "cai-dong-fan",
+  "path": "poems/ca/cai-dong-fan/",
+  "dynasty": "民国",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 60,
+  "tocCount": 61
+ },
+ {
+  "id": 142,
+  "title": "残唐五代史演义",
+  "slug": "can-tang-wu-dai-shi-yan-24375e08",
+  "author": "罗贯中",
+  "authorSlug": "luo-guan-zhong",
+  "path": "poems/lu/luo-guan-zhong/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 60,
+  "tocCount": 60
+ },
+ {
+  "id": 143,
+  "title": "隋唐两朝志传",
+  "slug": "sui-tang-liang-chao-zhi-b48bbe88",
+  "author": "罗贯中",
+  "authorSlug": "luo-guan-zhong",
+  "path": "poems/lu/luo-guan-zhong/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 123,
+  "tocCount": 123
+ },
+ {
+  "id": 144,
+  "title": "南北史演义",
+  "slug": "nan-bei-shi-yan-yi",
+  "author": "蔡东藩",
+  "authorSlug": "cai-dong-fan",
+  "path": "poems/ca/cai-dong-fan/",
+  "dynasty": "民国",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "tocCount": 100
+ },
+ {
+  "id": 145,
+  "title": "两晋演义",
+  "slug": "liang-jin-yan-yi",
+  "author": "蔡东藩",
+  "authorSlug": "cai-dong-fan",
+  "path": "poems/ca/cai-dong-fan/",
+  "dynasty": "民国",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "tocCount": 101
+ },
+ {
+  "id": 146,
+  "title": "后汉演义",
+  "slug": "hou-han-yan-yi",
+  "author": "蔡东藩",
+  "authorSlug": "cai-dong-fan",
+  "path": "poems/ca/cai-dong-fan/",
+  "dynasty": "民国",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "tocCount": 101
+ },
+ {
+  "id": 147,
+  "title": "前汉演义",
+  "slug": "qian-han-yan-yi",
+  "author": "蔡东藩",
+  "authorSlug": "cai-dong-fan",
+  "path": "poems/ca/cai-dong-fan/",
+  "dynasty": "民国",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "tocCount": 101
+ },
+ {
+  "id": 148,
+  "title": "杨家将",
+  "slug": "yang-jia-jiang",
+  "author": "熊大木",
+  "authorSlug": "xiong-da-mu",
+  "path": "poems/xi/xiong-da-mu/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 50,
+  "tocCount": 50
+ },
+ {
+  "id": 149,
+  "title": "东周列国志",
+  "slug": "dong-zhou-lie-guo-zhi",
+  "author": "冯梦龙",
+  "authorSlug": "feng-meng-long",
+  "path": "poems/fe/feng-meng-long/",
+  "dynasty": "明",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 108,
+  "tocCount": 108
+ },
+ {
+  "id": 150,
+  "title": "诗经",
+  "slug": "shi-jing",
+  "author": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "categories": [
+   "经部",
+   "诗类"
+  ],
+  "chapters": 0,
+  "tocCount": 1
+ },
+ {
+  "id": 151,
+  "title": "五代史演义",
+  "slug": "wu-dai-shi-yan-yi",
+  "author": "蔡东藩",
+  "authorSlug": "cai-dong-fan",
+  "path": "poems/ca/cai-dong-fan/",
+  "dynasty": "民国",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 60,
+  "tocCount": 61
+ }
+]

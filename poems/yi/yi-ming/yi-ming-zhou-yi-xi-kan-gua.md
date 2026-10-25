@@ -1,0 +1,34 @@
+---
+id: yi-ming-zhou-yi-xi-kan-gua
+title: 习坎卦
+author: 佚名
+authorSlug: yi-ming
+book: 周易
+bookSlug: zhou-yi
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 29
+sourceId: 246
+---
+
+## 正文
+
+（坎为水）坎上坎下
+
+《习坎》：有孚维心，亨。行有尚。
+
+初六，习坎，入于坎，窞，凶。
+
+九二，坎有险，求小得。
+
+六三，来之坎，坎险且枕，入于坎，窞，勿用。
+
+六四，樽酒簋贰用缶，纳约自牖，终无咎。
+
+九五，坎不盈，祗既平，无咎。
+
+上六，系用徽纆，窴于丛棘，三岁不得，凶。

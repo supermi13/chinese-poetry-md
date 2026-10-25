@@ -1,0 +1,20 @@
+---
+id: zhu-ge-liang-jiang-yuan-san-bin
+title: 三宾
+author: 诸葛亮
+authorSlug: zhu-ge-liang
+book: 将苑
+bookSlug: jiang-yuan
+dynasty: 三国
+dynastySlug: san-guo
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 30
+sourceId: 4937
+---
+
+## 正文
+
+夫三军之行也，必有宾客群议得失，以资将用。有词若县流，奇谋不测，博闻广见，多艺多才，此万夫之望，可引为上宾；有猛若熊虎，捷若腾猿，刚如铁石，利若龙泉，此一时之雄，可以为中宾；有多言或中，薄技小才，常人之能，此可引为下宾。

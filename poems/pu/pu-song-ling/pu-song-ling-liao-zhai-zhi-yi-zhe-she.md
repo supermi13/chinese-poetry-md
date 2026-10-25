@@ -1,0 +1,20 @@
+---
+id: pu-song-ling-liao-zhai-zhi-yi-zhe-she
+title: 蛰蛇
+author: 蒲松龄
+authorSlug: pu-song-ling
+book: 聊斋志异
+bookSlug: liao-zhai-zhi-yi
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 208
+sourceId: 11891
+---
+
+## 正文
+
+予邑郭生设帐于东山之和庄，童蒙五六人皆初入馆者也。书室之南为厕所，乃一牛栏；靠山石壁，壁上多杂草蓁莽。童子入厕，多历时刻而后返。郭责之，则曰：“予在厕中腾云。”郭疑之。童子入厕，从旁睨之，见其起空中二三尺，倏起倏坠，移时不动。郭进而细审，见壁缝中一蛇，昂首大于盆，吸气而上。遂遍告庄人，共视之，以炬火焚壁，蛇死壁裂。蛇不甚长，而粗则如巨桶。盖蛰于内而不能出，已历多年者也。

@@ -1,0 +1,34 @@
+---
+id: yi-ming-zhou-yi-yi-gua
+title: 颐卦
+author: 佚名
+authorSlug: yi-ming
+book: 周易
+bookSlug: zhou-yi
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 27
+sourceId: 244
+---
+
+## 正文
+
+（山雷颐）艮上震下
+
+《颐》：贞吉。观颐，自求口实。
+
+初九，舍尔灵龟，观我朵颐，凶。
+
+六二，颠颐拂经于丘颐，征凶。
+
+六三，拂颐，贞凶，十年勿用，无攸利。
+
+六四，颠颐，吉。虎视眈眈，其欲逐逐，无咎。
+
+六五，拂经，居贞吉，不可涉大川。
+
+上九，由颐，厉，吉。利涉大川。

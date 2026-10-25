@@ -1,0 +1,24 @@
+---
+id: huang-fu-mi-mi-zhen-jiu-jia-yi-jing-qi-luan-yu-chang-wei-fa-huo-luan-tu-xia
+title: 气乱于肠胃发霍乱吐下
+author: 皇甫谧
+authorSlug: huang-fu-mi-mi
+book: 针灸甲乙经
+bookSlug: zhen-jiu-jia-yi-jing
+dynasty: 晋
+dynastySlug: jin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 36
+sourceId: 12621
+---
+
+## 正文
+
+霍乱刺俞傍五、足阳明及上傍三。
+
+呕吐烦满，魄户主之。阳逆霍乱，刺人迎，刺入四分，不幸杀人。霍乱，泄出不自知，先取太溪，后取太仓之原。霍乱，巨阙、关冲、支沟、公孙（《千金》又取阴陵泉）解溪主之。霍乱泄注，期门主之。厥逆霍乱，府舍主之。胃逆霍乱，鱼际主之。霍乱逆气，鱼际及太白主之。霍乱遗矢气，三里主之。暴霍乱，仆参主之。霍乱转筋，金门、仆参、承山、承筋主之。霍乱胫痹不仁（《千金》云∶主螈脚酸），承筋主之。
+
+转筋于阳理其阳，转筋于阴理其阴，皆卒刺之。
