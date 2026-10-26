@@ -1,0 +1,21 @@
+---
+id: si-shou-qian-xun-meng-pian-ju-023-xia-juan-ba-geng
+title: 下卷·八庚
+section: 下卷
+author: 司守谦
+authorSlug: si-shou-qian
+book: 训蒙骈句
+bookSlug: xun-meng-pian-ju
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 23
+sourceId: c67821c7f270
+---
+
+## 正文
+
+霞散绮，雪飞琼。虹消雨霁，斗转星横。月移花改影，风动竹生声。岭外云霞花下月，湖边烟雨柳梢晴。肠谷日华，仪凤羽毛新灿烂；洞庭浪暖，化龙头角独峥嵘。占风偶，结鸥盟。开笼放鹤，跨海斩鲸。刘伶成酒癣，李白擅才名。月明何处衣砧响，风细谁家玉笛横。援笔祢衡，江夏裁成鹦鹉赋；吹萧弄玉，笛楼巧作凤凰声。炊麦饭，忆莼羹。搜肠茗叶，适口香粳。啼鸟惊春梦，鸣鸡促晓行。孟尝门下三千客，小范胸中百万兵。韦固良缘，旅舍殷勤逢月老；裴航佳偈，兰桥邂逅遇云英。

@@ -1,0 +1,27 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-152-zhong-pin-yu-shi-bu-kong-gong-nie-di-yi-bai-wu-shi-yi
+title: 中品·玉石部·孔公蘖第一百五十一
+section: 中品·玉石部
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 152
+sourceId: b6c3469475df
+---
+
+## 正文
+
+味辛温。
+
+主伤食不化，邪结气，恶创，疽瘘痔，利九窍，下乳汁（《御览》引云，一名通石，《大观本》，作黑字）。生山谷。
+
+《吴普》曰：孔公孽，神农辛，岐伯咸，扁鹊酸无毒，色青黄。
+
+《名医》曰：一名通石，殷孽根也，青黄色生梁山。

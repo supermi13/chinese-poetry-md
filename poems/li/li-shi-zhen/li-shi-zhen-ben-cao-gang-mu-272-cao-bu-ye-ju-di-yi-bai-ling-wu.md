@@ -1,0 +1,35 @@
+---
+id: li-shi-zhen-ben-cao-gang-mu-272-cao-bu-ye-ju-di-yi-bai-ling-wu
+title: 草部·野菊第一百零五
+section: 草部
+author: 李时珍
+authorSlug: li-shi-zhen
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 272
+sourceId: 6315fcb2ac44
+---
+
+## 正文
+
+### 释名
+
+苦薏。
+
+### 气味
+
+（根、叶、茎、花）苦、辛、温、有小毒。
+
+### 主治
+
+无名肿毒。用野菊花连茎捣烂，酒煎，乘热服，让汗发出；另以药渣敷患处。又方：野菊花茎叶、苍耳草各一把，共捣烂，加入酒一碗，绞取汁取；仍以药渣敷患处。要出汗才好。又方：夏日采苍耳叶，秋日采野菊花，共研为末。每服三钱，酒送下。
+
+天泡湿疮。用野菊花根、枣木，共煎汤洗患处。
+
+瘰疬末破。用野菊花根捣烂，煎酒内服；以药渣敷患处。

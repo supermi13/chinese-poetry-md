@@ -1,0 +1,23 @@
+---
+id: pu-song-ling-liao-zhai-zhi-yi-199-juan-wu-ma-ya-di-yi-bai-jiu-shi-jiu
+title: 卷五·骂鸭第一百九十九
+section: 卷五
+author: 蒲松龄
+authorSlug: pu-song-ling
+book: 聊斋志异
+bookSlug: liao-zhai-zhi-yi
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 199
+sourceId: 23cabb0943ea
+---
+
+## 正文
+
+邑西白家庄居民某，盗邻鸭烹之。至夜，觉肤痒；天明视之，茸生鸭毛，触之则痛。大惧，无术可医。夜梦一人告之曰：“汝病乃天罚。须得失者骂，毛乃可落。”邻翁素雅量，每失物未尝征于声色。民诡告翁曰：“鸭乃某甲所盗。彼深畏骂焉，骂之亦可警将来。”翁笑曰：“谁有闲气骂恶人。”卒不骂。某益窘，因实告邻翁。翁乃骂，其病良已。
+
+异史氏曰：“甚矣，攘者之可惧也：一攘而鸭毛生！甚矣，骂者之宜戒也：一骂而盗罪减！然为善有术，彼邻翁者，是以骂行其慈者也。”

@@ -1,0 +1,51 @@
+---
+id: gu-liang-chi-gu-liang-chuan-203-zhao-gong-er-shi-er-nian
+title: 昭公·二十二年
+section: 昭公
+author: 穀梁赤
+authorSlug: gu-liang-chi
+book: 谷梁传
+bookSlug: gu-liang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 203
+sourceId: a81a0561cb13
+---
+
+## 正文
+
+一、二十有二年，春，齐侯伐莒。
+
+二、宋华亥、向宁、华定自宋南里出奔楚。
+
+自宋南里者，专也。
+
+三、大搜于昌间。
+
+秋而曰搜。此春也，其曰搜何也？以搜事也。
+
+四、夏，四月，乙丑，天王崩。
+
+五、六月，叔鞅如京师，葬景王。
+
+六、王室乱。
+
+乱之为言，事未有所成也。
+
+七、刘子、单子以王猛居于皇。
+
+以者，不以者也，王猛嫌也。
+
+八、秋，刘子、单子以王猛入于王城。
+
+以者，不以者也。入者，内弗受也。
+
+九、冬，十月，王子猛卒。
+
+此不卒者也。其曰卒，失嫌也。
+
+十、十有二月，癸酉，朔，日有食之。

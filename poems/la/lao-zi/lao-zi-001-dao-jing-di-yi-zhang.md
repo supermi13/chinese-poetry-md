@@ -1,0 +1,21 @@
+---
+id: lao-zi-001-dao-jing-di-yi-zhang
+title: 道经·第一章
+section: 道经
+author: 老子
+authorSlug: lao-zi
+book: 老子
+bookSlug: lao-zi
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 1
+sourceId: 63ba586b03e1
+---
+
+## 正文
+
+道可道，非常道；名可名，非常名。无名天地之始，有名万物之母。故常无，欲以观其妙；常有，欲以观其徼。此两者同出而异名，同谓之玄，玄之又玄，众妙之门。

@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-084-juan-si-han-yuan-qin-jin-di-ba-shi-san
+title: 卷四·翰苑亲近第八十三
+section: 卷四
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 84
+sourceId: c2f39d18bd08
+---
+
+## 正文
+
+白乐天《渭村退居寄钱翰林》诗，叙翰苑之亲近云：“晓从朝兴庆，春陪宴柏梁。分庭皆命妇，对院即储皇。贵主冠浮动，亲王辔闹装。金钿相照耀，朱紫间荧煌。毬簇桃花骑，歌巡竹叶觞。洼银中贵带，昂黛内人妆。赐禊东城下，颁酺曲水傍。樽罍分圣酒，妓乐借仙倡。”盖唐世宫禁与外廷不至相隔绝，故杜子美诗：“户外昭容紫袖垂，双瞻御座引朝仪。”又云：“舍人退食收封事，宫女开函近御筵。”而学士独称内相，至于与命妇分庭，见贵主冠服、内人黛妆，假仙倡以佐酒，他司无比也。

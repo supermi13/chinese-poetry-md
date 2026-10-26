@@ -1,0 +1,29 @@
+---
+id: meng-shen-shi-liao-ben-cao-092-juan-shang-yang-mei-di-jiu-shi-er
+title: 卷上·杨梅第九十二
+section: 卷上
+author: 孟诜
+authorSlug: meng-shen
+book: 食疗本草
+bookSlug: shi-liao-ben-cao
+dynasty: 唐
+dynastySlug: tang
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 92
+sourceId: 7f924b78d570
+---
+
+## 正文
+
+（一）上主（和）脏腑，调腹胃，除烦愦，消恶气，去痰实。〔卷·嘉·证〕
+
+（二）（亦）不可多食，损人（齿及）筋（也），然（甚能）断下痢。〔卷·嘉·证〕
+
+（三）又，烧为灰，（亦）断下痢。其味酸美，小有胜白梅。〔卷·嘉·证〕
+
+（四）又，取干者，常含一枚，咽其液，亦通利五脏，下少气。〔卷·证〕
+
+（五）若多食，损人筋骨。甚酸之物，是土地使然。若南人北，杏亦不食。北人南，梅亦不啖。皆是地气郁蒸，令烦愦，好食斯物也。〔卷·证〕

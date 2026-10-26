@@ -1,0 +1,21 @@
+---
+id: zuo-qiu-ming-guo-yu-220-chu-yu-lan-yin-wei-bi-zhao-wang-er-bu-zai-di-er-bai-er-shi
+title: 楚语·蓝尹亹避昭王而不载第二百二十
+section: 楚语
+author: 左丘明
+authorSlug: zuo-qiu-ming
+book: 国语
+bookSlug: guo-yu
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 220
+sourceId: a8b9c6f79f4a
+---
+
+## 正文
+
+吴人入楚，昭王出奔，济于成臼，见蓝尹亹载其孥。王曰：“载予。”对曰：“自先王莫坠其国，当君而亡之，君之过也。”遂去王。王归，又求见，王欲执之，子西曰：“请听其辞，夫其有故。”王使谓之曰：“成臼之役，而弃不穀，今而敢来，何也？”对曰：“昔瓦唯长旧怨，以败于柏举，故君及此。今又效之，无乃不可乎？臣避于成臼，以儆君也，庶悛而更乎？今之敢见，观君之德也，曰：庶忆惧而鉴前恶乎？君若不鉴而长之，君实有国而不爱，臣何有于死，死在司败矣！惟君图之！”子西曰：“使复其位，以无忘前败。”王乃见之。

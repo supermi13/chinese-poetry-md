@@ -1,0 +1,27 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-170-zhong-pin-cao-bu-qin-jiao-di-yi-bai-liu-shi-jiu
+title: 中品·草部·秦艽第一百六十九
+section: 中品·草部
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 170
+sourceId: 7d9a8e779e55
+---
+
+## 正文
+
+味苦平。
+
+主寒热邪气，寒湿，风痹，肢节痛，下水，利小便。生山谷。
+
+《名医》曰：生飞乌山，二月八月，采根，暴干。
+
+案《说文》云：（上艹下卉）草之相（上艹下丩）者，玉篇作（上艹下丩），居包切。云秦艽，药艽同。萧炳云：本经名秦瓜，然则今本经名，亦有《名医》改之者。

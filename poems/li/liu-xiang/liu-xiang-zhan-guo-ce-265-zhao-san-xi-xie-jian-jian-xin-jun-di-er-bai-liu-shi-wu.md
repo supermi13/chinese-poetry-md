@@ -1,0 +1,21 @@
+---
+id: liu-xiang-zhan-guo-ce-265-zhao-san-xi-xie-jian-jian-xin-jun-di-er-bai-liu-shi-wu
+title: 赵三·希写见建信君第二百六十五
+section: 赵三
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 265
+sourceId: a7c122776d71
+---
+
+## 正文
+
+希写见建信君。建信君曰：“文信侯之于仆也，甚无礼。秦使人来仕，仆官之丞相，爵五大夫。文信侯之于仆也，甚矣其无礼也。”希写曰：“臣以为今世用事者，不如商贾。”建信君悖然曰：“足下卑用事者而高商贾乎?”曰：“不然。夫良商不与人争买卖之贾，而谨司时。时贱而买，虽贵而贱矣；时贵而卖，虽贱已贵矣。昔者文王之拘于牖里，而武王羁于玉门，卒断纣之头而县于太白者，是武王之功也。今君不能与文信侯相伉以权，而责文信侯少礼，臣窃为君不取也。”

@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-180-juan-jiu-yan-lv-er-tong-zhi-jian-di-yi-bai-qi-shi-jiu
+title: 卷九·颜率儿童之见第一百七十九
+section: 卷九
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 180
+sourceId: 352cfca86ab2
+---
+
+## 正文
+
+秦兴师临周而求九鼎，周君患之。颜率请借救于齐。乃诣齐王许以鼎。齐为发兵救周，而秦兵罢。齐将求鼎，周君又患之。颜率复诣齐曰：“愿献九鼎，不识何途之从而致之齐？”齐王将寄径于梁、于楚，率皆以为不可，齐乃止。《战国策》首载此事，盖以为奇谋。予谓此特儿童之见尔！争战虽急，要当有信。今一绐齐可也，独不计后日诸侯来伐，谁复肯救我乎？疑必无是事，好事者饰之乎，故《史记》、《通鉴》皆不取。

@@ -1,0 +1,31 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-078-shang-pin-cao-bu-yin-chen-di-qi-shi-qi
+title: 上品·草部·茵陈第七十七
+section: 上品·草部
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 78
+sourceId: 1f5ae46dd93d
+---
+
+## 正文
+
+（《御览》作茵蒿）
+
+味苦平。
+
+主风湿寒热，邪气，热结黄疸。久服轻身，益气耐老（《御览》作能老）。生邱陵阪岸上。
+
+《吴普》曰：因尘，神农岐伯雷公苦无毒，黄帝辛无毒，生田中，叶如蓝，十一月采（《御览》）。
+
+《名医》曰：白兔食之仙，生太山，五月及立秋采，阴干。
+
+案《广雅》云：因尘，马先也；陶宏景云：仙经云，白蒿，白兔食之仙，而今茵陈乃云此，恐非耳；陈藏器云：茵陈，经冬不死，因旧苗而生，故名茵陈，后加蒿字也，据此，知旧作茵陈篙，非；又按《广雅》云：马先，疑即马新蒿，亦白蒿之类。

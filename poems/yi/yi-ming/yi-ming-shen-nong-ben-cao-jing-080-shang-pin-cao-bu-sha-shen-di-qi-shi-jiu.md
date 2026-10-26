@@ -1,0 +1,29 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-080-shang-pin-cao-bu-sha-shen-di-qi-shi-jiu
+title: 上品·草部·沙参第七十九
+section: 上品·草部
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 80
+sourceId: 3cf3ab0496c8
+---
+
+## 正文
+
+味苦微寒。
+
+主血积惊气，除寒热，补中，益肺气。久服利人。一名知母。生川谷。
+
+《吴普》曰：白沙参，一名苦心，一名识美，一名虎须，一名白参，一名志取，一名文虎，神农黄帝扁鹊无毒，岐伯咸，李氏大寒，生河内川谷，或般阳渎山，三月生如葵，叶青，实白如芥，根大白如芜菁，三月采（《御览》）。
+
+《名医》曰：一名苦心，一名志取，一名虎须，一名白参，一名识美，一名文希，生河内及冤句，般阳续山，二月八月采根，暴干。
+
+案《广雅》云：苦心，沙参也，其蒿，青蓑也；《范子计然》云：白沙参，出洛阳，白者善。

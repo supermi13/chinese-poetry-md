@@ -1,0 +1,27 @@
+---
+id: meng-shen-shi-liao-ben-cao-252-juan-xia-hu-cong-di-er-bai-wu-shi-san
+title: 卷下·胡葱第二百五十三
+section: 卷下
+author: 孟诜
+authorSlug: meng-shen
+book: 食疗本草
+bookSlug: shi-liao-ben-cao
+dynasty: 唐
+dynastySlug: tang
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 252
+sourceId: eb74e5502bb9
+---
+
+## 正文
+
+（一）主消谷，能食。久食之，令人多忘。根∶发痼疾。〔证〕
+
+（二）又，食着诸毒肉，吐血不止，痿黄悴者∶取子一升洗，煮使破，取汁停冷。服半升，日一服，夜一服，血定止。〔证〕
+
+（三）又，患狐臭、 齿人不可食，转极甚。〔证〕
+
+（四）谨按∶利五脏不足气，亦伤绝血脉气。多食损神，此是熏物耳。〔证〕

@@ -1,0 +1,33 @@
+---
+id: meng-shen-shi-liao-ben-cao-114-juan-zhong-tu-di-yi-bai-yi-shi-si
+title: 卷中·兔第一百一十四
+section: 卷中
+author: 孟诜
+authorSlug: meng-shen
+book: 食疗本草
+bookSlug: shi-liao-ben-cao
+dynasty: 唐
+dynastySlug: tang
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 114
+sourceId: 58c7dda01a78
+---
+
+## 正文
+
+（一）肝∶主明目，和决明子作丸服之。〔嘉〕
+
+（二）又，主丹石人上冲眼暗不见物，可生食之，一如服羊子肝法。〔嘉〕
+
+（三）兔头骨并同肉∶味酸。〔证〕
+
+（四）谨按∶八月至十月，其肉酒炙吃，与丹石人甚相宜。注∶以性冷故也。大都绝人血脉，损房事，令人痿黄。〔嘉·证〕
+
+（五）肉∶不宜与姜、橘同食之，令人卒患心痛，不可治也。〔证〕
+
+（六）又，兔死而眼合者，食之杀人。二月食之伤神。〔证〕
+
+（七）又，兔与生姜同食，成霍乱。〔证〕

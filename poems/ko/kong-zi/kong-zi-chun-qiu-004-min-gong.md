@@ -1,0 +1,22 @@
+---
+id: kong-zi-chun-qiu-004-min-gong
+title: 闵公
+author: 孔子
+authorSlug: kong-zi
+book: 春秋
+bookSlug: chun-qiu
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 史部
+  - 编年类
+chapterIndex: 4
+sourceId: 4d8b01148374
+---
+
+## 正文
+
+元年春王正月。齐人救邢。夏六月辛酉，葬我君庄公。秋八月，公及齐侯盟于落姑。季子来归。冬，齐仲孙来。
+
+二年春王正月，齐人迁阳。夏五月乙酉，吉禘于庄公。秋八月辛丑，公薨。九月，夫人姜氏孙于邾。公子庆父出奔莒。冬，齐高子来盟。十有二月，狄入卫。郑弃其师。

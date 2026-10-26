@@ -1,0 +1,23 @@
+---
+id: yi-ming-bai-zhan-qi-lve-027-di-san-juan-bei-zhan-di-er-shi-qi
+title: 第三卷·备战第二十七
+section: 第三卷
+author: 佚名
+authorSlug: yi-ming
+book: 百战奇略
+bookSlug: bai-zhan-qi-lve
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 27
+sourceId: ef5ee932bcee
+---
+
+## 正文
+
+凡出师征讨，行则备其邀截，止则御其掩袭，营则防其偷盗，风则恐其火攻。若此设备，有胜而无败。法曰：“有备不败。”
+
+三国，魏大将吴璘征南，兵到精湖，魏将满宠帅诸将在前，与敌夹水相对。宠谓诸将曰：“今夕风甚猛，敌必来烧营，宜为之备。”诸将皆警。夜半，敌果遣十部〔伏〕来烧营，宠掩击，大破之。

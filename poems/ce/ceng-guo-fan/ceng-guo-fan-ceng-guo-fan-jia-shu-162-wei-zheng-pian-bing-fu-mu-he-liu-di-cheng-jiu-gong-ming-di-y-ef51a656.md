@@ -1,0 +1,29 @@
+---
+id: ceng-guo-fan-ceng-guo-fan-jia-shu-162-wei-zheng-pian-bing-fu-mu-he-liu-di-cheng-jiu-gong-ming-di-y-ef51a656
+title: 为政篇·禀父母&#183;贺六弟成就功名第一百六十二
+section: 为政篇
+author: 曾国藩
+authorSlug: ceng-guo-fan
+book: 曾国藩家书
+bookSlug: ceng-guo-fan-jia-shu
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 集部
+  - 别集类
+chapterIndex: 162
+sourceId: 1cabad5b433c
+---
+
+## 正文
+
+男国藩跪禀
+
+父母亲大人万福金安。男自考差后，癣疾日愈，现在头面已不甚显矣，身上自腰以下，亦十去七八，自腹以下尚未治，万一极差，尽可面圣谢恩。但如此顽病，而得渐好，已为非常之喜，不敢复设妄想矣。
+
+六弟捐监，于五月廿八日具呈，闰月初兑银，廿一日可领照。六月初一日可至国子监考到，十四日即可录科。仰承祖父叔父之余荫，六弟幸得成就功名，敬贺敬贺！
+
+男身体平安，现服补气汤药，内有高丽参焦术，男妇及孙男女四人并如常。四弟自树堂教书之后，功课益勤，六弟近日文章，虽无大进，亦未荒担余俟续呈。
+
+男谨禀。（道光二十六年闰五月十五日）

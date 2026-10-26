@@ -1,0 +1,31 @@
+---
+id: huang-fu-mi-mi-zhen-jiu-jia-yi-jing-032-juan-san-tou-yuan-er-shang-que-xing-zhi-wan-gu-fan-shi-er-xu-bd60239d
+title: 卷三·头缘耳上却行至完骨凡十二穴第五
+section: 卷三
+author: 皇甫谧
+authorSlug: huang-fu-mi-mi
+book: 针灸甲乙经
+bookSlug: zhen-jiu-jia-yi-jing
+dynasty: 魏晋
+dynastySlug: wei-jin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 32
+sourceId: b407b3daf594
+---
+
+## 正文
+
+天冲，在耳上如前三分，刺入三分，灸三壮。（气府论注云∶足太阳、少阳之会。）
+
+率谷，在耳上，入发际一寸五分，足太阳、少阳之会，嚼而取之，刺入四分，灸三壮。
+
+曲鬓，在耳上，入发际曲隅陷者中，鼓颔有空，足太阳、少阳之会，刺入三分，灸三壮。
+
+浮白，在耳后，入发际一寸，足太阳、少阳之会，刺入三分，灸二壮。（气穴注云∶灸三壮，刺入三分。）
+
+窍阴，在完骨上，枕骨下，摇动应手，足太阳、少阳之会，刺入四分，灸五壮。（气穴注云∶灸三壮，刺入三分。）
+
+完骨，在耳后，入发际四分，足太阳、少阳之会，刺入二分，留七呼，灸七壮。（气穴注云∶刺入三分，灸三壮。）

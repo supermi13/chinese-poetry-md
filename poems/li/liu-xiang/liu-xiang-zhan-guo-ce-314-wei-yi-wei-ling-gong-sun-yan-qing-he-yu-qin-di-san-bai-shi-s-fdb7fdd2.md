@@ -1,0 +1,21 @@
+---
+id: liu-xiang-zhan-guo-ce-314-wei-yi-wei-ling-gong-sun-yan-qing-he-yu-qin-di-san-bai-shi-s-fdb7fdd2
+title: 魏一·魏令公孙衍请和于秦第三百十四
+section: 魏一
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 314
+sourceId: ce7fe2b482ce
+---
+
+## 正文
+
+魏令公孙衍请和于秦，綦母恢教之语曰：“无多割。曰，和成，固有秦重和，以与王遇；和不成，则后必莫能以魏合于秦者矣。”

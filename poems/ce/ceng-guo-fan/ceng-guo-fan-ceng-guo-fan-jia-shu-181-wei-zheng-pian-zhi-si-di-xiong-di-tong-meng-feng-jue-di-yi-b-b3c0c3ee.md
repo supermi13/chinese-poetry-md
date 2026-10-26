@@ -1,0 +1,25 @@
+---
+id: ceng-guo-fan-ceng-guo-fan-jia-shu-181-wei-zheng-pian-zhi-si-di-xiong-di-tong-meng-feng-jue-di-yi-b-b3c0c3ee
+title: 为政篇·致四弟&#183;兄弟同蒙封爵第一百八十一
+section: 为政篇
+author: 曾国藩
+authorSlug: ceng-guo-fan
+book: 曾国藩家书
+bookSlug: ceng-guo-fan-jia-shu
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 集部
+  - 别集类
+chapterIndex: 181
+sourceId: befab9e995ad
+---
+
+## 正文
+
+澄弟左右：
+
+初十日接牵恩旨，余蒙封侯爵，太子太保，沅蒙封伯爵，太子少保，均赏双眼花翎。沅部李臣典子爵，萧孚泗男爵，殊思异数，萃地一门。祖宗积累阴德，吾辈食此重禄。感激之余，弥增歉悚！
+
+沅弟至六月甚辛苦，近日湿毒，十愈其七，初十十一十二等日戏酒宴客，每日百余席；况应酬周到，不以为苦，谚称人逢喜事精神爽，其信然欤？余拟于七月下旬回皖，九月再来金陵，十一月举行江南乡试。沅弟拟九十月回籍，各营应撤二万人，遣资尚无着也。（同治七年五月十四日）

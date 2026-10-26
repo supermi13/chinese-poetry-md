@@ -1,0 +1,25 @@
+---
+id: zhao-er-xun-qing-shi-gao-168-biao-juan-ba-zhu-chen-feng-jue-shi-biao-yi
+title: 表·卷八 诸臣封爵世表一
+section: 表
+author: 赵尔巽
+authorSlug: zhao-er-xun
+book: 清史稿
+bookSlug: qing-shi-gao
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 史部
+  - 正史类
+chapterIndex: 168
+sourceId: 07bda03c1124
+---
+
+## 正文
+
+诸臣封爵世表一
+
+《史记》、《汉书》皆表列侯。明史世表亦及功臣。清於封爵，皆仿古制。世及为礼，视汉特优。非罔替者，甲令按等皆有袭次，不容稍紊。开国所封，沐雨栉风，攀鳞附翼，与汉元功实无差异。其后荡定边徼，开拓疆宇，儋爵酬庸，赫奕当代。内地征讨，役稍钜者，胙茅传胤，亦等边功。惟福康安非有殊勋，竟赠真王，袭降之制，一视天潢，亦云滥矣。子、男以次得世职者，往往并袭，今并为表，最初封者，恒越十代，除爵既鲜，延世莫废，非汉列侯所敢望也。外戚封者，附书於后。作诸臣封爵世表。
+
+表略

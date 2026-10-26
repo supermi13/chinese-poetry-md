@@ -1,0 +1,25 @@
+---
+id: feng-meng-long-zhi-nang-xuan-lu-071-ming-zhi-bu-lu-xun-sun-deng-di-qi-shi-yi
+title: 明智部·陆逊 孙登第七十一
+section: 明智部
+author: 冯梦龙
+authorSlug: feng-meng-long
+book: 智囊(选录)
+bookSlug: zhi-nang-xuan-lu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 71
+sourceId: 48e736e2b710
+---
+
+## 正文
+
+【原文】
+
+陆逊陆逊多沉虑，筹无不中，尝谓诸葛恪曰：“在吾前者，吾必奉之同升；在吾下者，吾必扶持之。（边批：长者之言。）君今气陵其上，意蔑乎下，恐非安德之基也!”恪不听，卒见死。
+
+嵇康从孙登游三年，问终不答。康将别，曰：“先生竟无言耶？”登乃曰：“子识火乎？生而有光，而不用其光，果在于用光；人生有才，而不用其才，果在于用才。故用光在乎得薪，所以保其曜；用才在乎识物，所以全其年。今子才多识寡，难乎免于今之世矣!”康不能用，卒死吕安之难。

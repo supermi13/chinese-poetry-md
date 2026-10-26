@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-061-juan-san-ran-you-wen-wei-jun-di-liu-shi
+title: 卷三·冉有问卫君第六十
+section: 卷三
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 61
+sourceId: 317d77cc60ae
+---
+
+## 正文
+
+冉有曰：“夫子为卫君乎？”子贡曰：“吾将问之。”入，曰：“伯夷、叔齐何人也？”曰：“古之贤人也。”曰：“怨乎？”曰：“求仁而得仁，又何怨？”出，曰：“夫子不为也。”说者皆评较蒯聩、辄之是非，多至数百言，惟王逢原以十字蔽之，曰：贤兄弟让，知恶父子争矣。”最为简妙。盖夷、齐以兄弟让国，而夫子贤之，则不与卫君以父子争国可知矣。晁以道亦有是语，而结意不同。尹彦明之说，与逢原同。惟杨中立云：“世之说者，以谓善兄弟之让，则恶父子之争可知，失其旨矣。”其意为不可晓。

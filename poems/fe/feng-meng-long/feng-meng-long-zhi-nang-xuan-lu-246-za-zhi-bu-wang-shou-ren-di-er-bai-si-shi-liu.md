@@ -1,0 +1,21 @@
+---
+id: feng-meng-long-zhi-nang-xuan-lu-246-za-zhi-bu-wang-shou-ren-di-er-bai-si-shi-liu
+title: 杂智部·王守仁第二百四十六
+section: 杂智部
+author: 冯梦龙
+authorSlug: feng-meng-long
+book: 智囊(选录)
+bookSlug: zhi-nang-xuan-lu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 246
+sourceId: 5b8653c73874
+---
+
+## 正文
+
+王守仁王阳明年十二，继母待之不慈。父官京师，公度不能免。以母信佛，乃夜潜起，列五托子于室门。母晨兴，见而心悸。他日复如之，母愈骇，然犹不悛也。公乃于郊外访射鸟者，得一异形鸟，生置母衾内，母整衾，见怪鸟飞去。大惧，召巫媪问之。公怀金赂媪，诈言：“王状元前室责母虐其遗婴，今诉于天，遣阴兵收汝魂魄，衾中之鸟是也。”后母大恸，叩头谢不敢，公亦泣拜良久。巫故作恨恨，乃蹶然苏。自是母性骤改。

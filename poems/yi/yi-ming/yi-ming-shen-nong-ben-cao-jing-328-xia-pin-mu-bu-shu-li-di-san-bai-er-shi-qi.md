@@ -1,0 +1,27 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-328-xia-pin-mu-bu-shu-li-di-san-bai-er-shi-qi
+title: 下品·木部·鼠李第三百二十七
+section: 下品·木部
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 328
+sourceId: 855e3ab4d96f
+---
+
+## 正文
+
+主寒热瘰疬创。生田野。
+
+《吴普》曰：鼠李，一名牛李（《御览》）。
+
+《名医》曰：一名牛李，一名鼠梓，一名啤，采无时。
+
+案《说文》云：楰，鼠梓木。《尔雅》云楰，鼠梓。郭璞云：楸属也，今江东有虎梓。《毛诗》云：北山有楰.《传》云楰，鼠梓，据《名医》名鼠梓，未知是此否。《唐本》注云：一名赵李，一名皂李，一名乌槎。

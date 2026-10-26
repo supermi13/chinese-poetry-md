@@ -1,0 +1,21 @@
+---
+id: liu-xiang-zhan-guo-ce-132-qi-er-qin-gong-zhao-di-yi-bai-san-shi-er
+title: 齐二·秦攻赵第一百三十二
+section: 齐二
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 132
+sourceId: 5ec1f855ea8e
+---
+
+## 正文
+
+秦攻赵。赵令楼缓以五城求讲于秦，而与之伐齐。齐主恐，因使人以十城求讲于秦。楼子恐，因以上党二十四县许秦王。赵足之齐，谓齐王曰：“王欲秦、赵之解乎?不如从合于赵，赵必倍秦。倍秦则齐无患矣。”

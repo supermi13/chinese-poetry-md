@@ -1,0 +1,21 @@
+---
+id: liu-xiang-zhan-guo-ce-170-chu-yi-qi-chu-gou-nan-di-yi-bai-qi-shi
+title: 楚一·齐楚构难第一百七十
+section: 楚一
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 170
+sourceId: 46711511819e
+---
+
+## 正文
+
+齐楚构难，宋请中立。齐急宋，宋许之。子象为楚谓宋王曰：“楚以缓失宋，将法齐之急也。齐以急得宋，后将常急矣。是从齐而攻楚，未必利也。齐战胜楚，势必危宋；不胜，是以弱宋干强楚也。而令两万乘之国，常以急求所欲，国必危矣。”

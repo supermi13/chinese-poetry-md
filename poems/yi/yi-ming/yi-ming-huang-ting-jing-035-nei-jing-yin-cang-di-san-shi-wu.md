@@ -1,0 +1,21 @@
+---
+id: yi-ming-huang-ting-jing-035-nei-jing-yin-cang-di-san-shi-wu
+title: 内景·隐藏第三十五
+section: 内景
+author: 佚名
+authorSlug: yi-ming
+book: 黄庭经
+bookSlug: huang-ting-jing
+dynasty: 魏晋
+dynastySlug: wei-jin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 35
+sourceId: fd3b5e15e4cd
+---
+
+## 正文
+
+隐藏羽盖看天舍，朝拜太阳乐相呼。明神八威正辟邪，脾神还归是胃家。耽养灵根不复枯，闭塞命门保玉都。万神方胙寿有余，是谓脾建在中宫。五藏六府神明主，上合天门入明堂。守雌存雄顶三光，外方内圆神在中。通利血脉五藏丰，骨青筋赤髓如霜。脾救七窍去不祥，日月列布设阴阳。两神相会化玉英，淡然无味天人粮。子丹进馔肴正黄，乃曰琅膏及玉霜。太上隐环八素琼，溉益八液肾受精。伏于太阴见我形，扬风三玄出始青。恍惚之间至清灵，坐於飙台见赤生。逸域熙真养华荣，内盼沉默炼五形。三气徘徊得神明，隐龙遁芝云琅英。可以充饥使万灵，上盖玄玄下虎章。

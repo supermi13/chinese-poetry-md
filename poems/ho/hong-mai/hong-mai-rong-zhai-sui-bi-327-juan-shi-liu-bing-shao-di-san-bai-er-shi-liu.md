@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-327-juan-shi-liu-bing-shao-di-san-bai-er-shi-liu
+title: 卷十六·并韶第三百二十六
+section: 卷十六
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 327
+sourceId: 1ebfe9e06a6d
+---
+
+## 正文
+
+梁武帝时，有交趾人并韶者，富于词藻，诣选求官，而吏部尚书蔡撙以并姓无前贤，除广阳门郎。韶耻之，遂还乡里谋作乱。夫用门地族望为选举低昂，乃晋、宋以来弊法，蔡撙贤者也，不能免俗，何哉？

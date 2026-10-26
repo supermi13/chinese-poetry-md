@@ -1,0 +1,27 @@
+---
+id: yi-ming-yi-chuan-148-xi-ci-chuan-xia-di-liu-zhang
+title: 系辞传下·第六章
+section: 系辞传下
+author: 佚名
+authorSlug: yi-ming
+book: 易传
+bookSlug: yi-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 易类
+chapterIndex: 148
+sourceId: 499415055f7a
+---
+
+## 正文
+
+子曰：“乾坤，其《易》之门耶？”
+
+乾，阳物也；坤，阴物也。阴阳合德，而刚柔有体。以体天地之撰，以通神明之德。其称名也，杂而不越。于稽其类，其衰世之意邪？
+
+夫《易》，彰往而察来，而微显阐幽，开而当名辨物，正言断辞，则备矣。
+
+其称名也小，其取类也大。其旨远，其辞文，其言曲而中，其事肆而隐。因贰以济民行，以明失得之报。

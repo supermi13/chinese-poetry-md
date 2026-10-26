@@ -1,0 +1,31 @@
+---
+id: li-shi-zhen-ben-cao-gang-mu-248-cao-bu-rou-dou-kou-di-ba-shi-yi
+title: 草部·肉豆蔻第八十一
+section: 草部
+author: 李时珍
+authorSlug: li-shi-zhen
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 248
+sourceId: 5b5b59663dfa
+---
+
+## 正文
+
+### 气味
+
+（实）辛、温、无毒。
+
+### 主治
+
+温中，消食止泄，治积冷心腹胀痛，霍乱中恶，鬼气冷疰，呕沫冷气，小儿乳霍。调中下气，开胃，解酒毒，消皮外络下气。治宿食痰饮，止小儿吐逆，不下乳，虚泄赤白痢，研末粥饮服之。暖脾胃，固大肠。
+
+### 附方
+
+暖胃除痰，进食消食；肉豆蔻二个，半夏姜汁炒五钱，木香二钱半，为末，蒸饼丸大，每食后津液下五丸，十丸。

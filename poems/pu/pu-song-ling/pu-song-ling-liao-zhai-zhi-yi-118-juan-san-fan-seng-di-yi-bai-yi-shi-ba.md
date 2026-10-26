@@ -1,0 +1,21 @@
+---
+id: pu-song-ling-liao-zhai-zhi-yi-118-juan-san-fan-seng-di-yi-bai-yi-shi-ba
+title: 卷三·番僧第一百一十八
+section: 卷三
+author: 蒲松龄
+authorSlug: pu-song-ling
+book: 聊斋志异
+bookSlug: liao-zhai-zhi-yi
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 118
+sourceId: e82795dc0faf
+---
+
+## 正文
+
+释体空言：在青州见二番僧，像貌奇古，耳缀双环，被黄布，须发鬈如羊角，自言从西域来。闻太守重佛，谒之，太守遣二隶送诣丛林，和尚灵辔不甚礼之。执事者见其人异，私款之，止宿焉。或问：“西域多异人，罗汉得毋有奇术否？”其一冁然笑，出手于袖，掌中托小塔，高裁盈尺，玲珑可爱。壁上最高处，有小龛，僧掷塔其中，矗然端立，无少偏倚。视塔上有舍利放光，照耀一室。少间以手招之，仍落掌中。其一僧乃袒臂，伸左肱，长可六七尺，而右肱缩无有矣；转伸右肱亦如左状。

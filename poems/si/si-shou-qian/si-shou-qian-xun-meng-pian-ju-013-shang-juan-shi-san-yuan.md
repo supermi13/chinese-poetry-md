@@ -1,0 +1,21 @@
+---
+id: si-shou-qian-xun-meng-pian-ju-013-shang-juan-shi-san-yuan
+title: 上卷·十三元
+section: 上卷
+author: 司守谦
+authorSlug: si-shou-qian
+book: 训蒙骈句
+bookSlug: xun-meng-pian-ju
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 13
+sourceId: 778729ffc34a
+---
+
+## 正文
+
+桃叶渡，杏花村。衔芦征雁，接箭老猿。晓径牛羊践，晴檐燕雀暄。水獭祭鱼知报本，山乌哺母不忘恩。曳丈高人，园菊径边寻故旧；荷锄野老，海棠花下戏儿孙。碧鸡庙，金马门。金杯玉斗，龙勺牺樽。庆云拖玉殿，甘露滴铜盆。闭户袁安甘卧雪，下帷董子不窥园。廉范临民，慈惠群歌来何暮；于公治狱，清勤共羡死无冤。鸦聚阵，鄂飞骞。画龙破壁，爱鹤乘轩。疏泉流地脉，移石动云根。芍药歌红翻古砌，薜萝行绿上颓垣。秋冷吴江，青枫叶落飘前渚；日斜彭泽，白蓼花飞过远村。

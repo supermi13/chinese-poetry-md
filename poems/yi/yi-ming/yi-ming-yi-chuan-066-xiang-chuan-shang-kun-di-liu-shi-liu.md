@@ -1,0 +1,23 @@
+---
+id: yi-ming-yi-chuan-066-xiang-chuan-shang-kun-di-liu-shi-liu
+title: 象传上·坤第六十六
+section: 象传上
+author: 佚名
+authorSlug: yi-ming
+book: 易传
+bookSlug: yi-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 易类
+chapterIndex: 66
+sourceId: ec9c1576e342
+---
+
+## 正文
+
+地势坤；君子以厚德载物。
+
+履霜坚冰，阴始凝也。驯致其道，至坚冰也。六二之动，直以方也。不习无不利，地道光也。含章可贞，以时发也。或从王事，知光大也。括囊无咎，慎不害也。黄裳元吉，文在中也。龙战于野，其道穷也。用六永贞，以大终也。

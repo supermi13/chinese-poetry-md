@@ -1,0 +1,21 @@
+---
+id: zhang-dai-tao-an-meng-yi-106-juan-qi-run-zhong-qiu-di-yi-bai-ling-liu
+title: 卷七·闰中秋第一百零六
+section: 卷七
+author: 张岱
+authorSlug: zhang-dai
+book: 陶庵梦忆
+bookSlug: tao-an-meng-yi
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 集部
+  - 别集类
+chapterIndex: 106
+sourceId: 2fd2d1984473
+---
+
+## 正文
+
+崇祯七年闰中秋，仿虎丘故事，会各友于蕺山亭。每友携斗酒、五簋、十蔬果、红毡一床，席地鳞次坐。缘山七十余床，衰童塌妓，无席无之。在席者七百余人，能歌者百余人，同声唱“澄湖万顷”，声如潮涌，山为雷动。诸酒徒轰饮，酒行如泉。夜深客饥，借戒珠寺斋僧大锅煮饭饭客，长年以大桶担饭不继。命小傒岕竹、楚烟于山亭演剧十余出，妙入情理，拥观者千人，无蚊虻声，四鼓方散。月光泼地如水，人在月中，濯濯如新出浴。夜半，白云冉冉起脚下，前山俱失，香炉、鹅鼻、天柱诸峰，仅露髻尖而已，米家山雪景仿佛见之。

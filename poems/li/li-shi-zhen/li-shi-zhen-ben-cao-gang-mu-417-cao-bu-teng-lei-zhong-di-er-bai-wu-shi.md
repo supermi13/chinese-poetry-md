@@ -1,0 +1,45 @@
+---
+id: li-shi-zhen-ben-cao-gang-mu-417-cao-bu-teng-lei-zhong-di-er-bai-wu-shi
+title: 草部·藤类（12种）第二百五十
+section: 草部
+author: 李时珍
+authorSlug: li-shi-zhen
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 417
+sourceId: 53d189960c73
+---
+
+## 正文
+
+### 主治
+
+甘藤：亦名甜藤。断藤流汁，甘美如蜜。有解毒和血之效。
+
+含水藤：解渴、防 。
+
+天仙藤：疗水肿，解疝痛。
+
+紫金藤：补男子肾，敷恶疮肿毒。
+
+南藤：治风。
+
+清风藤：治风湿麻痹。
+
+百灵藤：治风痹。
+
+紫藤：有小毒，治水 （一种心疾）。
+
+落雁木：治脚气肿。
+
+千里及：有小毒，治赤痢、眼疾。
+
+海藤：汁名“藤黄”，有毒，杀虫。
+
+鸡血藤：苦、温；治妇人月经不调，关节酸痛，手足麻木等症。

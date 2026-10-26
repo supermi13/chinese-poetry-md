@@ -1,0 +1,33 @@
+---
+id: gong-yang-gao-gong-yang-chuan-107-wen-gong-shi-yi-nian
+title: 文公·十一年
+section: 文公
+author: 公羊高
+authorSlug: gong-yang-gao
+book: 公羊传
+bookSlug: gong-yang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 107
+sourceId: d9d6f3157a48
+---
+
+## 正文
+
+一、十有一年，春，楚子伐圈。
+
+二、夏，叔彭生会晋郄缺于承匡。
+
+三、秋，曹伯来朝。
+
+四、公子遂如宋。
+
+五、狄侵齐。
+
+六、冬十月甲午，叔孙得臣败狄于咸。
+
+狄者何？长狄也。兄弟三人，一者之齐，一者之鲁，一者之晋。其之齐者，王子成父杀之；其之鲁者，叔孙得臣杀之；则未知其之晋者也。其言败何？大之也。其日何？大之也。其地何？大之也。何以书？记异也。

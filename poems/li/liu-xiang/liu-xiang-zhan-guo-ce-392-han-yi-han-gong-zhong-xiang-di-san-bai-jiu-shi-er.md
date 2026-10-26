@@ -1,0 +1,23 @@
+---
+id: liu-xiang-zhan-guo-ce-392-han-yi-han-gong-zhong-xiang-di-san-bai-jiu-shi-er
+title: 韩一·韩公仲相第三百九十二
+section: 韩一
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 392
+sourceId: fd45c9eca012
+---
+
+## 正文
+
+韩公仲相。齐、楚之交善秦。秦、魏遇，且以善齐而绝齐乎楚。王使景鲤之秦，鲤与于秦、魏之遇。楚王怒景鲤，恐齐以楚遇为有阴于秦、魏也，且罪景鲤。
+
+为谓楚王曰：“臣贺鲤之与于遇也。秦、魏之遇也，将以合齐、秦而绝齐于楚也。今鲤与于遇，齐无以信魏之合己于秦而攻于楚也，齐又畏楚之有阴于秦、魏也，必重楚。故鲤之与于遇，王之大资也。今鲤不与遇，魏之绝齐于楚明矣。齐、楚信之，必轻王，故王不如无罪景鲤，以视齐于有秦、魏，齐必重楚，而且疑秦、魏于齐。”王曰：“诺。”因不罪而益其列。

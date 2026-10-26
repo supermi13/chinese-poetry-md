@@ -1,0 +1,23 @@
+---
+id: li-quan-tai-bai-yin-jing-050-yu-bei-you-yi-di-ting-pian-di-wu-shi
+title: 预备·游奕地听篇第五十
+section: 预备
+author: 李筌
+authorSlug: li-quan
+book: 太白阴经
+bookSlug: tai-bai-yin-jing
+dynasty: 唐
+dynastySlug: tang
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 50
+sourceId: e105173f8f7a
+---
+
+## 正文
+
+经曰：於奇兵中，选骁果、谙山川井泉者，与烽子马铺土河，计会交牌，日夕逻候於庭障之外，捉生事，问敌营虚实，我之密谋，勿令游奕人知。其副使子将并久谙军旅、好身手者任。
+
+地听，选少睡者，令枕空胡[上皿下鹿]卧，有人马行三十里外，东西南北皆有响见於胡[上皿下鹿]中，名曰：地听。可预防奸，野猪皮为胡[上皿下鹿]尤妙。

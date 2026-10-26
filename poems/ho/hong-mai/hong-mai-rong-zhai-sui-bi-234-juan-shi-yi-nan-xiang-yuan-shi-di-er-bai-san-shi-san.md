@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-234-juan-shi-yi-nan-xiang-yuan-shi-di-er-bai-san-shi-san
+title: 卷十一·南乡掾史第二百三十三
+section: 卷十一
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 234
+sourceId: 3bfe59d0636c
+---
+
+## 正文
+
+金石刻有《晋南乡太守马整碑》，其阴刻掾史以下姓名，合三百五十一。议曹祭酒十一人，掾二十九人，诸曹掾、史、书佐、循行、干百三十一人，从掾位者九十六人，从史位者三十一人，部曲督将三十六人，其冗如此。以《晋史》考之，南乡本南阳西界，魏武平荆州，始分为郡。至晋泰始中，所管八县，才二万户耳，而掾史若是之多！掾史既然，吏士又可知矣。民力安得不困哉！整乃宗室安平王孚之孙也。

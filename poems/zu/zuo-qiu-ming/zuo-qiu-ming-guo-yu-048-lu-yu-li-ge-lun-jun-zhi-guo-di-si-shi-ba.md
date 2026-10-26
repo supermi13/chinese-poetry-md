@@ -1,0 +1,21 @@
+---
+id: zuo-qiu-ming-guo-yu-048-lu-yu-li-ge-lun-jun-zhi-guo-di-si-shi-ba
+title: 鲁语·里革论君之过第四十八
+section: 鲁语
+author: 左丘明
+authorSlug: zuo-qiu-ming
+book: 国语
+bookSlug: guo-yu
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 48
+sourceId: c0bd1666b2a6
+---
+
+## 正文
+
+晋人杀厉公，边人以告，成公在朝。公曰：“臣杀其君，谁之过也？”大夫莫对，里革曰：“君之过也。夫君人者，其威大矣。失威而至于杀，其过多矣。且夫君也者，将牧民而正其邪者也，若君纵私回而弃民事，民旁有慝无由省之，益邪多矣。若以邪临民，陷而不振，用善不肯专，则不能使，至于殄灭而莫之恤也，将安用之？桀奔南巢，纣踣于京，厉流于彘，幽灭于戏，皆是术也。夫君也者，民之川泽也。行而从之，美恶皆君之由，民何能为焉。”

@@ -1,0 +1,23 @@
+---
+id: yi-ming-bai-zhan-qi-lve-099-di-shi-juan-hao-zhan-di-jiu-shi-jiu
+title: 第十卷·好战第九十九
+section: 第十卷
+author: 佚名
+authorSlug: yi-ming
+book: 百战奇略
+bookSlug: bai-zhan-qi-lve
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 99
+sourceId: 56debb5bd397
+---
+
+## 正文
+
+夫兵者，凶器也；战者，逆德也。实不获已而用之。不可以国之大、民之众，尽锐征伐，争战不止，终致败亡，悔无所追。然兵犹火也，弗戢，将有自焚之患；黩武穷兵，祸不旋踵。法曰：“国虽大，好战必亡。”
+
+隋之炀帝，国非不大，民非不众，嗜武好战，日寻干戈，征伐不休，及事变兵败辽城，祸起萧墙，岂不为后世笑乎？吁，为人君者，可不慎哉！

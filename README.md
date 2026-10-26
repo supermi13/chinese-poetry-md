@@ -12,7 +12,7 @@
 
 示例：`poems/li/li-bai/li-bai-jing-ye-si-chuang-qian-ming-yue-guang.md`、`poems/su/su-shi/bio.md`。
 
-古籍条目同在此结构内，文件名带书名段：`poems/la/lao-zi/lao-zi-di-ba-shi-yi-zhang.md`、`poems/si/si-ma-qian/si-ma-qian-shi-ji-bo-yi-lie-zhuan-di-yi.md`、`poems/la/lao-zi/lao-zi-mingju-021f273e.md`（名句）。
+古籍条目同在此结构内：`poems/la/lao-zi/lao-zi-001-dao-jing-di-yi-zhang.md`（章节）、`poems/si/si-ma-qian/si-ma-qian-shi-ji-001-shi-er-ben-ji-wu-di-ben-ji-di-yi.md`、`poems/la/lao-zi/lao-zi-mingju-0001-2a984347.md`（名句）。
 
 ## 单首 .md 格式
 
@@ -24,11 +24,13 @@
 
 ### 两类条目
 
-1. **古籍章节**：`poems/<2字母>/<作者slug>/<作者slug>-<书名slug>-<章节slug>.md`
+1. **古籍章节**：`poems/<2字母>/<作者slug>/<作者slug>-<书名slug>-<4位序号>-<章节slug>.md`
    frontmatter：`id` / `title` / `author` / `authorSlug` / `book` / `bookSlug` / `dynasty` / `tags`（首项 `古籍`，后接四部分类）/ `chapterIndex` / `sourceId`，正文在 `## 正文`。
-   作者 slug 与书名 slug 相同时省略书名段（如 `lao-zi-di-ba-shi-yi-zhang.md`）；同书内章节重名追加 `-c<序号>` 区分。
-2. **古籍名句**：`poems/<2字母>/<作者slug>/<作者slug>-<书名slug>-mingju-<hash8>.md`
-   frontmatter 额外带 `type: 名句`、`book`、`from`（摘自，如「老子·德经·第六十四章」），正文区块为 `## 正文`（名句原文）、`## 译文`、`## 注释`、`## 赏析`。
+   - 作者 slug 与书名 slug 相同时省略书名段（如 `lao-zi-001-di-yi-zhang.md`）。
+   - **章节标题保留目录分组**：目录页带分组标头的典籍（91 部，如《晋书》的「帝纪/志/列传」、《太平御览》的各部），标题写成 `帝纪·第一章`，并另有 `section: 帝纪` 字段；这消除了同书内「第一章」重名的歧义。
+   - **文件名带 4 位顺序号**（`0001`…），保证按书的阅读顺序排列，而非按拼音排序。
+2. **古籍名句**：`poems/<2字母>/<作者slug>/<作者slug>-<书名slug>-mingju-<4位序号>-<hash8>.md`
+   frontmatter 额外带 `type: 名句`、`book`、`from`（摘自，如「老子·德经·第六十四章」），正文区块为 `## 正文`（名句原文）、`## 译文`、`## 注释`、`## 赏析`；序号按其所属章节在书中的位置排序。
 
 典籍层级元数据（书名、作者、朝代、四部分类、章节数与名句数、落盘路径）见仓库根 `gushiwen_catalog.json`。
 

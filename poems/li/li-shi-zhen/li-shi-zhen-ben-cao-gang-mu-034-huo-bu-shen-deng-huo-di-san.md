@@ -1,0 +1,31 @@
+---
+id: li-shi-zhen-ben-cao-gang-mu-034-huo-bu-shen-deng-huo-di-san
+title: 火部·神灯火第三
+section: 火部
+author: 李时珍
+authorSlug: li-shi-zhen
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 34
+sourceId: 6b625deed2ca
+---
+
+## 正文
+
+### 释名
+
+把桃树枝削成针状，如鸡蛋大，长五、六寸，放干待用。用时以棉纸三、五层衬于患处，将针蘸麻油点着，即刻吹熄，趁热针刺。
+
+### 主治
+
+心腹冷痛，风寒湿痹，附骨阻疽等。凡在筋骨隐痛者，针刺后，火气直达患处，疗效显著。
+
+### 附方
+
+雷火神针：用熟蕲艾末二两，乳香、没药、穿山甲、硫磺、雄黄、草乌头、川乌头、桃树皮各一线，麝香五分，共研为末，放在纸里，卷成捻子，如指头粗细，长三、四寸。蘸油点燃后，吹熄明火，隔纸十层，趁热触患处，热气直入内部，效果也很显著。所治病，如神针火。

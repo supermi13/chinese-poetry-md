@@ -1,0 +1,23 @@
+---
+id: liu-xiang-zhan-guo-ce-464-yan-er-yan-ji-zhao-jiang-fa-zhi-di-si-bai-liu-shi-si
+title: 燕二·燕饥赵将伐之第四百六十四
+section: 燕二
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 464
+sourceId: 669ace04762a
+---
+
+## 正文
+
+燕饥，赵将伐之。楚使将军之燕，过魏，见赵恢。赵恢曰：“使除患无至，易于救患。伍子胥、宫之奇不用，烛之武、张孟谈受大赏。是故谋者皆从事于除患之道，而先使除患无至者，今予以百金送公也，不如以言。公听吾言而说赵王曰：‘昔者吴伐齐，为其饥也，伐齐未必胜也，而弱越乘其弊以霸。今王之伐燕也，亦为其饥也，伐之未必胜，而强秦将以兵承王之西，是使弱赵居强吴之处，而使强秦处弱越之所以霸也。愿王之熟计之也。’”
+
+使者乃以说赵王，赵王大悦，乃止。燕昭王闻之，乃封之以地。

@@ -2,9 +2,14 @@
 """把古文岛抓取结果生成到 chinese-poetry-md 的 poems/ 结构。
 
 产出两类条目，均沿用仓内诗词 frontmatter：
-  1. 古籍章节  poems/<2字母>/<作者slug>/<作者slug>-<书名slug>-<章节slug>.md
-  2. 古籍名句  poems/<2字母>/<作者slug>/<作者slug>-<书名slug>-mingju-<hash8>.md
+  1. 古籍章节  poems/<2字母>/<作者slug>/<作者slug>-<书名slug>-<4位序号>-<章节slug>.md
+  2. 古籍名句  poems/<2字母>/<作者slug>/<作者slug>-<书名slug>-mingju-<4位序号>-<hash8>.md
      （含 摘自 / 译文 / 注释 / 赏析 区块）
+
+要点：
+  - 章节标题带上目录分组（如《晋书》的「帝纪·第八章」），消除同名歧义；
+  - 文件名带 4 位顺序号，保证文件管理器/编辑器里按书的阅读顺序排列；
+  - 名句按所属章节在书中的位置排序。
 
 用法：
   python build_gw.py <target_poems_dir>
@@ -33,7 +38,6 @@ def clean_author(raw):
 
 
 def author_slug_base(name):
-    """作者名用于 slug 的部分：截掉“及…”等并列修饰"""
     s = re.split(r"(及其|及|等)", name)[0].strip()
     return s or name
 
@@ -46,8 +50,7 @@ def split_cat(cat):
     return [cat] if cat else []
 
 
-def safe_name(stem, adir, limit=120):
-    """避免 Windows 长路径：超长截断并加短 hash"""
+def safe_name(stem, limit=130):
     if len(stem) <= limit:
         return stem
     h = hashlib.md5(stem.encode("utf-8")).hexdigest()[:8]
@@ -60,15 +63,16 @@ def build(target_poems):
                 json.load(open(os.path.join(ROOT, "gw_chapters.json"), encoding="utf-8"))}
     jp = os.path.join(ROOT, "gw_mingju_detail.json")
     juvs = json.load(open(jp, encoding="utf-8")) if os.path.exists(jp) else []
+
     # 名句归属校正：站点按书名模糊匹配，可能把《后汉书》的名句挂到《汉书》下；
     # 以详情页「摘自《X·Y》」的 X 为准重定向到正确的书。
     by_title = {b["title"]: b for b in books}
-    order = sorted(by_title, key=len, reverse=True)
+    order_title = sorted(by_title, key=len, reverse=True)
 
     def resolve(book_hash, frm):
         head = re.split(r"[·•]", (frm or "").strip())[0] if frm else ""
         if head:
-            for t in order:                      # 最长书名优先
+            for t in order_title:
                 if head == t or head.startswith(t):
                     return by_title[t]
         return next((b for b in books if b["hash"] == book_hash), None)
@@ -79,9 +83,9 @@ def build(target_poems):
         if tgt:
             if tgt["hash"] != j.get("book"):
                 retarget += 1
-            j = dict(j)
-            j["_book"] = tgt
-            juv_by_book.setdefault(tgt["hash"], []).append(j)
+            jj = dict(j)
+            jj["_book"] = tgt
+            juv_by_book.setdefault(tgt["hash"], []).append(jj)
         else:
             juv_by_book.setdefault(j.get("book", ""), []).append(j)
     print("名句归属校正:", retarget, flush=True)
@@ -94,11 +98,13 @@ def build(target_poems):
     by_name_dyn, by_name = scan_existing(scan_dir)
     print("existing authors:", len(set(by_name.values())), flush=True)
 
+    only = set(x.strip() for x in os.environ.get("GW_ONLY", "").split(",") if x.strip())
+
     catalog = []
     n_ch = n_juv = conflicts = 0
     bytes_total = 0
+    grouped_books = 0
 
-    only = set(x.strip() for x in os.environ.get("GW_ONLY", "").split(",") if x.strip())
     for b in books:
         title = b["title"]
         if only and title not in only:
@@ -114,24 +120,33 @@ def build(target_poems):
         adir = os.path.join(target_poems, letter, aslug)
         os.makedirs(adir, exist_ok=True)
 
-        book_ch, book_juv = 0, 0
-        for idx, c in enumerate(b.get("chapters", []), 1):
+        prefix = aslug if aslug == bslug else f"{aslug}-{bslug}"
+        chaps_all = b.get("chapters", [])
+        width = max(3, len(str(len(chaps_all))))
+        book_ch = book_juv = 0
+        has_group = False
+
+        for idx, c in enumerate(chaps_all, 1):
             body = chapters.get(c["hash"])
             if not body or not body["paras"]:
                 continue
+            group = (c.get("group") or "").strip()
             ctitle = c["title"] or body["title"]
-            prefix = aslug if aslug == bslug else f"{aslug}-{bslug}"
-            stem = safe_name(f"{prefix}-{slugify(ctitle, 70)}", adir)
+            full_title = f"{group}·{ctitle}" if group else ctitle
+            if group:
+                has_group = True
+            seq = f"{idx:0{width}d}"
+            stem = safe_name(f"{prefix}-{seq}-{slugify(full_title, 60)}")
             fp = os.path.join(adir, stem + ".md")
             if os.path.exists(fp):
                 conflicts += 1
-                cand = os.path.join(adir, f"{stem}-c{idx:03d}.md")
-                fp = cand if not os.path.exists(cand) else os.path.join(
-                    adir, f"{stem}-c{idx:03d}-{c['hash'][:6]}.md")
+                fp = os.path.join(adir, f"{stem}-{c['hash'][:6]}.md")
             text = render_body(body["paras"])
-            fm = ["---", f"id: {os.path.basename(fp)[:-3]}", f"title: {ctitle}",
-                  f"author: {author}", f"authorSlug: {aslug}",
-                  f"book: {title}", f"bookSlug: {bslug}"]
+            fm = ["---", f"id: {os.path.basename(fp)[:-3]}", f"title: {full_title}"]
+            if group:
+                fm.append(f"section: {group}")
+            fm += [f"author: {author}", f"authorSlug: {aslug}",
+                   f"book: {title}", f"bookSlug: {bslug}"]
             if dynasty:
                 fm += [f"dynasty: {dynasty}", f"dynastySlug: {slugify(dynasty, 20)}"]
             fm += ["tags:", "  - 古籍"]
@@ -144,17 +159,17 @@ def build(target_poems):
             bytes_total += len(out.encode("utf-8"))
             book_ch += 1
 
-        for j in juv_by_book.get(b["hash"], []):
+        # 名句：按其所属章节在书中的位置排序，同章内保持站点顺序
+        here = juv_by_book.get(b["hash"], [])
+        pos = {c["hash"]: i for i, c in enumerate(chaps_all, 1)}
+        here = [x for _, x in sorted(
+            enumerate(here), key=lambda t: (pos.get(t[1].get("fromHash", ""), 10 ** 6), t[0]))]
+        for j_i, j in enumerate(here, 1):
             jtext = (j.get("text") or "").strip()
             if not jtext:
                 continue
-            # 该名句所属书（可能是校正后的书）
-            jb = j.get("_book") or b
-            if jb["hash"] != b["hash"]:
-                continue   # 在它自己所属的书环节生成
             jhash = j.get("juv", "")[:8]
-            mprefix = aslug if aslug == bslug else f"{aslug}-{bslug}"
-            stem = safe_name(f"{mprefix}-mingju-{jhash}", adir)
+            stem = safe_name(f"{prefix}-mingju-{j_i:04d}-{jhash}")
             fp = os.path.join(adir, stem + ".md")
             if os.path.exists(fp):
                 conflicts += 1
@@ -182,20 +197,22 @@ def build(target_poems):
 
         n_ch += book_ch
         n_juv += book_juv
+        if has_group:
+            grouped_books += 1
         catalog.append({"hash": b["hash"], "title": title, "slug": bslug,
                         "author": author, "authorRaw": author_raw, "authorSlug": aslug,
                         "path": f"poems/{letter}/{aslug}/", "dynasty": dynasty,
                         "cat": b.get("cat", ""), "categories": cats,
                         "chapters": book_ch, "declaredChapters": b.get("total", 0),
                         "mingju": book_juv, "declaredMingju": b.get("mingjuCount", 0),
-                        "desc": b.get("desc", "")})
-        print(f"[{title:<10}] {book_ch:>4}章 {book_juv:>4}名句 -> poems/{letter}/{aslug}/",
-              flush=True)
+                        "grouped": has_group, "desc": b.get("desc", "")})
+        print(f"[{title:<10}] {book_ch:>4}章 {book_juv:>4}名句"
+              f"{' [分组]' if has_group else ''} -> poems/{letter}/{aslug}/", flush=True)
 
     json.dump(catalog, open(os.path.join(ROOT, "gushiwen_catalog.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
     print(f"\nDONE books={len(catalog)} chapters={n_ch} mingju={n_juv} "
-          f"conflicts={conflicts} size={bytes_total/1048576:.1f} MB")
+          f"groupedBooks={grouped_books} conflicts={conflicts} size={bytes_total/1048576:.1f} MB")
 
 
 if __name__ == "__main__":

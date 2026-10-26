@@ -1,0 +1,23 @@
+---
+id: yi-ming-yi-chuan-103-xiang-chuan-xia-jian-di-yi-bai-ling-san
+title: 象传下·蹇第一百零三
+section: 象传下
+author: 佚名
+authorSlug: yi-ming
+book: 易传
+bookSlug: yi-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 易类
+chapterIndex: 103
+sourceId: 470243ac3d88
+---
+
+## 正文
+
+山上有水，蹇；君子以反身修德。
+
+往蹇来誉，宜待也。王臣蹇蹇，终无尤也。往蹇来反，内喜之也。往蹇来连，当位实也。大蹇朋来，以中节也。往蹇来硕，志在内也。利见大人，以从贵也。

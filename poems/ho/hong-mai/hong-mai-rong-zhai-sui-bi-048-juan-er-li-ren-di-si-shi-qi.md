@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-048-juan-er-li-ren-di-si-shi-qi
+title: 卷二·里仁第四十七
+section: 卷二
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 48
+sourceId: 1bd63e805572
+---
+
+## 正文
+
+“里仁为美，择不处仁，焉得智？”孟子论函矢巫匠之术，而引此以质之，说者多以里为居，居以亲仁为美。予尝记一说云，函矢巫匠皆里中之仁也。然于仁之中有不仁存焉，则仁亦在夫择之而已矣。尝于郑景望言之，景望不以为然。予以为此特谓闾巷之间所推以为仁者，固在所择，正合孟子之意。不然，仁之为道大矣，尚安所择而处哉？

@@ -1,0 +1,21 @@
+---
+id: yang-ji-zhou-zhen-jiu-da-cheng-084-juan-wu-liu-zhu-kai-he-yi-xue-ru-men-di-ba-shi-si
+title: 卷五·流注开阖（医学入门）第八十四
+section: 卷五
+author: 杨继洲
+authorSlug: yang-ji-zhou
+book: 针灸大成
+bookSlug: zhen-jiu-da-cheng
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 84
+sourceId: d68f5cdc1ec3
+---
+
+## 正文
+
+人每日一身周流六十六穴，每时周流五穴（除六原穴，乃过经之所）。相生相合者为开，则刺之。相克者为阖，则不刺。阳生阴死，阴生阳死。如甲木死于午，生于亥。乙木死于亥，生于午。丙火生于寅，死于酉。丁火生于酉，死于寅。戊土生于寅，死于酉。己土生于酉，死于寅。庚金生于巳，死于子。辛金生于子，死于巳。壬水生于申，死于卯。癸水生于卯，死于申。凡值生我我生，及相合者，乃气血生旺之时，故可辨虚实刺之。克我我克，及阖闭时穴，气血正直衰绝，非气行未至，则气行已过，误刺妄引邪气，坏乱真气，实实虚虚，其害非小。

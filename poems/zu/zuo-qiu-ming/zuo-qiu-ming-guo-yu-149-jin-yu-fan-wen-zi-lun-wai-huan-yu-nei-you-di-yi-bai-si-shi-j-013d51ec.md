@@ -1,0 +1,21 @@
+---
+id: zuo-qiu-ming-guo-yu-149-jin-yu-fan-wen-zi-lun-wai-huan-yu-nei-you-di-yi-bai-si-shi-j-013d51ec
+title: 晋语·范文子论外患与内忧第一百四十九
+section: 晋语
+author: 左丘明
+authorSlug: zuo-qiu-ming
+book: 国语
+bookSlug: guo-yu
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 149
+sourceId: 6a65e596626d
+---
+
+## 正文
+
+鄢之役，晋伐郑，荆救之。大夫欲战，范文子不欲，曰：“吾闻之，君人者刑其民，成，而后振武于外，是以内和而外威。今吾司寇之刀锯日弊，而斧钺不行。内犹有不刑，而况外乎？夫战，刑也，刑之过也。过由大，而怨由细，故以惠诛怨，以忍去过。细无怨而大不过，而后可以武，刑外之不服者。今吾刑外乎大人，而忍于小民，将谁行武？武不行而胜，幸也。幸以为政，必有内忧。且唯圣人能无外患，又无内忧，讵非圣人，必偏而后可。偏而在外，犹可救也，疾自中起，是难。盍姑释荆与郑以为外患乎。”

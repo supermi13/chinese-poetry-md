@@ -1,0 +1,29 @@
+---
+id: li-shi-zhen-ben-cao-gang-mu-053-tu-bu-tu-ji-di-shi-wu
+title: 土部·土墼第十五
+section: 土部
+author: 李时珍
+authorSlug: li-shi-zhen
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 53
+sourceId: 1b88a10a28dc
+---
+
+## 正文
+
+### 释名
+
+墼，音急。亦名煤赭。这是烧石灰窑中流结的土渣。质轻，色赭。
+
+### 主治
+
+治妇女鳖瘕(肿起如盘，不能躺卧，好象有鳖伏在身上一般)，头上诸疮，红肿痰核等。用土 研成细末，调菜油涂搽。肿渐消去，或破口流脓，病自痊愈。
+
+治头上白秃瘌痢。用土 四两、百草霜一两、雄黄一两、胆矾六钱、榆皮三钱、轻粉一钱，共研为末，猪胆汁调匀，剃头后涂搽。

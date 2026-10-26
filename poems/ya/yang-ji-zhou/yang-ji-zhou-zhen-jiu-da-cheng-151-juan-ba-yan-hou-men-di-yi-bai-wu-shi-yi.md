@@ -1,0 +1,43 @@
+---
+id: yang-ji-zhou-zhen-jiu-da-cheng-151-juan-ba-yan-hou-men-di-yi-bai-wu-shi-yi
+title: 卷八·咽喉门第一百五十一
+section: 卷八
+author: 杨继洲
+authorSlug: yang-ji-zhou
+book: 针灸大成
+bookSlug: zhen-jiu-da-cheng
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 151
+sourceId: 5daa6e1e654f
+---
+
+## 正文
+
+喉痹：颊车合谷少商尺泽经渠阳溪大陵二间前谷。
+
+鼓颔：少商。
+
+咽中如梗：间使三间。
+
+咽肿：中渚太溪。
+
+咽外肿：液门。
+
+咽食不下：灸膻中。
+
+咽中闭：曲池合谷。
+
+咽喉肿痛，闭塞，水粒不下：合谷少商兼以三棱针刺手大指背头节上甲根下，排刺三针。
+
+双蛾：玉液金津少商。
+
+单蛾：少商合谷廉泉。
+
+咽喉肿闭甚者：以细三棱针藏于笔尖中，戏言以没药调点肿痹处，乃刺之。否则病人恐惧，不能愈疾。
+
+咽痛：风府。

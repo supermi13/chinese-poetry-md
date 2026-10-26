@@ -1,0 +1,21 @@
+---
+id: si-shou-qian-xun-meng-pian-ju-017-xia-juan-er-xiao
+title: 下卷·二萧
+section: 下卷
+author: 司守谦
+authorSlug: si-shou-qian
+book: 训蒙骈句
+bookSlug: xun-meng-pian-ju
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 17
+sourceId: 43663c5798c6
+---
+
+## 正文
+
+红芍药，绿芭蕉。杏花冉冉，枫叶萧萧。云开山见面，雪化竹伸腰。武士战争披铁甲，美人歌舞堕金翘。怀古不忘，岂在汤盘并周鼎；读书最乐，何分曾瑟与颜瓢。裁兽锦，剪鲛绡。耕云野老，卧雪山寮。珠帘昼半卷，银烛夜高烧。驰骤乌骓能致远，缗蛮黄鸟识迁乔。学士参禅，座内合当留玉带；谪仙爱饮，樽前不惜解金貂。乘五马，贯双雕。闲看妓舞，细听童谣。庄龟山刻节，渡蚁竹编桥。穿花白蝶双飞急，藏叶黄鹂百啭娇。日丽苑林，点点梅妆宋主额；风扬宫院，纤纤柳舞楚娥腰。

@@ -1,0 +1,27 @@
+---
+id: ceng-guo-fan-ceng-guo-fan-jia-shu-085-zhi-jia-pian-zhi-zhu-di-shu-liu-di-fu-zhi-jia-xian-hui-er-mi-9ac1bf1e
+title: 治家篇·致诸弟&#183;述六弟妇治家贤慧而命最苦第八十五
+section: 治家篇
+author: 曾国藩
+authorSlug: ceng-guo-fan
+book: 曾国藩家书
+bookSlug: ceng-guo-fan-jia-shu
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 集部
+  - 别集类
+chapterIndex: 85
+sourceId: 16fd27decc24
+---
+
+## 正文
+
+澄侯沅甫季洪老弟阁下：十五日接叔父患病之信，十六日专王法六送鹿茸回家限年内赶到。十七早接澄弟两信，沅弟一信，叔父病势已愈，大幸大幸！
+
+温弟之事，日内计已说破，不知叔父与温弟妇能少节哀否？温弟妇治家最好，而赋命最苦，不知天理何以全不可凭？
+
+十八夜接希庵信，知六弁沅弟所派已回，皆未寻得；而迪奄遗骨，于初一日已搬至霍山县，同一殉节，而又有幸有不幸若此。
+
+余又专五人去寻，中有二人，系贼中逃出者，言必可至三河故垒，其三人则杨名声杨镇南张涂也，能寻得遗骸，尚是不幸中之一幸，否则吾何面见吾祖考妣及考妣于地下哉？（咸丰八年十二月二十日）

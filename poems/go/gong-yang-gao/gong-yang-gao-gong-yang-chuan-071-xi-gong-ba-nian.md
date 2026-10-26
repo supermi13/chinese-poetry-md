@@ -1,0 +1,31 @@
+---
+id: gong-yang-gao-gong-yang-chuan-071-xi-gong-ba-nian
+title: 僖公·八年
+section: 僖公
+author: 公羊高
+authorSlug: gong-yang-gao
+book: 公羊传
+bookSlug: gong-yang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 71
+sourceId: e3ecfd95cf97
+---
+
+## 正文
+
+一、八年，春王正月，公会王人、齐侯、宋公、卫侯、许男、曹伯、陈世子款、郑世子华，盟于洮。郑伯乞盟。
+
+王人者何？微者也。曷为序乎诸侯之上？先王命也。郑伯乞盟。乞盟者何？处其所而请与也。其处其所而请与奈何？盖酌之也。
+
+二、夏，狄伐晋。
+
+三、秋七月，禘于太庙，用致夫人。
+
+用者何？用者不宜用也。致者何？致者不宜致也。禘用致夫人，非礼也。夫人何以不称姜氏？贬。曷为贬？讥以妾为妻也。其言以妾为妻奈何？盖胁于齐媵女之先至者也。
+
+四、冬十有二月丁未，天王崩。

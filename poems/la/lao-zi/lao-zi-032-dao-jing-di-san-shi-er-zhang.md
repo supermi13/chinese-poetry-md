@@ -1,0 +1,21 @@
+---
+id: lao-zi-032-dao-jing-di-san-shi-er-zhang
+title: 道经·第三十二章
+section: 道经
+author: 老子
+authorSlug: lao-zi
+book: 老子
+bookSlug: lao-zi
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 32
+sourceId: 985b84b7f0a6
+---
+
+## 正文
+
+道常无名，朴虽小，天下莫能臣。侯王若能守之，万物将自宾。天地相合，以降甘露，民莫之令而自均。始制有名，名亦既有，夫亦将知止，知止可以不殆。譬道之在天下，犹川谷之於江海。

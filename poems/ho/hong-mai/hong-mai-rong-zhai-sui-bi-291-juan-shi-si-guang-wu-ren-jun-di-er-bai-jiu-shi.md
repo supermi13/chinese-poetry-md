@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-291-juan-shi-si-guang-wu-ren-jun-di-er-bai-jiu-shi
+title: 卷十四·光武仁君第二百九十
+section: 卷十四
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 291
+sourceId: 3cee4198895b
+---
+
+## 正文
+
+汉光武虽以征伐定天下，而其心未尝不以仁恩招怀为本。隗嚣受官爵而复叛，赐诏告之曰：“若束手自诣，保无他也。”公孙述据蜀，大军征之垂灭矣，犹下诏谕之曰：“勿以来歙、岑彭受害自疑，今以时自诣，则家族全，诏书手记不可数得，朕不食言。”遣冯异西征，戒以平定安集为急。怒吴汉杀降，责以失斩将吊民之义，可谓仁君矣。萧铣举荆楚降唐，而高祖怒其逐鹿之对，诛之于市，其隘如此，《新史》犹以高祖为圣，岂理也哉？

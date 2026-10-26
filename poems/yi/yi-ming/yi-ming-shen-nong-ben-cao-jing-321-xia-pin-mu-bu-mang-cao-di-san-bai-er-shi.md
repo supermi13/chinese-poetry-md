@@ -1,0 +1,31 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-321-xia-pin-mu-bu-mang-cao-di-san-bai-er-shi
+title: 下品·木部·莽草第三百二十
+section: 下品·木部
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 321
+sourceId: 762dad4f1f6a
+---
+
+## 正文
+
+味辛温。
+
+主风头痈肿，乳痈，疝瘕，除结气疥搔（《御览》有疽疮二字），杀虫鱼。生山谷。
+
+《吴普》曰：莽草一名春草，神农辛，雷公桐君苦有毒，生上谷山谷中，或冤句，五月采，治风（《御览》）。
+
+《名医》曰：一名葞，一名春草，生上谷及冤句，五月采叶，阴干。
+
+案《中山经》云：朝歌之山有草焉，名曰莽草，可以毒鱼，又山有木焉，其状如棠而赤，叶可以毒鱼，《尔雅》云：葞，春草。郭璞云：一名芒草。本草云：《周礼》云，翦氏掌除蠹物，以熏草莽之。《范子计然》云：莽草，出三辅者善。
+
+陶宏景云：字亦作两。

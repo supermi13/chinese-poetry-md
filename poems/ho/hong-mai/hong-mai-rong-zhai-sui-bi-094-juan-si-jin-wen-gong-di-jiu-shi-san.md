@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-094-juan-si-jin-wen-gong-di-jiu-shi-san
+title: 卷四·晋文公第九十三
+section: 卷四
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 94
+sourceId: f603f772fbc8
+---
+
+## 正文
+
+晋公子重耳自狄适他国凡七，卫成公、曹共公、郑文公皆不礼焉，齐醒公妻以女，宋襄公赠以马，楚成王享之，秦穆公纳之，卒以得国。卫、曹、郑皆同姓，刘、宋、秦、楚皆异姓，非所谓“岂无他人，不如同姓”也。晋文公卒未葬，秦师伐郑灭滑，无预晋事，晋先轸以为秦不哀吾丧，而伐吾同姓，背秦大惠，使襄公墨衰绖而伐之。虽幸胜于殽，终启焚舟之战，两国交兵，不复修睦者数百年。先轸是年死于狄，至孙縠而诛灭，天也。

@@ -1,0 +1,39 @@
+---
+id: gong-yang-gao-gong-yang-chuan-099-wen-gong-san-nian
+title: 文公·三年
+section: 文公
+author: 公羊高
+authorSlug: gong-yang-gao
+book: 公羊传
+bookSlug: gong-yang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 99
+sourceId: 06ab88d234fb
+---
+
+## 正文
+
+一、三年，春王正月，叔孙得臣会晋人、宋人、陈人、卫人、郑人伐沈，沈溃。
+
+二、夏五月，王子虎卒。
+
+王子虎者何？天子之大夫也。外大夫不卒，此何以卒？新使乎我也。
+
+三、秦人伐晋。
+
+四、秋，楚人围江。
+
+五、雨螽于宋。
+
+雨螽者何？死而坠也。何以书？记异也。外异不书，此何以书？为王者之后记异也。
+
+六、冬，公如晋。十有二月己巳，公及晋侯盟。
+
+七、晋阳处父帅师伐楚以救江。
+
+此伐楚也，其言救江何？为谖也。其为谖奈何？伐楚为救江也。

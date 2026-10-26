@@ -1,0 +1,41 @@
+---
+id: gu-liang-chi-gu-liang-chuan-109-wen-gong-shi-san-nian
+title: 文公·十三年
+section: 文公
+author: 穀梁赤
+authorSlug: gu-liang-chi
+book: 谷梁传
+bookSlug: gu-liang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 109
+sourceId: 232e708c2a45
+---
+
+## 正文
+
+一、十有三年，春，王正月。
+
+二、夏，五月，壬午，陈侯朔卒。
+
+三、邾子蘧篨卒。
+
+四、自正月不雨，至于秋七月。
+
+五、大室屋坏。
+
+大室屋坏者，有坏道也，讥不修也。大室犹世室也。周公曰大庙，伯禽曰大室，群公曰宫。礼，宗庙之事，君亲割，夫人亲舂，敬之至也。为社稷之主，而先君之庙坏，极称之，志不敬也。
+
+六、冬，公如晋。卫侯会公于沓。
+
+七、狄侵卫。
+
+八、十有二月，乙丑，公及晋侯盟。
+
+九、公还自晋，郑伯会公于棐。
+
+还者，事未毕也，自晋事毕也。

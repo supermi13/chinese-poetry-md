@@ -1,0 +1,21 @@
+---
+id: liu-xiang-zhan-guo-ce-248-zhao-san-qi-po-yan-zhao-yu-cun-zhi-di-er-bai-si-shi-ba
+title: 赵三·齐破燕赵欲存之第二百四十八
+section: 赵三
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 248
+sourceId: 109a63bd7c67
+---
+
+## 正文
+
+齐破燕，赵欲存之。乐毅谓赵王曰：“今无约而攻齐，齐必仇赵。不如请以河东易燕地于齐。赵有河北，齐有河东，燕、赵必不争矣。是二国亲也。以河东之地强齐，以燕以赵辅之，天下憎之，必皆事王以伐齐。是因天下以破齐也。”王曰：“善。”乃以河东易齐，楚、魏憎之，令淖滑、惠施之赵，请伐齐而存燕。

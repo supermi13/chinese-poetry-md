@@ -1,0 +1,21 @@
+---
+id: pu-song-ling-liao-zhai-zhi-yi-273-juan-qi-zi-tong-ling-di-er-bai-qi-shi-san
+title: 卷七·梓潼令第二百七十三
+section: 卷七
+author: 蒲松龄
+authorSlug: pu-song-ling
+book: 聊斋志异
+bookSlug: liao-zhai-zhi-yi
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 273
+sourceId: ac8b80aadd1d
+---
+
+## 正文
+
+常进士大忠，太原人。候选在都。前一夜梦文昌投刺，拔签得粹潼令，奇之。后丁艰归，服阕候补，又梦如前。默思岂复任粹潼乎？已而果然。

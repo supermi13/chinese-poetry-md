@@ -1,0 +1,21 @@
+---
+id: si-shou-qian-xun-meng-pian-ju-022-xia-juan-qi-yang
+title: 下卷·七阳
+section: 下卷
+author: 司守谦
+authorSlug: si-shou-qian
+book: 训蒙骈句
+bookSlug: xun-meng-pian-ju
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 22
+sourceId: 1e88fdf67e8f
+---
+
+## 正文
+
+黄金殿，白玉堂。朱楼绣阁，画栋雕梁。玉琴横净几，珍簟展方床。梅碧正迎江岸雨，橘黄颓借洞庭霜。割麦山人，紧束黄云青满担；插秧野老，细分春雨绿成行。开祖帐，踞胡床。弹丝品竹，劝酒称觞。樵歌来绿野，渔笛起沧浪。唤雨斑鸠喉舌冷，宿花蛱蝶梦魂香。天诏初传，仙女锦衣持虎节；大兵来出，将军绣衮压龙骧。麟应瑞，凤呈祥。蝠争昼夜，燕渺炎凉。夜月梧桐院，春风桃李墙。淼淼溪流分燕尾，迢迢山路绕羊肠。唐穆性贪，库内青钱化作蝶；初平术妙，山中白石变成羊。

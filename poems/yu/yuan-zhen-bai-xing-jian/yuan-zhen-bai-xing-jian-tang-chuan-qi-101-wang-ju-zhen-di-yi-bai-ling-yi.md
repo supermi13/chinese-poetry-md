@@ -1,0 +1,32 @@
+---
+id: yuan-zhen-bai-xing-jian-tang-chuan-qi-101-wang-ju-zhen-di-yi-bai-ling-yi
+title: 王居贞第一百零一
+author: 元稹、白行简
+authorSlug: yuan-zhen-bai-xing-jian
+book: 唐传奇
+bookSlug: tang-chuan-qi
+dynasty: 唐
+dynastySlug: tang
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 101
+sourceId: 7ab98ce8bec2
+---
+
+## 正文
+
+明经王居贞者，下第归洛之颍阳。出京，与一道士同行。道士尽日不食。云：“我咽气术也。”
+
+每至居贞睡后灯灭，即开一布囊，取一皮，披之而去；五更复来。他日，居贞佯寝，急夺其囊。道士叩头乞。居贞曰：“言之即还汝。”
+
+遂言：“吾非人，衣者，虎皮也。夜即求食于村鄙中，衣其皮，即夜可驰五百里。”
+
+居贞以离家多时，甚思归，曰：“吾可披乎？”
+
+曰：“可也。”
+
+居贞去家犹百余里，遂披之暂归。夜深，不可入其门，乃见一猪立于门外，擒而食之。逡巡，回，乃还道士皮。及至家，云：“居贞之次子夜出，为虎所食。”
+
+问其日，乃居贞同日，自后一两日甚饱，并不食他物。

@@ -1,0 +1,23 @@
+---
+id: bian-que-nan-jing-051-lun-bing-wu-shi-yi-nan
+title: 论病·五十一难
+section: 论病
+author: 扁鹊
+authorSlug: bian-que
+book: 难经
+bookSlug: nan-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 51
+sourceId: c37a8ce589b3
+---
+
+## 正文
+
+曰：病有欲得温者，有欲得寒者，有欲得见人者，有不欲得见人者，而各不同，病在何脏腑也？
+
+然：病欲得寒，而欲见人者，病在腑也；病欲得温，而不欲见人者，病在脏也。何以言之？腑者阳也，阳病欲得寒，又欲见人；脏者，阴也，阴病欲得温，又欲闭户独处，恶闻人声。故以别知脏腑之病也。

@@ -1,0 +1,23 @@
+---
+id: song-ci-xi-yuan-ji-lu-043-juan-wu-hu-yao-si-di-si-shi-san
+title: 卷五·虎咬死第四十三
+section: 卷五
+author: 宋慈
+authorSlug: song-ci
+book: 洗冤集录
+bookSlug: xi-yuan-ji-lu
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 43
+sourceId: 7275e6e92768
+---
+
+## 正文
+
+凡被虎咬死者，尸肉色黄，口眼多开，两手拳握，发髻散乱，粪出，伤处多不齐整，有舌舐齿咬痕迹。
+
+虎咬人，多咬头项上，身上有爪痕HT 损痕，伤处成窟，或见骨，心头、胸前、臂腿上有伤处，地上有虎迹。勒画匠画出虎迹，并勒村甲及伤人处邻人供责为证。(一云虎咬人，月初咬头项，月中咬腹背，月尽咬两脚，猫儿咬鼠亦然)

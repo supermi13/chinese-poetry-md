@@ -1,0 +1,23 @@
+---
+id: meng-zi-qi-di-zi-meng-zi-130-wan-zhang-zhang-ju-shang-di-ba-jie
+title: 万章章句上·第八节
+section: 万章章句上
+author: 孟子、其弟子及其再传
+authorSlug: meng-zi-qi-di-zi
+book: 孟子
+bookSlug: meng-zi
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 四书类
+chapterIndex: 130
+sourceId: 3733986fc160
+---
+
+## 正文
+
+万章问曰：“或谓孔子于卫主痈疽，于齐主侍人瘠环，有诸乎？”
+
+孟子曰：“否，不然也。好事者为之也。于卫主颜雠由。弥子之妻与子路之妻，兄弟也。弥子谓子路曰：‘孔子主我，卫卿可得也。’子路以告。孔子曰：‘有命。’孔子进以礼，退以义，得之不得曰‘有命’。而主痈疽与侍人瘠环，是无义无命也。孔子不悦于鲁卫，遭宋桓司马将要而杀之，微服而过宋。是时孔子当阨，主司城贞子，为陈侯周臣。吾闻观近臣，以其所为主；观远臣，以其所主。若孔子主痈疽与侍人瘠环，何以为孔子？”

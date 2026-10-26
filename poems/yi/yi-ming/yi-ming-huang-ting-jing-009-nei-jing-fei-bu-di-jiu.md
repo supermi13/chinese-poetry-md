@@ -1,0 +1,21 @@
+---
+id: yi-ming-huang-ting-jing-009-nei-jing-fei-bu-di-jiu
+title: 内景·肺部第九
+section: 内景
+author: 佚名
+authorSlug: yi-ming
+book: 黄庭经
+bookSlug: huang-ting-jing
+dynasty: 魏晋
+dynastySlug: wei-jin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 9
+sourceId: a6c43cf3c2f7
+---
+
+## 正文
+
+肺部之宫似华盖，下有童子坐玉阙。七元之子主调气，外应中岳鼻脐位。素锦衣裳黄云带，喘息呼吸体不快。急存白元和六气，神仙久视无灾害。用之不巳形不滞。

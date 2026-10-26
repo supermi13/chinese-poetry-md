@@ -1,0 +1,20 @@
+---
+id: wang-yong-bin-wei-lu-ye-hua-187-di-yi-ba-qi-ze
+title: 第一八七则
+author: 王永彬
+authorSlug: wang-yong-bin
+book: 围炉夜话
+bookSlug: wei-lu-ye-hua
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 187
+sourceId: 2d370f6e058f
+---
+
+## 正文
+
+士既知学，还恐学而无恒；人不患贫，只要贫而有志。

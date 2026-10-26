@@ -1,0 +1,21 @@
+---
+id: zhu-ge-liang-jiang-yuan-019-juan-yi-jun-du-di-shi-jiu
+title: 卷一·军蠹第十九
+section: 卷一
+author: 诸葛亮
+authorSlug: zhu-ge-liang
+book: 将苑
+bookSlug: jiang-yuan
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 19
+sourceId: 264b6faa0ff5
+---
+
+## 正文
+
+夫三军之行，有探候不审，烽火失度；后期犯令，不应时机，阻乱师徒；乍前乍后，不合金鼓；上不恤下，削敛无度；营私徇己，不恤饥寒；非言妖辞，妄陈祸福；无事喧杂，惊惑将吏；勇不受制，专而陵上；侵竭府库，擅给其财。此九者，三军之蠹，有之必败也。

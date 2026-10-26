@@ -1,0 +1,21 @@
+---
+id: zuo-qiu-ming-guo-yu-123-jin-yu-zheng-shu-zhan-ju-ding-er-er-ji-hao-di-yi-bai-er-shi-d2b08506
+title: 晋语·郑叔詹据鼎耳而疾号第一百二十三
+section: 晋语
+author: 左丘明
+authorSlug: zuo-qiu-ming
+book: 国语
+bookSlug: guo-yu
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 123
+sourceId: b04888fb7ce5
+---
+
+## 正文
+
+文公诛观状以伐郑，反其陴。郑人以名宝行成，公弗许，曰：“予我詹而师还。”詹请往，郑伯弗许，詹固请曰：“一臣可以赦百姓而定社稷，君何爱于巨也？”郑人以詹予晋，晋人将烹之。詹曰：“臣愿获尽辞而死，固所愿也。”公听其辞。詹曰：“天降郑祸，使淫观状，弃礼违亲。臣曰：‘不可。夫晋公子贤明，其左右皆卿才，若复其国，而得志于诸侯，祸无赦矣。’今祸及矣。尊明胜患，智也。杀身赎国，忠也。”乃就烹，据鼎耳而疾号曰：“自今以往，知忠以事君者，与詹同。”乃命弗杀，厚为之礼而归之。郑人以詹伯为将军。

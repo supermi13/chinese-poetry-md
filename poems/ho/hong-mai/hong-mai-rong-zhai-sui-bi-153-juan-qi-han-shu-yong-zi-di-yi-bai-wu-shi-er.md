@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-153-juan-qi-han-shu-yong-zi-di-yi-bai-wu-shi-er
+title: 卷七·汉书用字第一百五十二
+section: 卷七
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 153
+sourceId: af7ce1ac2be1
+---
+
+## 正文
+
+太史公《陈涉世家》：“今亡亦死，举大计亦死，等死，死国可乎？”又曰：“戍死者固什六七，且壮士不死即已，死即举大名耳！”叠用七死字，《汉书》因之。《汉书•沟洫志》载贾让《治河策》云：“河从河内北至黎阳为石堤，激使东抵东郡，平刚；又为石堤，使西北抵黎阳、观下；又为石堤，使东北抵东郡津北；又为石堤，使西北抵魏郡昭阳：又为石堤，激使东北。百余里间，河再西三东。”凡五用石堤字，而不为冗复，非后人笔黑畦径所能到也。

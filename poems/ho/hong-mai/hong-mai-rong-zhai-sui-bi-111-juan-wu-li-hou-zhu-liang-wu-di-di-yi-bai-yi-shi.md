@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-111-juan-wu-li-hou-zhu-liang-wu-di-di-yi-bai-yi-shi
+title: 卷五·李后主梁武帝第一百一十
+section: 卷五
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 111
+sourceId: b1d2213901f1
+---
+
+## 正文
+
+东坡书李后主去国之词云：“最是苍皇辞庙日，教坊犹奏别离歌，挥泪对宫娥。”以为后主失国，当恸哭于庙门之外，谢其民而后行，乃对宫娥听乐，形于词句。予观梁武帝启候景之祸，涂炭江左，以致覆亡，乃曰：“自我得之，自我失之，亦复何恨。”其不知罪知已亦甚矣！窦婴救灌夫，其夫人谏止之，婴曰：“候自我得之，自我捐之，无所恨。”梁武用此言而非也。

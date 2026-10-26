@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-263-juan-shi-san-dui-wei-yang-di-er-bai-liu-shi-er
+title: 卷十三·兑为羊第二百六十二
+section: 卷十三
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 263
+sourceId: ea8948d67299
+---
+
+## 正文
+
+《兑》为羊，《易》之称羊者凡三卦。《夬》之九四曰“牵羊悔亡”，《归妹》之上六曰“土刲羊，无血”，皆《兑》也。《大壮》内外卦为《震》与《乾》，而三爻皆称羊者，自《复》之一阳推而上之，至二为《临》，则《兑》体已见，故九三曰“羝羊触藩，羸其角，”言三阳为《泰》而消《兑》也。自是而阳上进，至于《乾》而后已。六五“丧羊于易”，谓九三、九四、六五为《兑》也，上六复“触藩不能退”，盖阳方《夬》决，岂容上《兑》俨然乎？九四中爻亦本《兑》，而云“羸”者，赖《震》阳之壮耳。

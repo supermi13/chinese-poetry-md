@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-041-juan-er-meng-shu-wei-shang-di-si-shi
+title: 卷二·孟舒魏尚第四十
+section: 卷二
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 41
+sourceId: 443f1b97f79d
+---
+
+## 正文
+
+云中守孟舒，坐虏大入云中免。田叔对文帝曰：“匈奴来为边寇，孟舒知士卒罢敝，不忍出言，士争临城死敌，如子为父，以故死者数百人。孟舒岂驱之哉！”上曰：“贤哉孟舒！”复召以为云中守。又冯唐对文帝曰：“魏尚为云中守，虏尝一入，尚率车骑击之。士卒终日力战。上功幕府，坐首虏差六级，下吏削爵。臣以为陛下罚太重。”上赦魏尚，复以为云中守。按，孟舒、魏尚，皆以文帝时为云中守，皆坐匈奴入寇获罪，皆得士死力，皆用他人言复故官，事切相类，疑其只一事云。

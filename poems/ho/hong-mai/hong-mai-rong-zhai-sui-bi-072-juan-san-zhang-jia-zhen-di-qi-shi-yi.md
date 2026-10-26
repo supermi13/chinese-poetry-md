@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-072-juan-san-zhang-jia-zhen-di-qi-shi-yi
+title: 卷三·张嘉贞第七十一
+section: 卷三
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 72
+sourceId: 1768662fbf6e
+---
+
+## 正文
+
+唐张嘉贞为并州长史、天兵军使，明皇欲相之，而忘其名，诏中书侍郎韦抗曰：“朕尝记其风操，今为北方大将，张姓而复名，卿为我思之。”抗曰：“非张齐丘乎？今为朔方节度使。”帝即使作诏以为相。夜阅大臣表疏，得嘉贞所献，遂相之。议者谓明皇欲大用人，而卤莽若是，非得嘉贞表疏，则语相齐丘矣。予考其事大为不然。按开元八年，嘉贞为相，而齐丘以天宝八载始为朔方节度，相去三十年，安得如上所云者？又是时明皇临御未久，方厉精为治，不应置相而不审其名位，盖郑处诲所著《明皇杂录》妄载其事，史家误采之也。《资治通鉴》弃不取云。

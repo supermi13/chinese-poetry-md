@@ -1,0 +1,21 @@
+---
+id: li-quan-tai-bai-yin-jing-060-yu-bei-xin-gu-pian-di-liu-shi
+title: 预备·衅鼓篇第六十
+section: 预备
+author: 李筌
+authorSlug: li-quan
+book: 太白阴经
+bookSlug: tai-bai-yin-jing
+dynasty: 唐
+dynastySlug: tang
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 60
+sourceId: 77c7c944846b
+---
+
+## 正文
+
+经曰：军临敌境，使游奕捉敌一人，立於六纛之前而祝曰：「胡虏不道，敢干天常，皇帝授我旗鼓，翦灭凶渠。见吾旗纛者，目眩；闻吾鼓鼙者，魄散。」令散人跪纛前，乃腰斩之，首横路之左，足横路之右，取血以衅鼓鼙，大纛从首足间过，兵马六军从之，而往出胜敌，亦名祭敌。

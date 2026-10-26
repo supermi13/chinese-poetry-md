@@ -1,0 +1,37 @@
+---
+id: li-shi-zhen-ben-cao-gang-mu-267-cao-bu-xu-duan-di-yi-bai
+title: 草部·续断第一百
+section: 草部
+author: 李时珍
+authorSlug: li-shi-zhen
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 267
+sourceId: 7365581ea21e
+---
+
+## 正文
+
+### 释名
+
+亦名属折、接骨、龙豆、南草。
+
+### 气味
+
+(根)苦、微温、无毒。
+
+### 主治
+
+刀伤、痈疡、折跌、能续筋骨。亦治妇女崩中漏血，破症结瘀血。
+
+妊娠胎动。用川续断(酒浸)、杜仲(姜汁炒，去丝)各二两，等分为末，加煮烂了的枣肉，和成丸子，如梧子大。每服三十丸，米汤送下。
+
+产后诸疾(血晕、心闷、烦热、气接不上、心头硬、乍寒乍热等)。用续断皮一把，加水三升煎成二升，分三次服。
+
+打伤，闪了骨节。加续断叶捣烂敷伤处。

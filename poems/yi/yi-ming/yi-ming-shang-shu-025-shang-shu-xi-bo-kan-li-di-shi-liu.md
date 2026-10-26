@@ -1,0 +1,27 @@
+---
+id: yi-ming-shang-shu-025-shang-shu-xi-bo-kan-li-di-shi-liu
+title: 商书·西伯戡黎第十六
+section: 商书
+author: 佚名
+authorSlug: yi-ming
+book: 尚书
+bookSlug: shang-shu
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 书类
+chapterIndex: 25
+sourceId: b895cbb64591
+---
+
+## 正文
+
+殷始咎周，周人乘黎。祖伊恐，奔告于受，作《西伯戡黎》。
+
+西伯既戡黎，祖伊恐，奔告于王。曰：“天子！天既讫我殷命。格人元龟，罔敢知吉。非先王不相我后人，惟王淫戏用自绝。故天弃我，不有康食。不虞天性，不迪率典。今我民罔弗欲丧，曰：‘天曷不降威？’大命不挚，今王其如台？”
+
+王曰：“呜呼！我生不有命在天？”
+
+祖伊反曰：“呜呼！乃罪多，参在上，乃能责命于天？殷之即丧，指乃功，不无戮于尔邦！”

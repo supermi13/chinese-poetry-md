@@ -1,0 +1,43 @@
+---
+id: gong-yang-gao-gong-yang-chuan-176-xiang-gong-er-shi-liu-nian
+title: 襄公·二十六年
+section: 襄公
+author: 公羊高
+authorSlug: gong-yang-gao
+book: 公羊传
+bookSlug: gong-yang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 176
+sourceId: 612215bb3911
+---
+
+## 正文
+
+一、二十有六年。春王二月辛卯，卫寗喜弒其君剽。
+
+二、卫孙林父入于戚以叛。
+
+三、甲午，卫侯衎复归于卫。
+
+此谖君以弒也，其言复归何？恶剽也。曷为恶剽？剽之立于是未有说也。然则曷为不言剽之立？不言剽之立者，以恶卫侯也。
+
+四、夏，晋侯使荀吴来聘。
+
+五、公会晋人、郑良霄、宋人、曹人于澶渊。
+
+六、秋，宋公杀其世子痤。
+
+七、晋人执卫寗喜。
+
+此执有罪，何以不得为伯讨？不以其罪执之也。
+
+八、八月壬午，许男寗卒于楚。
+
+九、冬，楚子、蔡侯、陈侯伐郑。
+
+十、葬许灵公。

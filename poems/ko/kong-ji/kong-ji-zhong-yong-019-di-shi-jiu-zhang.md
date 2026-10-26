@@ -1,0 +1,30 @@
+---
+id: kong-ji-zhong-yong-019-di-shi-jiu-zhang
+title: 第十九章
+author: 孔伋
+authorSlug: kong-ji
+book: 中庸
+bookSlug: zhong-yong
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 四书类
+chapterIndex: 19
+sourceId: 33ccf9fe82c1
+---
+
+## 正文
+
+子曰：“武王、周公，其达孝矣乎。
+
+夫孝者，善继人之志，善述人之事者也。
+
+春秋，修其祖庙，陈其宗器，设其裳衣，荐其时食。
+
+宗庙之礼，所以序昭穆也。序爵，所以辨贵贱也。序事，所以辨贤也。旅酬下为上，所以逮贱也。燕毛所以序齿也。
+
+践其位，行其礼，奏其乐，敬其所尊，爱其所亲，事死如事生，事亡如事存，孝之至也。
+
+郊社之礼，所以事上帝也。宗庙之礼，所以祀乎其先也。明乎郊社之礼，禘尝之义，治国其如示诸掌乎。”

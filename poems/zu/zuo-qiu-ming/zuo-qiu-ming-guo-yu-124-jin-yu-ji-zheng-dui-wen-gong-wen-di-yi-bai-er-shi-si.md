@@ -1,0 +1,21 @@
+---
+id: zuo-qiu-ming-guo-yu-124-jin-yu-ji-zheng-dui-wen-gong-wen-di-yi-bai-er-shi-si
+title: 晋语·箕郑对文公问第一百二十四
+section: 晋语
+author: 左丘明
+authorSlug: zuo-qiu-ming
+book: 国语
+bookSlug: guo-yu
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 124
+sourceId: 31e37705cceb
+---
+
+## 正文
+
+晋饥，公问于箕郑曰：“救饥何以？”对曰：“信。”公曰：“安信？”对曰：“信于君心，信于名，信于令，信于事。”公曰：“然则若何？”对曰：“信于君心，则美恶不逾。信于名，则上下不干。信于令，则时无废功。信于事，则民从事有业。于是乎民知君心，贫而不惧，藏出如入，何匮之有？”公使为箕。及清原之蒐，使佐新上军。

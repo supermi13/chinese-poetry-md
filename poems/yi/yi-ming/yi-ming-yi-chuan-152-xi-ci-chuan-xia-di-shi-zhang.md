@@ -1,0 +1,23 @@
+---
+id: yi-ming-yi-chuan-152-xi-ci-chuan-xia-di-shi-zhang
+title: 系辞传下·第十章
+section: 系辞传下
+author: 佚名
+authorSlug: yi-ming
+book: 易传
+bookSlug: yi-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 易类
+chapterIndex: 152
+sourceId: 978c2063e4a5
+---
+
+## 正文
+
+《易》之为书也，广大悉备。有天道焉，有人道焉，有地道焉。兼三才而两之，故六。六者非它也，三材之道也。
+
+道有变动，故曰爻；爻有等，故曰物；物相杂，故曰文；文不当，故吉凶生焉。

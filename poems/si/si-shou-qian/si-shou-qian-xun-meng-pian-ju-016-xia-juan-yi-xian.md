@@ -1,0 +1,21 @@
+---
+id: si-shou-qian-xun-meng-pian-ju-016-xia-juan-yi-xian
+title: 下卷·一先
+section: 下卷
+author: 司守谦
+authorSlug: si-shou-qian
+book: 训蒙骈句
+bookSlug: xun-meng-pian-ju
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 16
+sourceId: 3d3ac196687e
+---
+
+## 正文
+
+清冷节，艳阳天。樽前歌舞，花里管弦。高松栖瑞鹤，病柳咽寒蝉。处处播秧梅坞雨，家家缫蚕竹篱烟。秋色方升，淝水风霜悲唳鹤；春风欲暮，蜀山花木怨啼鹃。红杏雨，绿杨烟。庭花一梦，禁柳三眠。砚冷冰团结，帘疏月影穿。隐士不荒三径菊，美人常采一溪莲。鏖战将军，一道甲光衔雪亮；凯歌士卒，千群马色截云鲜。君臣药，子母钱。刻符制鬼，铸鼎升仙。烛奴燃豹髓，剑客舞龙泉。竹笋双生稚犊角，蕨芽实出小儿拳。枕上怀人，梦断还思倾国色；庭前饯客，酒阑更赠绕朝鞭。

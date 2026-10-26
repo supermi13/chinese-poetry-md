@@ -1,0 +1,23 @@
+---
+id: yi-ming-bai-zhan-qi-lve-070-di-qi-juan-luan-zhan-di-qi-shi
+title: 第七卷·乱战第七十
+section: 第七卷
+author: 佚名
+authorSlug: yi-ming
+book: 百战奇略
+bookSlug: bai-zhan-qi-lve
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 70
+sourceId: 864710c701de
+---
+
+## 正文
+
+凡与敌战，若敌人行阵不整，士卒喧哗，宜急出兵以击之，则利。法曰：“乱而取之。”
+
+唐，段志玄从刘文静拒屈突通于潼关，文静为通将桑显和所败，军营已溃，志玄率二十骑赴之，击杀数十人而还；还为流矢中足，虑众心动，忍而不言，更入贼阵者再三。显和军乱，大军因而复振，击大破之。〔及屈突通之遁，志玄与诸将追而擒之。〕

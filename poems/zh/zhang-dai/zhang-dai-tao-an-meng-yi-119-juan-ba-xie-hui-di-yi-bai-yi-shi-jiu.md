@@ -1,0 +1,21 @@
+---
+id: zhang-dai-tao-an-meng-yi-119-juan-ba-xie-hui-di-yi-bai-yi-shi-jiu
+title: 卷八·蟹会第一百一十九
+section: 卷八
+author: 张岱
+authorSlug: zhang-dai
+book: 陶庵梦忆
+bookSlug: tao-an-meng-yi
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 集部
+  - 别集类
+chapterIndex: 119
+sourceId: af066161975b
+---
+
+## 正文
+
+食品不加盐醋而五味全者，为蚶、为河蟹。河蟹至十月与稻梁俱肥，壳如盘大，坟起，而紫螯巨如拳，小脚肉出，油油如螾愆。掀其壳，膏腻堆积，如玉脂珀屑，团结不散，甘腴虽八珍不及。一到十月，余与友人兄弟辈立蟹会，期于午后至，煮蟹食之，人六只，恐冷腥，迭番煮之。从以肥腊鸭、朱乳酪。醉蚶如琥珀，以鸭汁煮白菜如玉版。果瓜以谢橘、以风栗、以风菱。饮以玉壶冰，蔬以兵坑笋，饭以新余杭白，漱以兰雪茶。由今思之，真如天厨仙供，酒醉饭饱，惭愧惭愧。

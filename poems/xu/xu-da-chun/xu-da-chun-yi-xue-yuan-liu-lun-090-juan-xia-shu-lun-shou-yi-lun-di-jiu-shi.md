@@ -1,0 +1,21 @@
+---
+id: xu-da-chun-yi-xue-yuan-liu-lun-090-juan-xia-shu-lun-shou-yi-lun-di-jiu-shi
+title: 卷下·书论·兽医论第九十
+section: 卷下·书论
+author: 徐大椿
+authorSlug: xu-da-chun
+book: 医学源流论
+bookSlug: yi-xue-yuan-liu-lun
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 90
+sourceId: be423b3b03e7
+---
+
+## 正文
+
+禽兽之病，由于七情者少，由于风寒饮食者多，故治法较之人为尤易。夫禽兽之脏腑经络，虽与人殊，其受天地之血气，不甚相远，故其用药亦与人大略相同。但其气粗血浊，其所饮食，非人之饮食，则药亦当别有主治，不得尽以治人者治之矣。如牛马之食，则当用消草之药；犬豕之食，则当用消糠豆之药是也。又有专属之品，如猫宜乌药，马宜黄药之类。而其病亦一兽有一兽独患之病，此则另有专方主治。余则与人大段相同。但必剂大而力浓之方，取效为易。其中又有天运时气之不同，变化多端，亦必随证加减。此理亦广博深奥，与治人之术，不相上下。今则医人之医尚绝传，况兽医乎？

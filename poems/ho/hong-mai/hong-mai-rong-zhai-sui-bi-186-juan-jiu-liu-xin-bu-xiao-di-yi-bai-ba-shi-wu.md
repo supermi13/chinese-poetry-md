@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-186-juan-jiu-liu-xin-bu-xiao-di-yi-bai-ba-shi-wu
+title: 卷九·刘歆不孝第一百八十五
+section: 卷九
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 186
+sourceId: e975d8851372
+---
+
+## 正文
+
+事亲孝，故忠可移于君，是以求忠臣必于孝子之门。刘歆事父，虽不载不孝之迹，然其议论每与向异同。故向拳拳于国家，欲抑王氏以崇刘氏；而歆乃力赞王莽，倡其凶逆，至为之国师公，又改名秀以应图谶，竟亦不免为莽所诛，子棻、女愔皆以戮死。使天道每如是，不善者其知惧乎！

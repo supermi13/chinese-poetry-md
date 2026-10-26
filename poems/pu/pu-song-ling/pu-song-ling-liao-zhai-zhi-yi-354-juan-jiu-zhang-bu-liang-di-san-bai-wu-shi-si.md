@@ -1,0 +1,21 @@
+---
+id: pu-song-ling-liao-zhai-zhi-yi-354-juan-jiu-zhang-bu-liang-di-san-bai-wu-shi-si
+title: 卷九·张不量第三百五十四
+section: 卷九
+author: 蒲松龄
+authorSlug: pu-song-ling
+book: 聊斋志异
+bookSlug: liao-zhai-zhi-yi
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 354
+sourceId: 2d7335bbe0c8
+---
+
+## 正文
+
+贾人某至直隶界，忽大雨雹，伏禾中。闻空中云：“此张不量田，勿伤其稼。”贾私意张氏既云“不良”，何反祐护？雹止，入村，访问其人，且问取名之义。盖张素封，积粟甚富。每春贫民就贷，偿时多寡不校，悉内之，未尝执概取盈，故名“不量”，非“不良”也。众趋田中，见棵穗摧折如麻，独张氏诸田无恙。

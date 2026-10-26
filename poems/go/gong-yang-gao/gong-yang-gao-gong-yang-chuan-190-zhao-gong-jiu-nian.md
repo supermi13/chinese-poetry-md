@@ -1,0 +1,31 @@
+---
+id: gong-yang-gao-gong-yang-chuan-190-zhao-gong-jiu-nian
+title: 昭公·九年
+section: 昭公
+author: 公羊高
+authorSlug: gong-yang-gao
+book: 公羊传
+bookSlug: gong-yang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 190
+sourceId: 69063e722400
+---
+
+## 正文
+
+一、九年。春，叔弓会楚子于陈。
+
+二、许迁于夷。
+
+三、夏四月，陈火。
+
+陈已灭矣，其言陈火何？存陈也，曰存陈悕矣！曷为存陈？灭人之国，执人之罪人，杀人之贼，葬人之君，若是则陈存悕矣！
+
+四、秋，仲孙貜如齐。
+
+五、冬，筑郎囿。

@@ -1,0 +1,27 @@
+---
+id: feng-meng-long-zhi-nang-xuan-lu-012-shang-zhi-bu-zhang-fei-di-shi-er
+title: 上智部·张飞第十二
+section: 上智部
+author: 冯梦龙
+authorSlug: feng-meng-long
+book: 智囊(选录)
+bookSlug: zhi-nang-xuan-lu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 12
+sourceId: 50b827948044
+---
+
+## 正文
+
+【原文】
+
+先主一见马超，以为平西将军，封都亭侯，超见先主待之厚也，阔略无上下礼，与先主言，常呼字，关羽怒，请杀之，先主不从，张飞曰：“如是，当示之以礼。”明日大会诸将，羽、飞并挟刃立直，超入，顾坐席，不见羽、飞座，见其直也，乃大惊。自后乃尊事先主。
+
+［冯述评］
+
+释严颜，诲马超，都是细心作用，后世目飞为粗人，大枉。

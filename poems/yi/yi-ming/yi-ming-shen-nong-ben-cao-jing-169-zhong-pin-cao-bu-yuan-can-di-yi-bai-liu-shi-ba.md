@@ -1,0 +1,29 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-169-zhong-pin-cao-bu-yuan-can-di-yi-bai-liu-shi-ba
+title: 中品·草部·元参第一百六十八
+section: 中品·草部
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 169
+sourceId: 1e79ca63596c
+---
+
+## 正文
+
+味苦微寒。
+
+主腹中寒热积聚，女子产乳余疾，补肾气，令人目明。一名重台。生川谷。
+
+《吴普》曰：元参，一名鬼藏，一名正马，一名重台，一名鹿腹，一名端，一名元台，神农桐君黄帝雷公扁鹊苦无毒，岐伯咸，李氏寒，或生冤朐山阳，二月生叶如梅毛，四四相值似芍药，黑茎方高四五尺，华赤，生枝间，四月，实黑。（《御览》）
+
+《名医》曰：一名元台，一名鹿肠，一名正马，一名减，一名端，生河间及冤句，三月四月采根，暴干。
+
+案《广雅》云：鹿肠，元参也。《范子计然》云：元参出三辅，青色者善。

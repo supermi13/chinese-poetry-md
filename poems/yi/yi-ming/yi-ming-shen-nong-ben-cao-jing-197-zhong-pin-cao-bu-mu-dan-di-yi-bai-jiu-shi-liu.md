@@ -1,0 +1,29 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-197-zhong-pin-cao-bu-mu-dan-di-yi-bai-jiu-shi-liu
+title: 中品·草部·牡丹第一百九十六
+section: 中品·草部
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 197
+sourceId: f06ef1b65745
+---
+
+## 正文
+
+味苦辛寒。
+
+主寒热，中风，瘈疭，痉，惊痫，邪气，除症坚，淤血留舍肠胃，安五脏，疗痈创。一名鹿韭，一名鼠姑。生山谷。
+
+《吴普》曰：牡丹，神农岐伯辛，李氏小寒，雷公桐君苦无毒，黄帝苦有毒，叶如蓬相植，根如柏，黑中有核，二月采，八月采，日干，人食之，轻身益寿。（《御览》）
+
+《名医》曰：生巴郡及汉中，二月八月，采根阴干。
+
+案《广雅》云：白术，牡丹也。《范子计然》云：牡丹出汉中河内，赤色者亦善。

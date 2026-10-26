@@ -1,0 +1,21 @@
+---
+id: yi-ming-huang-ting-jing-002-nei-jing-shang-you-di-er
+title: 内景·上有第二
+section: 内景
+author: 佚名
+authorSlug: yi-ming
+book: 黄庭经
+bookSlug: huang-ting-jing
+dynasty: 魏晋
+dynastySlug: wei-jin
+tags:
+  - 古籍
+  - 子部
+  - 道家类
+chapterIndex: 2
+sourceId: 4aa12481922a
+---
+
+## 正文
+
+上有魂灵下关元，左为少阳右太阴。后有密户前生门。出日入月呼吸存。元气所合列宿分，紫烟上下三素云。灌溉五华植灵根，七液洞流冲庐间。回紫抱黄入丹田，幽室内明照阳门。

@@ -1,0 +1,34 @@
+---
+id: yi-ming-bai-jia-xing-038-shui-di-san-shi-ba
+title: 水第三十八
+author: 佚名
+authorSlug: yi-ming
+book: 百家姓
+bookSlug: bai-jia-xing
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 38
+sourceId: 46309ab188b0
+---
+
+## 正文
+
+历史来源
+
+「水」源出;
+
+水是中国历史上比较晚出的姓氏之一，据《姓氏五书》云 ; 水是当指水为氏，如河氏，淮氏，湖氏之类。清代浙江鄞县多水氏。或为水丘氏所改。
+
+家族名人
+
+共工氏
+
+古代神话中人物，自称水德，相传为水姓之祖。古代水官亦称共工。
+
+地望分布
+
+浙江吴兴郡，浙江临安郡。

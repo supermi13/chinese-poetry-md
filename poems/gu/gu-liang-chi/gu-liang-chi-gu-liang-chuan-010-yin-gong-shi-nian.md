@@ -1,0 +1,35 @@
+---
+id: gu-liang-chi-gu-liang-chuan-010-yin-gong-shi-nian
+title: 隐公·十年
+section: 隐公
+author: 穀梁赤
+authorSlug: gu-liang-chi
+book: 谷梁传
+bookSlug: gu-liang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 10
+sourceId: 51714dd7a1c9
+---
+
+## 正文
+
+一、十年，春，王二月，公会齐侯、郑伯于中丘。
+
+二、夏，翚帅师会齐人、郑人伐宋。
+
+三、六月，壬戌，公败宋师于菅。辛未，取郜，辛巳，取防。
+
+内不言战，举其大者也。取邑不日，此其日何也？不正其乘败人而深为利，取二邑，故谨而日之也。
+
+四、秋，宋人、卫人入郑。宋人、蔡人、卫人伐载，郑伯伐取之。
+
+不正其因人之力而易取之，故主其事也。
+
+五、冬，十月，壬午，齐人、郑人入郕。
+
+入者，内弗受也。日入，恶入者也。郕，国也。

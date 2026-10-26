@@ -1,0 +1,21 @@
+---
+id: hong-mai-rong-zhai-sui-bi-095-juan-si-nan-yi-fu-zhu-ge-di-jiu-shi-si
+title: 卷四·南夷服诸葛第九十四
+section: 卷四
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 95
+sourceId: 2147209c4ac8
+---
+
+## 正文
+
+蜀刘禅时，南中诸郡叛，诸葛亮征之，孟获为夷汉所服，七战七擒，曰：“公，天威也，南人不复反矣。”《蜀志》所载，止于一时之事。国朝淳化中，李顺乱蜀，招安使雷有终遣嘉州士人辛怡显使于南诏，至姚州，其节度使赵公美以书来迎，云：“当境有泸水，昔诸葛武侯戒曰：‘非贡献征讨，不得辄渡此水；若必欲过，须致祭，然后登舟。’今遣本部军将赍金龙二条、金钱二千文并设酒脯，请先祭享而渡。”乃知南夷心服，虽千年如初。呜呼！可谓贤矣！事见怡显所作《云南录》。

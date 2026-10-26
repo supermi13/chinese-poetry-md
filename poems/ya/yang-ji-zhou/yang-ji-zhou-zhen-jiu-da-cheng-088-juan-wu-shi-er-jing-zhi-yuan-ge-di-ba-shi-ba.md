@@ -1,0 +1,25 @@
+---
+id: yang-ji-zhou-zhen-jiu-da-cheng-088-juan-wu-shi-er-jing-zhi-yuan-ge-di-ba-shi-ba
+title: 卷五·十二經之原歌第八十八
+section: 卷五
+author: 杨继洲
+authorSlug: yang-ji-zhou
+book: 针灸大成
+bookSlug: zhen-jiu-da-cheng
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 88
+sourceId: a60abfb8d8b3
+---
+
+## 正文
+
+甲出丘虚乙太冲，丙居腕骨是原中，丁出神门原内过，戊胃冲阳气可通，己出太白庚合谷，辛原本出太渊同，壬归京骨、阳池穴，癸出太溪、大陵中。
+
+三焦行于诸阳，故置一俞曰原。又曰：『三焦者，水谷之道路，原气之别使也。主通行三气，经历五脏六腑。原者三焦之尊号，故所止辄为原也。』
+
+按《难经》云：『五脏六腑之有病者，皆取其原。』王海藏曰：『假令补肝经，于本经原穴补一针；如泻肝经，于本经原穴亦泻一针。』余仿此。

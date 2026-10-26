@@ -1,0 +1,23 @@
+---
+id: jiang-zi-ya-liu-tao-022-long-tao-jiang-wei-di-er-shi-er
+title: 龙韬·将威第二十二
+section: 龙韬
+author: 姜子牙
+authorSlug: jiang-zi-ya
+book: 六韬
+bookSlug: liu-tao
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 22
+sourceId: c44d513a87a8
+---
+
+## 正文
+
+武王问太公曰：“将何以为威？何以为明？何以为禁止而令行？”
+
+太公曰：“将以诛大为威，以赏小为明，以罚审为禁止而令行。故杀一人而三军震者，杀之；赏一人而万人说者，赏之。杀贵大，赏贵小。杀及当路贵重之臣，是刑上极也；赏及牛竖，马洗、厩养之徒，是赏下通也。刑上极，赏下通，是将威之所行也。”

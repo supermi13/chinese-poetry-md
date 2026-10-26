@@ -1,0 +1,43 @@
+---
+id: gong-yang-gao-gong-yang-chuan-066-xi-gong-san-nian
+title: 僖公·三年
+section: 僖公
+author: 公羊高
+authorSlug: gong-yang-gao
+book: 公羊传
+bookSlug: gong-yang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 66
+sourceId: 5851b7190889
+---
+
+## 正文
+
+一、三年，春王正月，不雨。
+
+二、夏四月，不雨。
+
+何以书？记异也。
+
+三、徐人取舒。
+
+其言取之何？易也。
+
+四、六月雨。
+
+其言六月雨何？上雨而不甚也。
+
+五、秋，齐侯、宋公、江人、黄人会于阳谷。
+
+此大会也，曷为末言尔？桓公曰：“无障谷，无贮粟，无易树子，无以妾为妻。”
+
+六、冬，公子友如齐莅盟。
+
+莅盟者何？往盟乎彼也。其言来盟者何？来盟于我也。
+
+七、楚人伐郑。

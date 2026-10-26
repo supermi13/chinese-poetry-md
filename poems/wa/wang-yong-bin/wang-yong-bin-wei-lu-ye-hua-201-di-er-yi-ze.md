@@ -1,0 +1,20 @@
+---
+id: wang-yong-bin-wei-lu-ye-hua-201-di-er-yi-ze
+title: 第二Ｏ一则
+author: 王永彬
+authorSlug: wang-yong-bin
+book: 围炉夜话
+bookSlug: wei-lu-ye-hua
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 儒家类
+chapterIndex: 201
+sourceId: 705abdd90b4e
+---
+
+## 正文
+
+兄弟相师友，天伦之乐莫大焉；闺门若朝廷，家法之严可知也。
