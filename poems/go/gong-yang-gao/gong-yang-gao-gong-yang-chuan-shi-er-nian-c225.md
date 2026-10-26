@@ -1,0 +1,40 @@
+---
+id: gong-yang-gao-gong-yang-chuan-shi-er-nian-c225
+title: 十二年
+author: 公羊高
+authorSlug: gong-yang-gao
+book: 公羊传
+bookSlug: gong-yang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 225
+sourceId: 9649db5ded48
+---
+
+## 正文
+
+一、十有二年。春，薛伯定卒。
+
+二、夏，葬薛襄公。
+
+三、叔孙州仇帅师堕郈。
+
+四、卫公孟彄帅师伐曹。
+
+五、季孙斯、仲孙何忌帅师堕费。
+
+曷为帅师堕郈？帅师堕费？孔子行乎季孙，三月不违，曰：“家不藏甲，邑无百雉之城。”于是帅师堕郈，帅师堕费。雉者何？五板而堵，五堵而雉，百雉而城。
+
+六、秋，大雩。
+
+七、冬十月癸亥，公会齐侯盟于黄。
+
+八、十有一月丙寅朔，日有食之。
+
+九、公至自黄。
+
+十、十有二月，公围成。公至自围成。

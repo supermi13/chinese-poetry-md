@@ -5,14 +5,14 @@ author: 扁鹊
 authorSlug: bian-que
 book: 难经
 bookSlug: nan-jing
-dynasty: 汉
-dynastySlug: han
+dynasty: 先秦
+dynastySlug: xian-qin
 tags:
   - 古籍
   - 子部
   - 医家类
-chapterIndex: 6
-sourceId: 10692
+chapterIndex: 74
+sourceId: efd51c27e52c
 ---
 
 ## 正文

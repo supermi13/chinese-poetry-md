@@ -1,0 +1,20 @@
+---
+id: hong-mai-rong-zhai-sui-bi-qin-yong-ta-guo-ren-di-si-shi-yi
+title: 秦用他国人第四十一
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 42
+sourceId: 4aeb44c65953
+---
+
+## 正文
+
+七国虎争天下，莫不招致四方游士。然六国所用相，皆其宗族及国人，如齐之田忌，田婴、田文，韩之公仲、公叔，赵之奉阳、平原君，魏王至以太子为相。独秦不然，其始与之谋国以开霸业者，魏人公孙鞅也。其他若楼缓赵人，张仪、魏冉、范雎皆魏人，蔡泽燕人，吕不韦韩人，李斯楚人，皆委国而听之不疑，卒之所以兼天下者，诸人之力也。燕昭王任郭隗、剧辛、乐毅，几灭强齐，辛、毅皆赵人也。楚悼王任吴起为相，诸侯患楚之强，盖卫人也。

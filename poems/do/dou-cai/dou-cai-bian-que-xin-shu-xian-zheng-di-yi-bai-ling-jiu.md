@@ -1,0 +1,28 @@
+---
+id: dou-cai-bian-que-xin-shu-xian-zheng-di-yi-bai-ling-jiu
+title: 痫证第一百零九
+author: 窦材
+authorSlug: dou-cai
+book: 扁鹊心书
+bookSlug: bian-que-xin-shu
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 109
+sourceId: cc6cfe934968
+---
+
+## 正文
+
+有胎痫者，在母腹中，母受惊，惊气冲胎，故生子成疾，发则仆倒，口吐涎沫，可服延寿丹，久而自愈。
+
+有气痫者，因恼怒思想而成，须灸中脘穴而愈。（胎痫出于母腹，俗所谓三搐成痫者也。气痫由于七情，故大病后及忧苦人，并纵性贪口腹人率多患此。医书虽有阴阳五脏之分，然皆未得其要，而愈者盖寡。先生此法直中肯綮，予用之而获效者多矣。）
+
+【治验】
+
+一人病痫三年余，灸中脘五十壮即愈。
+
+一妇人病痫已十年，亦灸中脘五十壮愈。凡人有此疾，惟灸法取效最速，药不及也。

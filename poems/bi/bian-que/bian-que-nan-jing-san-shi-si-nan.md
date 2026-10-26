@@ -5,14 +5,14 @@ author: 扁鹊
 authorSlug: bian-que
 book: 难经
 bookSlug: nan-jing
-dynasty: 汉
-dynastySlug: han
+dynasty: 先秦
+dynastySlug: xian-qin
 tags:
   - 古籍
   - 子部
   - 医家类
-chapterIndex: 18
-sourceId: 10652
+chapterIndex: 34
+sourceId: c34e76519eb0
 ---
 
 ## 正文
@@ -21,6 +21,6 @@ sourceId: 10652
 
 然：《十变》言：肝色青，其臭臊，其味酸，其声呼，其液泣；心色赤，其臭焦，其味苦，其声言，其液汗；脾色黄，其臭香，其味甘，其声歌，其液涎；肺色白，其臭腥，其味辛，其声哭，其液涕；肾色黑，其臭腐，其味咸，其声呻，其液唾。是五脏声、色、臭、味、液也。
 
-五脏有七神，各何所藏那？
+五脏有七神，各何所藏耶？
 
 然：脏者，人之神气所舍藏也。故肝藏魂，肺藏魄，心藏神，脾藏意与智，肾藏精与志也。

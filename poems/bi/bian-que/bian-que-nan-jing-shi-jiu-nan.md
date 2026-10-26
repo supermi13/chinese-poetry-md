@@ -5,14 +5,14 @@ author: 扁鹊
 authorSlug: bian-que
 book: 难经
 bookSlug: nan-jing
-dynasty: 汉
-dynastySlug: han
+dynasty: 先秦
+dynastySlug: xian-qin
 tags:
   - 古籍
   - 子部
   - 医家类
-chapterIndex: 57
-sourceId: 10637
+chapterIndex: 19
+sourceId: 4f62cdd6cea5
 ---
 
 ## 正文
@@ -23,4 +23,4 @@ sourceId: 10637
 
 其为病何如？
 
-然：男得女脉为不足，病在内；左得之，病在左，右得之，病在右：随脉言之也。女得男脉为太过，病在四肢；左得之，病在左，右得之，病在右：随脉言之。此之渭也。
+然：男得女脉为不足，病在内；左得之，病在左，右得之，病在右：随脉言之也。女得男脉为太过，病在四肢；左得之，病在左，右得之，病在右：随脉言之，此之谓也。

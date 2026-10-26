@@ -1,0 +1,20 @@
+---
+id: hong-mai-rong-zhai-sui-bi-tan-gong-wu-zi-di-yi-bai-wu-shi-qi
+title: 檀弓误字第一百五十七
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 158
+sourceId: 3d8ca4677767
+---
+
+## 正文
+
+《檀弓》载吴侵陈事曰：“陈太宰嚭使于师，夫差谓行人仪曰：‘是夫也多言，盍尝问焉，师必有名，人之称斯师也者，则谓之何？’太宰嚭曰：‘其不谓之杀厉之师与！’”按嚭乃吴夫差之宰，陈遣使者正用行人，则仪乃陈臣也。记礼者简策差互，故更错其名，当云“陈行人仪使于师，夫差使太宰嚭问之”，乃善。忠宣公作《春秋诗》引斯事，亦尝辩正云。

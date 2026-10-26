@@ -1,0 +1,20 @@
+---
+id: liu-xiang-zhan-guo-ce-su-qin-wei-yan-shuo-qi-di-si-bai-wu-shi-jiu
+title: 苏秦为燕说齐第四百五十九
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 459
+sourceId: d0e9a202b29f
+---
+
+## 正文
+
+苏秦为燕说齐，未见齐王，先说淳于髡曰：“人有卖骏马者，比三旦立于市，人莫知之。往见伯乐曰：‘臣有骏马，欲卖之，比三旦立于市，人莫与言，愿子还而视之。去而顾之，臣请献一朝之贾。’伯乐乃还而视之，去而顾之，一旦而马价十倍。今臣欲以骏马见于王，莫为臣先后者，足下有意为臣伯乐乎?臣请献白璧一双，黄金千镒，以为马食。”淳于髡曰：“谨闻命矣。”入言之王而见之，齐王大说苏子。

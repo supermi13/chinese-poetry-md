@@ -12,9 +12,9 @@ tags:
   - 经部
   - 四书类
 chapterIndex: 5
-sourceId: 3052
+sourceId: c5ee17683680
 ---
 
 ## 正文
 
-子曰：「道其不行矣夫。」
+子曰：“道其不行矣夫。”

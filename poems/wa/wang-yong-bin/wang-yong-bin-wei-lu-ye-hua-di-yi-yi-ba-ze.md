@@ -12,7 +12,7 @@ tags:
   - 子部
   - 儒家类
 chapterIndex: 118
-sourceId: 5971
+sourceId: d126ac24864b
 ---
 
 ## 正文

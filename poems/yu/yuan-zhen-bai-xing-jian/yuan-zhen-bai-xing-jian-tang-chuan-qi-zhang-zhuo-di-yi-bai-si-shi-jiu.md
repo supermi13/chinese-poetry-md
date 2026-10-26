@@ -1,0 +1,26 @@
+---
+id: yuan-zhen-bai-xing-jian-tang-chuan-qi-zhang-zhuo-di-yi-bai-si-shi-jiu
+title: 张鷟第一百四十九
+author: 元稹、白行简
+authorSlug: yuan-zhen-bai-xing-jian
+book: 唐传奇
+bookSlug: tang-chuan-qi
+dynasty: 唐
+dynastySlug: tang
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 149
+sourceId: c7531b960d8e
+---
+
+## 正文
+
+则天革命，举人不试皆与官，起家至御史。评事。拾遗。补阙者，不可胜数。张鷟为谣曰：“补阙连车载，拾遗平斗量。把推侍御史，惋脱校书郎。”
+
+时有沈全交者，傲诞自纵，露才扬己，高巾子，长布衫，南院吟之，续四句曰：“评事不读律，博士不寻章。面糊存抚使，眯目圣神皇。”
+
+遂被把推御史纪先知，捉向右台，对仗弹劾，以为谤朝政，败国风，请于朝堂决杖，然后付法。则天笑曰：“但使卿等不滥，何虑天下人语！不须与罪，即宜放却。”
+
+先知于是手面无色。唐豫章令贺若瑾，眼皮急，项辕粗，鷟号为“饱乳犊子”。

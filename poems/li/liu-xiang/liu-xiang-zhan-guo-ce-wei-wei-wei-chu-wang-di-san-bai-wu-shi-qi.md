@@ -1,0 +1,20 @@
+---
+id: liu-xiang-zhan-guo-ce-wei-wei-wei-chu-wang-di-san-bai-wu-shi-qi
+title: 为魏谓楚王第三百五十七
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 357
+sourceId: 3daf17cf5522
+---
+
+## 正文
+
+为魏谓楚王曰：“索攻魏于秦，秦必不听王矣，是智困于秦，而交疏于魏也。楚、魏有怨，则秦重矣。故王不如顺天下，遂伐齐，与魏便地，兵不伤，交不变，所欲必得矣。”

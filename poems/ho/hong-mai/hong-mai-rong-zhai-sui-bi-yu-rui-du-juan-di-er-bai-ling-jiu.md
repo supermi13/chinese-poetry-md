@@ -1,0 +1,20 @@
+---
+id: hong-mai-rong-zhai-sui-bi-yu-rui-du-juan-di-er-bai-ling-jiu
+title: 玉蕊杜鹃第二百零九
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 210
+sourceId: c1ec0f4a548b
+---
+
+## 正文
+
+物以希见为珍，不必异种也。长安唐昌观玉蕊，乃今玚花，又名米囊，黄鲁直易为山矾者。润州鹤林寺杜鹃，乃今映山红，又名红踯躅者。二花在江东弥山亘野，殆与榛莽相似。而唐昌所产，至于神女下游，折花而去，以践玉峰之期；鹤林之花，至以为外国僧钵盂中所移，上玄命三女下司之，已逾百年，终归阆苑。是不特土俗罕见，虽神仙亦不识也。王建宫词云：“太仪前日暖房来，嘱向昭阳乞药栽。敕赐一窠红踯躅，谢恩未了奏花开。”其重如此，盖宫禁中亦鲜云。

@@ -11,8 +11,8 @@ tags:
   - 古籍
   - 史部
   - 编年类
-chapterIndex: 45
-sourceId: 750
+chapterIndex: 7
+sourceId: c5977f6b83fd
 ---
 
 ## 正文
@@ -313,7 +313,7 @@ sourceId: 750
 
 癸未，辽主如南京。
 
-是月，北汉改元广远。
+是月，北汉改元广运。
 
 二月，庚辰朔，日有食之。
 

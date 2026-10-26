@@ -9,10 +9,10 @@ dynasty: 先秦
 dynastySlug: xian-qin
 tags:
   - 古籍
-  - 子部
-  - 道家类
-chapterIndex: 1
-sourceId: 449
+  - 经部
+  - 易类
+chapterIndex: 168
+sourceId: b64fdc9b38d6
 ---
 
 ## 正文

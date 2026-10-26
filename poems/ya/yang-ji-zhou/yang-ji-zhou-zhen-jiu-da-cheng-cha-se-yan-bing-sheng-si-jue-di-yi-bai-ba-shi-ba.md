@@ -1,0 +1,24 @@
+---
+id: yang-ji-zhou-zhen-jiu-da-cheng-cha-se-yan-bing-sheng-si-jue-di-yi-bai-ba-shi-ba
+title: 察色验病生死诀第一百八十八
+author: 杨继洲
+authorSlug: yang-ji-zhou
+book: 针灸大成
+bookSlug: zhen-jiu-da-cheng
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 188
+sourceId: 44452cb5bfd6
+---
+
+## 正文
+
+面上紫，心气绝，五日死。面赤目陷，肝气绝，三日死。面黄，四肢重，脾气绝，九日死。面白，鼻入奇论，肺气绝，三日死。胸如黄熟豆，骨气绝，一日死。面黑耳黄，呻吟，肾气绝，四日死。口张唇青，毛枯，肺绝，五日死。大凡病儿足跗肿，身重，大小便不禁，目无转睛，皆死。若病将愈者，面黄目黄，有生意。
+
+痢疾眉头皱，惊风面颊红，渴来唇带赤，吐泻面浮黄。
+
+热甚眼朦胧，青色是惊风，白色是泄泻，伤寒色紫红。

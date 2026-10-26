@@ -1,0 +1,20 @@
+---
+id: dou-cai-bian-que-xin-shu-nei-shang-di-si-shi-ba
+title: 内伤第四十八
+author: 窦材
+authorSlug: dou-cai
+book: 扁鹊心书
+bookSlug: bian-que-xin-shu
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 48
+sourceId: 7d0f7d4684a7
+---
+
+## 正文
+
+由饮食失节，损其脾气，轻则头晕发热，四肢无力，不思饮食，脉沉而紧，服来复、全真及平胃散；重者六脉浮紧，头痛发热，吐逆、心下痞，服荜澄茄散，来复、全真而愈。若被庸医转下凉药，重损脾气，变生他病，成虚劳臌胀泄泻等证，急灸中脘五十壮，关元百壮，可保全生，若服凉药速死。（内伤之证，饮食其一端也，又有劳倦郁怒，忧悲思虑，喜乐惊恐，恶怒奇愁，皆由七情不以次入，直伤五脏，更有由房室跌扑而成内伤者，临证之工，不可不察。）

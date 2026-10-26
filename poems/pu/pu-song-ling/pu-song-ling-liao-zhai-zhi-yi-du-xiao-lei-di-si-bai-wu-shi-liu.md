@@ -1,0 +1,20 @@
+---
+id: pu-song-ling-liao-zhai-zhi-yi-du-xiao-lei-di-si-bai-wu-shi-liu
+title: 杜小雷第四百五十六
+author: 蒲松龄
+authorSlug: pu-song-ling
+book: 聊斋志异
+bookSlug: liao-zhai-zhi-yi
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 456
+sourceId: 39e60b2402da
+---
+
+## 正文
+
+杜小雷，益都之西山人。母双盲。杜事之孝，家虽贫，甘旨无缺。一日将他适，市肉付妻，令作馎饦。妻最忤逆，切肉时杂蜣螂其中。母觉臭恶不可食，藏以待子。杜归，问：“馎饦美乎？”母摇首，出示子。杜裂视，见蜣螂，怒甚。入室欲挞妻，又恐母闻。上榻筹思，妻问之，不语。妻自馁，彷徨榻下。久之喘息有声。杜叱曰：“不睡待敲扑耶！”亦觉寂然。起而烛之，但见一豕，细视，则两足犹人，始知为妻所化。邑令闻之，絷去，使游四门，以戒众人。谭薇臣曾亲见之。

@@ -12,9 +12,9 @@ tags:
   - 经部
   - 四书类
 chapterIndex: 3
-sourceId: 3050
+sourceId: ccf09bdd18e1
 ---
 
 ## 正文
 
-子曰：「中庸其至矣乎！民鲜能久矣。」
+子曰：“中庸其至矣乎！民鲜能久矣。”

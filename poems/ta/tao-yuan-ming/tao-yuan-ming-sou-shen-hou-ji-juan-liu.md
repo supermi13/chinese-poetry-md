@@ -5,14 +5,14 @@ author: 陶渊明
 authorSlug: tao-yuan-ming
 book: 搜神后记
 bookSlug: sou-shen-hou-ji
-dynasty: 晋
-dynastySlug: jin
+dynasty: 魏晋
+dynastySlug: wei-jin
 tags:
   - 古籍
   - 子部
   - 小说家类
 chapterIndex: 6
-sourceId: 4229
+sourceId: 65105c643696
 ---
 
 ## 正文

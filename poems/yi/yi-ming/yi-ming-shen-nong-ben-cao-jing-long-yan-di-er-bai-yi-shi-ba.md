@@ -1,0 +1,28 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-long-yan-di-er-bai-yi-shi-ba
+title: 龙眼第二百一十八
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 219
+sourceId: 5045662243e7
+---
+
+## 正文
+
+味甘平。
+
+主五脏邪气，安志厌食。久服，强魂聪明，轻身，不老，通神明。一名益智。生山谷。
+
+《吴普》曰：龙眼一名益智，要术一名比目。（《御览》）
+
+《名医》曰：其大者似槟榔，生南海松树上，五月采，阴干。
+
+案《广雅》云：益智，龙眼也。刘达注吴都赋云：龙眼，如荔枝而小，圆如弹丸，味甘，胜荔枝，苍梧，交址，南海，合浦皆献之，山中人家亦种之。

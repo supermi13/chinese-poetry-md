@@ -1,0 +1,24 @@
+---
+id: ceng-guo-fan-ceng-guo-fan-jia-shu-zhi-si-di-bu-yi-lu-tou-jiao-yu-wai-di-jiu
+title: 致四弟·不宜露头角于外第九
+author: 曾国藩
+authorSlug: ceng-guo-fan
+book: 曾国藩家书
+bookSlug: ceng-guo-fan-jia-shu
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 集部
+  - 别集类
+chapterIndex: 9
+sourceId: 8a4aed7c9b6c
+---
+
+## 正文
+
+澄侯四弟左右：
+
+顷接来缄，又得所寄吉安一缄，具悉一切。朱太守来我县，王刘蒋唐往陪，而弟不往宜其见怪。嗣后弟于县城省城，均不宜多去。处兹大乱未平之际，惟当藏身匿变，不可稍露圭角于外，至要至要！
+
+吾年一饱阅世态，实畏宦途风波之险，常思及早抽身，以免咎戾，家中一切，有关系衙门者，以不兴闻为妙。（咸丰六年九月初十日）

@@ -1,0 +1,22 @@
+---
+id: feng-meng-long-zhi-nang-xuan-lu-ding-yuan-gong-shou-di-er-bai-si-shi-wu
+title: 定远弓手第二百四十五
+author: 冯梦龙
+authorSlug: feng-meng-long
+book: 智囊(选录)
+bookSlug: zhi-nang-xuan-lu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 245
+sourceId: 1fc59bac2a5c
+---
+
+## 正文
+
+濠州定远县一弓手善用矛。有一偷亦精此技，每欲与决生死。一日，弓手因事至村，值偷适在市饮，势不可避，遂曳矛而斗。观者如堵。久之，各未能进，弓手忽谓偷曰：“尉至矣，我与你皆健者，汝敢与我尉前决生死乎？”偷曰：“诺。”弓手应声刺之而毙，盖乘其隙也。
+
+又有人曾遇强寇，斗方接刃，寇先含水满口，忽噀其面，其人愕然，刃已揕胸。后有一壮士复与寇遇，已先知噀水之事，寇复用之，反为所刺。

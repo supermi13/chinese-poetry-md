@@ -12,7 +12,7 @@ tags:
   - 经部
   - 四书类
 chapterIndex: 24
-sourceId: 3071
+sourceId: ef0da21ea4d9
 ---
 
 ## 正文

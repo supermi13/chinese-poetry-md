@@ -5,14 +5,14 @@ author: 皇甫谧
 authorSlug: huang-fu-mi-mi
 book: 针灸甲乙经
 bookSlug: zhen-jiu-jia-yi-jing
-dynasty: 晋
-dynastySlug: jin
+dynasty: 魏晋
+dynastySlug: wei-jin
 tags:
   - 古籍
   - 子部
   - 医家类
-chapterIndex: 57
-sourceId: 12613
+chapterIndex: 117
+sourceId: e7902a4c61e6
 ---
 
 ## 正文

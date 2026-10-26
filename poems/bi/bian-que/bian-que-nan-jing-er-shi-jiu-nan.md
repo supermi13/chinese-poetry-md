@@ -5,14 +5,14 @@ author: 扁鹊
 authorSlug: bian-que
 book: 难经
 bookSlug: nan-jing
-dynasty: 汉
-dynastySlug: han
+dynasty: 先秦
+dynastySlug: xian-qin
 tags:
   - 古籍
   - 子部
   - 医家类
-chapterIndex: 67
-sourceId: 10647
+chapterIndex: 29
+sourceId: 769a5d326730
 ---
 
 ## 正文
@@ -21,7 +21,7 @@ sourceId: 10647
 
 然：阳维维于阳，阴维维于阴，阴阳不能自相维，则怅然失志，溶溶不能自收持。
 
-阳维为病苦寒热，阴维为病若心痛。
+阳维为病苦寒热，阴维为病苦心痛。
 
 阴跷为病，阳缓而阴急，阳跷为病，阴缓而阳急。
 

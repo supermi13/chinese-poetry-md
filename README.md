@@ -12,21 +12,27 @@
 
 示例：`poems/li/li-bai/li-bai-jing-ye-si-chuang-qian-ming-yue-guang.md`、`poems/su/su-shi/bio.md`。
 
-古籍条目同在此结构内，文件名带书名段：`poems/yi/yi-ming/yi-ming-lun-yu-xue-er-pian.md`、`poems/si/si-ma-qian/si-ma-qian-shi-ji-wu-di-ben-ji.md`。
+古籍条目同在此结构内，文件名带书名段：`poems/la/lao-zi/lao-zi-di-ba-shi-yi-zhang.md`、`poems/si/si-ma-qian/si-ma-qian-shi-ji-bo-yi-lie-zhuan-di-yi.md`、`poems/la/lao-zi/lao-zi-mingju-021f273e.md`（名句）。
 
 ## 单首 .md 格式
 
 每个 .md 包含 **YAML frontmatter**（标题、作者、朝代、标签、词牌等）和 **正文区块**：`## 正文`、`## 拼音`、`## 译文`、`## 赏析`、`## 注释`。路径为 `poems/<作者slug>/<诗题slug>.md`，slug 为无声调拼音 + 连字符。详细约定见 [chinese-poetry-site 的 markdown-format](https://github.com/daichangya/chinese-poetry-site/blob/main/docs/markdown-format.md)。
 
-## 古籍典籍（收录在 poems/ 内）
+## 古籍典籍与名句（收录在 poems/ 内）
 
-仓内古籍条目与诗词共用 `poems/` 结构，整理自 [赏诗词网·古文典籍](http://www.shangshici.com/dianji.asp)。当前收录 151 部典籍、13861 章，涵盖经、史、子、集四部（如《论语》《史记》《本草纲目》《红楼梦》），已按作者归入既有作者 slug（`yi-ming`、`si-ma-qian`、`pu-song-ling` 等）。
+仓内古籍条目与诗词共用 `poems/` 结构，整理自 [古文岛（原古诗文网）· 古籍](https://www.gushiwen.cn/guwen/)。当前收录 **200 部典籍、18312 章**，另有 **6211 条古籍名句**，涵盖经、史、子、集四部（如《论语》《史记》《资治通鉴》《本草纲目》《聊斋志异》），已按作者归入既有作者 slug（`lao-zi`、`si-ma-qian`、`pu-song-ling`、`tuo-tuo` 等）。
 
-单篇 .md 沿用本站诗人的 frontmatter：`id` / `title` / `author` / `authorSlug` / `dynasty` / `tags`（首项为 `古籍`，后接四部分类），另增 `book` / `bookSlug` / `chapterIndex` / `sourceId` 便于按书检索；文件名形如 `<作者slug>-<书名slug>-<章节slug>.md`。
+### 两类条目
 
-典籍层级的元数据（书名、作者、朝代、四部分类、章节数与落盘路径）见仓库根 `dianji_catalog.json`。
+1. **古籍章节**：`poems/<2字母>/<作者slug>/<作者slug>-<书名slug>-<章节slug>.md`
+   frontmatter：`id` / `title` / `author` / `authorSlug` / `book` / `bookSlug` / `dynasty` / `tags`（首项 `古籍`，后接四部分类）/ `chapterIndex` / `sourceId`，正文在 `## 正文`。
+   作者 slug 与书名 slug 相同时省略书名段（如 `lao-zi-di-ba-shi-yi-zhang.md`）；同书内章节重名追加 `-c<序号>` 区分。
+2. **古籍名句**：`poems/<2字母>/<作者slug>/<作者slug>-<书名slug>-mingju-<hash8>.md`
+   frontmatter 额外带 `type: 名句`、`book`、`from`（摘自，如「老子·德经·第六十四章」），正文区块为 `## 正文`（名句原文）、`## 译文`、`## 注释`、`## 赏析`。
 
-采集与生成脚本见 `tools/`（`shangshici_scraper.py` 抓取、`build_poems.py` 生成 Markdown），可重跑以更新或增补。
+典籍层级元数据（书名、作者、朝代、四部分类、章节数与名句数、落盘路径）见仓库根 `gushiwen_catalog.json`。
+
+采集与生成脚本见 `tools/`（`gushiwen_scraper.py` 抓取、`build_gw.py` 生成 Markdown），可重跑以更新或增补。
 
 ## 访问站点
 

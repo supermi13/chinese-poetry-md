@@ -12,9 +12,9 @@ tags:
   - 子部
   - 儒家类
 chapterIndex: 122
-sourceId: 5975
+sourceId: e144e72d5ee0
 ---
 
 ## 正文
 
-山水是文章化境，烟云乃富贵幻形。
+文章是山水化境，富贵乃烟云幻形。

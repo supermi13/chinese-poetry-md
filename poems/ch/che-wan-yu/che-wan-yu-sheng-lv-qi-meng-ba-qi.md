@@ -9,10 +9,10 @@ dynasty: 清
 dynastySlug: qing
 tags:
   - 古籍
-  - 集部
-  - 诗文评类
-chapterIndex: 23
-sourceId: 10725
+  - 子部
+  - 儒家类
+chapterIndex: 8
+sourceId: dac6bca2e995
 ---
 
 ## 正文

@@ -1,0 +1,22 @@
+---
+id: zhang-ting-yu-ming-shi-juan-shi-er-qi-qing-nian-biao-yi
+title: 卷十二·七卿年表一
+author: 张廷玉
+authorSlug: zhang-ting-yu
+book: 明史
+bookSlug: ming-shi
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 史部
+  - 正史类
+chapterIndex: 111
+sourceId: a848591828c2
+---
+
+## 正文
+
+◎七卿年表一
+
+(略)

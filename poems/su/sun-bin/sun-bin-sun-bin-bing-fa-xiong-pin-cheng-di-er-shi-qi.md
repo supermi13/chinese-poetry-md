@@ -1,0 +1,22 @@
+---
+id: sun-bin-sun-bin-bing-fa-xiong-pin-cheng-di-er-shi-qi
+title: 雄牝城第二十七
+author: 孙膑
+authorSlug: sun-bin
+book: 孙膑兵法
+bookSlug: sun-bin-bing-fa
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 27
+sourceId: 702c0ecc84e3
+---
+
+## 正文
+
+城在渒泽之中，无亢山名谷，而有付丘于其四方者，雄城也，不可攻也。军食流水，生水也，不可攻也。城前名谷，背亢山，雄城也，不可攻也。城中高外下者，雄城也，不可攻也。城中有付丘者，雄城也，不可攻也。
+
+营军趣舍，毋回名水，伤气弱志，可击也。城背名谷，无亢山其左右，虚城也，可击也。□尽烧者，死壤也，可击也。军食泛水者，死水也，可击也。城在发泽中，无名谷付丘者，牝城也，可击也。城在亢山间，无名谷付丘者，牝城也，可击也。城前亢山，背名谷，前高后下者，牝城也，可击也。

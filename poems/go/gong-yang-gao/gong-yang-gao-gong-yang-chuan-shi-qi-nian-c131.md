@@ -1,0 +1,34 @@
+---
+id: gong-yang-gao-gong-yang-chuan-shi-qi-nian-c131
+title: 十七年
+author: 公羊高
+authorSlug: gong-yang-gao
+book: 公羊传
+bookSlug: gong-yang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 131
+sourceId: 0c63495b2789
+---
+
+## 正文
+
+一、十有七年，春王正月，庚子，许男锡我卒。
+
+二、丁未，蔡侯申卒。
+
+三、夏，葬许昭公。
+
+四、葬蔡文公。
+
+五、六月癸卯，日有食之。
+
+六、己未，公会晋侯、卫侯、曹伯、邾娄子同盟于断道。
+
+七、秋，公至自会。
+
+八、冬十有一月壬午，公弟叔肸卒。

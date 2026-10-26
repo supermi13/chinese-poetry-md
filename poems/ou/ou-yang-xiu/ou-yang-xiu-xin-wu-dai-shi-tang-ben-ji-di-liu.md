@@ -11,8 +11,8 @@ tags:
   - 古籍
   - 史部
   - 正史类
-chapterIndex: 68
-sourceId: 8028
+chapterIndex: 6
+sourceId: 7696262b1229
 ---
 
 ## 正文

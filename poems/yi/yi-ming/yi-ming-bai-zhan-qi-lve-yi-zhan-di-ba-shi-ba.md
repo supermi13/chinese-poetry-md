@@ -1,0 +1,22 @@
+---
+id: yi-ming-bai-zhan-qi-lve-yi-zhan-di-ba-shi-ba
+title: 易战第八十八
+author: 佚名
+authorSlug: yi-ming
+book: 百战奇略
+bookSlug: bai-zhan-qi-lve
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 兵家类
+chapterIndex: 88
+sourceId: e820e7dac876
+---
+
+## 正文
+
+凡攻战之法，从易者胜敌。敌若屯备数处，必有强弱众寡。我可远其强而攻其弱，避其众而击其寡，则无不胜。法曰：“善战者，胜于易胜者也。”
+
+《北史》：周武帝〔将〕伐齐之河阳，〔谋及臣下〕，宇文弼〔进策〕曰：“〔今之用兵，须择其地。〕河阳要冲，精兵所聚，尽力攻围，恐难得志。〔如臣所见，〕彼汾之曲，城小山平，攻之易拔。”武帝不纳，师竟无功。〔建德五年，大举伐齐，卒用计。后终于平齐。〕

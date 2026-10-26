@@ -5,14 +5,14 @@ author: 扁鹊
 authorSlug: bian-que
 book: 难经
 bookSlug: nan-jing
-dynasty: 汉
-dynastySlug: han
+dynasty: 先秦
+dynastySlug: xian-qin
 tags:
   - 古籍
   - 子部
   - 医家类
-chapterIndex: 69
-sourceId: 10667
+chapterIndex: 49
+sourceId: 34b7358c6074
 ---
 
 ## 正文
@@ -35,7 +35,7 @@ sourceId: 10667
 
 何以知饮食劳倦得之？
 
-然：当喜苦味也。何以言之？脾主味，入肝为酸，人心为苦，入肺为辛，入肾为咸，自入为甘。故知脾邪入心，为喜苦味也。其病身热而体重，嗜卧，四肢不收，其脉浮大而缓。
+然：当喜苦味也。何以言之？脾主味，入肝为酸，入心为苦，入肺为辛，入肾为咸，自入为甘。故知脾邪入心，为喜苦味也。其病身热而体重，嗜卧，四肢不收，其脉浮大而缓。
 
 何以知伤寒得之？
 

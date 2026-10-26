@@ -1,0 +1,28 @@
+---
+id: meng-shen-shi-liao-ben-cao-pu-tao-di-liu-shi-qi
+title: 蒲桃第六十七
+author: 孟诜
+authorSlug: meng-shen
+book: 食疗本草
+bookSlug: shi-liao-ben-cao
+dynasty: 唐
+dynastySlug: tang
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 67
+sourceId: 40a69356e527
+---
+
+## 正文
+
+（一）上益脏气，强志，疗肠间宿水，调中。〔卷·心〕
+
+（二）按经∶不问土地，但取藤，收之酿酒，皆得美好。〔卷·嘉〕
+
+（三）其子不宜多食，令人心卒烦闷，犹如火燎。亦发黄病。凡热疾后不可食之。眼暗、骨热，久成麻疖病。〔卷·心·嘉〕
+
+（四）又方，其根可煮取浓汁饮之，（止）呕哕及霍乱后恶心。〔卷·嘉〕
+
+（五）又方，女人有娠，往往子上冲心。细细饮之即止。其子便下，胎安好。〔卷·嘉〕

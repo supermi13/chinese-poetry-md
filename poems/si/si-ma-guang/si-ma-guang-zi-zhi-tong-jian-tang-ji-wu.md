@@ -1,7 +1,7 @@
 ---
 id: si-ma-guang-zi-zhi-tong-jian-tang-ji-wu
 title: 唐纪五
-author: 司马光
+author: 司马光等人
 authorSlug: si-ma-guang
 book: 资治通鉴
 bookSlug: zi-zhi-tong-jian
@@ -11,8 +11,8 @@ tags:
   - 古籍
   - 史部
   - 编年类
-chapterIndex: 20
-sourceId: 638
+chapterIndex: 189
+sourceId: 90eace6b6e14
 ---
 
 ## 正文
@@ -21,7 +21,7 @@ sourceId: 638
 
 高祖神尧大圣光孝皇帝中之中
 
-◎　武德四年辛巳，公元六二一年
+武德四年辛巳，公元六二一年
 
 三月，庚申，以靺鞨渠帅突地稽为燕州总管。
 

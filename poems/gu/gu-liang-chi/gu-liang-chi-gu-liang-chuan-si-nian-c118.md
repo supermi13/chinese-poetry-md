@@ -1,0 +1,34 @@
+---
+id: gu-liang-chi-gu-liang-chuan-si-nian-c118
+title: 四年
+author: 穀梁赤
+authorSlug: gu-liang-chi
+book: 谷梁传
+bookSlug: gu-liang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 118
+sourceId: bc5ab6c72b26
+---
+
+## 正文
+
+一、四年，春，王正月，公及齐侯平莒及郯，莒人不肯。公伐莒，取向。
+
+及者，内为志焉尔。平，成也。不肯者，可以肯也。伐犹可，取向甚矣。莒人辞不受治也。伐莒，义兵也。取向，非也，乘义而为利也。
+
+二、秦伯稻卒。
+
+三、夏，六月，乙酉，郑公子归生弒其君夷。
+
+四、赤狄侵齐。
+
+五、秋，公如齐。
+
+六、公至自齐。
+
+七、冬，楚子伐郑。

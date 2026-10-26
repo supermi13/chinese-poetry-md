@@ -5,14 +5,14 @@ author: 扁鹊
 authorSlug: bian-que
 book: 难经
 bookSlug: nan-jing
-dynasty: 汉
-dynastySlug: han
+dynasty: 先秦
+dynastySlug: xian-qin
 tags:
   - 古籍
   - 子部
   - 医家类
-chapterIndex: 56
-sourceId: 10636
+chapterIndex: 18
+sourceId: 03aee36cdc9f
 ---
 
 ## 正文
@@ -23,7 +23,7 @@ sourceId: 10636
 
 足厥阴、少阳木也，生手太阳、少阴火，火炎上行而不能下，故为上部。
 
-手心主、少阳火，生足太阴、阳明土，土主中宫，故在中部也。
+手心主少阳火，生足太阴阳明土，土主中宫，故在中部也。
 
 此皆五行子母更相生养者也。
 

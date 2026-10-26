@@ -1,0 +1,38 @@
+---
+id: yi-ming-bai-jia-xing-hua-di-wu-shi-wu
+title: 花第五十五
+author: 佚名
+authorSlug: yi-ming
+book: 百家姓
+bookSlug: bai-jia-xing
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 55
+sourceId: fbfec8d7d51c
+---
+
+## 正文
+
+历史来源
+
+「花」源出;
+
+是「华」所分出。参见该条。又据《姓苑》云，花氏出自何氏，由音变而成。
+
+家族名人
+
+花木兰
+
+改易男装代父从军的孝女。古乐府有木兰诗咏其事。姚莹康輶纪行以为北魏人，宋翔凤过庭录以为隋恭帝时人，程大昌演繁露以木兰诗中有可汗大点兵语。则以为非隋即唐之人。姓氏不可考，或以为姓花。
+
+花云
+
+明初名将，死于陈友凉。
+
+地望分布
+
+山东东平郡。

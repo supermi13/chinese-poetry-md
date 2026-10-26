@@ -1,0 +1,30 @@
+---
+id: xun-zi-mingju-15431180
+title: 求之而后得，为之而后成
+type: 名句
+author: 荀子及其弟子
+authorSlug: xun-zi
+book: 荀子
+bookSlug: xun-zi
+from: 荀子·儒效
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 名句
+  - 古籍
+  - 子部
+  - 儒家类
+sourceId: 154311803f38
+---
+
+## 正文
+
+求之而后得，为之而后成
+
+## 译文
+
+人要不断地求索才能有所收获，不断地实践才能有所成就。
+
+## 赏析
+
+此句强调了实践和行动的重要性。我们想要有所收获，必须先去追求；想要有所成就，必须亲自动手去做。

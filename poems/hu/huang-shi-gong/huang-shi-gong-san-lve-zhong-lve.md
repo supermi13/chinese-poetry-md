@@ -5,14 +5,14 @@ author: 黄石公
 authorSlug: huang-shi-gong
 book: 三略
 bookSlug: san-lve
-dynasty: 汉
-dynastySlug: han
+dynasty: 先秦
+dynastySlug: xian-qin
 tags:
   - 古籍
   - 子部
   - 兵家类
 chapterIndex: 2
-sourceId: 10716
+sourceId: a87663e34c87
 ---
 
 ## 正文

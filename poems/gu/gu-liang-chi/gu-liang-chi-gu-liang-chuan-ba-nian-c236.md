@@ -1,0 +1,36 @@
+---
+id: gu-liang-chi-gu-liang-chuan-ba-nian-c236
+title: 八年
+author: 穀梁赤
+authorSlug: gu-liang-chi
+book: 谷梁传
+bookSlug: gu-liang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 236
+sourceId: b9eeec60b5c7
+---
+
+## 正文
+
+一、八年，春，王正月，宋公入曹，以曹伯阳归。
+
+二、吴伐我。
+
+三、夏，齐人取讙及阐。
+
+恶内也。
+
+四、归邾子益于邾。
+
+益之名，失国也。
+
+五、秋，七月。
+
+六、冬，十有二月，癸亥，杞伯过卒。
+
+七、齐人归讙及阐。

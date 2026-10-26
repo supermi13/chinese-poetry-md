@@ -1,7 +1,7 @@
 ---
 id: si-ma-guang-zi-zhi-tong-jian-song-ji-shi-er
 title: 宋纪十二
-author: 司马光
+author: 司马光等人
 authorSlug: si-ma-guang
 book: 资治通鉴
 bookSlug: zi-zhi-tong-jian
@@ -11,17 +11,15 @@ tags:
   - 古籍
   - 史部
   - 编年类
-chapterIndex: 116
-sourceId: 579
+chapterIndex: 130
+sourceId: 6cf5b2223614
 ---
 
 ## 正文
 
 旃蒙大荒落，一年。
 
-太宗明皇帝上之上
-
-◎　泰始元年乙巳，公元四六五年
+太宗明皇帝上之上泰始元年（乙巳，公元四六五年）
 
 春，正月，乙未朔，废帝改元永光，大赦。
 

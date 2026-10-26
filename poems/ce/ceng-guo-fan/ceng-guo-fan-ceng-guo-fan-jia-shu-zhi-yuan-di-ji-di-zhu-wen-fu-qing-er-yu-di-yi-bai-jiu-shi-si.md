@@ -1,0 +1,24 @@
+---
+id: ceng-guo-fan-ceng-guo-fan-jia-shu-zhi-yuan-di-ji-di-zhu-wen-fu-qing-er-yu-di-yi-bai-jiu-shi-si
+title: 致沅弟季弟·嘱文辅卿二语第一百九十四
+author: 曾国藩
+authorSlug: ceng-guo-fan
+book: 曾国藩家书
+bookSlug: ceng-guo-fan-jia-shu
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 集部
+  - 别集类
+chapterIndex: 194
+sourceId: 630917b9bb16
+---
+
+## 正文
+
+季沅弟左右：
+
+探报阅悉，此路并无步拨，即由东流建德驿夫送祁；建德令已死，代理者新到，故文递迟延。弟以后要事，项专勇送来，三日可到，或逢三八专人来一次，每月六次。其不要紧者，仍由驿发来，则兄弟之消息常通矣。
+
+文辅卿办理厘金甚好，现在江西厘务，经手者皆不免官气太重。此外则不知谁何之人？如辅卿者，能多得几人，则厘务必有起色。吾批二李详文云：“须冗员少而能事者多，入款多而坐支者少。”又批云：“力除官气，严裁浮费。”弟须嘱辅卿二语，无官气，有条理，守此行之，虽至封疆不可改也。有似辅卿其人者，弟多荐几人更好。甲三起行时，温弟妇甚好，此后来之变态也。（咸丰十年六月廿八日）

@@ -1,0 +1,28 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-ku-cai-di-yi-bai-si-shi-er
+title: 苦菜第一百四十二
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 143
+sourceId: d5318862ffbd
+---
+
+## 正文
+
+味苦寒。
+
+主五脏邪气，厌谷，胃痹。久服，安心益气，聪察少卧，轻身耐老。一名荼草，一名选。生川谷。
+
+《名医》曰：一名游冬，生益州山陵道旁，凌冬不死，三月三日采，阴干。
+
+案《说文》云：荼，苦菜也。《广雅》云：游冬，苦菜也。《尔雅》云：荼，苦菜，又槚，苦荼。郭璞云：树小如栀子，冬生叶，可煮作羹，今呼早莱者为荼，晚取者为茗，一名荈，蜀人名之苦菜。陶宏景云：此即是今茗，茗一名荼又令人不眠，亦凌冬不凋而兼其止，生益州，《唐本》注驳之非矣，选与荈，音相近。
+
+上菜，上品五种旧同。

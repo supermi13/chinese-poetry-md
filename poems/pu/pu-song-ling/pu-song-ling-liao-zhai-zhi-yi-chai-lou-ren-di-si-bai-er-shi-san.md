@@ -1,0 +1,22 @@
+---
+id: pu-song-ling-liao-zhai-zhi-yi-chai-lou-ren-di-si-bai-er-shi-san
+title: 拆楼人第四百二十三
+author: 蒲松龄
+authorSlug: pu-song-ling
+book: 聊斋志异
+bookSlug: liao-zhai-zhi-yi
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 423
+sourceId: 834d0b42e13d
+---
+
+## 正文
+
+何冏卿，平阴人。初令秦中，一卖油者有薄罪，其言戆，何怒，杖杀之。后仕至铨司，家资富饶。建一楼，上梁日，亲宾称觞为贺。忽见卖油者入，阴自骇疑。俄报妾生子，愀然曰：“楼工未成，拆楼人已至矣！”人谓其戏，而不知其实有所见也。后子既长，最顽，荡其家。佣为人役，每得钱数文，辄买香油食之。
+
+异史氏曰：“常见富贵家数第连亘，死后，再过已墟。此必有拆楼人降生其家也。身居人上，乌可不早自惕哉！”

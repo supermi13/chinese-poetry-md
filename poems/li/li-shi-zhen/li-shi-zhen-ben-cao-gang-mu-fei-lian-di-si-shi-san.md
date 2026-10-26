@@ -1,0 +1,34 @@
+---
+id: li-shi-zhen-ben-cao-gang-mu-fei-lian-di-si-shi-san
+title: 蜚蠊第四十三
+author: 李时珍
+authorSlug: li-shi-zhen
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 760
+sourceId: d378bd2780a2
+---
+
+## 正文
+
+### 释名
+
+石姜、负盘、滑虫、茶婆虫、香娘子。
+
+### 气味
+
+咸、寒、有毒。
+
+### 主治
+
+瘀血，症坚，寒热，下气，利血脉。
+
+### 附方
+
+蜚蠊今通称蟑螂，苏州民间用以治小儿因缺乳而引起的形瘦神疲、腹胀泄泻等症。

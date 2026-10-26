@@ -1,0 +1,20 @@
+---
+id: hong-mai-rong-zhai-sui-bi-shang-guan-jie-di-yi-bai-ling-yi
+title: 上官桀第一百零一
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 102
+sourceId: ae64772022d5
+---
+
+## 正文
+
+汉上官桀为未央厩令，武帝尝体不安，及愈，见马，马多瘦，上大怒：“令以我不复见马邪？”欲下吏，桀顿首曰：“臣闻圣体不安，日夜忧惧，意诚不在马。”言未卒，泣数行下。上以为忠，由是亲近，至于受遗诏辅少主。义纵为右内史，上幸鼎湖，病久，已而卒起幸甘泉，道不治，上怒曰：“纵以我为不行此道乎？”衔之，遂坐以他事弃市。二人者其始获罪一也，桀以一言之故超用，而纵及诛，可谓幸不幸矣。

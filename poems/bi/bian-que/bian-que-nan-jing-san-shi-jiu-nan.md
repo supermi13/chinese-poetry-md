@@ -5,14 +5,14 @@ author: 扁鹊
 authorSlug: bian-que
 book: 难经
 bookSlug: nan-jing
-dynasty: 汉
-dynastySlug: han
+dynasty: 先秦
+dynastySlug: xian-qin
 tags:
   - 古籍
   - 子部
   - 医家类
-chapterIndex: 23
-sourceId: 10657
+chapterIndex: 39
+sourceId: 9f75acc2b27c
 ---
 
 ## 正文
@@ -23,4 +23,4 @@ sourceId: 10657
 
 腑有五者，何也？
 
-然：五脏各一腑，三焦亦是一腑，然不属于五脏，故言腑有五焉。
+然：五脏各一腑，三焦亦是一腑，然不属于五脏，故言腑有六焉。

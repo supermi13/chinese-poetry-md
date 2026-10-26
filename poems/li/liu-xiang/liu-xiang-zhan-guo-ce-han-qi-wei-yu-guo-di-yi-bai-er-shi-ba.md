@@ -1,0 +1,22 @@
+---
+id: liu-xiang-zhan-guo-ce-han-qi-wei-yu-guo-di-yi-bai-er-shi-ba
+title: 韩齐为与国第一百二十八
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 128
+sourceId: 6dc3857c05d1
+---
+
+## 正文
+
+韩、齐为与国。张仪以秦、魏伐韩。齐王曰：“韩，吾与国也。秦伐之，吾将救之。”田臣思曰：“王之谋过矣，不如听之。子哙与子之国，百姓不戴，诸侯弗与。秦伐韩，楚、赵必救之，是天下以燕赐我也。”王曰：“善。”乃许韩使者而遣之。
+
+韩自以得交于齐，遂与秦战。楚、赵果速起兵而救韩，齐因起兵攻燕，三十日而举燕国。

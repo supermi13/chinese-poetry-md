@@ -1,0 +1,22 @@
+---
+id: feng-meng-long-zhi-nang-xuan-lu-geng-yan-di-yi-bai-ba-shi-si
+title: 耿弇第一百八十四
+author: 冯梦龙
+authorSlug: feng-meng-long
+book: 智囊(选录)
+bookSlug: zhi-nang-xuan-lu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 184
+sourceId: 550caeafd27d
+---
+
+## 正文
+
+【原文】
+
+张步弟蓝，将精兵二万守西安，而诸郡合万人守临淄。相距四十里。耿弇进军二城之间，视西安城小而坚，临淄虽大实易取，乃下令，后五日攻西安。蓝闻，日夜警备。至期，夜半，弇敕诸将皆蓐食，及旦，径趋临淄。半日拔其城，蓝惧，弃城走。诸将曰：“敕攻西安而乃先临淄，竟并下之，何也？”弇曰：“西安闻吾攻，必严守具；临淄出不意而至，必自警扰，攻之，必立拔；拔临淄则西安孤，此击一而得二也!若先攻西安，顿耿弇兵坚城，死伤必多，即拔之，吾深入其地，后乏转输，旬月间不自困乎？”诸将皆服。

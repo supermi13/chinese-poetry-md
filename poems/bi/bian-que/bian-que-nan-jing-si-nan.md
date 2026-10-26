@@ -5,25 +5,25 @@ author: 扁鹊
 authorSlug: bian-que
 book: 难经
 bookSlug: nan-jing
-dynasty: 汉
-dynastySlug: han
+dynasty: 先秦
+dynastySlug: xian-qin
 tags:
   - 古籍
   - 子部
   - 医家类
-chapterIndex: 42
-sourceId: 10622
+chapterIndex: 4
+sourceId: 53fae8bdba54
 ---
 
 ## 正文
 
 曰：脉有阴阳之法，何谓也？
 
-然：呼出心与肺，吸入肾与肝，呼吸之间，脾也其脉在中。浮者阳也，沉者阴也，故曰阴阳也。
+然：呼出心与肺，吸入肾与肝，呼吸之间，脾受谷气也，其脉在中。浮者阳也，沉者阴也，故曰阴阳也。
 
 心肺俱浮，何以别之？
 
-然：浮而大散者心也浮而短涩者肺也。
+然：浮而大散者心也，浮而短涩者肺也。
 
 肾肝俱沉，何以别之？
 

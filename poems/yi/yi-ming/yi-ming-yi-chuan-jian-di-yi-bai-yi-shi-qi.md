@@ -1,0 +1,22 @@
+---
+id: yi-ming-yi-chuan-jian-di-yi-bai-yi-shi-qi
+title: 渐第一百一十七
+author: 佚名
+authorSlug: yi-ming
+book: 易传
+bookSlug: yi-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 易类
+chapterIndex: 117
+sourceId: b87846eaef24
+---
+
+## 正文
+
+山上有木，渐；君子以居贤德善俗。
+
+小子之厉，义无咎也。饮食衎衎，不素饱也。夫征不复，离群丑也。妇孕不育，失其道也。利用御寇，顺相保也。或得其桷，顺以巽也。终莫之胜吉，得所愿也。其羽可用为仪吉，不可乱也。

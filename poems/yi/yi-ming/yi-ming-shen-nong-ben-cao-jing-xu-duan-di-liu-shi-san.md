@@ -1,0 +1,26 @@
+---
+id: yi-ming-shen-nong-ben-cao-jing-xu-duan-di-liu-shi-san
+title: 续断第六十三
+author: 佚名
+authorSlug: yi-ming
+book: 神农本草经
+bookSlug: shen-nong-ben-cao-jing
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 64
+sourceId: ae77c9b70d2c
+---
+
+## 正文
+
+味苦微温。
+
+主伤寒，补不足，金创痈伤，折跌，续筋骨，妇人乳难（《御览》作乳痈云崩中，漏血，《大观本》，作黑字）。久服益气力。一名龙豆，一名属折。生山谷。
+
+《名医》曰：一名接骨，一名南草，一名槐，生常山，七月八月采，阴干。
+
+案《广雅》云：褱，续断也；《范子计然》云：续断，出三辅：桐君药录云：续断生蔓延，叶细，茎如荏大，根本黄白有汁，七月八月采根。

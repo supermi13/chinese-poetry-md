@@ -1,0 +1,32 @@
+---
+id: gu-liang-chi-gu-liang-chuan-er-shi-nian-c201
+title: 二十年
+author: 穀梁赤
+authorSlug: gu-liang-chi
+book: 谷梁传
+bookSlug: gu-liang-chuan
+dynasty: 先秦
+dynastySlug: xian-qin
+tags:
+  - 古籍
+  - 经部
+  - 春秋类
+chapterIndex: 201
+sourceId: abb5858ce462
+---
+
+## 正文
+
+一、二十年，春，王正月。
+
+二、夏，曹公孙会自梦出奔宋。
+
+自梦者，专乎梦也。曹无大夫，其曰公孙何也？言其以贵取之，而不以叛也。
+
+三、秋，盗杀卫侯之兄辄。
+
+盗，贱也。其曰兄，母兄也。目卫侯，卫侯累也。然则何为不为君也？有天疾者，不得入乎宗庙。辄者何也？曰“两足不能相过”，齐谓之綦，楚谓之踂，卫谓之辄。
+
+四、冬，十月，宋华亥、向宁、华定出奔陈。
+
+五、十有一月，辛卯，蔡侯庐卒。

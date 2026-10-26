@@ -1,0 +1,4002 @@
+[
+ {
+  "hash": "db8fe8b5a11f",
+  "title": "老子",
+  "slug": "lao-zi",
+  "author": "老子",
+  "authorRaw": "老子",
+  "authorSlug": "lao-zi",
+  "path": "poems/la/lao-zi/",
+  "dynasty": "先秦",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 81,
+  "declaredChapters": 81,
+  "mingju": 147,
+  "declaredMingju": 150,
+  "desc": "《老子》，又称《道德真经》《道德经》《五千言》《老子五千文》，是中国古代先秦诸子分家前的一部著作，为其时诸子所共仰，传说是春秋时期的老子李耳（似是作者、注释者、传抄者的集合体）所撰写，是道家哲学思想的重要来源。道德经分上下两篇，原文上篇《德经》、下篇《道经》，不分章，后改为《道经》37章在前，从38章开始为《德经》，一共81章。是中国历史上首部完整的哲学著作。此版本为通行本。"
+ },
+ {
+  "hash": "7723bfd24ca1",
+  "title": "史记",
+  "slug": "shi-ji",
+  "author": "司马迁",
+  "authorRaw": "司马迁",
+  "authorSlug": "si-ma-qian",
+  "path": "poems/si/si-ma-qian/",
+  "dynasty": "汉",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 130,
+  "declaredChapters": 130,
+  "mingju": 125,
+  "declaredMingju": 127,
+  "desc": "《史记》是由司马迁撰写的中国第一部纪传体通史。记载了上古黄帝时代至汉武帝太初四年间，共三千多年的历史。《史记》最初没有固定书名，或称“太史公书”，或称“太史公传”，也省称“太史公”。“史记”本是古代史书通称，从三国时期开始，“史记”由史书的通称逐渐成为“太史公书”的专称。《史记》与后来的《汉书》《后汉书》《三国志》合称“前四史”。刘向等人认为此书“善序事理，辩而不华，质而不俚”。与司马光的《资治通鉴》并称“史学双璧”。"
+ },
+ {
+  "hash": "1bd76a1c3d01",
+  "title": "论语",
+  "slug": "lun-yu",
+  "author": "孔子弟子",
+  "authorRaw": "孔子弟子及再传弟子",
+  "authorSlug": "kong-zi-di-zi",
+  "path": "poems/ko/kong-zi-di-zi/",
+  "dynasty": "先秦",
+  "cat": "经部四书类",
+  "categories": [
+   "经部",
+   "四书类"
+  ],
+  "chapters": 20,
+  "declaredChapters": 20,
+  "mingju": 249,
+  "declaredMingju": 255,
+  "desc": "《论语》是儒家学派的经典著作之一，由孔子的弟子及其再传弟子编撰而成。它以语录体和对话文体为主，记录了孔子及其弟子言行，集中体现了孔子的政治主张、伦理思想、道德观念及教育原则等。与《大学》《中庸》《孟子》《诗经》《尚书》《礼记》《易经》《春秋》并称“四书五经”。通行本《论语》共二十篇。"
+ },
+ {
+  "hash": "f38f3b211c76",
+  "title": "庄子",
+  "slug": "zhuang-zi",
+  "author": "庄子",
+  "authorRaw": "庄子及其后学",
+  "authorSlug": "zhuang-zi",
+  "path": "poems/zh/zhuang-zi/",
+  "dynasty": "先秦",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 33,
+  "declaredChapters": 33,
+  "mingju": 98,
+  "declaredMingju": 101,
+  "desc": "《庄子》又名《南华经》，是战国中期庄子及其后学所著道家经文。唐玄宗天宝元年被正式追封庄子为“南华真人”，因此《庄子》亦称《南华经》。其书与《老子》《周易》合称“三玄”。《庄子》书分内、外、杂篇，原有五十二篇，乃由战国中晚期逐步流传、揉杂、附益，至西汉大致成形，然而当时流传版本，今已失传。目前所传三十三篇，已经郭象整理，篇目章节与汉代亦有不同。内篇大体可代表战国时期庄子思想核心，而外、杂篇发展则纵横百余年，参杂黄老、庄子后学形成复杂的体系。"
+ },
+ {
+  "hash": "0f26fe2bda53",
+  "title": "增广贤文",
+  "slug": "zeng-guang-xian-wen",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "明",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 2,
+  "declaredChapters": 2,
+  "mingju": 230,
+  "declaredMingju": 235,
+  "desc": "《增广贤文》为中国古代儿童启蒙书目。又名《昔时贤文》、《古今贤文》。书名最早见之于明代万历年间的戏曲《牡丹亭》，据此可推知此书最迟写成于万历年间。后来，经过明、清两代文人的不断增补，才改成现在这个模样，称《增广昔时贤文》，通称《增广贤文》。作者一直未见任何书载，只知道清代同治年间儒生周希陶曾进行过重订，很可能是民间创作的结晶。"
+ },
+ {
+  "hash": "b30d262ad60d",
+  "title": "资治通鉴",
+  "slug": "zi-zhi-tong-jian",
+  "author": "司马光等人",
+  "authorRaw": "司马光等人",
+  "authorSlug": "si-ma-guang",
+  "path": "poems/si/si-ma-guang/",
+  "dynasty": "宋",
+  "cat": "史部编年类",
+  "categories": [
+   "史部",
+   "编年类"
+  ],
+  "chapters": 294,
+  "declaredChapters": 294,
+  "mingju": 81,
+  "declaredMingju": 90,
+  "desc": "《资治通鉴》（常简作《通鉴》），是由北宋史学家司马光主编的一部多卷本编年体史书，共294卷，历时十九年完成。主要以时间为纲，事件为目，从周威烈王二十三年（公元前403年）写起，到五代后周世宗显德六年（公元959年）征淮南停笔，涵盖十六朝1362年的历史。在这部书里，编者总结出许多经验教训，供统治者借鉴，宋神宗认为此书“鉴于往事，有资于治道”，即以历史的得失作为鉴诫来加强统治，所以定名为《资治通鉴》。"
+ },
+ {
+  "hash": "c412f1d0ea81",
+  "title": "孙子兵法",
+  "slug": "sun-zi-bing-fa",
+  "author": "孙武",
+  "authorRaw": "孙武",
+  "authorSlug": "sun-wu",
+  "path": "poems/su/sun-wu/",
+  "dynasty": "先秦",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 13,
+  "declaredChapters": 13,
+  "mingju": 72,
+  "declaredMingju": 73,
+  "desc": "《孙子兵法》又称《孙武兵法》《吴孙子兵法》《孙子兵书》《孙武兵书》等，是中国现存最早的兵书，也是世界上最早的军事著作，被誉为“兵学圣典”。共有六千字左右，一共十三篇。作者为春秋时祖籍齐国乐安的吴国将军孙武。《孙子兵法》是中国古代军事文化遗产中的璀璨瑰宝，优秀传统文化的重要组成部分，是古代军事思想精华的集中体现。"
+ },
+ {
+  "hash": "1bf1210e9d1f",
+  "title": "黄帝内经",
+  "slug": "huang-di-nei-jing",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 162,
+  "declaredChapters": 162,
+  "mingju": 12,
+  "declaredMingju": 13,
+  "desc": "《黄帝内经》分《灵枢》《素问》两部分，是中国最早的医学典籍，传统医学四大经典著作之一。《黄帝内经》是一本综合性的医书，在黄老道家理论上建立了中医学上的“阴阳五行学说”、“脉象学说”、“藏象学说”、“经络学说”、“病因学说”、“病机学说”、“病症”、“诊法”、“论治”及“养生学”、“运气学”等学说。 其基本素材来源于中国古人对生命现象的长期观察、大量的临床实践以及简单的解剖学知识。《黄帝内经》奠定了人体生理、病理、诊断以及治疗的认识基础，是中国影响极大的一部医学著作，被称为医之始祖。"
+ },
+ {
+  "hash": "83c0c4f4b3a1",
+  "title": "菜根谭",
+  "slug": "cai-gen-tan",
+  "author": "洪应明",
+  "authorRaw": "洪应明",
+  "authorSlug": "hong-ying-ming",
+  "path": "poems/ho/hong-ying-ming/",
+  "dynasty": "明",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 5,
+  "declaredChapters": 5,
+  "mingju": 101,
+  "declaredMingju": 104,
+  "desc": "《菜根谭》是明代还初道人洪应明收集编著的一部论述修养、人生、处世、出世的语录世集。具有三教真理的结晶，和万古不易的教人传世之道，为旷古稀世的奇珍宝训。对于人的正心修身，养性育德，有不可思议的潜移默化的力量。其文字简炼明隽，兼采雅俗。似语录，而有语录所没有的趣味；似随笔，而有随笔所不易及的整饬；似训诫，而有训诫所缺乏的亲切醒豁；且有雨余山色，夜静钟声，点染其间，其所言清霏有味，风月无边。"
+ },
+ {
+  "hash": "9b11ea1dfd91",
+  "title": "孟子",
+  "slug": "meng-zi",
+  "author": "孟子、其弟子及其再传",
+  "authorRaw": "孟子、其弟子及其再传",
+  "authorSlug": "meng-zi-qi-di-zi",
+  "path": "poems/me/meng-zi-qi-di-zi/",
+  "dynasty": "先秦",
+  "cat": "经部四书类",
+  "categories": [
+   "经部",
+   "四书类"
+  ],
+  "chapters": 260,
+  "declaredChapters": 260,
+  "mingju": 210,
+  "declaredMingju": 216,
+  "desc": "《孟子》，是儒家的经典著作，战国中期孟子及其弟子万章、公孙丑等著，书中记载有孟子及其弟子的政治、教育、哲学、伦理等思想观点和政治活动。《孟子》被南宋朱熹列为“四书”之一（另外三本为《大学》《中庸》《论语》）。《汉书·艺文志》著录《孟子》十一篇，现存七篇十四卷。"
+ },
+ {
+  "hash": "a09880163008",
+  "title": "红楼梦",
+  "slug": "hong-lou-meng",
+  "author": "曹雪芹",
+  "authorRaw": "曹雪芹",
+  "authorSlug": "cao-xue-qin",
+  "path": "poems/ca/cao-xue-qin/",
+  "dynasty": "清",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 120,
+  "declaredChapters": 120,
+  "mingju": 184,
+  "declaredMingju": 191,
+  "desc": "《红楼梦》，中国古典四大名著之首，清代作家曹雪芹创作的章回体长篇小说，又名《石头记》《金玉缘》。此书分为120回“程本”和80回“脂本”两种版本系统。新版通行本前八十回据脂本汇校，后四十回据程本汇校，署名“曹雪芹著，无名氏续，程伟元、高鹗整理”。"
+ },
+ {
+  "hash": "5d65674dd97e",
+  "title": "中庸",
+  "slug": "zhong-yong",
+  "author": "孔伋",
+  "authorRaw": "孔伋",
+  "authorSlug": "kong-ji",
+  "path": "poems/ko/kong-ji/",
+  "dynasty": "先秦",
+  "cat": "经部四书类",
+  "categories": [
+   "经部",
+   "四书类"
+  ],
+  "chapters": 33,
+  "declaredChapters": 33,
+  "mingju": 72,
+  "declaredMingju": 77,
+  "desc": "《中庸》是一篇论述儒家人性修养的散文，原是《礼记》第三十一篇，相传为子思所作，是儒家学说经典论著。经北宋程颢、程颐极力尊崇，南宋朱熹作《中庸章句》，最终和《大学》、《论语》、《孟子》并称为“四书”。宋、元以后，《中庸》成为学校官定的教科书和科举考试的必读书，对中国古代教育产生了极大的影响。《中庸》提出的“五达道”、“三达德”、“慎独自修”、“至诚尽性”等内容，对为人处事，人性修养有重要影响。"
+ },
+ {
+  "hash": "adb08001c74f",
+  "title": "易传",
+  "slug": "yi-chuan",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "cat": "经部易类",
+  "categories": [
+   "经部",
+   "易类"
+  ],
+  "chapters": 168,
+  "declaredChapters": 168,
+  "mingju": 81,
+  "declaredMingju": 83,
+  "desc": "《易传》是一部战国时期解说和发挥《易经》的论文集，其学说据说本于孔子，具体成于孔子后学之手。《易传》共7种10篇，它们是《彖传》上下篇、《象传》上下篇、《文言传》、《系辞传》上下篇、《说卦传》、《序卦传》和《杂卦传》。自汉代起，它们又被称为“十翼”。"
+ },
+ {
+  "hash": "d9e9f00fa83c",
+  "title": "鬼谷子",
+  "slug": "gui-gu-zi",
+  "author": "王诩",
+  "authorRaw": "王诩",
+  "authorSlug": "wang-xu",
+  "path": "poems/wa/wang-xu/",
+  "dynasty": "先秦",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 21,
+  "declaredChapters": 21,
+  "mingju": 62,
+  "declaredMingju": 64,
+  "desc": "《鬼谷子》，又名《捭阖策》。据传是由鬼谷先生后学者根据先生言论整理而成。该书侧重于权谋策略及言谈辩论技巧。《鬼谷子》共有十四篇，其中第十三、十四篇已失传。"
+ },
+ {
+  "hash": "bbea3f5d2919",
+  "title": "小窗幽记",
+  "slug": "xiao-chuang-you-ji",
+  "author": "陈继儒 / 陆绍珩",
+  "authorRaw": "陈继儒 / 陆绍珩",
+  "authorSlug": "chen-ji-ru-lu-shao-hang",
+  "path": "poems/ch/chen-ji-ru-lu-shao-hang/",
+  "dynasty": "明",
+  "cat": "集部别集类",
+  "categories": [
+   "集部",
+   "别集类"
+  ],
+  "chapters": 12,
+  "declaredChapters": 12,
+  "mingju": 125,
+  "declaredMingju": 128,
+  "desc": "《小窗幽记》是明代陈继儒（一说陆绍珩）创作的小品文集，刊行于天启四年（1624年）。全书分为醒、情、峭、灵、素、景、韵、奇、绮、豪、法、倩十二卷，共一千五百余则，内容涉及修身、养性、立言、立德、为学、致仕、立业、治家等各方面。其格言玲珑剔透，短小精美，促人警省，益人心智。它自问世以来，不胫而走，一再为读者所关注，其蕴藏的文化魅力，正越来越为广大读者所认识。"
+ },
+ {
+  "hash": "e905beeb5064",
+  "title": "三国志",
+  "slug": "san-guo-zhi",
+  "author": "陈寿",
+  "authorRaw": "陈寿",
+  "authorSlug": "chen-shou",
+  "path": "poems/ch/chen-shou/",
+  "dynasty": "魏晋",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 65,
+  "declaredChapters": 65,
+  "mingju": 73,
+  "declaredMingju": 75,
+  "desc": "《三国志》是由西晋陈寿所著，记载中国三国时代历史的断代史，同时也是二十四史中评价最高的“前四史”之一。三国志最早以《魏志》《蜀志》《吴志》三书单独流传，直到北宋咸平六年（1003年）三书已合为一书。"
+ },
+ {
+  "hash": "5138229e537e",
+  "title": "左传",
+  "slug": "zuo-zhuan",
+  "author": "左丘明",
+  "authorRaw": "左丘明",
+  "authorSlug": "zuo-qiu-ming",
+  "path": "poems/zu/zuo-qiu-ming/",
+  "dynasty": "先秦",
+  "cat": "经部春秋类",
+  "categories": [
+   "经部",
+   "春秋类"
+  ],
+  "chapters": 255,
+  "declaredChapters": 255,
+  "mingju": 117,
+  "declaredMingju": 120,
+  "desc": "《左传》，相传为左丘明著，原名为《左氏春秋》，汉代改称《春秋左氏传》，简称《左传》，是中国古代第一部叙事完备的编年体史书，更是先秦散文著作的代表，它标志着我国叙事散文的成熟。汉朝时又名《春秋左氏》《左氏》。汉朝以后才多称《左传》。它与《公羊传》《谷梁传》合称“春秋三传”。旧时相传是春秋末年左丘明为解释孔子的《春秋》而作。它起自鲁隐公元年（公元前722年），迄于鲁哀公二十七年（公元前468年），以《春秋》为本，通过记述春秋时期的具体史实来说明《春秋》的纲目，是儒家重要经典之一。"
+ },
+ {
+  "hash": "4e6b88d8a0bc",
+  "title": "山海经",
+  "slug": "shan-hai-jing",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 18,
+  "declaredChapters": 18,
+  "mingju": 5,
+  "declaredMingju": 6,
+  "desc": "《山海经》是中国志怪古籍，大体是战国中后期到汉代初中期的楚国或巴蜀人所作。该书作者不详，古人认为该书是“战国好奇之士取《穆王传》，杂录《庄》《列》《离骚》《周书》《晋乘》以成者” 。现代学者也均认为成书并非一时，作者亦非一人。《山海经》全书现存18篇，其余篇章内容早佚。原共22篇约32650字。共藏山经5篇、海外经4篇、海内经5篇、大荒经4篇。《汉书·艺文志》作13篇，未把晚出的大荒经和海内经计算在内。《山海经》包含着关于上古地理、历史、神话、天文、动物、植物、医学以及人类学、民族学、海洋学和科技史等方面的诸多内容，是一部上古社会生活的百科全书。"
+ },
+ {
+  "hash": "758ff5e03b31",
+  "title": "大学",
+  "slug": "da-xue",
+  "author": "戴圣",
+  "authorRaw": "戴圣",
+  "authorSlug": "dai-sheng",
+  "path": "poems/da/dai-sheng/",
+  "dynasty": "汉",
+  "cat": "经部四书类",
+  "categories": [
+   "经部",
+   "四书类"
+  ],
+  "chapters": 11,
+  "declaredChapters": 11,
+  "mingju": 19,
+  "declaredMingju": 21,
+  "desc": "《大学》是一篇论述儒家修身齐家治国平天下思想的散文，原是《小戴礼记》第四十二篇，相传为春秋战国时期曾子所作，实为秦汉时儒家作品，是一部中国古代讨论教育理论的重要著作。经北宋程颢、程颐竭力尊崇，南宋朱熹又作《大学章句》，最终和《中庸》《论语》《孟子》并称“四书”。宋、元以后，《大学》成为学校官定的教科书和科举考试的必读书，对中国古代教育产生了极大的影响。《大学》提出的“三纲领”（明明德、亲民、止于至善）和“八条目”（格物、致知、诚意、正心、修身、齐家、治国、平天下），强调修己是治人的前提，修己的目的是为了治国平天下，说明治国平天下和个人道德修养的一致性。"
+ },
+ {
+  "hash": "3b6401758902",
+  "title": "韩非子",
+  "slug": "han-fei-zi",
+  "author": "韩非",
+  "authorRaw": "韩非",
+  "authorSlug": "han-fei",
+  "path": "poems/ha/han-fei/",
+  "dynasty": "先秦",
+  "cat": "子部法家类",
+  "categories": [
+   "子部",
+   "法家类"
+  ],
+  "chapters": 55,
+  "declaredChapters": 55,
+  "mingju": 173,
+  "declaredMingju": 177,
+  "desc": "《韩非子》是战国末期韩国法家集大成者韩非的著作。这部书现存五十五篇，约十余万言，大部分为韩非自己的作品。《韩非子》一书，重点宣扬了韩非法、术、势相结合的法治理论，达到了先秦法家理论的最高峰，为秦统一六国提供了理论武器，同时，也为以后的封建专制制度提供了理论根据。"
+ },
+ {
+  "hash": "e11903fd10cd",
+  "title": "三十六计",
+  "slug": "san-shi-liu-ji",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "明",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 36,
+  "declaredChapters": 36,
+  "mingju": 37,
+  "declaredMingju": 38,
+  "desc": "《三十六计》或称“三十六策”，是指中国古代三十六个兵法策略，语源于南北朝，成书于明清。它是根据我国古代卓越的军事思想和丰富的斗争经验总结而成的兵书，是中华民族悠久文化遗产之一。"
+ },
+ {
+  "hash": "fe9dbf577c06",
+  "title": "围炉夜话",
+  "slug": "wei-lu-ye-hua",
+  "author": "王永彬",
+  "authorRaw": "王永彬",
+  "authorSlug": "wang-yong-bin",
+  "path": "poems/wa/wang-yong-bin/",
+  "dynasty": "清",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 221,
+  "declaredChapters": 221,
+  "mingju": 167,
+  "declaredMingju": 171,
+  "desc": "《围炉夜话》儒家通俗读物，是明清时期著名的文学品评著作，对于当时以及以前的文坛掌故，人、事、文章等分段作评价议论。这本书是作者王永彬“于清·咸丰甲寅二月，于桥西馆”的 “一经堂”完成的。作者虚拟了一个冬日拥着火炉，至交好友畅谈文艺的情境，使本书语言亲切、自然、易读，并由于其独到见解在文学史上占有重要地位。《围炉夜话》分为221则，以“安身立业”为总话题，分别从道德、修身、读书、安贫乐道、教子、忠孝、勤俭等十个方面，揭示了“立功、立言、立业”皆以 “立德”为本的深刻含义，与《菜根谭》、《小窗幽记》并称处世三大奇书。"
+ },
+ {
+  "hash": "725bfb5619a9",
+  "title": "格言联璧",
+  "slug": "ge-yan-lian-bi",
+  "author": "金缨",
+  "authorRaw": "金缨",
+  "authorSlug": "jin-ying",
+  "path": "poems/ji/jin-ying/",
+  "dynasty": "清",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 11,
+  "declaredChapters": 11,
+  "mingju": 239,
+  "declaredMingju": 246,
+  "desc": "《格言联璧》是由清代金缨编著的一部格言汇编，此书集先贤警策身心之语句，垂后人之良范，条分缕晰，情理昭明。全书主要内容包括学问类、存养类、持躬类、摄生（附）、敦品类、处事类、接物类、齐家类、从政类、惠吉类、悖凶类。所谓是成己成人之宝筏，希圣希贤之阶梯也。《格言联璧》一书，自咸丰元年（1851年）刊行后，即广为传诵，所谓“地不分南北、人不分贫富，家家置之于案，人人背诵习读”。堪称立身处世的金科玉律，修心养性的人生智慧，千古不移的至理名言。"
+ },
+ {
+  "hash": "5b87255cd674",
+  "title": "文心雕龙",
+  "slug": "wen-xin-diao-long",
+  "author": "刘勰",
+  "authorRaw": "刘勰",
+  "authorSlug": "liu-xie",
+  "path": "poems/li/liu-xie/",
+  "dynasty": "南北朝",
+  "cat": "集部诗文评类",
+  "categories": [
+   "集部",
+   "诗文评类"
+  ],
+  "chapters": 50,
+  "declaredChapters": 50,
+  "mingju": 98,
+  "declaredMingju": 101,
+  "desc": "《文心雕龙》是中国南朝文学理论家刘勰（xié）创作的一部理论系统、结构严密、论述细致的文学理论专著，成书于公元501～502年（南朝齐和帝中兴元、二年）间。它是中国文学理论批评史上第一部有严密体系的、“体大而虑周”（章学诚《文史通义·诗话篇》）的文学理论专著。全书共10卷，50篇（原分上、下部，各25篇），以孔子美学思想为基础，兼采道家，认为道是文学的本源，圣人是文人学习的楷模，“经书”是文章的典范。把作家创作个性的形成归结为“才”、“气”、“学”、“习”四个方面。"
+ },
+ {
+  "hash": "bbf0d02a401c",
+  "title": "世说新语",
+  "slug": "shi-shuo-xin-yu",
+  "author": "刘义庆",
+  "authorRaw": "刘义庆",
+  "authorSlug": "liu-yi-qing",
+  "path": "poems/li/liu-yi-qing/",
+  "dynasty": "南北朝",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 36,
+  "declaredChapters": 36,
+  "mingju": 33,
+  "declaredMingju": 34,
+  "desc": "《世说新语》是中国南朝时期（420-581年）产生的一部主要记述魏晋人物言谈轶事的笔记小说。是由南朝刘宋宗室临川王刘义庆（403-444年）组织一批文人编写的，梁代刘峻作注。全书原八卷，刘峻注本分为十卷，今传本皆作三卷，分为德行、言语、政事、文学、方正、雅量等三十六门，全书共一千多则，记述自汉末到刘宋时名士贵族的遗闻轶事，主要为有关人物评论、清谈玄言和机智应对的故事。"
+ },
+ {
+  "hash": "e8bf28de6a4b",
+  "title": "荀子",
+  "slug": "xun-zi",
+  "author": "荀子及其弟子",
+  "authorRaw": "荀子及其弟子",
+  "authorSlug": "xun-zi",
+  "path": "poems/xu/xun-zi/",
+  "dynasty": "先秦",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 32,
+  "declaredChapters": 32,
+  "mingju": 238,
+  "declaredMingju": 243,
+  "desc": "《荀子》是战国后期（约公元前3世纪）荀况及其弟子共同整理的哲学著作，属儒家学派典籍。全书共32篇，包含荀子亲撰篇章及弟子记录的言行内容，经西汉刘向整理定型，校订时采用“杀青简书”方式誊录。该书以性恶论为核心，主张通过礼法教化改造人性，提出“化性起伪”的教化理念，学界对性恶论存有争议，部分学者认为原文存在“性不善”讹写或《性恶》篇出自后学之手。宇宙观上强调“天行有常”的自然规律，倡导“制天命而用之”的实践哲学。政治思想主张礼法并施的治理模式，确立“隆礼重法”“君民舟水”的社会组织原则。教育方面注重后天学习，以《劝学》篇系统阐述积累、持恒的修身方法。"
+ },
+ {
+  "hash": "285366189b25",
+  "title": "笠翁对韵",
+  "slug": "li-weng-dui-yun",
+  "author": "李渔",
+  "authorRaw": "李渔",
+  "authorSlug": "li-yu-10",
+  "path": "poems/li/li-yu-10/",
+  "dynasty": "清",
+  "cat": "子部艺术类",
+  "categories": [
+   "子部",
+   "艺术类"
+  ],
+  "chapters": 30,
+  "declaredChapters": 30,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《笠翁对韵》是从前人们学习写作近体诗、词，用来熟悉对仗、用韵、组织词语的启蒙读物。作者李渔，号笠翁，因此叫《笠翁对韵》。全书分为卷一和卷二。按韵分编，包罗天文、地理、花木、鸟兽、人物、器物等的虚实应对。从单字对到双字对，三字对、五字对、七字对到十一字对，声韵协调，琅琅上口，从中得到语音、词汇、修辞的训练。从单字到多字的层层属对，读起来，如唱歌般。较之其他全用三言、四言句式更见韵味。"
+ },
+ {
+  "hash": "09514c5b00f8",
+  "title": "礼记",
+  "slug": "li-ji",
+  "author": "戴圣",
+  "authorRaw": "戴圣",
+  "authorSlug": "dai-sheng",
+  "path": "poems/da/dai-sheng/",
+  "dynasty": "汉",
+  "cat": "经部礼类",
+  "categories": [
+   "经部",
+   "礼类"
+  ],
+  "chapters": 49,
+  "declaredChapters": 49,
+  "mingju": 125,
+  "declaredMingju": 126,
+  "desc": "《礼记》，是中国古代一部重要的典章制度书籍，儒家经典著作之一。成书于汉代，相传为西汉礼学家戴圣所编，共20卷49篇。《礼记》章法谨严，映带生姿，文辞婉转，前后呼应，语言整饬而多变，是“三礼”之一、“五经”之一，“十三经”之一。自东汉郑玄作“注”后，《礼记》地位日升，至唐代时尊为“经”，宋代以后，位居“三礼”之首。"
+ },
+ {
+  "hash": "dee36f72cecb",
+  "title": "千字文",
+  "slug": "qian-zi-wen",
+  "author": "周兴嗣",
+  "authorRaw": "周兴嗣",
+  "authorSlug": "zhou-xing-si",
+  "path": "poems/zh/zhou-xing-si/",
+  "dynasty": "南北朝",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 1,
+  "declaredChapters": 1,
+  "mingju": 13,
+  "declaredMingju": 14,
+  "desc": "南朝梁武帝时期（502 —549 年），员外散骑侍郎周兴嗣奉皇命从王羲之书法中选取1000个字，编纂成文，是为《千字文》。中国实行简化字、归并异体字后，其简体中文版本剩下九百九十余个相异汉字。"
+ },
+ {
+  "hash": "f78a4fd3134a",
+  "title": "战国策",
+  "slug": "zhan-guo-ce",
+  "author": "刘向等编纂",
+  "authorRaw": "刘向等编纂",
+  "authorSlug": "liu-xiang",
+  "path": "poems/li/liu-xiang/",
+  "dynasty": "汉",
+  "cat": "史部杂史类",
+  "categories": [
+   "史部",
+   "杂史类"
+  ],
+  "chapters": 499,
+  "declaredChapters": 499,
+  "mingju": 69,
+  "declaredMingju": 71,
+  "desc": "《战国策》（Intrigues of the Warring States），是一部国别体史书。主要记述了战国时期的纵横家的政治主张和策略，展示了战国时代的历史特点和社会风貌，是研究战国历史的重要典籍。作者并非一人，成书并非一时，书中文章作者大多不知是谁。西汉末刘向编定为三十三篇，书名亦为刘向所拟定。宋时已有缺失，由曾巩作了订补。有东汉高诱注，今残缺。宋鲍彪改变原书次序，作新注。吴师道作《校注》，近代人金正炜有《补释》，今人缪文远有《战国策新注》。"
+ },
+ {
+  "hash": "77cf7aed4ca5",
+  "title": "素书",
+  "slug": "su-shu",
+  "author": "黄石公",
+  "authorRaw": "黄石公",
+  "authorSlug": "huang-shi-gong",
+  "path": "poems/hu/huang-shi-gong/",
+  "dynasty": "先秦",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 6,
+  "declaredChapters": 6,
+  "mingju": 6,
+  "declaredMingju": 7,
+  "desc": "《素书》相传为秦末黄石公作。民间视为奇书、天书。《素书》以道家思想为宗旨，集儒、法、兵的思想发挥道的作用及功能，同时以道、德、仁、义、礼为立身治国的根本、揆度宇宙万物自然运化的理数，以此认识事物，对应事物、处理事物的智能之作。传说黄石公三试张良，而后把此书授予张良。张良凭借此书，助刘邦定江山。"
+ },
+ {
+  "hash": "1b2874f763ff",
+  "title": "声律启蒙",
+  "slug": "sheng-lv-qi-meng",
+  "author": "车万育",
+  "authorRaw": "车万育",
+  "authorSlug": "che-wan-yu",
+  "path": "poems/ch/che-wan-yu/",
+  "dynasty": "清",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 30,
+  "declaredChapters": 30,
+  "mingju": 10,
+  "declaredMingju": 11,
+  "desc": "《声律启蒙》是训练儿童应对，掌握声韵格律的启蒙读物。按韵分编，包罗天文、地理、花木、鸟兽、人物、器物等的虚实应对。从单字对到双字对，三字对、五字对、七字对到十一字对，声韵协调，琅琅上口，从中得到语音、词汇、修辞的训练。从单字到多字的层层属对，读起来，如唱歌般。较之其它全用三言、四言句式更见韵味。这类读物，在启蒙读物中独具一格，经久不衰。明清以来，如《训蒙骈句》《笠翁对韵》等书，都是采用这种方式编写，并得以广泛流传。"
+ },
+ {
+  "hash": "e4ecba4b9fc4",
+  "title": "尚书",
+  "slug": "shang-shu",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "cat": "经部书类",
+  "categories": [
+   "经部",
+   "书类"
+  ],
+  "chapters": 56,
+  "declaredChapters": 56,
+  "mingju": 117,
+  "declaredMingju": 120,
+  "desc": "《尚书》又称《书》《书经》，是一部多体裁文献汇编，长期被认为是中国现存最早的史书，但是清华简证明传世的《尚书》部分（伪《古文尚书》部分）为伪书。该书分为《虞书》《夏书》《商书》《周书》。战国时期总称《书》，汉代改称《尚书》，即“上古之书”。因是儒家五经之一，又称《书经》。内容主要是君王任命官员或赏赐诸侯时发布的政令。"
+ },
+ {
+  "hash": "3cc0c86e3822",
+  "title": "聊斋志异",
+  "slug": "liao-zhai-zhi-yi",
+  "author": "蒲松龄",
+  "authorRaw": "蒲松龄",
+  "authorSlug": "pu-song-ling",
+  "path": "poems/pu/pu-song-ling/",
+  "dynasty": "清",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 496,
+  "declaredChapters": 496,
+  "mingju": 9,
+  "declaredMingju": 10,
+  "desc": "《聊斋志异》简称《聊斋》，俗名《鬼狐传》，是中国清代著名小说家蒲松龄创作的文言短篇小说集。《聊斋志异》的意思是在书房里记录奇异的故事。全书共有短篇小说491篇（张友鹤《聊斋志异会校会注会评本》）（朱其铠《全本新注聊斋志异》为494篇）。题材广泛，内容丰富，有极高的艺术成就。作品成功地塑造了众多的艺术典型，人物形象鲜明生动，故事情节曲折离奇，结构布局严谨巧妙，文笔简练，描写细腻，堪称文言短篇小说的巅峰之作。"
+ },
+ {
+  "hash": "fbe63e9b16fc",
+  "title": "心经",
+  "slug": "xin-jing",
+  "author": "唐玄奘译",
+  "authorRaw": "唐玄奘译",
+  "authorSlug": "tang-xuan-zang-yi",
+  "path": "poems/ta/tang-xuan-zang-yi/",
+  "dynasty": "未知",
+  "cat": "子部释家类",
+  "categories": [
+   "子部",
+   "释家类"
+  ],
+  "chapters": 1,
+  "declaredChapters": 1,
+  "mingju": 4,
+  "declaredMingju": 5,
+  "desc": "《般若波罗蜜多心经》也称为《摩诃般若波罗蜜多心经》，简称《般若心经》或《心经》，是般若经系列中一部言简义丰、博大精深、提纲挈领、极为重要的经典，为大乘佛教出家及在家佛教徒日常背诵的佛经。现以唐代三藏法师玄奘译本为最流行。"
+ },
+ {
+  "hash": "c6a0e66fd254",
+  "title": "汉书",
+  "slug": "han-shu",
+  "author": "班固",
+  "authorRaw": "班固",
+  "authorSlug": "ban-gu",
+  "path": "poems/ba/ban-gu/",
+  "dynasty": "汉",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 120,
+  "declaredChapters": 120,
+  "mingju": 61,
+  "declaredMingju": 164,
+  "desc": "《汉书》，又称《前汉书》，由我国东汉时期的历史学家班固编撰，其中《汉书》八表由班固之妹班昭补写而成，《汉书》天文志由班昭弟子马续补写而成。《汉书》是中国第一部纪传体断代史，“二十四史”之一。是继《史记》之后我国古代又一部重要史书，与《史记》《后汉书》《三国志》并称为“前四史”。 《汉书》全书主要记述了上起西汉的汉高祖元年（公元前206年），下至新朝的王莽地皇四年（公元23年），共230年的史事。《汉书》包括纪十二篇，表八篇，志十篇，传七十篇，共一百篇，后人划分为一百二十卷，共八十万字。"
+ },
+ {
+  "hash": "7c943e528bd4",
+  "title": "三国演义",
+  "slug": "san-guo-yan-yi",
+  "author": "罗贯中",
+  "authorRaw": "罗贯中",
+  "authorSlug": "luo-guan-zhong",
+  "path": "poems/lu/luo-guan-zhong/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 120,
+  "declaredChapters": 120,
+  "mingju": 78,
+  "declaredMingju": 80,
+  "desc": "《三国演义》是中国古典四大名著之一，是中国第一部长篇章回体历史演义小说，全名为《三国志通俗演义》，作者是元末明初的小说家罗贯中。《三国演义》描写了从东汉末年到西晋初年之间近105年的历史风云，以描写战争为主，反映了东汉末年的群雄割据混战和魏、蜀、吴三国之间的政治和军事斗争。反映了三国时代各类社会斗争与矛盾的转化，并概括了这一时代的历史巨变，塑造了一批叱咤风云的三国英雄人物。"
+ },
+ {
+  "hash": "1a363b21b83a",
+  "title": "六韬",
+  "slug": "liu-tao",
+  "author": "姜子牙",
+  "authorRaw": "姜子牙",
+  "authorSlug": "jiang-zi-ya",
+  "path": "poems/ji/jiang-zi-ya/",
+  "dynasty": "先秦",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 60,
+  "declaredChapters": 60,
+  "mingju": 29,
+  "declaredMingju": 30,
+  "desc": "《六韬》又称《太公六韬》、《太公兵法》，是中国古代的一部著名的道家兵书。中国古典军事文化遗产的重要组成部分，其内容博大精深，思想精邃富赡，逻辑缜密严谨，是古代军事思想精华的集中体现。全书有六卷，共六十篇。《六韬》的内容十分广泛，对有关战争和各方面问题，几乎都涉及到了。其中最精彩的部分是它的战略论和战术论。"
+ },
+ {
+  "hash": "23b32a33bc8b",
+  "title": "阴符经",
+  "slug": "yin-fu-jing",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "未知",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 3,
+  "declaredChapters": 3,
+  "mingju": 11,
+  "declaredMingju": 12,
+  "desc": "《阴符经》又称《黄帝阴符经》。李筌分为神仙抱一之道、富国安人之法、强兵战胜之术，全书以隐喻论述养生，愚者不察，谓兵法权谋等说或谓苏秦之“太公阴符之谋”皆离旨甚远。"
+ },
+ {
+  "hash": "7ffb7fb24af2",
+  "title": "传习录",
+  "slug": "chuan-xi-lu",
+  "author": "王阳明",
+  "authorRaw": "王阳明",
+  "authorSlug": "wang-yang-ming",
+  "path": "poems/wa/wang-yang-ming/",
+  "dynasty": "明",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 18,
+  "declaredChapters": 18,
+  "mingju": 23,
+  "declaredMingju": 24,
+  "desc": "《传习录》，哲学著作，作者是中国明代哲学家、宋明理学中心学一派的代表人物王守仁（字伯安），世称阳明先生。此书记载了他的语录和论学书信。传习一词源出自《论语》中的传不习乎一语。"
+ },
+ {
+  "hash": "bfcc9d090ed5",
+  "title": "淮南子",
+  "slug": "huai-nan-zi",
+  "author": "刘安及其门客",
+  "authorRaw": "刘安及其门客",
+  "authorSlug": "liu-an",
+  "path": "poems/li/liu-an/",
+  "dynasty": "汉",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 21,
+  "declaredChapters": 21,
+  "mingju": 122,
+  "declaredMingju": 125,
+  "desc": "《淮南子》又名《淮南鸿烈》《刘安子》，是我国西汉时期创作的一部论文集，由西汉皇族淮南王刘安主持撰写，故而得名。该书在继承先秦道家思想的基础上，综合了诸子百家学说中的精华部分，对后世研究秦汉时期文化起到了不可替代的作用。"
+ },
+ {
+  "hash": "d809ec69c6fe",
+  "title": "本草纲目",
+  "slug": "ben-cao-gang-mu",
+  "author": "李时珍",
+  "authorRaw": "李时珍",
+  "authorSlug": "li-shi-zhen",
+  "path": "poems/li/li-shi-zhen/",
+  "dynasty": "明",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 888,
+  "declaredChapters": 888,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《本草纲目》，药学著作，五十二卷，明·李时珍撰，刊于1590年。全书共190多万字，载有药物1892种，收集医方11096个，绘制精美插图1160幅，分为16部、60类。是作者在继承和总结以前本草学成就的基础上，结合作者长期学习、采访所积累的大量药学知识，经过实践和钻研，历时数十年而编成的一部巨著。书中不仅考正了过去本草学中的若干错误，综合了大量科学资料，提出了较科学的药物分类方法，融入先进的生物进化思想，并反映了丰富的临床实践。本书也是一部具有世界性影响的博物学著作。"
+ },
+ {
+  "hash": "ca02032549eb",
+  "title": "三字经",
+  "slug": "san-zi-jing",
+  "author": "王应麟",
+  "authorRaw": "王应麟(争议)",
+  "authorSlug": "wang-ying-lin",
+  "path": "poems/wa/wang-ying-lin/",
+  "dynasty": "宋",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 1,
+  "declaredChapters": 1,
+  "mingju": 94,
+  "declaredMingju": 96,
+  "desc": "《三字经》，是中国的传统启蒙教材。在中国古代经典当中，《三字经》是最浅显易懂的读本之一。《三字经》取材典范，包括中国传统文化的文学、历史、哲学、天文地理、人伦义理、忠孝节义等等，而核心思想又包括了“仁，义，诚，敬，孝。”背诵《三字经》的同时，就了解了常识、传统国学及历史故事，以及故事内涵中的做人做事道理。"
+ },
+ {
+  "hash": "82865fcafa01",
+  "title": "伤寒论",
+  "slug": "shang-han-lun",
+  "author": "张仲景",
+  "authorRaw": "张仲景",
+  "authorSlug": "zhang-zhong-jing",
+  "path": "poems/zh/zhang-zhong-jing/",
+  "dynasty": "汉",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 24,
+  "declaredChapters": 24,
+  "mingju": 1,
+  "declaredMingju": 2,
+  "desc": "《伤寒论》是一部阐述外感热病治疗规律的专著。全书10卷，东汉张仲景撰于公元3世纪初。张仲景原著《伤寒杂病论》，在流传的过程中，经后人整理编纂将其中外感热病内容结集为《伤寒论》，另一部分主要论述内科杂病，名为《金匮要略方论》。"
+ },
+ {
+  "hash": "b59f91268b84",
+  "title": "吕氏春秋",
+  "slug": "lv-shi-chun-qiu",
+  "author": "吕不韦及其门客",
+  "authorRaw": "吕不韦及其门客",
+  "authorSlug": "lv-bu-wei",
+  "path": "poems/lv/lv-bu-wei/",
+  "dynasty": "先秦",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 26,
+  "declaredChapters": 26,
+  "mingju": 101,
+  "declaredMingju": 102,
+  "desc": "《吕氏春秋》是在秦国丞相吕不韦的主持下，集合门客们编撰的一部古代类百科全书式的传世巨著。有八览、六论、十二纪，共二十多万言。《吕氏春秋》是战国末年（公元前“239”年前后）秦国丞相吕不韦组织属下门客们集体编撰的杂家（儒、法、道等等）著作，又名《吕览》。此书共分为十二纪、八览、六论，共十二卷，一百六十篇，二十余万字。吕不韦自己认为其中包括了天地万物古往今来的事理，所以号称《吕氏春秋》。"
+ },
+ {
+  "hash": "ffe25372682a",
+  "title": "幼学琼林",
+  "slug": "you-xue-qiong-lin",
+  "author": "程登吉",
+  "authorRaw": "程登吉",
+  "authorSlug": "cheng-deng-ji",
+  "path": "poems/ch/cheng-deng-ji/",
+  "dynasty": "明",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 33,
+  "declaredChapters": 33,
+  "mingju": 92,
+  "declaredMingju": 94,
+  "desc": "《幼学琼林》是中国古代儿童的启蒙读物，作者程登吉。《幼学琼林》初为明代西昌人程登吉（字允升）编著，本名《幼学须知》，又称《成语考》、《故事寻源》，清人邹圣脉作了增补，改名为《幼学琼林》，也叫《幼学故事琼林》。 内容以介绍综合知识为主，天文地理、家庭饮食、花鸟兽木等无所不包，被誉为中国古代的百科全书。文字形式上，不拘泥于四言，灵活运用杂言，只注重两两相对，不强求整齐押韵。编排上以内容分类，分别介绍各类常用词、成语及掌故。其中有些词和成语的解释我们至今仍在使用。"
+ },
+ {
+  "hash": "63ff90f1ba65",
+  "title": "警世通言",
+  "slug": "jing-shi-tong-yan",
+  "author": "冯梦龙",
+  "authorRaw": "冯梦龙",
+  "authorSlug": "feng-meng-long",
+  "path": "poems/fe/feng-meng-long/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 41,
+  "declaredChapters": 41,
+  "mingju": 74,
+  "declaredMingju": 76,
+  "desc": "《警世通言》是明末冯梦龙纂辑的白话短篇小说集。完成于天启四年（1624），收录宋、元、明时期话本、拟话本40篇。一般认为，这些作品都经过编撰者不同程度的加工、整理。题材或来自现实生活，或取自前人笔记小说。总体而言，《警世通言》的题材主要涉及以下几个方面：其一，婚姻爱情与女性命运。其二，功名利禄与人世沧桑。其三，奇事冤案与怪异世界。从各个角度呈现了当时生活中的社会百态。"
+ },
+ {
+  "hash": "f4b9d6ab25d0",
+  "title": "了凡四训",
+  "slug": "le-fan-si-xun",
+  "author": "袁黄",
+  "authorRaw": "袁黄",
+  "authorSlug": "yuan-huang",
+  "path": "poems/yu/yuan-huang/",
+  "dynasty": "明",
+  "cat": "子部释家类",
+  "categories": [
+   "子部",
+   "释家类"
+  ],
+  "chapters": 4,
+  "declaredChapters": 4,
+  "mingju": 34,
+  "declaredMingju": 35,
+  "desc": "《了凡四训》，种德立命、修身治世类教育书籍。作者为明代袁黄，字坤仪，后改名了凡，作于六十九岁，全文分四个部分。作者以自己的亲身经历，讲述了改变命运的过程。原本为教训自己的儿子，故取名《训子文》；后为启迪世人，遂改今名。"
+ },
+ {
+  "hash": "1a02b10fe543",
+  "title": "墨子",
+  "slug": "mo-zi",
+  "author": "墨子、墨子的弟子及其",
+  "authorRaw": "墨子、墨子的弟子及其",
+  "authorSlug": "mo-zi-mo-zi-de-di-zi",
+  "path": "poems/mo/mo-zi-mo-zi-de-di-zi/",
+  "dynasty": "先秦",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 53,
+  "declaredChapters": 53,
+  "mingju": 133,
+  "declaredMingju": 138,
+  "desc": "《墨子》是阐述墨家思想的著作，原有71篇，现存53篇，一般认为是墨子的弟子及后学记录、整理、编纂而成。《墨子》分两大部分：一部分是记载墨子言行，阐述墨子思想，主要反映了前期墨家的思想；另一部分《经上》、《经下》、《经说上》、《经说下》、《大取》、《小取》等6篇，一般称作墨辩或墨经，着重阐述墨家的认识论和逻辑思想。"
+ },
+ {
+  "hash": "62efc075fe05",
+  "title": "后汉书",
+  "slug": "hou-han-shu",
+  "author": "范晔",
+  "authorRaw": "范晔",
+  "authorSlug": "fan-ye-ye",
+  "path": "poems/fa/fan-ye-ye/",
+  "dynasty": "南北朝",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 130,
+  "declaredChapters": 130,
+  "mingju": 99,
+  "declaredMingju": 99,
+  "desc": "《后汉书》是一部由我国南朝刘宋时期的历史学家范晔编撰的记载东汉历史的纪传体史书。与《史记》、《汉书》、《三国志》合称“前四史”。书中分十纪、八十列传和八志（司马彪续作），记载了从光武帝刘秀起至汉献帝的195年历史。"
+ },
+ {
+  "hash": "fcb502e3f55d",
+  "title": "商君书",
+  "slug": "shang-jun-shu",
+  "author": "商鞅",
+  "authorRaw": "商鞅",
+  "authorSlug": "shang-yang",
+  "path": "poems/sh/shang-yang/",
+  "dynasty": "先秦",
+  "cat": "子部法家类",
+  "categories": [
+   "子部",
+   "法家类"
+  ],
+  "chapters": 24,
+  "declaredChapters": 24,
+  "mingju": 82,
+  "declaredMingju": 84,
+  "desc": "《商君书》也称《商君》《商子》，现存26篇，其中2篇有目无书，是战国时期法家学派的代表作之一，着重论述了商鞅在当时秦国施行的变法理论和具体措施。是战国时期法家代表人物商鞅（可能还包括其后学）著作汇编。"
+ },
+ {
+  "hash": "74e96e4ead90",
+  "title": "冰鉴",
+  "slug": "bing-jian",
+  "author": "曾国藩",
+  "authorRaw": "曾国藩",
+  "authorSlug": "ceng-guo-fan",
+  "path": "poems/ce/ceng-guo-fan/",
+  "dynasty": "清",
+  "cat": "集部别集类",
+  "categories": [
+   "集部",
+   "别集类"
+  ],
+  "chapters": 7,
+  "declaredChapters": 7,
+  "mingju": 6,
+  "declaredMingju": 7,
+  "desc": "《冰鉴》一部纵横中外的人才学教科书，一部关于识人、相人的经典文献，是曾国藩总结自身识人、用人心得而成的一部传世奇书，是曾国藩体察入微、洞悉人心的心法要诀，它因具有极强的实用性、启迪性和借鉴性而受到各界人士的重视和喜爱。《冰鉴》为读者打造一条走近曾国藩的智慧之道，感受他独到的识人、用人策略。"
+ },
+ {
+  "hash": "a0316e61a94f",
+  "title": "神农本草经",
+  "slug": "shen-nong-ben-cao-jing",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 359,
+  "declaredChapters": 359,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《神农本草经》又称《本草经》或《本经》，中医四大经典著作之一，作为现存最早的中药学著作约起源于神农氏，代代口耳相传，于东汉时期集结整理成书，成书非一时，作者亦非一人，秦汉时期众多医学家搜集、总结、整理当时药物学经验成果的专著，是对中国中医药的第一次系统总结。其中规定的大部分中药学理论和配伍规则以及提出的“七情和合”原则在几千年的用药实践中发挥了巨大作用，是中医药药物学理论发展的源头。神农本草经全书分三卷，载药365种，以三品分类法，分上、中、下三品，文字简练古朴，成为中药理论精髓。"
+ },
+ {
+  "hash": "efdce10c023c",
+  "title": "醒世恒言",
+  "slug": "xing-shi-heng-yan",
+  "author": "冯梦龙",
+  "authorRaw": "冯梦龙",
+  "authorSlug": "feng-meng-long",
+  "path": "poems/fe/feng-meng-long/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 41,
+  "declaredChapters": 41,
+  "mingju": 82,
+  "declaredMingju": 84,
+  "desc": "《醒世恒言》，白话短篇笔记集。明末冯梦龙纂辑。始刊于1627年（明天启七年）。其题材或来自民间事实，或来自史传和唐、宋故事。除少数宋元旧作外，绝大多数是明人作品，部分是冯氏拟作。形象鲜明，结构充实完整，描写细腻，不同程度反映了当时的社会面貌和市民思想感情。但有些作品带有封建说教、因果报应宣传和色情渲染。《醒世恒言》同作者之前刊行的《喻世明言》《警世通言》一起，合称《三言》，是最重要的中国古代白话短篇笔记集之一。通常亦与凌濛初的《初刻拍案惊奇》《二刻拍案惊奇》并称，称为“三言二拍”。"
+ },
+ {
+  "hash": "79a6898275a2",
+  "title": "抱朴子",
+  "slug": "bao-pu-zi",
+  "author": "葛洪",
+  "authorRaw": "葛洪",
+  "authorSlug": "ge-hong-hong",
+  "path": "poems/ge/ge-hong-hong/",
+  "dynasty": "魏晋",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 70,
+  "declaredChapters": 70,
+  "mingju": 41,
+  "declaredMingju": 42,
+  "desc": "抱朴子，书名。晋葛洪撰。抱朴（[bào pǔ]）是一个道教术语。源见于《老子》“见素抱朴，少私寡欲”。 抱朴子内外篇凡八卷，内篇论神仙吐纳符篆勉治之术，纯为道家之言；外篇则论时政得失，人事臧否，词旨辨博，饶有名理，要皆以黄老为宗，世以为道书之一 。"
+ },
+ {
+  "hash": "062f613e0366",
+  "title": "水浒传",
+  "slug": "shui-hu-zhuan",
+  "author": "施耐庵",
+  "authorRaw": "施耐庵",
+  "authorSlug": "shi-nai-an",
+  "path": "poems/sh/shi-nai-an/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 121,
+  "declaredChapters": 121,
+  "mingju": 89,
+  "declaredMingju": 91,
+  "desc": "是元末明初施耐庵（现存刊本署名大多有施耐庵、罗贯中两人中的一人，或两人皆有）编著的章回体长篇小说。全书通过描写梁山好汉反抗欺压、水泊梁山壮大和受宋朝招安，以及受招安后为宋朝征战，最终消亡的宏大故事，艺术地反映了中国历史上宋江起义从发生、发展直至失败的全过程，深刻揭示了起义的社会根源，满腔热情地歌颂了起义英雄的反抗斗争和他们的社会理想，也具体揭示了起义失败的内在历史原因。《水浒传》是中国古典四大名著之一，问世后，在社会上产生了巨大的影响，成了后世中国小说创作的典范。"
+ },
+ {
+  "hash": "ed59eb8ad8aa",
+  "title": "明史",
+  "slug": "ming-shi",
+  "author": "张廷玉",
+  "authorRaw": "张廷玉等",
+  "authorSlug": "zhang-ting-yu",
+  "path": "poems/zh/zhang-ting-yu/",
+  "dynasty": "清",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 333,
+  "declaredChapters": 333,
+  "mingju": 24,
+  "declaredMingju": 25,
+  "desc": "《明史》是二十四史最后一部，共三百三十二卷，包括本纪二十四卷，志七十五卷，列传二百二十卷，表十三卷。它是一部纪传体断代史，记载了自朱元璋洪武元年（公元1368年）至朱由检崇祯十七年（公元1644年）二百多年的历史。其卷数在二十四史中仅次于《宋史》，其修纂时间之久、用力之勤则是大大超过了以前诸史。《明史》虽有一些曲笔隐讳之处，但仍得到后世史家广泛的好评。"
+ },
+ {
+  "hash": "69c502d5c006",
+  "title": "列子",
+  "slug": "lie-zi",
+  "author": "列御寇",
+  "authorRaw": "列御寇",
+  "authorSlug": "lie-yu-kou",
+  "path": "poems/li/lie-yu-kou/",
+  "dynasty": "先秦",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 8,
+  "declaredChapters": 8,
+  "mingju": 43,
+  "declaredMingju": 44,
+  "desc": "列子，战国前期思想家，是老子和庄子之外的又一位道家思想代表人物，与郑缪公同时。其学本于黄帝老子，主张清静无为。后汉班固《艺文志》“道家”部分录有《列子》八卷。《列子》又名《冲虚经》，（于前450至前375年所撰）是道家重要典籍。 汉书《艺文志》著录《列子》八卷，早佚。今本《列子》八卷，从思想内容和语言使用上看，可能是后人根据古代资料编著的。全书共载民间故事寓言、神话传说等134则，是东晋人张湛所辑录增补的，题材广泛，有些颇富教育意义。"
+ },
+ {
+  "hash": "1fe1780cd61a",
+  "title": "三命通会",
+  "slug": "san-ming-tong-hui",
+  "author": "万民英",
+  "authorRaw": "万民英",
+  "authorSlug": "wan-min-ying",
+  "path": "poems/wa/wan-min-ying/",
+  "dynasty": "明",
+  "cat": "子部术数类",
+  "categories": [
+   "子部",
+   "术数类"
+  ],
+  "chapters": 384,
+  "declaredChapters": 384,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《三命通会》在我国传统命理学上拥有非常高的地位，其作者为明朝进士万民英。而清朝编修的《四库全书》将他的著作《三命通会》和《星学大成》收录，并给予了高度的评价。"
+ },
+ {
+  "hash": "4660f958c5cf",
+  "title": "管子",
+  "slug": "guan-zi",
+  "author": "管仲",
+  "authorRaw": "管仲及门徒",
+  "authorSlug": "guan-zhong",
+  "path": "poems/gu/guan-zhong/",
+  "dynasty": "先秦",
+  "cat": "子部法家类",
+  "categories": [
+   "子部",
+   "法家类"
+  ],
+  "chapters": 76,
+  "declaredChapters": 76,
+  "mingju": 132,
+  "declaredMingju": 135,
+  "desc": "《管子》是先秦时期各学派的言论汇编，内容很博大，大约成书于战国(前475～前221)时代至秦汉时期，内容很庞杂，包括法家、儒家、道家、阴阳家、名家、兵家和农家的观点，《汉书·艺文志》将其列为道家著作，当时有86篇﹐今本实存76篇﹐其馀10篇仅存目录。《管子》一书的思想，是中国先秦时期政治家治国、平天下的大经大法。"
+ },
+ {
+  "hash": "646551f2777c",
+  "title": "弟子规",
+  "slug": "di-zi-gui",
+  "author": "李毓秀",
+  "authorRaw": "李毓秀",
+  "authorSlug": "li-yu-xiu",
+  "path": "poems/li/li-yu-xiu/",
+  "dynasty": "清",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 8,
+  "declaredChapters": 8,
+  "mingju": 57,
+  "declaredMingju": 59,
+  "desc": "《弟子规》原名《训蒙文》，原作者李毓秀是清朝康熙年间的秀才。《弟子规》根据《论语》等经典编写而成，集孔孟等圣贤的道德教育之大成，提传统道德教育著作之纲领，是接受伦理道德教育的、养成有德有才之人的最佳读物。"
+ },
+ {
+  "hash": "d8a4ecb7842d",
+  "title": "千金方",
+  "slug": "qian-jin-fang",
+  "author": "孙思邈",
+  "authorRaw": "孙思邈",
+  "authorSlug": "sun-si-miao",
+  "path": "poems/su/sun-si-miao/",
+  "dynasty": "唐",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 231,
+  "declaredChapters": 231,
+  "mingju": 4,
+  "declaredMingju": 5,
+  "desc": "《千金要方》又称《备急千金要方》《千金方》，是中国古代中医学经典著作之一，被誉为中国最早的临床百科全书，共30卷，是综合性临床医著。唐朝孙思邈所著，约成书于永徽三年（652年）。该书集唐代以前诊治经验之大成，对后世医家影响极大。"
+ },
+ {
+  "hash": "070822573a07",
+  "title": "朱子家训",
+  "slug": "zhu-zi-jia-xun",
+  "author": "朱柏庐",
+  "authorRaw": "朱柏庐",
+  "authorSlug": "zhu-bai-lu",
+  "path": "poems/zh/zhu-bai-lu/",
+  "dynasty": "清",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 1,
+  "declaredChapters": 1,
+  "mingju": 25,
+  "declaredMingju": 26,
+  "desc": "《朱子家训》又名《朱子治家格言》《朱柏庐治家格言》，是清代朱柏庐先生的一篇家教名著。《朱子家训》仅524字，精辟地阐明了修身治家之道，是一篇家教名著。其中，许多内容继承了中国传统文化的优秀特点，比如尊敬师长，勤俭持家，邻里和睦等，在今天仍然有现实意义。"
+ },
+ {
+  "hash": "acfc55933d61",
+  "title": "难经",
+  "slug": "nan-jing",
+  "author": "扁鹊",
+  "authorRaw": "扁鹊",
+  "authorSlug": "bian-que",
+  "path": "poems/bi/bian-que/",
+  "dynasty": "先秦",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 81,
+  "declaredChapters": 81,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《难经》是战国时期成书，作者是扁鹊 ，原名《黄帝八十一难经》，古代中医学著作之一，传说为战国时期秦越人（扁鹊）所作。本书以问答解释疑难的形式编撰而成，共讨论了81个问题，故又称《八十一难》，全书所述以基础理论为主，还分析了一些病证。其中一至二十二难为脉学，二十三至二十九难为经络，三十至四十七难为脏腑，四十八至六十一难为疾病，六十二至六十八为腧穴，六十九至八十一难为针法。中医四大经典著作之一。"
+ },
+ {
+  "hash": "16865711ef5f",
+  "title": "智囊(选录)",
+  "slug": "zhi-nang-xuan-lu",
+  "author": "冯梦龙",
+  "authorRaw": "冯梦龙",
+  "authorSlug": "feng-meng-long",
+  "path": "poems/fe/feng-meng-long/",
+  "dynasty": "明",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 247,
+  "declaredChapters": 247,
+  "mingju": 17,
+  "declaredMingju": 18,
+  "desc": "《智囊全集》初编于明代天启六年（1626年），全书共收上起先秦、下迄明代的历代智囊故事1200余则，是一部中国人民智慧的创造史和实践史。书中所表现的人物，都在运用智慧和谋略创造历史。它既是一部反映古人巧妙运用聪明才智来排忧解难、克敌制胜的处世奇书，也是中国文化史上一部篇幅庞大的智谋锦囊。"
+ },
+ {
+  "hash": "a058bba88fd1",
+  "title": "牡丹亭",
+  "slug": "mu-dan-ting",
+  "author": "汤显祖",
+  "authorRaw": "汤显祖",
+  "authorSlug": "tang-xian-zu",
+  "path": "poems/ta/tang-xian-zu/",
+  "dynasty": "明",
+  "cat": "集部总集类",
+  "categories": [
+   "集部",
+   "总集类"
+  ],
+  "chapters": 56,
+  "declaredChapters": 56,
+  "mingju": 11,
+  "declaredMingju": 12,
+  "desc": "《牡丹亭还魂记》是明代剧作家汤显祖创作的传奇（剧本），刊行于明万历四十五年（1617年）。该剧描写了官家千金杜丽娘对梦中书生柳梦梅倾心相爱，竟伤情而死，化为魂魄寻找现实中的爱人，人鬼相恋，最后起死回生，终于与柳梦梅永结同心的故事。该剧是中国戏曲史上杰出的作品之一，与王实甫的《西厢记》，孔尚任的《桃花扇》，洪昇的《长生殿》 ，合称中国四大古典戏剧。"
+ },
+ {
+  "hash": "ea10458ec235",
+  "title": "浮生六记",
+  "slug": "fu-sheng-liu-ji",
+  "author": "沈复",
+  "authorRaw": "沈复",
+  "authorSlug": "shen-fu",
+  "path": "poems/sh/shen-fu/",
+  "dynasty": "清",
+  "cat": "集部别集类",
+  "categories": [
+   "集部",
+   "别集类"
+  ],
+  "chapters": 4,
+  "declaredChapters": 4,
+  "mingju": 13,
+  "declaredMingju": 14,
+  "desc": "《浮生六记》是清朝长洲人沈复（字三白，号梅逸）著于嘉庆十三年（1808年）的自传体散文。清朝王韬的妻兄杨引传在苏州的冷摊上发现《浮生六记》的残稿，只有四卷，交给当时在上海主持申报闻尊阁的王韬，以活字板刊行于1877年。“浮生”二字典出李白诗《春夜宴从弟桃李园序》中“夫天地者，万物之逆旅也；光阴者，百代之过客也。而浮生若梦，为欢几何？”。"
+ },
+ {
+  "hash": "f18dc4b6b06d",
+  "title": "搜神记",
+  "slug": "sou-shen-ji",
+  "author": "干宝",
+  "authorRaw": "干宝",
+  "authorSlug": "gan-bao",
+  "path": "poems/ga/gan-bao/",
+  "dynasty": "魏晋",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 20,
+  "declaredChapters": 20,
+  "mingju": 4,
+  "declaredMingju": 5,
+  "desc": "《搜神记》是一部记录古代民间传说中神奇怪异故事的小说集，作者是东晋的史学家干宝。其中的大部分故事在一定程度上反映了古代人民的思想感情。它是集我国古代神话传说之大成的著作，搜集了古代的神异故事共四百一十多篇，开创了我国古代神话小说的先河。"
+ },
+ {
+  "hash": "1ae31193f043",
+  "title": "黄庭经",
+  "slug": "huang-ting-jing",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "魏晋",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 40,
+  "declaredChapters": 40,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《黄庭经》是道教上清派的主要经典，也被内丹家奉为内丹修炼的主要经典。其成书年代大致介于东汉晚期到晋朝以前。《黄庭经》由七言歌诀组成，《外景经》一百九十七句，《内景经》四百三十二句，说的是道教存神养气的修持之术，其要义在将人体的五脏六腑、骨节毛孔与天神一一对应，认为人身的每一个生死门户都有主管之神，只要存思诸神，使之返归体内，便可得道成仙。存思诸神的具体方法是“内观”，或称“内视”，凝神静虑，使人的意念与天神相汇，便可达到天人合一的神仙境界。该经为上清派重要经典，全真道功课之一，被教内誉为“寿世长生之妙典”。该书为历代炼养家所重视，研习、缮写、注释者不乏其人。"
+ },
+ {
+  "hash": "60b26b97a226",
+  "title": "宋史",
+  "slug": "song-shi",
+  "author": "脱脱、阿鲁图",
+  "authorRaw": "脱脱、阿鲁图等",
+  "authorSlug": "tuo-tuo-a-lu-tu",
+  "path": "poems/tu/tuo-tuo-a-lu-tu/",
+  "dynasty": "元",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 496,
+  "declaredChapters": 496,
+  "mingju": 28,
+  "declaredMingju": 29,
+  "desc": "《宋史》是二十四史之一，收录于《四库全书》史部正史类。于元末至正三年（1343年）由丞相脱脱和阿鲁图先后主持修撰，《宋史》与《辽史》《金史》同时修撰。《宋史》全书有本纪47卷，志162卷，表32卷，列传255卷，共计496卷，约500万字，是二十四史中篇幅最庞大的一部官修史书。"
+ },
+ {
+  "hash": "d95083318cc9",
+  "title": "晋书",
+  "slug": "jin-shu",
+  "author": "房玄龄",
+  "authorRaw": "房玄龄等",
+  "authorSlug": "fang-xuan-ling",
+  "path": "poems/fa/fang-xuan-ling/",
+  "dynasty": "唐",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 130,
+  "declaredChapters": 130,
+  "mingju": 55,
+  "declaredMingju": 57,
+  "desc": "《晋书》，中国的二十四史之一，唐房玄龄等人合著，作者共二十一人。记载的历史上起三国时期司马懿早年，下至东晋恭帝元熙二年（420年）刘裕废晋帝自立，以宋代晋。该书同时还以“载记”形式，记述了十六国政权的状况。原有叙例、目录各一卷，帝纪十卷，志二十卷，列传七十卷，载记三十卷，共一百三十二卷。后来叙例、目录失传，今存一百三十卷。"
+ },
+ {
+  "hash": "edd0fc49a275",
+  "title": "金匮要略",
+  "slug": "jin-kui-yao-lve",
+  "author": "张仲景",
+  "authorRaw": "张仲景",
+  "authorSlug": "zhang-zhong-jing",
+  "path": "poems/zh/zhang-zhong-jing/",
+  "dynasty": "汉",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 25,
+  "declaredChapters": 25,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《金匮要略》是我国东汉著名医学家张仲景所著《伤寒杂病论》的杂病部分，也是我国现存最早的一部论述杂病诊治的专书，原名《金匮要略方论》。“金匮”是存放古代帝王圣训和实录的地方，意指本书内容之珍贵。全书分上、中、下三卷，共25篇，载疾病60余种，收方剂262首。所述病证以内科杂病为主，兼及外科、妇科疾病及急救卒死、饮食禁忌等内容。被后世誉为“方书之祖”。"
+ },
+ {
+  "hash": "75da9969dfbc",
+  "title": "论衡",
+  "slug": "lun-heng",
+  "author": "王充",
+  "authorRaw": "王充",
+  "authorSlug": "wang-chong",
+  "path": "poems/wa/wang-chong/",
+  "dynasty": "汉",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 84,
+  "declaredChapters": 84,
+  "mingju": 54,
+  "declaredMingju": 56,
+  "desc": "《论衡》一书为东汉王充（27-97年）所作，大约作成于汉章帝元和三年（86年）。《论衡》是王充的代表作品，也是中国历史上一部不朽的无神论著作。现存文章有85篇（其中的《招致》仅存篇目，实存84篇）。该书被称为“疾虚妄古之实论，讥世俗汉之异书。”"
+ },
+ {
+  "hash": "b047bbc36710",
+  "title": "三略",
+  "slug": "san-lve",
+  "author": "黄石公",
+  "authorRaw": "黄石公",
+  "authorSlug": "huang-shi-gong",
+  "path": "poems/hu/huang-shi-gong/",
+  "dynasty": "先秦",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 3,
+  "declaredChapters": 3,
+  "mingju": 10,
+  "declaredMingju": 11,
+  "desc": "《三略》原称《黄石公三略》，是著名的古代汉族军事著作，属于道家兵书，与《六韬》齐名。 此书侧重于从政治策略上阐明治国用兵的道理，不同于其他兵书。它是一部糅合了诸子各家的某些思想，专论战略的兵书。南宋晁公武称其：“论用兵机之妙、严明之决，军可以死易生，国可以存易亡。”北宋神宗元丰年间被当时武学必读书《武经七书》编入。目前，该书已经成为世界各国将领必读的书籍之一。"
+ },
+ {
+  "hash": "791063234900",
+  "title": "儒林外史",
+  "slug": "ru-lin-wai-shi",
+  "author": "吴敬梓",
+  "authorRaw": "吴敬梓",
+  "authorSlug": "wu-jing-zi",
+  "path": "poems/wu/wu-jing-zi/",
+  "dynasty": "清",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 56,
+  "declaredChapters": 56,
+  "mingju": 22,
+  "declaredMingju": 23,
+  "desc": "《儒林外史》，长篇小说，清代吴敬梓作。五十六回。成书于1749年（乾隆十四年）或稍前，先以抄本传世，初刻于1803年（嘉庆八年）。以写实主义描绘各类人士对于“功名富贵”的不同表现，一方面真实的揭示人性被腐蚀地过程和原因，从而对当时吏治的腐败、科举的弊端礼教的虚伪等进行了深刻的批判和嘲讽；一方面热情地歌颂了少数人物以坚持自我的方式所作的对于人性的守护，从而寄寓了作者的理想。该书代表着中国古代讽刺小说的高峰，它开创了以小说直接评价现实生活的范例。"
+ },
+ {
+  "hash": "e5f673a3c14d",
+  "title": "百家姓",
+  "slug": "bai-jia-xing",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "宋",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 438,
+  "declaredChapters": 438,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《百家姓》与《三字经》《千字文》并称为三大蒙学读物。《百家姓》成书于北宋初年，原收集中文姓氏411个，后增补到504个，其中单姓444个，复姓60个。 《百家姓》读来顺口，易学好记。《百家姓》并不依照各姓氏的人口数量排序，“赵钱孙李”成为《百家姓》前四姓是因为百家姓形成于宋代吴越钱塘地区，故而宋朝皇帝赵氏、吴越国国王钱氏、吴越国王钱俶正妃孙氏以及南唐国王李氏成为百家姓前四位。"
+ },
+ {
+  "hash": "1641abe161ce",
+  "title": "西游记",
+  "slug": "xi-you-ji",
+  "author": "吴承恩",
+  "authorRaw": "吴承恩",
+  "authorSlug": "wu-cheng-en",
+  "path": "poems/wu/wu-cheng-en/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "declaredChapters": 100,
+  "mingju": 55,
+  "declaredMingju": 57,
+  "desc": "《西游记》是明代吴承恩创作的中国古代第一部浪漫主义章回体长篇神魔小说。该小说以“玄奘取经”这一历史事件为蓝本，经作者的艺术加工，深刻地描绘出明代百姓的社会生活状况。《西游记》是中国神魔小说的经典之作，达到了古代长篇浪漫主义小说的巅峰，与《三国演义》《水浒传》《红楼梦》并称为中国古典四大名著。《西游记》自问世以来在民间广为流传，各式各样的版本层出不穷。明代刊本有六种，清代刊本、抄本也有七种，典籍所记已佚版本十三种。"
+ },
+ {
+  "hash": "ef14f483f2e6",
+  "title": "盐铁论",
+  "slug": "yan-tie-lun",
+  "author": "桓宽",
+  "authorRaw": "桓宽",
+  "authorSlug": "huan-kuan",
+  "path": "poems/hu/huan-kuan/",
+  "dynasty": "汉",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 10,
+  "declaredChapters": 10,
+  "mingju": 28,
+  "declaredMingju": 29,
+  "desc": "《盐铁论》是西汉桓宽根据著名的“盐铁会议”记录整理撰写的重要史书，文学体裁为对话体。书中记述了当时对汉昭帝时期的政治、经济、军事、外交、文化的一场大辩论。盐铁论争论的核心是桑弘羊之首倡导的国营垄断和自由经济之争论，为当今的中国很有借鉴作用。收藏于国家图书馆。"
+ },
+ {
+  "hash": "b2730fddcac2",
+  "title": "西厢记",
+  "slug": "xi-xiang-ji",
+  "author": "王实甫",
+  "authorRaw": "王实甫",
+  "authorSlug": "wang-shi-fu-fu",
+  "path": "poems/wa/wang-shi-fu-fu/",
+  "dynasty": "元",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 25,
+  "declaredChapters": 25,
+  "mingju": 13,
+  "declaredMingju": 14,
+  "desc": "《崔莺莺待月西厢记》（简称《西厢记》，又称《王西厢》《北西厢》）是元代王实甫创作杂剧，大约写于元贞、大德年间（1295~1307年）。全剧叙写了书生张生（张君瑞）与相国小姐崔莺莺在仕女红娘的帮助下，冲破孙飞虎、崔母、郑恒等人的重重阻挠，终成眷属的故事。全剧体制宏伟，用了五本二十一折连演一个完整的故事，这在古代杂剧中是罕见的。该剧情节引人入胜，形象鲜明生动，文采斐然，极具诗情画意。"
+ },
+ {
+  "hash": "a4d63f9a2d1c",
+  "title": "太平广记",
+  "slug": "tai-ping-guang-ji",
+  "author": "李昉、扈蒙、徐铉",
+  "authorRaw": "李昉、扈蒙、徐铉等",
+  "authorSlug": "li-fang-hu-meng-xu-xuan",
+  "path": "poems/li/li-fang-hu-meng-xu-xuan/",
+  "dynasty": "宋",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 501,
+  "declaredChapters": 501,
+  "mingju": 1,
+  "declaredMingju": 2,
+  "desc": "《太平广记》是古代文言小说的第一部总集。宋代人编的一部大书。全书500卷，目录10卷，取材于汉代至宋初的野史传说及道经﹑释藏等为主的杂著，属于类书。宋代李昉﹑扈蒙﹑李穆、徐铉、赵邻几、王克贞、宋白、吕文仲等12人奉宋太宗之命编纂。开始于太平兴国二年（977年），次年（978年）完成。因成书于宋太平兴国年间，和《太平御览》同时编纂，所以叫做《太平广记》。"
+ },
+ {
+  "hash": "bc2c2f3f76c5",
+  "title": "贞观政要",
+  "slug": "zhen-guan-zheng-yao",
+  "author": "吴兢",
+  "authorRaw": "吴兢",
+  "authorSlug": "wu-jing-jing",
+  "path": "poems/wu/wu-jing-jing/",
+  "dynasty": "唐",
+  "cat": "史部杂史类",
+  "categories": [
+   "史部",
+   "杂史类"
+  ],
+  "chapters": 41,
+  "declaredChapters": 41,
+  "mingju": 87,
+  "declaredMingju": 89,
+  "desc": "《贞观政要》是唐代史学家吴兢著的一部政论性史书。全书十卷四十篇，分类编辑了唐太宗在位的二十三年中，与魏征、房玄龄、杜如晦等大臣在治政时的问题，大臣们的争议、劝谏、奏议等，以规范君臣思想道德和治同军政思想，此外也记载了一些政治、经济上的重大措施。它是中国开明封建统治的战略和策略、理论和实践的集大成。"
+ },
+ {
+  "hash": "679daef1f0ad",
+  "title": "尔雅",
+  "slug": "er-ya",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "未知",
+  "cat": "经部小学类",
+  "categories": [
+   "经部",
+   "小学类"
+  ],
+  "chapters": 19,
+  "declaredChapters": 19,
+  "mingju": 6,
+  "declaredMingju": 7,
+  "desc": "《尔雅》是辞书之祖。收集了比较丰富的古代汉语词汇。它不仅是辞书之祖，还是中国古代的典籍——经，《十三经》的一种，是中国传统文化的核心组成部分。《尔雅》是第一部词典，“尔”是“近”的意思（后来写作“迩”），“雅”是“正”的意思，在这里专指“雅言”，即在语音、词汇和语法等方面都合乎规范的标准语。《尔雅》的意思是接近、符合雅言，即以雅正之言解释古语词、方言词，使之近于规范。"
+ },
+ {
+  "hash": "d3e0f035c921",
+  "title": "夜航船",
+  "slug": "ye-hang-chuan",
+  "author": "张岱",
+  "authorRaw": "张岱",
+  "authorSlug": "zhang-dai",
+  "path": "poems/zh/zhang-dai/",
+  "dynasty": "明",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 131,
+  "declaredChapters": 131,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《夜航船》是明末清初文学家、史学家张岱所著的百科类图书。该书讲述了从三教九流到神仙鬼怪，从政治人事到典章沿革等二十大类125个小类的学科知识。"
+ },
+ {
+  "hash": "e7eee3ba6e7f",
+  "title": "旧唐书",
+  "slug": "jiu-tang-shu",
+  "author": "刘昫",
+  "authorRaw": "刘昫等",
+  "authorSlug": "liu-xu-xu",
+  "path": "poems/li/liu-xu-xu/",
+  "dynasty": "五代",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 201,
+  "declaredChapters": 201,
+  "mingju": 23,
+  "declaredMingju": 24,
+  "desc": "《旧唐书》共200卷，包括《本纪》20卷、《志》30卷、《列传》150卷，原名《唐书》，宋祁、欧阳修等所编著《新唐书》问世后，才改称《旧唐书》，成书于后晋开运二年（945年）。"
+ },
+ {
+  "hash": "9ec2c9145a8f",
+  "title": "笑林广记",
+  "slug": "xiao-lin-guang-ji",
+  "author": "程世爵",
+  "authorRaw": "程世爵",
+  "authorSlug": "cheng-shi-jue",
+  "path": "poems/ch/cheng-shi-jue/",
+  "dynasty": "清",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 12,
+  "declaredChapters": 12,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《笑林广记》是清代程世爵撰文言笑话集，成书于清光绪二十五年（1899）。它是集中国古代民间传统笑话之大成者，清代署名“游戏主人”收集而成。全书分12部，所收笑话或直刺现实，或隐讽世情，有的格调高雅，妙趣横生，充分表现出了劳动人民的机敏和幽默，表现了他们对世间邪恶习气作风的嘲讽。"
+ },
+ {
+  "hash": "de95a674bb98",
+  "title": "太上老君说常清静经",
+  "slug": "tai-shang-lao-jun-shuo-c-bf0c7247",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "未知",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 1,
+  "declaredChapters": 1,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《清静经》，全称《太上老君说常清静经》。一卷。 《太上老君说常清静经》仅三百九十一字。是道教炼养术重要资料之一。 《清静经》正文起首一句就是“大道无形”而定了全经格调。经文不讲有为的修养方法，而是要人从心地下手，以“清静”法门去澄心遣欲，去参悟大道。经中以发挥“清静”两字为主，简明地叙述了道家修心养性的基本原则。"
+ },
+ {
+  "hash": "62e3560d7afb",
+  "title": "神相全编",
+  "slug": "shen-xiang-quan-bian",
+  "author": "陈抟",
+  "authorRaw": "陈抟",
+  "authorSlug": "chen-tuan",
+  "path": "poems/ch/chen-tuan/",
+  "dynasty": "宋",
+  "cat": "子部术数类",
+  "categories": [
+   "子部",
+   "术数类"
+  ],
+  "chapters": 3,
+  "declaredChapters": 3,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《神相全编》是浩如烟海、灿若星汉的中国典籍文化中，集古代各时期著名相学家论述和著作大成的一书，几乎概括了中国相术的所有领域，成为自明、清以来最流行的相术技法大全。为宋代陈抟秘传，明代袁忠彻订正。"
+ },
+ {
+  "hash": "94f35da6046f",
+  "title": "黄帝四经",
+  "slug": "huang-di-si-jing",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 26,
+  "declaredChapters": 26,
+  "mingju": 9,
+  "declaredMingju": 10,
+  "desc": "《黄帝四经》是马王堆汉墓出土帛书，初付于帛书老子乙本前，当时称《老子乙本卷前古佚书》，后经专家鉴定，认为此书是失传已久的《黄帝四经》。《汉书．艺文志》曾经著录此书，但汉以后就失传了，学者根据书的内容、文字、篇章数目等研究，认为此书成书时期当晚于《老子》，早于《管子》、《孟子》、《庄子》。它体现了道家学说由老子一派变成黄老学派的转变，对先秦各家各派都有直接或间接的影响。《黄帝四经》于经学研究有极重要的地位。"
+ },
+ {
+  "hash": "9b2afacf8de5",
+  "title": "新唐书",
+  "slug": "xin-tang-shu",
+  "author": "欧阳修、宋祁",
+  "authorRaw": "欧阳修、宋祁等",
+  "authorSlug": "ou-yang-xiu-song-qi",
+  "path": "poems/ou/ou-yang-xiu-song-qi/",
+  "dynasty": "宋",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 225,
+  "declaredChapters": 225,
+  "mingju": 17,
+  "declaredMingju": 18,
+  "desc": "《新唐书》是北宋时期欧阳修、宋祁、范镇、吕夏卿等合撰的一部记载唐朝历史的纪传体断代史书，“二十四史”之一。全书共有225卷，其中包括本纪10卷，志50卷，表15卷，列传150卷。《新唐书》前后修史历经17年，于宋仁宗嘉祐五年（公元1060年）完成。《新唐书》在体例上第一次写出了《兵志》、《选举志》，系统论述唐代府兵等军事制度和科举制度。这是我国正史体裁史书的一大开创，为以后《宋史》等所沿袭。"
+ },
+ {
+  "hash": "2e4559173dff",
+  "title": "针灸大成",
+  "slug": "zhen-jiu-da-cheng",
+  "author": "杨继洲",
+  "authorRaw": "杨继洲",
+  "authorSlug": "yang-ji-zhou",
+  "path": "poems/ya/yang-ji-zhou/",
+  "dynasty": "明",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 196,
+  "declaredChapters": 196,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "针灸专著，又名《针灸大全》，10卷。明杨继洲(济时)撰，刊于万历二十九年(1601年)。杨氏根据家传《卫生针灸玄机秘要》（简称《玄机秘要》），参考明以前20余种针灸学著作，并结合作者针灸临床经验编成此书。本书较全面论述针灸理论、操作手法等，并考定腧穴名称和部位，记述历代名家针灸医案，为对明以前针灸学术的又一总结，是学习研究针灸的重要参考著作。"
+ },
+ {
+  "hash": "4fa14519b950",
+  "title": "百战奇略",
+  "slug": "bai-zhan-qi-lve",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "宋",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 100,
+  "declaredChapters": 100,
+  "mingju": 19,
+  "declaredMingju": 21,
+  "desc": "《百战奇略》（原名《百战奇法》）作为一部以论述作战原则和作战方法为主旨的古代军事理论专著而问世，这无论是在宋以前或是宋以后，都是不多见的。因此，从其产生以来，就为兵家所重视和推崇，给予很高评价，并一再刊行，广为流传。"
+ },
+ {
+  "hash": "8d430e61b15e",
+  "title": "茶经",
+  "slug": "cha-jing",
+  "author": "陆羽",
+  "authorRaw": "陆羽",
+  "authorSlug": "lu-yu",
+  "path": "poems/lu/lu-yu/",
+  "dynasty": "唐",
+  "cat": "子部谱录类",
+  "categories": [
+   "子部",
+   "谱录类"
+  ],
+  "chapters": 10,
+  "declaredChapters": 10,
+  "mingju": 11,
+  "declaredMingju": 13,
+  "desc": "《茶经》是中国乃至世界现存最早、最完整、最全面介绍茶的第一部专著，被誉为茶叶百科全书，唐代陆羽所著。此书是关于茶叶生产的历史、源流、现状、生产技术以及饮茶技艺、茶道原理的综合性论著，是划时代的茶学专著，精辟的农学著作，阐述茶文化的书。将普通茶事升格为一种美妙的文化艺能，推动了汉族茶文化的发展。"
+ },
+ {
+  "hash": "f053f6df717d",
+  "title": "孙膑兵法",
+  "slug": "sun-bin-bing-fa",
+  "author": "孙膑",
+  "authorRaw": "孙膑",
+  "authorSlug": "sun-bin",
+  "path": "poems/su/sun-bin/",
+  "dynasty": "先秦",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 30,
+  "declaredChapters": 30,
+  "mingju": 8,
+  "declaredMingju": 9,
+  "desc": "《孙膑兵法》是中国古代的著名兵书，也是《孙子兵法》后“孙子学派”的又一力作。《孙膑兵法》古称《齐孙子》，作者为孙膑，传说他是孙武的后代，在战国时期生于齐国阿、鄄之间（今山东阳谷、鄄城一带），曾和庞涓一块儿学习兵法。"
+ },
+ {
+  "hash": "1e9fa59b2fc4",
+  "title": "国语",
+  "slug": "guo-yu",
+  "author": "左丘明",
+  "authorRaw": "左丘明",
+  "authorSlug": "zuo-qiu-ming",
+  "path": "poems/zu/zuo-qiu-ming/",
+  "dynasty": "先秦",
+  "cat": "史部杂史类",
+  "categories": [
+   "史部",
+   "杂史类"
+  ],
+  "chapters": 243,
+  "declaredChapters": 243,
+  "mingju": 45,
+  "declaredMingju": 46,
+  "desc": "《国语》相传是春秋时期左丘明所撰的一部国别体著作。宋代以来，包括康有为在内的多位学者怀疑《国语》为西汉刘歆的伪作。该著作记录范围为上起周穆王十二年（公元前990年）西征犬戎（约公元前947年），下至智伯被灭（公元前453年）。《国语》中包括各国贵族间朝聘、宴飨、讽谏、辩说、应对之辞以及部分历史事件与传说。《国语》是我国第一部国别体史书。"
+ },
+ {
+  "hash": "c5782b834e0b",
+  "title": "徐霞客游记",
+  "slug": "xu-xia-ke-you-ji",
+  "author": "徐霞客",
+  "authorRaw": "徐霞客",
+  "authorSlug": "xu-xia-ke",
+  "path": "poems/xu/xu-xia-ke/",
+  "dynasty": "明",
+  "cat": "集部别集类",
+  "categories": [
+   "集部",
+   "别集类"
+  ],
+  "chapters": 155,
+  "declaredChapters": 155,
+  "mingju": 1,
+  "declaredMingju": 2,
+  "desc": "《徐霞客游记》是以日记体为主的地理著作，明末地理学家徐弘祖（一作宏祖，号霞客）经34年旅行，写有天台山、雁荡山、黄山、庐山等名山游记17篇和《浙游日记》、《江右游日记》、《楚游日记》、《粤西游日记》、《黔游日记》、《滇游日记》等著作，除佚散者外，遗有60余万字游记资料，死后由他人整理成《徐霞客游记》。世传本有10卷、12卷、20卷等数种，主要按日记述作者1613～1639年间旅行观察所得，对地理、水文、地质、植物等现象，均作详细记录，在地理学和文学上卓有重要的价值。"
+ },
+ {
+  "hash": "c199613b2add",
+  "title": "太平御览",
+  "slug": "tai-ping-yu-lan",
+  "author": "李昉、李穆",
+  "authorRaw": "李昉、李穆等",
+  "authorSlug": "li-fang-li-mu",
+  "path": "poems/li/li-fang-li-mu/",
+  "dynasty": "宋",
+  "cat": "子部类书类",
+  "categories": [
+   "子部",
+   "类书类"
+  ],
+  "chapters": 1000,
+  "declaredChapters": 1000,
+  "mingju": 14,
+  "declaredMingju": 15,
+  "desc": "《太平御览》是宋代著名的类书，为北宋李昉、李穆、徐铉等学者奉敕编纂，始于太平兴国二年（977）三月，成书于太平兴国八年（983）十月。《太平御览》采以群书类集之，凡分五十五部五百五十门而编为千卷，所以初名为《太平总类》；书成之后，宋太宗日览三卷，一岁而读周，所以又更名为《太平御览》。全书以天、地、人、事、物为序，分成五十五部，可谓包罗古今万象。书中共引用古书一千多种，保存了大量宋以前的文献资料，但其中十之七八已经亡佚，更使本书显得弥足珍贵，是中国传统文化的宝贵遗产。"
+ },
+ {
+  "hash": "302066e72e4c",
+  "title": "云笈七签",
+  "slug": "yun-ji-qi-qian",
+  "author": "张君房",
+  "authorRaw": "张君房",
+  "authorSlug": "zhang-jun-fang",
+  "path": "poems/zh/zhang-jun-fang/",
+  "dynasty": "宋",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 121,
+  "declaredChapters": 121,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《云笈七签》是择要辑录《大宋天宫宝藏》内容的一部大型道教类书。北宋天禧三年（公元1019年），当时任著作佐郎的张君房编成《大宋天宫宝藏》后，又择其他认为的精要万余条，于天圣三年至七年（1025～1029）间辑成本书进献仁宗皇帝。"
+ },
+ {
+  "hash": "95ad130a131f",
+  "title": "随园诗话",
+  "slug": "sui-yuan-shi-hua",
+  "author": "袁枚",
+  "authorRaw": "袁枚",
+  "authorSlug": "yuan-mei",
+  "path": "poems/yu/yuan-mei/",
+  "dynasty": "清",
+  "cat": "集部诗文评类",
+  "categories": [
+   "集部",
+   "诗文评类"
+  ],
+  "chapters": 27,
+  "declaredChapters": 27,
+  "mingju": 32,
+  "declaredMingju": 33,
+  "desc": "《随园诗话》，清代袁枚的诗歌美学和诗歌理论著作。是一部有为之作，有其很强的针对性。本书所论及的，从诗人的先天资质，到后天的品德修养、读书学习及社会实践；从写景、言情，到咏物、咏史；从立意构思，到谋篇炼句；从辞采、韵律，到比兴、寄托、自然、空灵、曲折等各种表现手法和艺术风格，以及诗的修改、诗的鉴赏、诗的编选，乃至诗话的撰写，凡是与诗相关的方方面面，可谓无所不包了。"
+ },
+ {
+  "hash": "f85cbdb83bfd",
+  "title": "将苑",
+  "slug": "jiang-yuan",
+  "author": "诸葛亮",
+  "authorRaw": "诸葛亮",
+  "authorSlug": "zhu-ge-liang",
+  "path": "poems/zh/zhu-ge-liang/",
+  "dynasty": "汉",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 50,
+  "declaredChapters": 50,
+  "mingju": 16,
+  "declaredMingju": 17,
+  "desc": "《将苑》是中国古代一部专门讨论为将之道的军事著作，又称《诸葛亮将苑》、《武侯将苑》、《心书》、《武侯心书》、《新书》、《武侯新书》等。此书宋代称《将苑》，明代始改称《心书》，如《经籍志》；或《新书》，如陶宗仪《说郛》；也有称《将苑》的，如《百川书志》。《汉魏丛书》虽于书名题作《心书》，而篇章标题中间有《新书》字样。现存版本中，这几种称谓都有，核其内容，虽有所差别，但基本上是一致的，是同书异名。"
+ },
+ {
+  "hash": "e4d81a7d60bd",
+  "title": "颜氏家训",
+  "slug": "yan-shi-jia-xun",
+  "author": "颜之推",
+  "authorRaw": "颜之推",
+  "authorSlug": "yan-zhi-tui",
+  "path": "poems/ya/yan-zhi-tui/",
+  "dynasty": "南北朝",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 20,
+  "declaredChapters": 20,
+  "mingju": 33,
+  "declaredMingju": 34,
+  "desc": "南北朝时期记述个人经历、思想、学识以告诫子孙的著作。颜之推编。七卷，共二十篇。颜之推（531年～591以后），字介。颜氏原籍琅邪临沂（今山东临沂北），先世随东晋渡江，寓居建康。侯景之乱，梁元帝萧绎自立于江陵，之推任散骑侍郎。承圣三年（554），西魏破江陵，之推被俘西去。他为回江南，乘黄河水涨，从弘农（今河南三门峡西南）偷渡，经砥柱之险，先逃奔北齐。但南方陈朝代替了梁朝，之推南归之愿未遂，即留居北齐，官至黄门侍郎。577年齐亡入周。隋代周后，又仕于隋。家训一书在隋灭陈（589）以后完成。"
+ },
+ {
+  "hash": "74c064ea85bf",
+  "title": "滴天髓阐微",
+  "slug": "di-tian-sui-chan-wei",
+  "author": "京图",
+  "authorRaw": "京图",
+  "authorSlug": "jing-tu",
+  "path": "poems/ji/jing-tu/",
+  "dynasty": "宋",
+  "cat": "子部术数类",
+  "categories": [
+   "子部",
+   "术数类"
+  ],
+  "chapters": 64,
+  "declaredChapters": 64,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "相传为宋人京图撰，至清代道光年间由任铁樵注释，增注由袁树珊撰辑。"
+ },
+ {
+  "hash": "076e2373fc61",
+  "title": "梦溪笔谈",
+  "slug": "meng-xi-bi-tan",
+  "author": "沈括",
+  "authorRaw": "沈括",
+  "authorSlug": "shen-kuo",
+  "path": "poems/sh/shen-kuo/",
+  "dynasty": "宋",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 30,
+  "declaredChapters": 30,
+  "mingju": 13,
+  "declaredMingju": 14,
+  "desc": "《梦溪笔谈》，北宋科学家、政治家沈括（1031年—1095年）撰，是一部涉及古代中国自然科学、工艺技术及社会历史现象的综合性笔记体著作。据现可见的最古本元大德刻本，《梦溪笔谈》一共分30卷，其中《笔谈》26卷，《补笔谈》3卷，《续笔谈》1卷。全书有十七目，凡609条。书中的自然科学部分，总结了中国古代、特别是北宋时期科学成就。社会历史方面，对北宋统治集团的腐朽有所暴露，对西北和北方的军事利害、典制礼仪的演变，旧赋役制度的弊害，都有较为详实的记载。"
+ },
+ {
+  "hash": "40431a65a832",
+  "title": "东京梦华录",
+  "slug": "dong-jing-meng-hua-lu",
+  "author": "孟元老",
+  "authorRaw": "孟元老",
+  "authorSlug": "meng-yuan-lao",
+  "path": "poems/me/meng-yuan-lao/",
+  "dynasty": "宋",
+  "cat": "史部地理类",
+  "categories": [
+   "史部",
+   "地理类"
+  ],
+  "chapters": 11,
+  "declaredChapters": 11,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《东京梦华录》是宋代孟元老的笔记体散记文，创作于宋钦宗靖康二年（1127年），是一本追述北宋都城东京开封府城市风俗人情的著作。所记大多是宋徽宗崇宁到宣和（1102-1125）年间北宋都城东京开封的情况，描绘了这一历史时期居住在东京的上至王公贵族、下及庶民百姓的日常生活情景，是研究北宋都市社会生活、经济文化的一部极其重要的历史文献古籍。"
+ },
+ {
+  "hash": "289e1e12ab2a",
+  "title": "天工开物",
+  "slug": "tian-gong-kai-wu",
+  "author": "宋应星",
+  "authorRaw": "宋应星",
+  "authorSlug": "song-ying-xing",
+  "path": "poems/so/song-ying-xing/",
+  "dynasty": "明",
+  "cat": "子部农家类",
+  "categories": [
+   "子部",
+   "农家类"
+  ],
+  "chapters": 19,
+  "declaredChapters": 19,
+  "mingju": 2,
+  "declaredMingju": 3,
+  "desc": "《天工开物》初刊于1637年（明崇祯十年）。《天工开物》是世界上第一部关于农业和手工业生产的综合性著作，是中国古代一部综合性的科学技术著作，有人也称它是一部百科全书式的著作，作者是明朝科学家宋应星。外国学者称它为“中国17世纪的工艺百科全书”。作者在书中强调人类要和自然相协调、人力要与自然力相配合。"
+ },
+ {
+  "hash": "c5845470adad",
+  "title": "撼龙经",
+  "slug": "han-long-jing",
+  "author": "杨筠松",
+  "authorRaw": "杨筠松",
+  "authorSlug": "yang-yun-song",
+  "path": "poems/ya/yang-yun-song/",
+  "dynasty": "唐",
+  "cat": "子部术数类",
+  "categories": [
+   "子部",
+   "术数类"
+  ],
+  "chapters": 12,
+  "declaredChapters": 12,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《撼龙经》是唐代风水大师杨筠松的代表作之一，是龙脉风水的最权威圣典，被誉为“中国古代测绘学之最”，是了解与运用龙脉风水、快速振兴家业的最佳典籍。"
+ },
+ {
+  "hash": "e546149e37cd",
+  "title": "曾国藩家书",
+  "slug": "ceng-guo-fan-jia-shu",
+  "author": "曾国藩",
+  "authorRaw": "曾国藩",
+  "authorSlug": "ceng-guo-fan",
+  "path": "poems/ce/ceng-guo-fan/",
+  "dynasty": "清",
+  "cat": "集部别集类",
+  "categories": [
+   "集部",
+   "别集类"
+  ],
+  "chapters": 195,
+  "declaredChapters": 195,
+  "mingju": 11,
+  "declaredMingju": 12,
+  "desc": "《曾国藩家书》是曾国藩的书信集，成书于清19世纪中叶。该书信集记录了曾国藩在清道光30年至同治10年前后达30年的翰苑和从武生涯，近1500封。曾氏家书行文从容镇定，形式自由，随想而到，挥笔自如，在平淡家常中蕴育真知良言，具有极强的说服力和感召力。曾国藩作为清代著名的理学家、文学家，对书信格式极为讲究，显示了他恭肃、严谨的作风。"
+ },
+ {
+  "hash": "938f9117e41d",
+  "title": "水经注",
+  "slug": "shui-jing-zhu",
+  "author": "郦道元",
+  "authorRaw": "郦道元",
+  "authorSlug": "li-dao-yuan",
+  "path": "poems/li/li-dao-yuan/",
+  "dynasty": "南北朝",
+  "cat": "史部地理类",
+  "categories": [
+   "史部",
+   "地理类"
+  ],
+  "chapters": 41,
+  "declaredChapters": 41,
+  "mingju": 5,
+  "declaredMingju": 6,
+  "desc": "《水经注》是古代中国地理名著，共四十卷。作者是北魏晚期的郦道元。《水经注》因注《水经》而得名，《水经》一书约一万余字，《唐六典·注》说其“引天下之水，百三十七”。《水经注》看似为《水经》之注，实则以《水经》为纲，详细记载了一千多条大小河流及有关的历史遗迹、人物掌故、神话传说等，是中国古代最全面、最系统的综合性地理著作。"
+ },
+ {
+  "hash": "fc39bc144935",
+  "title": "封神演义",
+  "slug": "feng-shen-yan-yi",
+  "author": "许仲琳",
+  "authorRaw": "许仲琳",
+  "authorSlug": "xu-zhong-lin",
+  "path": "poems/xu/xu-zhong-lin/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "declaredChapters": 100,
+  "mingju": 6,
+  "declaredMingju": 7,
+  "desc": "《封神演义》是明代许仲琳（有争议）创作的长篇小说，约成书于隆庆、万历年间。主要以姜子牙辅佐周室（周文王、周武王）讨伐商纣的历史为背景，描写了阐教、截教诸仙斗智斗勇、破阵斩将封神的故事。包含了大量民间传说和神话。有姜子牙、哪吒、杨戬等生动、鲜明的人物形象，最后以姜子牙封诸神和周武王封诸侯结尾。"
+ },
+ {
+  "hash": "d8b854fd7143",
+  "title": "奇经八脉考",
+  "slug": "qi-jing-ba-mai-kao",
+  "author": "李时珍",
+  "authorRaw": "李时珍",
+  "authorSlug": "li-shi-zhen",
+  "path": "poems/li/li-shi-zhen/",
+  "dynasty": "明",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 18,
+  "declaredChapters": 18,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "奇经八脉是指十二经脉之外的八条经脉，包括任脉、督脉、冲脉、带脉、阴跷脉、阳跷脉、阴维脉、阳维脉。奇者，异也。因其异于十二正经，故称“奇经”。它们既不直属脏腑，又无表里配合。其生理功能，主要是对十二经脉的气血运行起着溢蓄、调节作用。"
+ },
+ {
+  "hash": "d07db3b0c534",
+  "title": "春秋",
+  "slug": "chun-qiu",
+  "author": "孔子",
+  "authorRaw": "孔子",
+  "authorSlug": "kong-zi",
+  "path": "poems/ko/kong-zi/",
+  "dynasty": "先秦",
+  "cat": "史部编年类",
+  "categories": [
+   "史部",
+   "编年类"
+  ],
+  "chapters": 12,
+  "declaredChapters": 12,
+  "mingju": 36,
+  "declaredMingju": 140,
+  "desc": "《春秋》，又称《春秋经》《麟经》或《麟史》，是中国第一部编年体史书，儒家六经之一，记载了春秋时期自鲁隐公元年（前722年）至鲁哀公十四年（前481年）的鲁国重要史实。《春秋》记事语言简练，通过特定用词暗含褒贬，被称为“春秋笔法”。"
+ },
+ {
+  "hash": "fd1502b1700f",
+  "title": "渊海子平",
+  "slug": "yuan-hai-zi-ping",
+  "author": "徐大升",
+  "authorRaw": "徐大升",
+  "authorSlug": "xu-da-sheng",
+  "path": "poems/xu/xu-da-sheng/",
+  "dynasty": "宋",
+  "cat": "子部术数类",
+  "categories": [
+   "子部",
+   "术数类"
+  ],
+  "chapters": 12,
+  "declaredChapters": 12,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《渊海子平》由宋代徐大升依据东海徐子平先师论命成果而编著。是八字命理学的宗祖之作，也是八字算命术必习的经典名著，该书是以财官印食伤等格局将命运层次分为三六九等的第一书。若是论及以往名师圣贤，决断生死当属鬼谷子先师的纳音论命法，论富贵贫贱应首推徐子平先师的子平财官格局法，人们为了纪念徐子平等先贤在算命术上的贡献，又把算命术统称为子平术。"
+ },
+ {
+  "hash": "a43af020011d",
+  "title": "喻世明言",
+  "slug": "yu-shi-ming-yan",
+  "author": "冯梦龙",
+  "authorRaw": "冯梦龙",
+  "authorSlug": "feng-meng-long",
+  "path": "poems/fe/feng-meng-long/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 41,
+  "declaredChapters": 41,
+  "mingju": 28,
+  "declaredMingju": 29,
+  "desc": "《喻世明言》是明末冯梦龙纂辑的白话短篇小说集。《喻世明言》最初版本名为《古今小说》，全称《全像古今小说》。后重印改名为《喻世明言》，以与“三言”其他作品书名相配。全书40卷，每卷1篇，共计40篇。它和《通言》《恒言》一样，为宋元明话本小说。《喻世明言》中故事产生的时代，包括宋、元、明三代，其中多数为宋元旧作话本，另外有些是明人对宋元旧作的改编加工，还收录和改编了一些历史传奇故事。此外，《喻世明言》各篇小说多取材于现实生活，主题涵盖爱情、婚姻、朋友情义等，展现了当其时的社会百态。"
+ },
+ {
+  "hash": "9f000cb5cebc",
+  "title": "周礼",
+  "slug": "zhou-li",
+  "author": "周公旦",
+  "authorRaw": "周公旦",
+  "authorSlug": "zhou-gong-dan",
+  "path": "poems/zh/zhou-gong-dan/",
+  "dynasty": "汉",
+  "cat": "经部礼类",
+  "categories": [
+   "经部",
+   "礼类"
+  ],
+  "chapters": 51,
+  "declaredChapters": 51,
+  "mingju": 2,
+  "declaredMingju": 3,
+  "desc": "《周礼》是儒家经典，西周时期的著名政治家、思想家、文学家、军事家周公旦所著，今从其思想内容分析，则说明儒家思想发展到战国后期，融合道、法、阴阳等家思想，与春秋孔子时思想发生极大变化。《周礼》所涉及之内容极为丰富。大至天下九州，天文历象；小至沟洫道路，草木虫鱼。凡邦国建制，政法文教，礼乐兵刑，赋税度支，膳食衣饰，寝庙车马，农商医卜，工艺制作，各种名物、典章、制度，无所不包。堪称为上古文化史之宝库。"
+ },
+ {
+  "hash": "64c159c2814f",
+  "title": "药性歌括四百味",
+  "slug": "yao-xing-ge-kuo-si-bai-w-87015694",
+  "author": "龚廷贤",
+  "authorRaw": "龚廷贤",
+  "authorSlug": "gong-ting-xian",
+  "path": "poems/go/gong-ting-xian/",
+  "dynasty": "明",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 4,
+  "declaredChapters": 4,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《药性歌括四百味》是一本阐释性读物，是明代医家龚廷贤所著。每味药物下分原文、注释、语译、按语四个部分。全书以现代语言对每味药物的品种、来源、产地、药性、功能主治、临床应用、用法用量、使用注意事项等内容进行了全面的阐释。内容简明扼要，通俗易懂，实用性强，适合于中医药工作者、医药院校广大师生及中医药爱好者阅读、参考。"
+ },
+ {
+  "hash": "953510d9231e",
+  "title": "桃花扇",
+  "slug": "tao-hua-shan",
+  "author": "孔尚任",
+  "authorRaw": "孔尚任",
+  "authorSlug": "kong-shang-ren",
+  "path": "poems/ko/kong-shang-ren/",
+  "dynasty": "清",
+  "cat": "集部词曲类",
+  "categories": [
+   "集部",
+   "词曲类"
+  ],
+  "chapters": 44,
+  "declaredChapters": 44,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《桃花扇》是清代文学家孔尚任创作的传奇剧本，于清康熙三十八年（1699年）六月完稿，康熙四十七年（1708年）刊成初版。所写的是明代末年发生在南京的故事。全剧以侯方域、李香君的悲欢离合为主线，展现了明末南京的社会现实。同时也揭露了弘光政权衰亡的原因，歌颂了对国家忠贞不渝的民族英雄和底层百姓，展现了明朝遗民的亡国之痛。"
+ },
+ {
+  "hash": "1650aef9993d",
+  "title": "权谋残卷",
+  "slug": "quan-mou-can-juan",
+  "author": "张居正",
+  "authorRaw": "张居正",
+  "authorSlug": "zhang-ju-zheng",
+  "path": "poems/zh/zhang-ju-zheng/",
+  "dynasty": "明",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 13,
+  "declaredChapters": 13,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《权谋残卷》是明代张居正所作的一部权谋类著作，共分为13卷。听其言而观其行，观其色而究其实。 察者智，不察者迷；明察，进可以全国，退可以保身。君子宜惕然。"
+ },
+ {
+  "hash": "bd39fa6c6fb4",
+  "title": "葬书",
+  "slug": "zang-shu",
+  "author": "郭璞",
+  "authorRaw": "郭璞",
+  "authorSlug": "guo-pu",
+  "path": "poems/gu/guo-pu/",
+  "dynasty": "魏晋",
+  "cat": "子部术数类",
+  "categories": [
+   "子部",
+   "术数类"
+  ],
+  "chapters": 3,
+  "declaredChapters": 3,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "葬书是东晋著名学者郭璞的著作，全文不到两万字，却系统地阐述了风水理论。其五大理论亮点归纳为：一是乘“生气”论；二是“藏风得水”论；三是“形势”论；四是“四神砂”论；五是“土质标准”论。"
+ },
+ {
+  "hash": "7c4ea00d3b33",
+  "title": "阅微草堂笔记",
+  "slug": "yue-wei-cao-tang-bi-ji",
+  "author": "纪昀",
+  "authorRaw": "纪昀",
+  "authorSlug": "ji-yun",
+  "path": "poems/ji/ji-yun/",
+  "dynasty": "清",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 108,
+  "declaredChapters": 108,
+  "mingju": 2,
+  "declaredMingju": 3,
+  "desc": "《阅微草堂笔记》原名《阅微笔记》，是清朝翰林院庶吉士出身的纪昀于乾隆五十四年（1789年）至嘉庆三年（1798年）间以笔记形式所编写成的文言短篇志怪小说。在时间上，《阅微草堂笔记》主要搜辑各种狐鬼神仙、因果报应、劝善惩恶等当时代前后的流传的乡野怪谭，或亲身所听闻的奇情轶事；在空间地域上，其涵盖的范围则遍及全中国，远至乌鲁木齐、伊宁、滇黔等地。同时《阅微草堂笔记》有意模仿宋代笔记小说质朴简淡的文风，曾在历史上一时享有同《红楼梦》、《聊斋志异》并行海内的盛誉。"
+ },
+ {
+  "hash": "7f51e554e184",
+  "title": "说苑",
+  "slug": "shuo-yuan",
+  "author": "刘向",
+  "authorRaw": "刘向",
+  "authorSlug": "liu-xiang-xiang",
+  "path": "poems/li/liu-xiang-xiang/",
+  "dynasty": "汉",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 20,
+  "declaredChapters": 20,
+  "mingju": 75,
+  "declaredMingju": 77,
+  "desc": "《说苑》，又名《新苑》，古代杂史小说集。刘向编。成书于鸿嘉四年(公元前17年)。原20卷，78。按各类记述春秋战国至汉代的遗闻轶事，每类之前列总说：事后加按语。其中以记述诸子言行为主，不少篇章中有关于治国安民、家国兴亡的哲理格言。主要体现了儒家的哲学思想、政治理想以及伦理观念。"
+ },
+ {
+  "hash": "daacd354397b",
+  "title": "镜花缘",
+  "slug": "jing-hua-yuan",
+  "author": "李汝珍",
+  "authorRaw": "李汝珍",
+  "authorSlug": "li-ru-zhen",
+  "path": "poems/li/li-ru-zhen/",
+  "dynasty": "清",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 100,
+  "declaredChapters": 100,
+  "mingju": 12,
+  "declaredMingju": 13,
+  "desc": "《镜花缘》是清代文人李汝珍创作的长篇小说。小说前半部分描写了唐敖、多九公等人乘船在海外游历的故事，包括他们在女儿国、君子国、无肠国等国的经历史。后半部写了武则天科举选才女，由百花仙子托生的唐小山及其他各花仙子托生的一百位才女考中，并在朝中有所作为的故事。其神幻诙谐的创作手法数经据典，奇妙地勾画出一幅绚丽斑斓的天轮彩图。"
+ },
+ {
+  "hash": "8b84d2e6e9fc",
+  "title": "幽梦影",
+  "slug": "you-meng-ying",
+  "author": "张潮",
+  "authorRaw": "张潮(清代)",
+  "authorSlug": "zhang-chao",
+  "path": "poems/zh/zhang-chao/",
+  "dynasty": "清",
+  "cat": "集部别集类",
+  "categories": [
+   "集部",
+   "别集类"
+  ],
+  "chapters": 2,
+  "declaredChapters": 2,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《幽梦影》主要着眼于以优雅的心胸、眼光去发现美的事物，可以说是求美的著作。书中没有强烈的、尖锐的批评，只有不失风度的冷嘲热讽。而这些不平、讽刺，其表现形式也都是温和的。《幽梦影》这样的书绝不是匕首投枪，而更像中药里的清凉散。"
+ },
+ {
+  "hash": "e37f24ff05fa",
+  "title": "公羊传",
+  "slug": "gong-yang-chuan",
+  "author": "公羊高",
+  "authorRaw": "公羊高",
+  "authorSlug": "gong-yang-gao",
+  "path": "poems/go/gong-yang-gao/",
+  "dynasty": "先秦",
+  "cat": "经部春秋类",
+  "categories": [
+   "经部",
+   "春秋类"
+  ],
+  "chapters": 242,
+  "declaredChapters": 242,
+  "mingju": 6,
+  "declaredMingju": 7,
+  "desc": "《公羊传》又名《春秋公羊传》，儒家经典之一。上起鲁隐公元年，止于鲁哀公十四年，与《春秋》起讫时间相同。其作者为卜商的弟子，战国时齐国人公羊高。起初只是口说流传，西汉景帝时，传至玄孙公羊寿，由公羊寿与胡毋生一起将《春秋公羊传》着于竹帛。《公羊传》有东汉何休撰《春秋公羊解诂》、唐朝徐彦作《公羊传疏》、清朝陈立撰《公羊义疏》。"
+ },
+ {
+  "hash": "ada8815b596b",
+  "title": "神仙传",
+  "slug": "shen-xian-chuan",
+  "author": "葛洪",
+  "authorRaw": "葛洪",
+  "authorSlug": "ge-hong-hong",
+  "path": "poems/ge/ge-hong-hong/",
+  "dynasty": "魏晋",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 10,
+  "declaredChapters": 10,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《神仙传》是东晋道教学者葛洪所著的一部古代中国志怪小说集，共十卷。书中收录了中国古代传说中的92位仙人的事迹，其中很多人物并不是道士但都均被葛洪“请入”传中。神仙传以想象丰富，记叙生动著称。"
+ },
+ {
+  "hash": "ecc48779062d",
+  "title": "陶庵梦忆",
+  "slug": "tao-an-meng-yi",
+  "author": "张岱",
+  "authorRaw": "张岱",
+  "authorSlug": "zhang-dai",
+  "path": "poems/zh/zhang-dai/",
+  "dynasty": "明",
+  "cat": "集部别集类",
+  "categories": [
+   "集部",
+   "别集类"
+  ],
+  "chapters": 124,
+  "declaredChapters": 124,
+  "mingju": 1,
+  "declaredMingju": 2,
+  "desc": "《陶庵梦忆》，明代散文集。为明朝散文家张岱所著。该书共八卷，成书于甲申明亡（1644年）之后，直至乾隆四十年（1775年）才初版行世。其中所记大多是作者亲身经历过的杂事，将种种世相展现在人们面前。"
+ },
+ {
+  "hash": "f53a5ee5bb6a",
+  "title": "濒湖脉学",
+  "slug": "bin-hu-mai-xue",
+  "author": "李时珍",
+  "authorRaw": "李时珍",
+  "authorSlug": "li-shi-zhen",
+  "path": "poems/li/li-shi-zhen/",
+  "dynasty": "明",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 29,
+  "declaredChapters": 29,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《濒湖脉学》，脉学著作，1卷。明·李时珍撰于嘉靖四十三年（1564年）。李时珍晚号濒湖老人，此书撰于晚年，故名。全书用歌赋体形式，分《七言诀》和《四言诀》两部分，《七言诀》论述浮、沉、迟、数、滑、涩、虚、实等27脉形状、主病及相似脉鉴别。《四言诀》系李时珍父亲李言闻根据宋·崔嘉彦所撰《脉诀》删补而成，综述脉理、脉法、五脏平脉、杂病脉象及真脏绝脉等。内容切合临床实际，易于记诵，流传甚广，为初学中医者学习脉法之阶梯。"
+ },
+ {
+  "hash": "a61bf9072784",
+  "title": "东周列国志",
+  "slug": "dong-zhou-lie-guo-zhi",
+  "author": "冯梦龙",
+  "authorRaw": "冯梦龙",
+  "authorSlug": "feng-meng-long",
+  "path": "poems/fe/feng-meng-long/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 108,
+  "declaredChapters": 108,
+  "mingju": 15,
+  "declaredMingju": 16,
+  "desc": "《东周列国志》是中国古代的一部历史演义小说，作者是明末小说家冯梦龙。这部小说由古白话写成，主要描写了从西周宣王时期直到秦始皇统一六国这五百多年的历史。早在元代就有一些有关“列国”故事的白话本，明代嘉靖、隆庆时期，余邵鱼撰辑了一部《列国志传》，明末冯梦龙依据史传对《列国志传》加以修改订正，润色加工，成为一百零八回的《新列国志》。清代乾隆年间，蔡元放对此书又作了修改，定名为《东周列国志》。"
+ },
+ {
+  "hash": "0cee263154aa",
+  "title": "棋经十三篇",
+  "slug": "qi-jing-shi-san-pian",
+  "author": "张拟",
+  "authorRaw": "张拟",
+  "authorSlug": "zhang-ni",
+  "path": "poems/zh/zhang-ni/",
+  "dynasty": "宋",
+  "cat": "子部艺术类",
+  "categories": [
+   "子部",
+   "艺术类"
+  ],
+  "chapters": 13,
+  "declaredChapters": 13,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《棋经十三篇》是宋朝时出现的一部在我国围棋发展史上占有特殊地位的著作。《棋经十三篇》的价值，首先在于它的系统性。我国古典围棋理论，从尹文子和太叔文子算起，中经班固《弈旨》、马融《围棋赋》等，到了敦煌写本《棋经》和王积薪的《十诀〉，才逐渐开始系统化。但真正建立起一个体系的，还要算《棋经十三篇》。这标志着我国古典围棋理论发展到了一个新的高度。"
+ },
+ {
+  "hash": "d0e63da87d55",
+  "title": "孝经",
+  "slug": "xiao-jing",
+  "author": "孔子及其弟子",
+  "authorRaw": "孔子及其弟子",
+  "authorSlug": "kong-zi",
+  "path": "poems/ko/kong-zi/",
+  "dynasty": "先秦",
+  "cat": "经部孝经类",
+  "categories": [
+   "经部",
+   "孝经类"
+  ],
+  "chapters": 18,
+  "declaredChapters": 18,
+  "mingju": 18,
+  "declaredMingju": 19,
+  "desc": "《孝经》中国古代儒家的伦理学著作。传说是孔子自作，但南宋时已有人怀疑是出于后人附会。清代纪昀在《四库全书总目》中指出，该书是孔子“七十子之徒之遗言”，成书于秦汉之际。自西汉至魏晋南北朝，注解者及百家。现在流行的版本是唐玄宗李隆基注，宋代邢昺疏。全书共分18章。"
+ },
+ {
+  "hash": "4fdfcbf5e33b",
+  "title": "太白阴经",
+  "slug": "tai-bai-yin-jing",
+  "author": "李筌",
+  "authorRaw": "李筌",
+  "authorSlug": "li-quan",
+  "path": "poems/li/li-quan/",
+  "dynasty": "唐",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 112,
+  "declaredChapters": 112,
+  "mingju": 1,
+  "declaredMingju": 2,
+  "desc": "《神机制敌太白阴经》又称《太白阴经》，道家著作，中国古人认为太白星主杀伐，因此多用来比喻军事，《太白阴经》的名称由此而来。作者为唐朝的李筌。中国古代重要兵书。唐代宗时河东节度使都虞候李筌撰。李里籍未详，《集仙传》道其仕至荆南节度副使、仙州刺史等。全书10卷。现存《墨海金壶》、平津馆影宋抄本等。"
+ },
+ {
+  "hash": "e61320980f9c",
+  "title": "随园食单",
+  "slug": "sui-yuan-shi-dan",
+  "author": "袁枚",
+  "authorRaw": "袁枚",
+  "authorSlug": "yuan-mei",
+  "path": "poems/yu/yuan-mei/",
+  "dynasty": "清",
+  "cat": "子部谱录类",
+  "categories": [
+   "子部",
+   "谱录类"
+  ],
+  "chapters": 15,
+  "declaredChapters": 15,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《随园食单》，古代中国烹饪著作。共一卷。身为乾隆才子、诗坛盟主，袁枚一生著述颇丰。作为一位美食家， 《随园食单》是其四十年美食实践的产物，以文言随笔的形式，细腻地描摹了乾隆年间江浙地区的饮食状况与烹饪技术，用大量的篇幅详细记述了中国十四世纪至十八世纪流行的326种南北菜肴饭点，也介绍了当时的美酒名茶，是清代一部非常重要的中国饮食名著。"
+ },
+ {
+  "hash": "ad8328bf3c52",
+  "title": "四圣心源",
+  "slug": "si-sheng-xin-yuan",
+  "author": "黄元御",
+  "authorRaw": "黄元御",
+  "authorSlug": "huang-yuan-yu",
+  "path": "poems/hu/huang-yuan-yu/",
+  "dynasty": "清",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 107,
+  "declaredChapters": 107,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《四圣心源》是清·黄元御撰写于1753年的医书，又名《医圣心源》。作者将黄帝、岐伯、秦越人、张仲景视为医中四圣。本书阐发《内经》、《难经》、《伤寒论》、《金匮要略》诸书蕴义，卷一天人解；卷二六气解；卷三脉法解；卷四劳伤解；卷五至卷七杂病解；卷八七窍解；卷九疮疡解；卷十妇人解。是一部包括中医基本理论和部分临床医学的综合性著作。"
+ },
+ {
+  "hash": "3f426dfee2f8",
+  "title": "吴子",
+  "slug": "wu-zi",
+  "author": "吴起",
+  "authorRaw": "吴起",
+  "authorSlug": "wu-qi",
+  "path": "poems/wu/wu-qi/",
+  "dynasty": "先秦",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 6,
+  "declaredChapters": 6,
+  "mingju": 7,
+  "declaredMingju": 8,
+  "desc": "《吴子兵法》，中国古代著名兵书，《武经七书》之一。相传战国初期吴起所著，战国末年即已流传。《吴子》继承和发展了《孙子兵法》的有关思想，在历史上曾与《孙子》齐名，并称为“孙吴兵法”，因而为历代兵家所重视。"
+ },
+ {
+  "hash": "56493ee72c23",
+  "title": "悟真篇",
+  "slug": "wu-zhen-pian",
+  "author": "张伯端",
+  "authorRaw": "张伯端",
+  "authorSlug": "zhang-bo-duan",
+  "path": "poems/zh/zhang-bo-duan/",
+  "dynasty": "宋",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 8,
+  "declaredChapters": 8,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《悟真篇》是北宋张伯端撰道教典籍。考该书以诗、词、曲等体裁阐述内丹理论。内丹之学，唐宋以降，流衍日繁，蔚为大观。宋张伯端承钟、吕之学，仿效《周易参同契》，著为《悟真篇》，内丹之学遂大显于世。《悟真篇》与《周易参同契》《老子河上公章句》《黄庭经》并为中国古代早期四大内丹术专著。"
+ },
+ {
+  "hash": "6c7f05e7024f",
+  "title": "食疗本草",
+  "slug": "shi-liao-ben-cao",
+  "author": "孟诜",
+  "authorRaw": "孟诜",
+  "authorSlug": "meng-shen",
+  "path": "poems/me/meng-shen/",
+  "dynasty": "唐",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 270,
+  "declaredChapters": 270,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《食疗本草》，食疗专著，3卷。唐代孟诜撰，张鼎增补改编。约成书于唐开元年间(713～741年)。一般认为此书前身为孟诜《补养方》，张鼎补充89种食疗品，又加按语(冠以“案经”，或作“谨按”)，编为本书。共载文227条，涉及260种食疗品。诸品名下，注明药性(温、平、寒、冷)，不载其味。正文述功效、禁忌及单方，间或论及形态、修治、产地等。首载菠薐、胡荽、莙荙、鳜鱼等食蔬。尤以动物脏器疗法与藻菌类食疗作用之记载引人注目。所录食疗经验多切实际，药物来源广泛，充分顾及食品毒性宜忌及地区性，为唐代较系统全面之食疗专著。原书早佚，敦煌曾有残卷出土，近代有辑佚本。"
+ },
+ {
+  "hash": "a90fb3a4cf00",
+  "title": "清史稿",
+  "slug": "qing-shi-gao",
+  "author": "赵尔巽",
+  "authorRaw": "赵尔巽",
+  "authorSlug": "zhao-er-xun",
+  "path": "poems/zh/zhao-er-xun/",
+  "dynasty": "清",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 530,
+  "declaredChapters": 530,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《清史稿》是中华民国初年由北洋政府设馆编修，记载了清朝历史的正史——“清史”的未定稿。全书五百三十六卷，其中本纪二十五卷，志一百四十二卷，表五十三卷，列传三百一十六卷，以纪传为中心。所记之事，上起1616年清太祖努尔哈赤在赫图阿拉建国称汗，下至1912年清朝灭亡，共二百九十六年的历史。"
+ },
+ {
+  "hash": "406ec46ca000",
+  "title": "酉阳杂俎",
+  "slug": "you-yang-za-zu",
+  "author": "段成式",
+  "authorRaw": "段成式",
+  "authorSlug": "duan-cheng-shi",
+  "path": "poems/du/duan-cheng-shi/",
+  "dynasty": "唐",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 31,
+  "declaredChapters": 31,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《酉阳杂俎》唐代段成式创作的笔记小说集。该作品有前卷20卷，续集10卷。这本书的性质，据作者自序，“固役不耻者，抑志怪小说之书也”。所记有仙佛鬼怪、人事以至动物、植物、酒食、寺庙等等，分类编录，一部分内容属志怪传奇类，另一些记载各地与异域珍异之物，与晋张华《博物志》相类。"
+ },
+ {
+  "hash": "89df65a343f3",
+  "title": "洗冤集录",
+  "slug": "xi-yuan-ji-lu",
+  "author": "宋慈",
+  "authorRaw": "宋慈",
+  "authorSlug": "song-ci",
+  "path": "poems/so/song-ci/",
+  "dynasty": "宋",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 55,
+  "declaredChapters": 55,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《洗冤集录》，法医著作，又名《洗冤录》《宋提刑洗冤集录》，4卷。南宋宋慈(惠父)著，成于淳祐七年(1247年)。全书由检验总说、验伤、验尸、辨伤、检骨等53项内容所组成；并对犯罪、犯罪侦察、保辜等有关断案、法吏检验格式程序等，亦详加论述。本书内容丰富，见解精湛，虽间有论析欠当之处，但绝大部分内容源于实践经验，是中国较早、较完整的法医学专书。后世诸法医著作多以本书为蓝本，或加注释，或予以增补，并对世界法医学的发展有过巨大贡献，曾先后译成荷兰、英、法、德等国文字。"
+ },
+ {
+  "hash": "edb53a6088c8",
+  "title": "隋书",
+  "slug": "sui-shu",
+  "author": "魏征",
+  "authorRaw": "魏征等",
+  "authorSlug": "wei-zheng",
+  "path": "poems/we/wei-zheng/",
+  "dynasty": "唐",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 85,
+  "declaredChapters": 85,
+  "mingju": 12,
+  "declaredMingju": 13,
+  "desc": "《隋书》共八十五卷，其中帝纪五卷，列传五十卷，志三十卷。本书由多人共同编撰，分为两阶段成书，从草创到全部修完共历时三十五年。"
+ },
+ {
+  "hash": "4f63ebb6a4c2",
+  "title": "长生殿",
+  "slug": "chang-sheng-dian",
+  "author": "洪昇",
+  "authorRaw": "洪昇",
+  "authorSlug": "hong-sheng",
+  "path": "poems/ho/hong-sheng/",
+  "dynasty": "清",
+  "cat": "集部词曲类",
+  "categories": [
+   "集部",
+   "词曲类"
+  ],
+  "chapters": 50,
+  "declaredChapters": 50,
+  "mingju": 3,
+  "declaredMingju": 4,
+  "desc": "《长生殿》是清初剧作家洪昇创作的传奇（戏剧），共二卷。该剧定稿于康熙二十七年（1688年）。《长生殿》重点描写了唐朝天宝年间皇帝昏庸、政治腐败给国家带来的巨大灾难，导致王朝几乎覆灭。剧本虽然谴责了唐明皇的穷奢极侈，但同时又表现了对唐明皇和杨贵妃之间的爱情的同情，间接表达了对明皇统治的同情，还寄托了对美好爱情的理想。"
+ },
+ {
+  "hash": "a5b24761c8ca",
+  "title": "博物志",
+  "slug": "bo-wu-zhi",
+  "author": "张华",
+  "authorRaw": "张华",
+  "authorSlug": "zhang-hua",
+  "path": "poems/zh/zhang-hua/",
+  "dynasty": "魏晋",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 11,
+  "declaredChapters": 11,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《博物志》，中国古代汉族神话志怪小说集。西晋张华（232～300）编撰，分类记载异境奇物 ﹑古代琐闻杂事及神仙方术等。内容多取材於古籍﹐包罗很杂﹐有山川地理的知识﹐有历史人物的传说﹐有奇异的草木鱼虫﹑飞禽走兽的描述﹐也有怪诞不经的神仙方技的故事 ﹐其中还保存了不少古代神话材料。如所记八月有人浮槎至天河见织女的传闻﹐是有关牛郎织女神话故事的原始资料。"
+ },
+ {
+  "hash": "136db32cf48a",
+  "title": "尉缭子",
+  "slug": "wei-liao-zi",
+  "author": "尉缭",
+  "authorRaw": "尉缭",
+  "authorSlug": "wei-liao",
+  "path": "poems/we/wei-liao/",
+  "dynasty": "先秦",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 24,
+  "declaredChapters": 24,
+  "mingju": 19,
+  "declaredMingju": 20,
+  "desc": "《尉缭子》是中国古代的一部重要的兵书。《尉缭子》一书，对于它的作者、成书年代以及性质归属历代都颇有争议。一说《尉缭子》的作者是魏惠王时的隐士，一说为秦始皇时的大梁人尉缭。一般署名是尉缭子。最早著录于《汉书·艺文志》，书中杂家类著录《尉缭》29篇，兵形势家类著录《尉缭》31篇。1972年在山东临沂银雀山汉墓出土了《尉缭子》残简，说明此书在西汉已流行，一般认为成书于战国时代。"
+ },
+ {
+  "hash": "963a1e3b6d86",
+  "title": "闲情偶寄",
+  "slug": "xian-qing-ou-ji",
+  "author": "李渔",
+  "authorRaw": "李渔",
+  "authorSlug": "li-yu-10",
+  "path": "poems/li/li-yu-10/",
+  "dynasty": "清",
+  "cat": "集部词曲类",
+  "categories": [
+   "集部",
+   "词曲类"
+  ],
+  "chapters": 36,
+  "declaredChapters": 36,
+  "mingju": 26,
+  "declaredMingju": 28,
+  "desc": "清代人李渔所撰写的《闲情偶寄》，是养生学的经典著作。它共包括《词曲部》《演习部》《声容部》《居室部》《器玩部》《饮馔部》《种植部》、《颐养部》等八个部分，论述了戏曲、歌舞、服饰、修容、园林、建筑、花卉、器玩、颐养、饮食等艺术和生活中的各种现象，并阐发了自己的主张，内容极为丰富。其中，《颐养部》总论养生，是一篇重要的养生文献。"
+ },
+ {
+  "hash": "863bfb5744b3",
+  "title": "名贤集",
+  "slug": "ming-xian-ji",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "宋",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 4,
+  "declaredChapters": 4,
+  "mingju": 2,
+  "declaredMingju": 3,
+  "desc": "《名贤集》是我国古代对儿童进行伦理道德教育的蒙学教材之一，具体作者不详，从内容上分析，是南宋以后儒家学者撰辑。它汇集了孔、孟以来历代名人贤士的嘉言善行，以及民间流传的为人处事、待人接物、治学修德等方面的格言谚语，有些还渗透了佛、道两教的因果报应等思想，其中不乏洞察世事、启人心智之句。"
+ },
+ {
+  "hash": "fd16e7ead121",
+  "title": "文始真经",
+  "slug": "wen-shi-zhen-jing",
+  "author": "尹喜",
+  "authorRaw": "尹喜",
+  "authorSlug": "yin-xi",
+  "path": "poems/yi/yin-xi/",
+  "dynasty": "先秦",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 9,
+  "declaredChapters": 9,
+  "mingju": 1,
+  "declaredMingju": 2,
+  "desc": "《文始真经》传为春秋时尹喜所著，现存当为唐宋时伪作，但这种伪作并非毫无价值，其对我们窥见唐宋时期有关道教的部分思想，拓展唐宋道教文化研究当有一定的借鉴意义。《文始真经》版本流传多且有注本、评点本等形式流传于世,在思想内容上融合了儒释道三家的思想,体现了当时儒释道三家融合的趋势。"
+ },
+ {
+  "hash": "8e814adbf214",
+  "title": "文子",
+  "slug": "wen-zi",
+  "author": "文子",
+  "authorRaw": "文子",
+  "authorSlug": "wen-zi",
+  "path": "poems/we/wen-zi/",
+  "dynasty": "先秦",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 13,
+  "declaredChapters": 13,
+  "mingju": 10,
+  "declaredMingju": 11,
+  "desc": "《通玄真经》即《文子》。12卷。唐徐灵府撰。文子学派思想尚阳。唐玄宗于天宝元年（742）诏封文子为通玄真人，尊《文子》一书为《通玄真经》，道教奉为“四子”真经之一。北魏李暹注《文子》称，计然就是文子。文子是春秋时人，属道家系统，著有《文子》一书。唐玄宗美其名曰《通玄真经》，为道教四部圣典之一。柳宗元始疑其伪，千年来遂质疑不断。1973年河北省定县八角廊村40号汉墓出土大批竹简，其中就包括《文子》一书。这段公案才告一段落。《文子·上德》篇有明显的《易传》特色。《上德》解易与《彖》《象》为同一思想脉络的发展。"
+ },
+ {
+  "hash": "35ee5e612f4b",
+  "title": "初刻拍案惊奇",
+  "slug": "chu-ke-pai-an-jing-qi",
+  "author": "凌濛初",
+  "authorRaw": "凌濛初",
+  "authorSlug": "ling-meng-chu",
+  "path": "poems/li/ling-meng-chu/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 40,
+  "declaredChapters": 40,
+  "mingju": 22,
+  "declaredMingju": 23,
+  "desc": "《初刻拍案惊奇》是明朝末年凌濛初编著的拟话本小说集。正式成书于1627年（明天启七年），尚友堂书坊于翌年1628年刊行。《初刻拍案惊奇》是模仿话本小说而创造的小说集，其题材大多取自前人。书的内容比较繁杂，思想倾向前后不尽相同，主要有描写商人思想行径、命运遭际的作品和描写婚恋的作品。其多出自前代著述，但经过凌濛初的再创作，也一定程度表现出晚明社会现实与时代气息，浸含着凌氏本人的思想观念和愤世不平之气。常与《二刻拍案惊奇》并称二拍，加上冯梦龙的“三言”，则为“三言二拍”，在中国文学史上有较重要的影响。"
+ },
+ {
+  "hash": "e09e2b5f90fe",
+  "title": "孔子家语",
+  "slug": "kong-zi-jia-yu",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "未知",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 44,
+  "declaredChapters": 44,
+  "mingju": 24,
+  "declaredMingju": 25,
+  "desc": "《孔子家语》又名《孔氏家语》，或简称《家语》，是一部记录孔子及孔门弟子思想言行的著作。今传本《孔子家语》共十卷四十四篇，魏王肃注，书后附有王肃序和《后序》。《后序》实际上分为两部分，前半部分内容以孔安国语气所写，一般称之为《孔安国序》，后半部分内容为安国以后人所写，故称之为《后孔安国序》，其中收有孔安国的孙子孔衍关于《家语》的《奏言》。"
+ },
+ {
+  "hash": "4337f1eafd06",
+  "title": "扁鹊心书",
+  "slug": "bian-que-xin-shu",
+  "author": "窦材",
+  "authorRaw": "窦材",
+  "authorSlug": "dou-cai",
+  "path": "poems/do/dou-cai/",
+  "dynasty": "宋",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 236,
+  "declaredChapters": 236,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "宋代窦材编撰于绍兴十六年（1146年）。托名扁鹊所传，故名。此书以重视经络和针灸疗法为特点。卷上介绍“黄帝灸法”“扁鹊灸法”及窦材灸法，在治法上比较强调扶阳，禁用寒凉之剂。卷中论及伤寒、阴毒、劳复、喉痹、虚劳、中风等100余种外感、内伤及临床各科杂病。卷下除续载部分病症外，“扁鹊神方”收有94方，分别介绍了其主治和服用法。其中相当数量的方剂不见于宋以前的医籍，并保留有我国较早的麻醉方剂—睡圣散，颇具参考价值。"
+ },
+ {
+  "hash": "fd329c4a7ad3",
+  "title": "宋书",
+  "slug": "song-shu",
+  "author": "沈约",
+  "authorRaw": "沈约",
+  "authorSlug": "shen-yue",
+  "path": "poems/sh/shen-yue/",
+  "dynasty": "南北朝",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 100,
+  "declaredChapters": 100,
+  "mingju": 12,
+  "declaredMingju": 13,
+  "desc": "《宋书》是一部记述南朝刘宋一代历史的纪传体史书。梁沈约撰﹐含本纪十卷﹑志三十卷﹑列传六十卷，共一百卷。今本个别列传有残缺，少数列传是后人用唐高峻《小史》《南史》所补。八志原排在列传之后，后人移于本纪、列传之间，并把律历志中律与历两部分分割开。 《宋书》收录当时的诏令奏议、书札、文章等各种文献较多，保存了原始史料，有利于后代的研究。该书篇幅大，一个重要原因是很注意为豪门士族立传。"
+ },
+ {
+  "hash": "b2b9c9d531ec",
+  "title": "续资治通鉴",
+  "slug": "xu-zi-zhi-tong-jian",
+  "author": "毕沅",
+  "authorRaw": "毕沅",
+  "authorSlug": "bi-yuan",
+  "path": "poems/bi/bi-yuan/",
+  "dynasty": "清",
+  "cat": "史部编年类",
+  "categories": [
+   "史部",
+   "编年类"
+  ],
+  "chapters": 220,
+  "declaredChapters": 220,
+  "mingju": 8,
+  "declaredMingju": 8,
+  "desc": "《续资治通鉴》二百二十卷，清毕沅撰。此书付刻未及半，毕沅生前仅初刻一○三卷，毕家因贪污遭籍没而止，书稿散佚，桐乡冯集梧买得全稿补刻成二百二十卷。《续资治通鉴》跟《资治通鉴》有不少出入，续通鉴大量引用旧史原文，叙事详而不芜；仅有取舍剪裁，而无类似温公的改写熔炼，亦无“毕沅曰”等各家史论。《续资治通鉴》作者虽挂名毕沅，然名家钱大昕、邵晋涵、章学诚、洪亮吉、黄仲则等均参预其事，此书实成于众人之手。梁启超对该书评价极高，认为“有毕《鉴》则各家续《鉴》皆可废也”。"
+ },
+ {
+  "hash": "e5ba7e6fef7c",
+  "title": "元史",
+  "slug": "yuan-shi",
+  "author": "宋濂、王祎",
+  "authorRaw": "宋濂、王祎",
+  "authorSlug": "song-lian-wang-yi",
+  "path": "poems/so/song-lian-wang-yi/",
+  "dynasty": "明",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 210,
+  "declaredChapters": 210,
+  "mingju": 19,
+  "declaredMingju": 20,
+  "desc": "《元史》是系统记载元朝兴亡过程的一部纪传体断代史，成书于明朝初年，由宋濂（1310～1381年）、王祎（1321～1373年）主编。全书二百一十卷，包括本纪四十七卷、志五十八卷、表八卷、列传九十七卷，记述了从蒙古族兴起到元朝建立和灭亡的历史。"
+ },
+ {
+  "hash": "d32981b0b040",
+  "title": "绿野仙踪",
+  "slug": "lv-ye-xian-zong",
+  "author": "李百川",
+  "authorRaw": "李百川",
+  "authorSlug": "li-bai-chuan",
+  "path": "poems/li/li-bai-chuan/",
+  "dynasty": "清",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 94,
+  "declaredChapters": 94,
+  "mingju": 1,
+  "declaredMingju": 2,
+  "desc": "《绿野仙踪》是一本世情小说更多于志怪小说。冷于冰在其成仙的道路上，收徒并且帮助其亲人弟子诛杀为祸世间的妖怪。人情关系很多时候影响了原本属于志怪小说的天马行空的特点。从文笔和批注来看，本书也很能反映古代小说的特点，也是明清小说的一个代表。"
+ },
+ {
+  "hash": "3986ba8d4122",
+  "title": "伤寒杂病论",
+  "slug": "shang-han-za-bing-lun",
+  "author": "张仲景",
+  "authorRaw": "张仲景",
+  "authorSlug": "zhang-zhong-jing",
+  "path": "poems/zh/zhang-zhong-jing/",
+  "dynasty": "汉",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 29,
+  "declaredChapters": 29,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《伤寒杂病论》是中国传统医学著作之一，是一部论述外感病与内科杂病为主要内容的医学典籍，作者是东汉末年张仲景。公元3世纪初，张仲景博览群书，广采众方，凝聚毕生心血，写就《伤寒杂病论》一书。中医所说的伤寒实际上是一切外感病的总称，它包括瘟疫这种传染病。该书成书约在公元200年～210年左右。原书失散后，经王叔和等人收集整理校勘，分编为《伤寒论》和《金匮要略》两部。《伤寒论》共10卷，专门论述伤寒类急性传染病。"
+ },
+ {
+  "hash": "82f9f1d9b631",
+  "title": "沧浪诗话",
+  "slug": "cang-lang-shi-hua",
+  "author": "严羽",
+  "authorRaw": "严羽",
+  "authorSlug": "yan-yu-yan",
+  "path": "poems/ya/yan-yu-yan/",
+  "dynasty": "宋",
+  "cat": "集部诗文评类",
+  "categories": [
+   "集部",
+   "诗文评类"
+  ],
+  "chapters": 6,
+  "declaredChapters": 6,
+  "mingju": 19,
+  "declaredMingju": 21,
+  "desc": "《沧浪诗话》是严羽所著的一本中国古代诗歌理论和诗歌美学著作，约写成于南宋理宗绍定、淳祐年间。它的系统性、理论性较强，是宋代最负盛名、对后世影响最大的一部诗话。全书分为《诗辨》《诗体》《诗法》《诗评》《考证》等五册。"
+ },
+ {
+  "hash": "b7efbbca5b32",
+  "title": "新五代史",
+  "slug": "xin-wu-dai-shi",
+  "author": "欧阳修",
+  "authorRaw": "欧阳修",
+  "authorSlug": "ou-yang-xiu",
+  "path": "poems/ou/ou-yang-xiu/",
+  "dynasty": "宋",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 74,
+  "declaredChapters": 74,
+  "mingju": 5,
+  "declaredMingju": 5,
+  "desc": "《新五代史》，宋欧阳修撰，原名《五代史记》，后世为区别于薛居正等官修的五代史，称为新五代史。全书共七十四卷，本纪十二卷、列传四十五卷、考三卷、世家及年谱十一卷、四夷附录三卷。记载了自后梁开平元年（907年）至后周显德七年（960年）共五十三年的历史。《新五代史》撰写时，增加了《旧五代史》所未能见到的史料，如《五代会要》《五代史补》等，因此内容更加翔实。但《新五代史》对旧“志”部分大加繁削，则不足为训，故史料价值比《旧五代史》要略逊一筹。"
+ },
+ {
+  "hash": "7ef275cd618d",
+  "title": "齐民要术",
+  "slug": "qi-min-yao-shu",
+  "author": "贾思勰",
+  "authorRaw": "贾思勰",
+  "authorSlug": "jia-si-xie",
+  "path": "poems/ji/jia-si-xie/",
+  "dynasty": "南北朝",
+  "cat": "子部农家类",
+  "categories": [
+   "子部",
+   "农家类"
+  ],
+  "chapters": 12,
+  "declaredChapters": 12,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《齐民要术》大约成书于北魏末年（公元533年-544年），是北朝北魏时期，南朝宋至梁时期，中国杰出农学家贾思勰所著的一部综合性农学著作，也是世界农学史上最早的专著之一，是中国现存最早的一部完整的农书。全书10卷92篇，系统地总结了六世纪以前黄河中下游地区劳动人民农牧业生产经验、食品的加工与贮藏、野生植物的利用，以及治荒的方法，详细介绍了季节、气候、和不同土壤与不同农作物的关系，被誉为“中国古代农业百科全书”。"
+ },
+ {
+  "hash": "3229b893a76f",
+  "title": "南史",
+  "slug": "nan-shi",
+  "author": "李大师、李延寿",
+  "authorRaw": "李大师、李延寿",
+  "authorSlug": "li-da-shi-li-yan-shou",
+  "path": "poems/li/li-da-shi-li-yan-shou/",
+  "dynasty": "唐",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 80,
+  "declaredChapters": 80,
+  "mingju": 18,
+  "declaredMingju": 19,
+  "desc": "《南史》，唐朝李延寿撰，中国历代官修正史“二十四史”之一。纪传体，共八十卷，含本纪十卷，列传七十卷，上起宋武帝刘裕永初元年（420年），下迄陈后主陈叔宝祯明三年（589年）。记载南朝宋、齐、梁、陈四国一百七十年史事。《南史》与《北史》为姊妹篇，是由李大师及其子李延寿两代人编撰完成的。"
+ },
+ {
+  "hash": "5a48c4dbc117",
+  "title": "魏书",
+  "slug": "wei-shu",
+  "author": "魏收",
+  "authorRaw": "魏收",
+  "authorSlug": "wei-shou",
+  "path": "poems/we/wei-shou/",
+  "dynasty": "南北朝",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 124,
+  "declaredChapters": 124,
+  "mingju": 17,
+  "declaredMingju": 18,
+  "desc": "《魏书》，北齐魏收撰，是一本纪传体史书，内容记载了公元4世纪末至6世纪中叶北魏王朝的历史。124卷，其中本纪12卷，列传92卷，志20卷。因有些本纪、列传和志篇幅过长，又分为上、下，或上、中、下3卷，实共130卷。"
+ },
+ {
+  "hash": "d6cb62190834",
+  "title": "饮膳正要",
+  "slug": "yin-shan-zheng-yao",
+  "author": "忽思慧",
+  "authorRaw": "忽思慧",
+  "authorSlug": "hu-si-hui",
+  "path": "poems/hu/hu-si-hui/",
+  "dynasty": "元",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 26,
+  "declaredChapters": 26,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《饮膳正要》为元代忽思慧所撰，成于元朝天历三年（公元1330年），全书共三卷。卷一讲的是诸般禁忌，聚珍品撰。卷二讲的是诸般汤煎，食疗诸病及食物相反中毒等。卷三讲的是米谷品，兽品、禽品、鱼品、果菜品和料物等。"
+ },
+ {
+  "hash": "a8af31e22938",
+  "title": "兵法二十四篇",
+  "slug": "bing-fa-er-shi-si-pian",
+  "author": "诸葛亮",
+  "authorRaw": "诸葛亮",
+  "authorSlug": "zhu-ge-liang",
+  "path": "poems/zh/zhu-ge-liang/",
+  "dynasty": "汉",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 20,
+  "declaredChapters": 20,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《兵法二十四篇》是重要的蜀汉军事著作之一。原有二十四篇，但现在其中的八务、七戒、六恐、五惧之法现已失传。据说为三国时期蜀汉名相诸葛亮晚年时所著，上面记载了诸葛亮几十年来行军打仗，治国安邦的经验。在五丈原之战中，诸葛亮在死前曾将此书和造用“连弩”之法等毕生所学传授给了姜维，使姜维成为了诸葛亮最有力的继承人。"
+ },
+ {
+  "hash": "d4a32fe1cf13",
+  "title": "人物志",
+  "slug": "ren-wu-zhi",
+  "author": "刘劭",
+  "authorRaw": "刘劭",
+  "authorSlug": "liu-shao",
+  "path": "poems/li/liu-shao/",
+  "dynasty": "魏晋",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 13,
+  "declaredChapters": 13,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《人物志》是一部系统品鉴人物才性的玄学著作，也是一部研究魏晋学术思想的重要参考书。全书共三卷十二篇，三国魏刘劭所作，南北朝时西凉刘炳曾为之作注。书中讲述的识鉴人才之术、量能用人之方及对人性的剖析。"
+ },
+ {
+  "hash": "427c5eea5943",
+  "title": "训蒙骈句",
+  "slug": "xun-meng-pian-ju",
+  "author": "司守谦",
+  "authorRaw": "司守谦",
+  "authorSlug": "si-shou-qian",
+  "path": "poems/si/si-shou-qian/",
+  "dynasty": "明",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 30,
+  "declaredChapters": 30,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《训蒙骈句》，明代司守谦撰。骈句，即骈偶句，即对仗句。两马并驾为骈，二人并处为偶，意谓两两相对。古时宫中卫队行列月仗（仪仗），仪仗两两相对，故卞偶亦称对仗。以偶句为主构成字数相等的上下联，上下联词语相对，平仄相对。用这种形式的四六句写成的文章，晚唐时称作“四六”，宋明沿用，至清改称骈体。对童蒙进行骈句训练，为作文作诗建立根基。《训蒙骈句》按韵部的顺次，由三言、四言、五言、七言、十一言的五对骈句组成一段，每韵三段。此书与《声律启蒙》《笠翁对韵》当可为吟诗作对之基，爱好诗文者，若熟而能诵，一定会大利于笔。"
+ },
+ {
+  "hash": "5a8f2653cd99",
+  "title": "神峰通考",
+  "slug": "shen-feng-tong-kao",
+  "author": "张楠",
+  "authorRaw": "张楠",
+  "authorSlug": "zhang-nan",
+  "path": "poems/zh/zhang-nan/",
+  "dynasty": "明",
+  "cat": "子部术数类",
+  "categories": [
+   "子部",
+   "术数类"
+  ],
+  "chapters": 21,
+  "declaredChapters": 21,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《神峰通考》是，古代汉族传统命理学著作。四柱八字命理古籍之一，被称为但凡研究八字算命者必看的命理古籍资料，在命理学术界中其地位非常之高。原名为《神峰张先生通考命理正宗辟谬大全》为明朝神峰子张楠所著。是命理学十大古籍名著之一。"
+ },
+ {
+  "hash": "1695504e3fd0",
+  "title": "司马法",
+  "slug": "si-ma-fa",
+  "author": "司马穰苴",
+  "authorRaw": "司马穰苴",
+  "authorSlug": "si-ma-rang-ju",
+  "path": "poems/si/si-ma-rang-ju/",
+  "dynasty": "先秦",
+  "cat": "子部兵家类",
+  "categories": [
+   "子部",
+   "兵家类"
+  ],
+  "chapters": 5,
+  "declaredChapters": 5,
+  "mingju": 3,
+  "declaredMingju": 4,
+  "desc": "《司马法》是我国古代重要兵书之一。大约成书于战国初期。据《史记·司马穰苴列传》记载：“齐威王(公元前356-前320年)使大夫追论古者司马兵法而附穰苴于其中，因号曰《司马穰苴兵法》。”《司马法》流传至今已两千多年，亡佚很多，现仅残存五篇。但就在这残存的五篇中，也还记载着从殷周到春秋、战国时期的一些古代作战原则和方法，对我们研究那个时期的军事思想，提供了重要的资料。"
+ },
+ {
+  "hash": "bd444bdc5f50",
+  "title": "旧五代史",
+  "slug": "jiu-wu-dai-shi",
+  "author": "薛居正",
+  "authorRaw": "薛居正等",
+  "authorSlug": "xue-ju-zheng",
+  "path": "poems/xu/xue-ju-zheng/",
+  "dynasty": "宋",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 151,
+  "declaredChapters": 151,
+  "mingju": 7,
+  "declaredMingju": 8,
+  "desc": "《旧五代史》，原名《五代史》，也称《梁唐晋汉周书》，是由宋太祖诏令编纂的官修史书。薛居正监修，卢多逊、扈蒙、张澹、刘兼、李穆、李九龄等同修。从公元907年朱温代唐称帝到公元960年北宋王朝建立，中原地区相继出现后梁、后唐、后晋、后汉、后周等五代王朝，中原以外存在过吴、南唐、吴越、楚、闽、南汉、前蜀、后蜀、南平、北汉等十个小国，周边地区还有契丹、吐蕃、渤海、党项、南诏、于阗、东丹等少数民族建立的政权，习惯上称之为“五代十国”。《旧五代史》记载的就是这段历史。"
+ },
+ {
+  "hash": "f726eab9800a",
+  "title": "仪礼",
+  "slug": "yi-li",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "cat": "经部礼类",
+  "categories": [
+   "经部",
+   "礼类"
+  ],
+  "chapters": 17,
+  "declaredChapters": 17,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《仪礼》为儒家十三经之一，内容记载着周代的冠、婚、丧、祭、乡、射、朝、聘等各种礼仪，其中以记载士大夫的礼仪为主。秦代以前篇目不详，汉代初期高堂生传仪礼17篇。"
+ },
+ {
+  "hash": "7ed2e22670c4",
+  "title": "唐传奇",
+  "slug": "tang-chuan-qi",
+  "author": "元稹、白行简",
+  "authorRaw": "元稹、白行简等",
+  "authorSlug": "yuan-zhen-bai-xing-jian",
+  "path": "poems/yu/yuan-zhen-bai-xing-jian/",
+  "dynasty": "唐",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 157,
+  "declaredChapters": 157,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《唐代传奇》是唐代文言短篇小说，内容多传述奇闻异事，后人称为唐人传奇，或称唐传奇。唐传奇在经过发轫期的准备，兴盛期之后，终于在晚唐时期开始衰落。唐代传奇内容除部分记述神灵鬼怪外，大量记载人间的各种世态，人物有上层的，也有下层的，反映面较过去远为广阔，生活气息也较为浓厚。"
+ },
+ {
+  "hash": "fe096c376ca9",
+  "title": "列女传",
+  "slug": "lie-nv-chuan",
+  "author": "刘向",
+  "authorRaw": "刘向",
+  "authorSlug": "liu-xiang-xiang",
+  "path": "poems/li/liu-xiang-xiang/",
+  "dynasty": "汉",
+  "cat": "史部传记类",
+  "categories": [
+   "史部",
+   "传记类"
+  ],
+  "chapters": 104,
+  "declaredChapters": 104,
+  "mingju": 5,
+  "declaredMingju": 6,
+  "desc": "是一部介绍中国古代妇女事迹的传记性史书，也有观点认为该书是一部妇女史，全书共七卷。作者是西汉的经学家、目录学家、文学家刘向，不过也有人认为该书不是刘向所做，因此，目前流行的有的版本作者一处会标注佚名。也有人认为，现在流传的版本是后人在刘向所做版本之上又增加若干篇得来的。"
+ },
+ {
+  "hash": "702ff3e2303c",
+  "title": "针灸甲乙经",
+  "slug": "zhen-jiu-jia-yi-jing",
+  "author": "皇甫谧",
+  "authorRaw": "皇甫谧",
+  "authorSlug": "huang-fu-mi-mi",
+  "path": "poems/hu/huang-fu-mi-mi/",
+  "dynasty": "魏晋",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 142,
+  "declaredChapters": 142,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《针灸甲乙经》是古代汉医著作之一，为中国现存最早的一部针灸学专著。也是最早将针灸学理论与腧穴学相结合的一部著作。原名《黄帝三部针灸甲乙经》，简称《甲乙经》，晋皇甫谧（215-282年）编撰于魏甘露四年（259年），共10卷，南北朝时期改为12卷本。"
+ },
+ {
+  "hash": "65c8dcaf8257",
+  "title": "周书",
+  "slug": "zhou-shu",
+  "author": "令狐德棻",
+  "authorRaw": "令狐德棻",
+  "authorSlug": "ling-hu-de-fen",
+  "path": "poems/li/ling-hu-de-fen/",
+  "dynasty": "唐",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 50,
+  "declaredChapters": 50,
+  "mingju": 15,
+  "declaredMingju": 20,
+  "desc": "《周书》，中国历代正史《二十四史》之一，唐朝令狐德棻主编，参加编写的还有岑文本和崔仁师等人。成书于贞观十年（636年）。共50卷，本纪8卷、列传42卷。本书记载了北周宇文氏建立的周朝（557—581）的纪传体史书。另外，清代有同名人物周书。"
+ },
+ {
+  "hash": "88f34d00f98c",
+  "title": "九章算术",
+  "slug": "jiu-zhang-suan-shu",
+  "author": "张苍、耿寿昌、刘徽",
+  "authorRaw": "张苍、耿寿昌、刘徽",
+  "authorSlug": "zhang-cang-geng-shou-chang-liu-203ccc8d",
+  "path": "poems/zh/zhang-cang-geng-shou-chang-liu-203ccc8d/",
+  "dynasty": "汉",
+  "cat": "子部术数类",
+  "categories": [
+   "子部",
+   "术数类"
+  ],
+  "chapters": 10,
+  "declaredChapters": 10,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "它是中国古代第一部数学专著，是《算经十书》中最重要的一种，成于公元一世纪左右。该书内容十分丰富，系统总结了战国、秦、汉时期的数学成就。同时，《九章算术》在数学上还有其独到的成就，不仅最早提到分数问题，也首先记录了盈不足等问题，《方程》章还在世界数学史上首次阐述了负数及其加减运算法则。它是一本综合性的历史著作，它的出现标志中国古代数学形成了完整的体系。"
+ },
+ {
+  "hash": "9dc165ae7405",
+  "title": "太乙金华宗旨",
+  "slug": "tai-yi-jin-hua-zong-zhi",
+  "author": "吕岩",
+  "authorRaw": "吕岩",
+  "authorSlug": "lu-yan",
+  "path": "poems/lu/lu-yan/",
+  "dynasty": "唐",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 13,
+  "declaredChapters": 13,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "唐吕岩（字洞宾）撰。金华宗旨即旌阳真君所谓四字天经，又所谓净明道法、忠教雷霆也。吕氏因见世人不明先天大道之旨，遂“将金丹要诀、秘密天机，尽行泄露。其中玄妙法则，和盘托出，了如指掌。”同时他认为近世谈玄理者大半择焉不精，语焉不详，皆不足为道家法也。”于是著成是书，以醒世人。该书凡一卷十三篇。"
+ },
+ {
+  "hash": "12178224e551",
+  "title": "肘后备急方",
+  "slug": "zhou-hou-bei-ji-fang",
+  "author": "葛洪",
+  "authorRaw": "葛洪",
+  "authorSlug": "ge-hong-hong",
+  "path": "poems/ge/ge-hong-hong/",
+  "dynasty": "魏晋",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 75,
+  "declaredChapters": 75,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《肘后备急方》，古代中医方剂著作。是中国第一部临床急救手册。中医治疗学专著。8卷，70篇。原名《肘后救卒方》，简称《肘后方》。系作者将其原著《玉函方》（共100卷），摘录其中可供急救医疗、实用有效的单验方及简要灸法汇编而成。经梁代陶弘景增补录方101首，改名《补阙肘后百一方》。此后又经金代杨用道摘取《证类本草》中的单方作为附方，名《附广肘后方》，即现存《肘后备急方》，简称《肘后方》。"
+ },
+ {
+  "hash": "e69b18701f00",
+  "title": "呻吟语",
+  "slug": "shen-yin-yu",
+  "author": "吕坤",
+  "authorRaw": "吕坤",
+  "authorSlug": "lu-kun",
+  "path": "poems/lu/lu-kun/",
+  "dynasty": "明",
+  "cat": "子部儒家类",
+  "categories": [
+   "子部",
+   "儒家类"
+  ],
+  "chapters": 18,
+  "declaredChapters": 18,
+  "mingju": 28,
+  "declaredMingju": 30,
+  "desc": "《呻吟语》是明代晚期著名学者吕坤（1536—1618）所著的语录体、箴言体的小品文集，刊刻于1593（明万历二十一年），时吕坤在山西太原任巡抚。 《呻吟语》是吕坤积三十年心血写成的著述。全书共分六卷，前三卷为内篇；后三卷为外篇，一共有大约数百则含意深刻、富有哲理的语录笔记。"
+ },
+ {
+  "hash": "c0bbfd839973",
+  "title": "大唐西域记",
+  "slug": "da-tang-xi-yu-ji",
+  "author": "玄奘、辩机",
+  "authorRaw": "玄奘、辩机",
+  "authorSlug": "xuan-zang-bian-ji",
+  "path": "poems/xu/xuan-zang-bian-ji/",
+  "dynasty": "唐",
+  "cat": "史部地理类",
+  "categories": [
+   "史部",
+   "地理类"
+  ],
+  "chapters": 15,
+  "declaredChapters": 15,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《大唐西域记》，地理史籍，又称《西域记》，12卷。玄奘述，辩机撰文。本书系玄奘奉唐太宗敕命而著，贞观二十年（646）成书。书中综叙了贞观元年（一说贞观三年）至贞观十九年玄奘西行之见闻。记述了玄奘所亲历110个及得之传闻的28个城邦、地区、国家之概况，有疆域、气候、山川、风土、人情、语言、宗教、佛寺以及大量的历史传说、神话故事等。为研究中古时期中亚、南亚诸国的历史、地理、宗教、文化和中西交通的珍贵资料，也是研究佛教史学、佛教遗迹的重要文献。"
+ },
+ {
+  "hash": "9bd9fabd87ef",
+  "title": "容斋随笔",
+  "slug": "rong-zhai-sui-bi",
+  "author": "洪迈",
+  "authorRaw": "洪迈",
+  "authorSlug": "hong-mai",
+  "path": "poems/ho/hong-mai/",
+  "dynasty": "宋",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 330,
+  "declaredChapters": 330,
+  "mingju": 9,
+  "declaredMingju": 10,
+  "desc": "《容斋随笔》共《五笔》，74卷，1220则。其中，《容斋随笔》16卷，329则；《容斋续笔》16卷，249则；《容斋三笔》16卷，248则；《容斋四笔》16卷，259则；《容斋五笔》10卷，135则。据作者宋朝洪迈自述，《容斋随笔》写作时间逾经近四十年。是其多年博览群书、经世致用的智慧和汗水的结晶。本页面仅包含《容斋随笔》16卷内容。"
+ },
+ {
+  "hash": "6d965e09d656",
+  "title": "二刻拍案惊奇",
+  "slug": "er-ke-pai-an-jing-qi",
+  "author": "凌濛初",
+  "authorRaw": "凌濛初",
+  "authorSlug": "ling-meng-chu",
+  "path": "poems/li/ling-meng-chu/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 41,
+  "declaredChapters": 41,
+  "mingju": 8,
+  "declaredMingju": 9,
+  "desc": "《二刻拍案惊奇》为拟话本小说集。明末凌濛初编著。于1632年（崇桢五年）成书刊行，与作者前著《初刻拍案惊奇》合称“二拍”。四十卷，每卷一篇，共四十篇，其中卷二十三《大姊魂游完宿愿，小姨病起续前缘》，与《初刻拍案惊奇》卷二十三相同，卷四十已亡佚，补录杂剧《宋公明闹元宵杂剧》以充数。作者自称系“偶戏取古今所闻一二奇局可纪者演而成说”，题材大多取自前人。该书的思想内容是比较复杂，但从总体上看，在一定程度上反映了新兴的市民阶层的思想观念，其所提倡的传统道德中也有不可否定的健康成分。在中国文学史上有较重要的影响。"
+ },
+ {
+  "hash": "40c7e1736dc5",
+  "title": "天玉经",
+  "slug": "tian-yu-jing",
+  "author": "杨筠松",
+  "authorRaw": "杨筠松",
+  "authorSlug": "yang-yun-song",
+  "path": "poems/ya/yang-yun-song/",
+  "dynasty": "唐",
+  "cat": "子部术数类",
+  "categories": [
+   "子部",
+   "术数类"
+  ],
+  "chapters": 4,
+  "declaredChapters": 4,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《天玉经》是玄空风水理气中最重要的经典，托名杨筠松著，曾因战乱失传，至明末蒋大鸿辑录注疏，破译其中艰涩难解部分，从此之后，以玄空卦理为基础的江西风水得以影响后世千年不绝。然，随着蒋大鸿《地理辩正》发表，后来对《天玉经》连番注释者不知凡几，各人根据不同理解，各抒己见。一时间，珠玉纷陈，百花齐放，令後学眼花缭乱，无所适从。"
+ },
+ {
+  "hash": "38d1f26e9e2d",
+  "title": "医学源流论",
+  "slug": "yi-xue-yuan-liu-lun",
+  "author": "徐大椿",
+  "authorRaw": "徐大椿",
+  "authorSlug": "xu-da-chun",
+  "path": "poems/xu/xu-da-chun/",
+  "dynasty": "清",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 100,
+  "declaredChapters": 100,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《医学源流论》是清代徐大椿编撰的医学论文集。共收集评论文章九十九篇。上卷为经络脏腑、脉、病、方药，下卷则治法、书论（并各科）、古今。纵横捭阖，触及之处，每有新见，发前人之未发，言常人所不敢言，尤针砭时弊甚多，论述道理深湛。"
+ },
+ {
+  "hash": "f5b4d315f971",
+  "title": "温病条辨",
+  "slug": "wen-bing-tiao-bian",
+  "author": "吴瑭",
+  "authorRaw": "吴瑭",
+  "authorSlug": "wu-tang",
+  "path": "poems/wu/wu-tang/",
+  "dynasty": "清",
+  "cat": "子部医家类",
+  "categories": [
+   "子部",
+   "医家类"
+  ],
+  "chapters": 78,
+  "declaredChapters": 78,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《温病条辨》，清代吴瑭（鞠通）著（1798年），为温病通论著作。该书在清代众多温病学家成就的基础上，进一步建立了完全独立于伤寒的温病学说体系，创立了三焦辨证纲领，为温病创新理论之一。在温邪易耗伤阴液思想的指导下，吴鞠通倡养阴保液之法，并拟订了层次分明的温病治法方药体系，故《温病条辨》被称为清代温病学说标志性著作。"
+ },
+ {
+  "hash": "767bd88c1c60",
+  "title": "北史",
+  "slug": "bei-shi",
+  "author": "李大师、李延寿",
+  "authorRaw": "李大师、李延寿",
+  "authorSlug": "li-da-shi-li-yan-shou",
+  "path": "poems/li/li-da-shi-li-yan-shou/",
+  "dynasty": "唐",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 100,
+  "declaredChapters": 100,
+  "mingju": 5,
+  "declaredMingju": 6,
+  "desc": "《北史》是汇合并删节记载北朝历史的《魏书》、《北齐书》、《周书》而编成的纪传体史书。魏本纪五卷、齐本纪三卷、周本纪二卷、隋本纪二卷、列传八十八卷，共一百卷。记述从北魏登国元年(386（丙戌年）)到隋义宁二年(618)的历史。《南史》与《北史》为姊妹篇，是由李大师及其子李延寿两代人编撰完成的。"
+ },
+ {
+  "hash": "9bd135b79a36",
+  "title": "日知录",
+  "slug": "ri-zhi-lu",
+  "author": "顾炎武",
+  "authorRaw": "顾炎武",
+  "authorSlug": "gu-yan-wu",
+  "path": "poems/gu/gu-yan-wu/",
+  "dynasty": "明",
+  "cat": "子部杂家类",
+  "categories": [
+   "子部",
+   "杂家类"
+  ],
+  "chapters": 33,
+  "declaredChapters": 33,
+  "mingju": 9,
+  "declaredMingju": 10,
+  "desc": "《日知录》是明末清初著名学者、大思想家顾炎武的代表作品，对后世影响巨大。该书是一经年累月、积金琢玉撰成的大型学术札记，是顾炎武“稽古有得，随时札记，久而类次成书”的著作。以明道、救世为宗旨，囊括了作者全部学术、政治思想，遍布经世、警世内涵。"
+ },
+ {
+  "hash": "8ca96fb7ec03",
+  "title": "艺文类聚",
+  "slug": "yi-wen-lei-ju",
+  "author": "欧阳询",
+  "authorRaw": "欧阳询等",
+  "authorSlug": "ou-yang-xun",
+  "path": "poems/ou/ou-yang-xun/",
+  "dynasty": "唐",
+  "cat": "子部类书类",
+  "categories": [
+   "子部",
+   "类书类"
+  ],
+  "chapters": 100,
+  "declaredChapters": 100,
+  "mingju": 9,
+  "declaredMingju": 10,
+  "desc": "《艺文类聚》是唐代文学家、书法家欧阳询与令狐德棻、陈叔达、裴矩、赵弘智、袁朗等十余人于武德七年（624年）编纂而成的一部综合性类书，该书是中国现存最早的一部完整的官修类书，它保存了中国唐代以前丰富的文献资料，尤其是许多诗文歌赋等文学作品。与《北堂书钞》、《初学记》、《白氏六帖》合称“唐代四大类书”。"
+ },
+ {
+  "hash": "dd3be015cff8",
+  "title": "新齐谐",
+  "slug": "xin-qi-xie",
+  "author": "袁枚",
+  "authorRaw": "袁枚",
+  "authorSlug": "yuan-mei",
+  "path": "poems/yu/yuan-mei/",
+  "dynasty": "清",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 25,
+  "declaredChapters": 25,
+  "mingju": 0,
+  "declaredMingju": 1,
+  "desc": "《新齐谐》，古代中国神话志怪小说集。共二十四卷，清代乾隆末年袁枚所著。初名《子不语》，因元说部中有同名作品，后改名《新齐谐》。《新齐谐》中还有不少故事，表现了袁枚反对理学、追求个性解放的思想，这在当时也是有一定积极意义的。"
+ },
+ {
+  "hash": "8dac137f5924",
+  "title": "官场现形记",
+  "slug": "guan-chang-xian-xing-ji",
+  "author": "李伯元",
+  "authorRaw": "李伯元",
+  "authorSlug": "li-bo-yuan",
+  "path": "poems/li/li-bo-yuan/",
+  "dynasty": "清",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 60,
+  "declaredChapters": 60,
+  "mingju": 14,
+  "declaredMingju": 15,
+  "desc": "《官场现形记》是晚清文学家李伯元创作的长篇小说。小说最早在陈所发行的《世界繁华报》上连载，共五编60回，是中国近代第一部在报刊上连载并取得社会轰动效应的长篇章回小说。它由30多个相对独立的官场故事联缀起来，涉及清政府中上自皇帝、下至佐杂小吏等，开创了近代小说批判现实的风气。鲁迅将《官场现形记》与其他三部小说并称之为谴责小说，是清朝晚期文学代表作品之一。"
+ },
+ {
+  "hash": "603e4859dbf7",
+  "title": "剪灯新话",
+  "slug": "jian-deng-xin-hua",
+  "author": "瞿佑",
+  "authorRaw": "瞿佑",
+  "authorSlug": "qu-you",
+  "path": "poems/qu/qu-you/",
+  "dynasty": "明",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 26,
+  "declaredChapters": 26,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《剪灯新话》，明代文言短篇小说，中国十大禁书之一，作者是瞿佑。最早在洪武十一年编订成帙，以抄本流行。元末明初的社会大动荡，摧残、扭曲着社会中、下层男女的情欲生活。此书为中国历史上第一部禁毁小说，除摹书普罗男女的畸变离奇隐秘外，其人鬼相恋，“交合之事，一如人间”，亦成为遭禁主要原因之一。作者自己都坦陈此书“近于诲淫，藏之书笥，不欲傅出”。"
+ },
+ {
+  "hash": "129e5598da43",
+  "title": "梁书",
+  "slug": "liang-shu",
+  "author": "姚察、姚思廉",
+  "authorRaw": "姚察、姚思廉",
+  "authorSlug": "yao-cha-yao-si-lian",
+  "path": "poems/ya/yao-cha-yao-si-lian/",
+  "dynasty": "唐",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 56,
+  "declaredChapters": 56,
+  "mingju": 12,
+  "declaredMingju": 13,
+  "desc": "《梁书》包含本纪六卷、列传五十卷，无表、无志。它主要记述了南朝萧齐末年的政治和萧梁皇朝（502—557年）五十余年的史事。其中有二十六卷的后论署为“陈吏部尚书姚察曰”，说明这些卷是出于姚察之手，这几乎占了《梁书》的半数。姚思廉撰《梁书》，除了继承他父亲的遗稿以外，还参考、吸取了梁、陈、隋历朝史家编撰梁史的成果。该书特点之一为引用文以外的部份不以当时流行的骈体文，而以散文书写。"
+ },
+ {
+  "hash": "a64dac410659",
+  "title": "北齐书",
+  "slug": "bei-qi-shu",
+  "author": "李百药",
+  "authorRaw": "李百药",
+  "authorSlug": "li-bai-yao",
+  "path": "poems/li/li-bai-yao/",
+  "dynasty": "唐",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 50,
+  "declaredChapters": 50,
+  "mingju": 5,
+  "declaredMingju": 6,
+  "desc": "唐朝史家李百药撰，属纪传体断代史，共50卷，纪8卷，列传42卷，记载上起北魏分裂前十年左右，接续北魏分裂、东魏立国、北齐取代东魏，下迄北齐亡国，前后约五十馀年史实，而以记北齐历史为主。"
+ },
+ {
+  "hash": "429d6dfdc986",
+  "title": "疑龙经",
+  "slug": "yi-long-jing",
+  "author": "杨筠松",
+  "authorRaw": "杨筠松",
+  "authorSlug": "yang-yun-song",
+  "path": "poems/ya/yang-yun-song/",
+  "dynasty": "唐",
+  "cat": "子部术数类",
+  "categories": [
+   "子部",
+   "术数类"
+  ],
+  "chapters": 6,
+  "declaredChapters": 6,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《疑龙经》旧题亦为“唐杨筠松撰”，为唐朝著名地理风水学家杨筠松撰写。全书分三篇，介绍如何根据山水地势寻找龙脉，上篇论干中寻枝，以关局水口为主，中篇论寻龙到头，看面背朝迎之法，下篇论结穴形势。"
+ },
+ {
+  "hash": "6aa132dc1f84",
+  "title": "老子想尔注",
+  "slug": "lao-zi-xiang-er-zhu",
+  "author": "张道陵",
+  "authorRaw": "张道陵",
+  "authorSlug": "zhang-dao-ling",
+  "path": "poems/zh/zhang-dao-ling/",
+  "dynasty": "汉",
+  "cat": "子部道家类",
+  "categories": [
+   "子部",
+   "道家类"
+  ],
+  "chapters": 1,
+  "declaredChapters": 1,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《老子想尔注》是老子《道德经》的注释本，张道陵著，道教早期教派正一盟威道的一部哲学兼丹经的经典著作，为天师家学。"
+ },
+ {
+  "hash": "904e1676744f",
+  "title": "老残游记",
+  "slug": "lao-can-you-ji",
+  "author": "刘鹗",
+  "authorRaw": "刘鹗",
+  "authorSlug": "liu-e-e",
+  "path": "poems/li/liu-e-e/",
+  "dynasty": "清",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 21,
+  "declaredChapters": 21,
+  "mingju": 3,
+  "declaredMingju": 4,
+  "desc": "《老残游记》，清末中篇小说，是刘鹗 （1857年10月18日—1909年8月23日）的代表作，小说以一位走方郎中老残的游历为主线，对社会矛盾开掘很深，尤其是他在书中敢于直斥清官（清官中的酷吏）误国，清官害民，独具慧眼地指出清官的昏庸常常比贪官更甚。同时，小说在民族传统文化精华提炼、生活哲学及艺术、女性审美和平等、人物心理及音乐景物描写等多方面皆达到了极其高超的境界。"
+ },
+ {
+  "hash": "e61ddf437855",
+  "title": "金史",
+  "slug": "jin-shi",
+  "author": "脱脱",
+  "authorRaw": "脱脱等",
+  "authorSlug": "tuo-tuo",
+  "path": "poems/tu/tuo-tuo/",
+  "dynasty": "元",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 136,
+  "declaredChapters": 136,
+  "mingju": 7,
+  "declaredMingju": 9,
+  "desc": "《金史》是二十四史之一。撰成于元代，全书一百三十五卷，其中本纪十九卷，志三十九卷，表四卷，列传七十三卷，是反映女真族所建金朝的兴衰始末的重要史籍。"
+ },
+ {
+  "hash": "ce3ab505d8e6",
+  "title": "济公全传",
+  "slug": "ji-gong-quan-chuan",
+  "author": "郭小亭",
+  "authorRaw": "郭小亭",
+  "authorSlug": "guo-xiao-ting",
+  "path": "poems/gu/guo-xiao-ting/",
+  "dynasty": "清",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 239,
+  "declaredChapters": 239,
+  "mingju": 32,
+  "declaredMingju": 33,
+  "desc": "《济公全传》，是清代文人郭小亭所作的一部长篇神魔小说。主要讲述济公和尚游走天下，遇到种种不平之事，一路惩恶扬善、扶危济困的故事。以“飞来峰”、“斗蟋蟀”、“八魔炼济颠”等故事较为著名。自《济公全传》问世以来，各式各样的版样层出不穷，续书多达二十余种，在民间广为流传。"
+ },
+ {
+  "hash": "079ac52f7530",
+  "title": "幽明录",
+  "slug": "you-ming-lu",
+  "author": "刘义庆",
+  "authorRaw": "刘义庆",
+  "authorSlug": "liu-yi-qing",
+  "path": "poems/li/liu-yi-qing/",
+  "dynasty": "南北朝",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 6,
+  "declaredChapters": 6,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《幽明录》，亦作《幽冥录》《幽冥记》，是一本神奇怪异的志怪小说集，为南朝宋宗室刘义庆集门客所撰，30卷，原书已散佚。鲁迅《古小说钩沉》中辑得二百六十五则。书中所记鬼神灵怪之事，变幻无常，合于此意，故取此名。书中有不少故事与《列异传》《搜神记》《搜神后记》相同。"
+ },
+ {
+  "hash": "733130278115",
+  "title": "搜神后记",
+  "slug": "sou-shen-hou-ji",
+  "author": "陶渊明",
+  "authorRaw": "陶渊明",
+  "authorSlug": "tao-yuan-ming",
+  "path": "poems/ta/tao-yuan-ming/",
+  "dynasty": "魏晋",
+  "cat": "子部小说家类",
+  "categories": [
+   "子部",
+   "小说家类"
+  ],
+  "chapters": 10,
+  "declaredChapters": 10,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《搜神后记》又名《续搜神记》，是《搜神记》的续书。题为东晋陶潜(365-427)撰。所记有元嘉十四年（437年）、十六年（439年）事，其伪不可待辩。皆陶潜死后事，故疑此书为伪托，或以为经后人增益。《搜神后记》与《搜神记》的体例大致相似，但内容则多为《搜神记》所未见。该书凡十卷，一百一十七条。《搜神后记》在魏晋南北朝的志怪群书中是颇具特色的。它内容上略为妖异变怪之谈，而多言神仙；艺术上是芜杂琐碎的记叙减少，成片的 有关当地风土的民间故事。"
+ },
+ {
+  "hash": "cdda701f0bd2",
+  "title": "西湖梦寻",
+  "slug": "xi-hu-meng-xun",
+  "author": "张岱",
+  "authorRaw": "张岱",
+  "authorSlug": "zhang-dai",
+  "path": "poems/zh/zhang-dai/",
+  "dynasty": "明",
+  "cat": "集部别集类",
+  "categories": [
+   "集部",
+   "别集类"
+  ],
+  "chapters": 73,
+  "declaredChapters": 73,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《西湖梦寻》是明末清初文学家张岱所著的一部散文作品集，全书共五卷七十二则，对杭州一带重要的山水景色、佛教寺院、先贤祭祠等进行了全方位的描述，按照总记、北路、西路、中路、南路、外景的空间顺序依次写来，把杭州的古与今展现在读者面前。尤为重要的是，作者在每则记事之后选录先贤时人的诗文若干首（篇），更使山水增辉。这些诗文集中起来，就是一部西湖诗文选。"
+ },
+ {
+  "hash": "08cd38f65786",
+  "title": "洛阳伽蓝记",
+  "slug": "luo-yang-qie-lan-ji",
+  "author": "杨衒之",
+  "authorRaw": "杨衒之",
+  "authorSlug": "yang-xuan-zhi",
+  "path": "poems/ya/yang-xuan-zhi/",
+  "dynasty": "南北朝",
+  "cat": "史部地理类",
+  "categories": [
+   "史部",
+   "地理类"
+  ],
+  "chapters": 6,
+  "declaredChapters": 6,
+  "mingju": 0,
+  "declaredMingju": 0,
+  "desc": "《洛阳伽蓝记》简称《伽蓝记》，中国古代佛教史籍。是东魏迁都邺城十余年后，抚军司马杨衒之重游洛阳，追记劫前城郊佛寺之盛，概况历史变迁写作的一部集历史、地理、佛教、文学于一身的历史和人物故事类笔记，成书于公元547年（东魏武定五年）。后世将《洛阳伽蓝记》与郦道元的《水经注》、颜之推的《颜氏家训》并称为中国北朝时期的三部杰作。"
+ },
+ {
+  "hash": "c5b29ece47ca",
+  "title": "逸周书",
+  "slug": "yi-zhou-shu",
+  "author": "佚名",
+  "authorRaw": "佚名",
+  "authorSlug": "yi-ming",
+  "path": "poems/yi/yi-ming/",
+  "dynasty": "先秦",
+  "cat": "史部杂史类",
+  "categories": [
+   "史部",
+   "杂史类"
+  ],
+  "chapters": 62,
+  "declaredChapters": 62,
+  "mingju": 4,
+  "declaredMingju": 4,
+  "desc": "《逸周书》，原名《周书》，在性质上与《尚书》类似，是我国古代历史文献汇编。旧说《逸周书》是孔子删定《尚书》后所剩，是为“周书”的逸篇,故得名。今人多以为此书主要篇章出自战国人之手，可能还经汉代人改易或增附。《逸周书》今今本全书十卷，正文七十篇，其中十一篇有目无文，四十二篇有晋五经博士孔晁注。各篇的篇名均赘“解”字。又序一篇，各本或在卷端，或附卷尾。"
+ },
+ {
+  "hash": "d3075eb5ad2a",
+  "title": "谷梁传",
+  "slug": "gu-liang-chuan",
+  "author": "穀梁赤",
+  "authorRaw": "穀梁赤",
+  "authorSlug": "gu-liang-chi",
+  "path": "poems/gu/gu-liang-chi/",
+  "dynasty": "先秦",
+  "cat": "经部春秋类",
+  "categories": [
+   "经部",
+   "春秋类"
+  ],
+  "chapters": 242,
+  "declaredChapters": 242,
+  "mingju": 2,
+  "declaredMingju": 3,
+  "desc": "《穀梁传》即《谷梁传》（拼音：gǔliángzhuàn），也被称作《谷梁春秋》、《春秋谷梁传》。《春秋谷梁传》为儒家经典之一，与《左传》、《公羊传》同为解说《春秋》的三传之一。起于鲁隐公元年（公元前722年），终于鲁哀公十四年（公元前481年）。《谷梁传》强调必须尊重君王的权威，但不限制王权；君臣各有职分，各有行为准则；主张必须严格对待贵贱尊卑之别，同时希望君王要注意自己的行为。但其对政治更迭、社会变动较为排斥。"
+ },
+ {
+  "hash": "b87013a97b1b",
+  "title": "辽史",
+  "slug": "liao-shi",
+  "author": "脱脱",
+  "authorRaw": "脱脱等",
+  "authorSlug": "tuo-tuo",
+  "path": "poems/tu/tuo-tuo/",
+  "dynasty": "元",
+  "cat": "史部正史类",
+  "categories": [
+   "史部",
+   "正史类"
+  ],
+  "chapters": 117,
+  "declaredChapters": 117,
+  "mingju": 6,
+  "declaredMingju": 7,
+  "desc": "《辽史》为元脱脱等人所撰之纪传体史书，中国历代官修正史“二十四史”之一。由元至正三年（1343年）四月开始修撰，翌年三月成书。脱脱为都总裁，铁木儿塔识、贺惟一、张起岩、欧阳玄、揭傒斯、吕思诚为总裁官，廉惠山海牙等为修史官。元修《辽史》共116卷，包括本纪30卷，志32卷，表8卷，列传45卷，以及国语解1卷。记载上自辽太祖耶律阿保机，下至辽天祚帝耶律延禧的辽朝历史（907年－1125年），兼及耶律大石所建立之西辽历史。"
+ }
+]

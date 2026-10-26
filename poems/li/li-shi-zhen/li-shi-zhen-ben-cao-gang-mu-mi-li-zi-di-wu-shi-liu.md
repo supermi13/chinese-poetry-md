@@ -1,0 +1,22 @@
+---
+id: li-shi-zhen-ben-cao-gang-mu-mi-li-zi-di-wu-shi-liu
+title: 蜜栗子第五十六
+author: 李时珍
+authorSlug: li-shi-zhen
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 151
+sourceId: 2342d3d3812a
+---
+
+## 正文
+
+### 集解
+
+蜜栗子生川、广、江、浙金坑中，状如蛇黄而有刺，上有金线缠之，色紫褐，亦无名异之类也。丹炉家采作五金匮药，制三黄。

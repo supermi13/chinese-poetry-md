@@ -1,0 +1,22 @@
+---
+id: pu-song-ling-liao-zhai-zhi-yi-yan-luo-di-jiu-shi-liu
+title: 阎罗第九十六
+author: 蒲松龄
+authorSlug: pu-song-ling
+book: 聊斋志异
+bookSlug: liao-zhai-zhi-yi
+dynasty: 清
+dynastySlug: qing
+tags:
+  - 古籍
+  - 子部
+  - 小说家类
+chapterIndex: 96
+sourceId: 99202974d69d
+---
+
+## 正文
+
+莱芜秀才李中之，性直谅不阿。每数日辄死去，僵然如尸，三四日始醒。或问所见，则隐秘不泄。时邑有张生者，亦数日一死。语人曰：“李中之，阎罗也，余至阴司亦其属曹。”其门殿对联，俱能述之。或问：“李昨赴阴司何事？”张曰：“不能具述，惟提勘曹操，笞二十。”
+
+异史氏曰：“阿瞒一案，想更数十阎罗矣。畜道、剑山，种种具在，宜得何罪，不劳挹取；乃数千年不决，何也？岂以临刑之囚，快于速割，故使之求死不得也？异已！”

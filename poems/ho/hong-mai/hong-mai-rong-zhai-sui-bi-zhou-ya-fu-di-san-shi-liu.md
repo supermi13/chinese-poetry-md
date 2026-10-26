@@ -1,0 +1,20 @@
+---
+id: hong-mai-rong-zhai-sui-bi-zhou-ya-fu-di-san-shi-liu
+title: 周亚夫第三十六
+author: 洪迈
+authorSlug: hong-mai
+book: 容斋随笔
+bookSlug: rong-zhai-sui-bi
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 37
+sourceId: c71ed5fe774a
+---
+
+## 正文
+
+周亚夫距吴、楚，坚壁不出。军中夜惊，内相攻击扰乱，至于帐下。亚夫坚卧不起。顷之，复定。吴奔壁东南陬，亚夫使备西北。已而果奔西北，不得入。《汉史》书之，以为亚夫能持重。按，亚夫军细柳时，天子先驱至，不得入。文帝称其不可得而犯。今乃有军中夜惊相攻之事，安在其能持重乎？

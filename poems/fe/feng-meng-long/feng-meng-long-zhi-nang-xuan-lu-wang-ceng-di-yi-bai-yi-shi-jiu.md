@@ -1,0 +1,24 @@
+---
+id: feng-meng-long-zhi-nang-xuan-lu-wang-ceng-di-yi-bai-yi-shi-jiu
+title: 王曾第一百一十九
+author: 冯梦龙
+authorSlug: feng-meng-long
+book: 智囊(选录)
+bookSlug: zhi-nang-xuan-lu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 119
+sourceId: 5d3a4d4b11df
+---
+
+## 正文
+
+【原文】
+
+丁晋公执政，不许同列留身奏事，唯王文正一切委顺，未尝忤其意。一日，文正谓丁曰：“曾无子，欲以弟之子为后，欲面求恩泽，又不敢留身。”丁曰：“如公不妨。”文正因独对，进文字一卷，具道丁事，丁去数步，大悔之。不数日，丁遂有珠崖之行。
+
+〔评〕王曾独委顺丁谓，而卒以出谓，蔡京首奉行司马光，而竟以叛光，一则君子之苦心，一则小人之狡态。

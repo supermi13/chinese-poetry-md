@@ -1,0 +1,34 @@
+---
+id: yi-ming-bai-jia-xing-lei-di-liu-shi-jiu
+title: 雷第六十九
+author: 佚名
+authorSlug: yi-ming
+book: 百家姓
+bookSlug: bai-jia-xing
+dynasty: 宋
+dynastySlug: song
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 69
+sourceId: 1df80cb2c8ae
+---
+
+## 正文
+
+历史来源
+
+「雷」源出 ;
+
+一 ; 以国名为氏。据《元和姓纂》与《古今姓氏书辨正》所载，古诸侯国有方雷氏，其后分为方氏，雷氏。又神话传说方雷氏之女为黄帝妃。
+
+家族名人
+
+雷万春
+
+唐代人，安史之乱时，安禄山将令狐潮围雍丘，万春立于成上，面部中六箭，仍巍然不动。成陷不屈而死。
+
+地望分布
+
+陜西冯翔郡，江西豫章郡。

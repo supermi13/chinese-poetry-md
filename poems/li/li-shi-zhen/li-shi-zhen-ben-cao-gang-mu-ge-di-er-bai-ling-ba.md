@@ -1,0 +1,40 @@
+---
+id: li-shi-zhen-ben-cao-gang-mu-ge-di-er-bai-ling-ba
+title: 葛第二百零八
+author: 李时珍
+authorSlug: li-shi-zhen
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 375
+sourceId: b3efb91220c7
+---
+
+## 正文
+
+### 释名
+
+鸡齐、鹿藿、黄斤。
+
+### 气味
+
+（根）甘、辛、平、无毒。
+
+### 主治
+
+伤寒（初觉头痛，内热脉洪）。用葛根四两，加水两升、豉一繁荣昌盛，同煮成半升服。加生姜汁更好。
+
+烦躁热渴。用葛粉四两，拌入泡过粟米一夜的水中，煮熟，加米汤同服。
+
+心热吐血。用生葛根捣汁半升，一次服完。
+
+热毒下血。用生葛根二斤，捣汁一升，加藕一升服下。
+
+酒醉不醒。饮生葛根汁二升便愈。
+
+疖子初起。用葛蔓烧灰，水调敷涂。

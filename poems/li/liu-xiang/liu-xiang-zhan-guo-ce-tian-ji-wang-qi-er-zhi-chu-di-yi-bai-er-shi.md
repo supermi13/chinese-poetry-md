@@ -1,0 +1,20 @@
+---
+id: liu-xiang-zhan-guo-ce-tian-ji-wang-qi-er-zhi-chu-di-yi-bai-er-shi
+title: 田忌亡齐而之楚第一百二十
+author: 刘向等编纂
+authorSlug: liu-xiang
+book: 战国策
+bookSlug: zhan-guo-ce
+dynasty: 汉
+dynastySlug: han
+tags:
+  - 古籍
+  - 史部
+  - 杂史类
+chapterIndex: 120
+sourceId: 3072bfc6c70d
+---
+
+## 正文
+
+田忌亡齐而之楚，邹忌代之相。齐恐田忌欲以楚权复于齐，杜赫曰：“臣请为留楚。”谓楚王曰：“邹忌所以不善楚者，恐田忌之以楚权复于齐也。王不如封田忌于江南，以示田忌之不返齐也，邹忌以齐厚事楚。田忌亡人也，而得封，必德王。若复于齐，必以齐事楚。此用二忌之道也。”楚果封之于江南。

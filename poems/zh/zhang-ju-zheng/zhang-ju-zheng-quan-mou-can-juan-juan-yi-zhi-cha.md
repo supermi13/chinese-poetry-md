@@ -1,0 +1,28 @@
+---
+id: zhang-ju-zheng-quan-mou-can-juan-juan-yi-zhi-cha
+title: 卷一·智察
+author: 张居正
+authorSlug: zhang-ju-zheng
+book: 权谋残卷
+bookSlug: quan-mou-can-juan
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 杂家类
+chapterIndex: 1
+sourceId: 1c10d3106f1e
+---
+
+## 正文
+
+月晕而风，础润而雨，人事虽殊，其理一也。惟善察者能见微知著。
+
+不察，何以烛情照奸？察然后知真伪，辨虚实。夫察而后明，明而断之、伐之，事方可图。察之不明，举之不显。
+
+听其言而观其行，观其色而究其实。
+
+察者智，不察者迷。明察，进可以全国；退可以保身。君子宜惕然。
+
+察不明则奸佞生，奸佞生则贤人去，贤人去则国不举，国不举，必殆，殆则危矣。

@@ -1,0 +1,30 @@
+---
+id: li-shi-zhen-ben-cao-gang-mu-shu-shu-di-shi-er
+title: 蜀黍第十二
+author: 李时珍
+authorSlug: li-shi-zhen
+book: 本草纲目
+bookSlug: ben-cao-gang-mu
+dynasty: 明
+dynastySlug: ming
+tags:
+  - 古籍
+  - 子部
+  - 医家类
+chapterIndex: 455
+sourceId: dbfdd3b0a597
+---
+
+## 正文
+
+### 释名
+
+蜀秫、芦 、芦粟、木稷、荻粱、高粱。
+
+### 气味
+
+（米）甘、涩、温、无毒。
+
+### 主治
+
+（蜀黍米）温中，涩肠胃，止霍乱。（根）利小便，止喘满。
