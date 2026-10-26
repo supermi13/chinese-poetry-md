@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-259-lie-zhuan-juan-yi-bai-si-shi-qi-yang-gao-deng
-title: 列传·卷一百四十七&#183;杨镐等
+title: 列传·卷一百四十七·杨镐等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

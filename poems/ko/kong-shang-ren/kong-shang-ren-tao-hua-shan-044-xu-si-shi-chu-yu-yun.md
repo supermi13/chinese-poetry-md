@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-044-xu-si-shi-chu-yu-yun
-title: 续四十出&#183;余韵
+title: 续四十出·余韵
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-279-lie-zhuan-juan-yi-bai-liu-shi-qi-lv-da-qi
-title: 列传·卷一百六十七&#183;吕大器
+title: 列传·卷一百六十七·吕大器
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-009-di-ba-chu-nao-xie
-title: 第八出&#183;闹榭
+title: 第八出·闹榭
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

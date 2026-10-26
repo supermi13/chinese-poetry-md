@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-134-lie-zhuan-juan-er-shi-er-he-wen-hui-deng
-title: 列传·卷二十二&#183;何文辉等
+title: 列传·卷二十二·何文辉等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

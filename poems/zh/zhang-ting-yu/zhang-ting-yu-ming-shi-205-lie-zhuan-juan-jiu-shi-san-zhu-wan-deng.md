@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-205-lie-zhuan-juan-jiu-shi-san-zhu-wan-deng
-title: 列传·卷九十三&#183;朱纨等
+title: 列传·卷九十三·朱纨等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-148-lie-zhuan-juan-san-shi-liu-yang-shi-qi-yang-rong-yang-pu
-title: 列传·卷三十六&#183;杨士奇 杨荣 杨溥
+title: 列传·卷三十六·杨士奇 杨荣 杨溥
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-003-di-san-chu-hui-quan
-title: 第三出&#183;贿权
+title: 第三出·贿权
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

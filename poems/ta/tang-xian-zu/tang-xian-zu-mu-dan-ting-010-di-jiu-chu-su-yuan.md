@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-010-di-jiu-chu-su-yuan
-title: 第九出&#183;肃苑
+title: 第九出·肃苑
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

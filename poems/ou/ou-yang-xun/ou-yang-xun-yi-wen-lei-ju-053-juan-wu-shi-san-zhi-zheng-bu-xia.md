@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-053-juan-wu-shi-san-zhi-zheng-bu-xia
-title: 卷五十三&#183;治政部下
+title: 卷五十三·治政部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

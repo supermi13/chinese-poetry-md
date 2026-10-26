@@ -1,6 +1,6 @@
 ---
 id: wen-zi-011-juan-shi-shang-ren
-title: 卷十&#183;上仁
+title: 卷十·上仁
 author: 文子
 authorSlug: wen-zi
 book: 文子

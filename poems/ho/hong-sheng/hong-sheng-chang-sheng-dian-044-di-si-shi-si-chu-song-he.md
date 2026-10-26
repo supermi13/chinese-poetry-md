@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-044-di-si-shi-si-chu-song-he
-title: 第四十四出&#183;怂合
+title: 第四十四出·怂合
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

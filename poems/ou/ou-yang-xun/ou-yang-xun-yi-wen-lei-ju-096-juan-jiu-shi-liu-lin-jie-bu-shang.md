@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-096-juan-jiu-shi-liu-lin-jie-bu-shang
-title: 卷九十六&#183;鳞介部上
+title: 卷九十六·鳞介部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

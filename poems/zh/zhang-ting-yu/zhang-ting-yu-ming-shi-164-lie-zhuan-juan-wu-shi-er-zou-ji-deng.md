@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-164-lie-zhuan-juan-wu-shi-er-zou-ji-deng
-title: 列传·卷五十二&#183;邹缉等
+title: 列传·卷五十二·邹缉等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

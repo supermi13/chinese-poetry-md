@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-007-juan-qi-shan-bu-shang
-title: 卷七&#183;山部上
+title: 卷七·山部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

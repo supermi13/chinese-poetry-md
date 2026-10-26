@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-017-xiu-shen-pian-zhi-jiu-di-si-di-zao-qi-nai-jian-shen-zhi-miao-58199c75
-title: 修身篇·致九弟四弟&#183;早起乃健身之妙方第十七
+title: 修身篇·致九弟四弟·早起乃健身之妙方第十七
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

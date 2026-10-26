@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-093-juan-jiu-shi-er-yi-seng-liu
-title: 卷九十二&#183;异僧六
+title: 卷九十二·异僧六
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-032-di-san-shi-er-chu-ku-xiang
-title: 第三十二出&#183;哭像
+title: 第三十二出·哭像
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

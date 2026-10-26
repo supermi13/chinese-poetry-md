@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-057-quan-xue-pian-zhi-jiu-di-jiang-qiu-zou-yi-bu-chi-di-wu-shi-q-72b5ab47
-title: 劝学篇·致九弟&#183;讲求奏议不迟第五十七
+title: 劝学篇·致九弟·讲求奏议不迟第五十七
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-168-lie-zhuan-juan-wu-shi-liu-chen-xun-deng
-title: 列传·卷五十六&#183;陈循等
+title: 列传·卷五十六·陈循等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-009-di-jiu-chu-fu-zhao
-title: 第九出&#183;复召
+title: 第九出·复召
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

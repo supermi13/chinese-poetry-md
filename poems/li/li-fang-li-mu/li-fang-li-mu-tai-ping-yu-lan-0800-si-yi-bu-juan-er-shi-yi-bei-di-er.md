@@ -1,6 +1,6 @@
 ---
 id: li-fang-li-mu-tai-ping-yu-lan-0800-si-yi-bu-juan-er-shi-yi-bei-di-er
-title: 四夷部·卷二十一&#183;北狄二
+title: 四夷部·卷二十一·北狄二
 section: 四夷部
 author: 李昉、李穆
 authorSlug: li-fang-li-mu

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-030-di-san-shi-chu-qing-hui
-title: 第三十出&#183;情悔
+title: 第三十出·情悔
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

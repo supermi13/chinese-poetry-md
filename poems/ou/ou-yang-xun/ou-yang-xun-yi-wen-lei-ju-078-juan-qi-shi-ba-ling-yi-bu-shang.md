@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-078-juan-qi-shi-ba-ling-yi-bu-shang
-title: 卷七十八&#183;灵异部上
+title: 卷七十八·灵异部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

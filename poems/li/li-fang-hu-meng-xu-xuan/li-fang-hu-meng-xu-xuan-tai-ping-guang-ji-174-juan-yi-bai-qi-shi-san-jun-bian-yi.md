@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-174-juan-yi-bai-qi-shi-san-jun-bian-yi
-title: 卷一百七十三&#183;俊辩一
+title: 卷一百七十三·俊辩一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

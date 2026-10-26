@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-278-lie-zhuan-juan-yi-bai-liu-shi-liu-yang-ting-lin
-title: 列传·卷一百六十六&#183;杨廷麟
+title: 列传·卷一百六十六·杨廷麟
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

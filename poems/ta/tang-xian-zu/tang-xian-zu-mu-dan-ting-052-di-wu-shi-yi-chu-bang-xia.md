@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-052-di-wu-shi-yi-chu-bang-xia
-title: 第五十一出&#183;榜下
+title: 第五十一出·榜下
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

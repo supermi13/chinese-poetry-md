@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-088-juan-ba-shi-ba-mu-bu-shang
-title: 卷八十八&#183;木部上
+title: 卷八十八·木部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

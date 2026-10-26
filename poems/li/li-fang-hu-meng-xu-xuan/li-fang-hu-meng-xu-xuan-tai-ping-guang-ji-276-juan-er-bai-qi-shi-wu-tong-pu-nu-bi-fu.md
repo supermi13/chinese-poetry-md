@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-276-juan-er-bai-qi-shi-wu-tong-pu-nu-bi-fu
-title: 卷二百七十五&#183;童仆（奴婢附）
+title: 卷二百七十五·童仆（奴婢附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

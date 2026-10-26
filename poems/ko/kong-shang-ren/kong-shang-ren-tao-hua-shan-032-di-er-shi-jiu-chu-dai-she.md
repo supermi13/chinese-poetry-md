@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-032-di-er-shi-jiu-chu-dai-she
-title: 第二十九出&#183;逮社
+title: 第二十九出·逮社
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

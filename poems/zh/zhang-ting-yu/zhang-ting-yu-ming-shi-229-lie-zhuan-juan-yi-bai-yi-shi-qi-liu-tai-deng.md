@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-229-lie-zhuan-juan-yi-bai-yi-shi-qi-liu-tai-deng
-title: 列传·卷一百一十七&#183;刘台等
+title: 列传·卷一百一十七·刘台等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

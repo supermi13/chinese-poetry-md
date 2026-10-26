@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-007-ben-ji-juan-qi-cheng-zu-san
-title: 本纪·卷七&#183;成祖三
+title: 本纪·卷七·成祖三
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

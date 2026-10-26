@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-180-wei-zheng-pian-zhi-jiu-di-zhan-shi-yi-zi-ju-zou-di-yi-bai-ba-417db0db
-title: 为政篇·致九弟&#183;战事宜自具奏第一百八十
+title: 为政篇·致九弟·战事宜自具奏第一百八十
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

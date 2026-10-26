@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-025-di-er-shi-wu-chu-mai-yu
-title: 第二十五出&#183;埋玉
+title: 第二十五出·埋玉
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

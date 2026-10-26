@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-210-lie-zhuan-juan-jiu-shi-ba-sang-qiao-deng
-title: 列传·卷九十八&#183;桑乔等
+title: 列传·卷九十八·桑乔等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-012-ben-ji-juan-shi-er-ying-zong-hou-ji
-title: 本纪·卷十二&#183;英宗后纪
+title: 本纪·卷十二·英宗后纪
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

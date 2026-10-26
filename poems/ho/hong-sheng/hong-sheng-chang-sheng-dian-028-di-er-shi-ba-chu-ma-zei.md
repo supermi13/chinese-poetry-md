@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-028-di-er-shi-ba-chu-ma-zei
-title: 第二十八出&#183;骂贼
+title: 第二十八出·骂贼
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

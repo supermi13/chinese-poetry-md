@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-036-di-san-shi-liu-chu-kan-wa
-title: 第三十六出&#183;看袜
+title: 第三十六出·看袜
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

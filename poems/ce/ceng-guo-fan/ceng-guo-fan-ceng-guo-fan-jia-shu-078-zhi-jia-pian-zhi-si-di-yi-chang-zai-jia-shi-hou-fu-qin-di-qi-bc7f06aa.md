@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-078-zhi-jia-pian-zhi-si-di-yi-chang-zai-jia-shi-hou-fu-qin-di-qi-bc7f06aa
-title: 治家篇·致四弟&#183;宜常在家侍侯父亲第七十八
+title: 治家篇·致四弟·宜常在家侍侯父亲第七十八
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-111-biao-juan-shi-er-qi-qing-nian-biao-yi
-title: 表·卷十二&#183;七卿年表一
+title: 表·卷十二·七卿年表一
 section: 表
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-027-xiu-shen-pian-zhi-si-di-quan-di-xu-jing-yang-shen-ti-di-er-s-85e39754
-title: 修身篇·致四弟&#183;劝弟须静养身体第二十七
+title: 修身篇·致四弟·劝弟须静养身体第二十七
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

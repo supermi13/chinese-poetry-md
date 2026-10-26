@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-309-lie-zhuan-juan-yi-bai-jiu-shi-qi-liu-zei
-title: 列传·卷一百九十七&#183;流贼
+title: 列传·卷一百九十七·流贼
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-217-juan-er-bai-yi-shi-liu-bu-shi-yi
-title: 卷二百一十六&#183;卜筮一
+title: 卷二百一十六·卜筮一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

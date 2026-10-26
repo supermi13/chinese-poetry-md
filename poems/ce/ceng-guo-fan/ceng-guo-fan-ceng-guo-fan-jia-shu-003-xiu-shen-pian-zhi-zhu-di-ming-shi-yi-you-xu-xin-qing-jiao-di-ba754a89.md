@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-003-xiu-shen-pian-zhi-zhu-di-ming-shi-yi-you-xu-xin-qing-jiao-di-ba754a89
-title: 修身篇·致诸弟&#183;明师益友虚心请教第三
+title: 修身篇·致诸弟·明师益友虚心请教第三
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

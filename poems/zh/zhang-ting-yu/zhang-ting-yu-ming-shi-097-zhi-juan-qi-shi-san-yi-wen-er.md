@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-097-zhi-juan-qi-shi-san-yi-wen-er
-title: 志·卷七十三&#183;艺文二
+title: 志·卷七十三·艺文二
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

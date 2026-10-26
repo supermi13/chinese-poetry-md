@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-102-li-cai-pian-bing-fu-mu-jie-yin-ji-hui-jia-yong-di-yi-bai-lin-1aceb2e5
-title: 理财篇·禀父母&#183;借银寄回家用第一百零二
+title: 理财篇·禀父母·借银寄回家用第一百零二
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

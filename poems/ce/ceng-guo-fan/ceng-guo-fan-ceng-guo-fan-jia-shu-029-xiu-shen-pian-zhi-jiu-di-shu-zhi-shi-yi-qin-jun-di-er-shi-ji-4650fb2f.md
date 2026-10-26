@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-029-xiu-shen-pian-zhi-jiu-di-shu-zhi-shi-yi-qin-jun-di-er-shi-ji-4650fb2f
-title: 修身篇·致九弟&#183;述治事宜勤军第二十九
+title: 修身篇·致九弟·述治事宜勤军第二十九
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

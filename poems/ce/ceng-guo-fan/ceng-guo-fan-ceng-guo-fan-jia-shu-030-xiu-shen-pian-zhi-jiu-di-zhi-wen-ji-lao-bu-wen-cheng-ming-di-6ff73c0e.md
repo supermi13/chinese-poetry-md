@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-030-xiu-shen-pian-zhi-jiu-di-zhi-wen-ji-lao-bu-wen-cheng-ming-di-6ff73c0e
-title: 修身篇·致九弟&#183;只问积劳不问成名第三十
+title: 修身篇·致九弟·只问积劳不问成名第三十
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

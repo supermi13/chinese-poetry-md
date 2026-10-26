@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-173-lie-zhuan-juan-liu-shi-yi-yang-hong-deng
-title: 列传·卷六十一&#183;杨洪等
+title: 列传·卷六十一·杨洪等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

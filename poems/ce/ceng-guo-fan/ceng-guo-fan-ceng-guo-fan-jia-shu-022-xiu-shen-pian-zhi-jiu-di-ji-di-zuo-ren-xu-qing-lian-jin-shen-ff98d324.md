@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-022-xiu-shen-pian-zhi-jiu-di-ji-di-zuo-ren-xu-qing-lian-jin-shen-ff98d324
-title: 修身篇·致九弟季弟&#183;做人须清廉谨慎勤劳第二十二
+title: 修身篇·致九弟季弟·做人须清廉谨慎勤劳第二十二
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

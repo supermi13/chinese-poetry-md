@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-007-di-liu-chu-mian-xiang
-title: 第六出&#183;眠香
+title: 第六出·眠香
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

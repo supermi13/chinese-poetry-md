@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-008-juan-ba-quan-qi
-title: 卷八&#183;权奇
+title: 卷八·权奇
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

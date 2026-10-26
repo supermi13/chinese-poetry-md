@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-091-juan-jiu-shi-yi-seng-si
-title: 卷九十&#183;异僧四
+title: 卷九十·异僧四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

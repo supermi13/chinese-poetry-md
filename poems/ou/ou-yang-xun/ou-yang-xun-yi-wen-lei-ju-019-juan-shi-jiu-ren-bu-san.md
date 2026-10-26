@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-019-juan-shi-jiu-ren-bu-san
-title: 卷十九&#183;人部三
+title: 卷十九·人部三
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-264-juan-er-bai-liu-shi-san-wu-lai-yi
-title: 卷二百六十三&#183;无赖一
+title: 卷二百六十三·无赖一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

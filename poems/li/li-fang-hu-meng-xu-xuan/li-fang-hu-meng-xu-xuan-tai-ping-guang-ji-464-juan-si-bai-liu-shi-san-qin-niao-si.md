@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-464-juan-si-bai-liu-shi-san-qin-niao-si
-title: 卷四百六十三&#183;禽鸟四
+title: 卷四百六十三·禽鸟四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

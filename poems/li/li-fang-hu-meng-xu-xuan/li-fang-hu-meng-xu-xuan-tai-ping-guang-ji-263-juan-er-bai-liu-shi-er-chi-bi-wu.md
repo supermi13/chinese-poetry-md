@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-263-juan-er-bai-liu-shi-er-chi-bi-wu
-title: 卷二百六十二&#183;嗤鄙五
+title: 卷二百六十二·嗤鄙五
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

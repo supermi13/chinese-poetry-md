@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-142-juan-yi-bai-si-shi-yi-zheng-ying-qi-ren-chen-jiu-zheng
-title: 卷一百四十一&#183;征应七（人臣咎征）
+title: 卷一百四十一·征应七（人臣咎征）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

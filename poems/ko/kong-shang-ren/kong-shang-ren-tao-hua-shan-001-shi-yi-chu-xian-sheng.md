@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-001-shi-yi-chu-xian-sheng
-title: 试一出&#183;先声
+title: 试一出·先声
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-097-zhi-jia-pian-zhi-si-di-jiao-zi-qin-jian-wei-zhu-di-jiu-shi-q-3e1f6d47
-title: 治家篇·致四弟&#183;教子勤俭为主第九十七
+title: 治家篇·致四弟·教子勤俭为主第九十七
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

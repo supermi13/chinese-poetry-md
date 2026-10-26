@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-139-wei-zheng-pian-bing-fu-mu-ju-zhe-zou-qing-ri-jiang-di-yi-bai-1bfdc692
-title: 为政篇·禀父母&#183;具折奏请日讲第一百三十九
+title: 为政篇·禀父母·具折奏请日讲第一百三十九
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

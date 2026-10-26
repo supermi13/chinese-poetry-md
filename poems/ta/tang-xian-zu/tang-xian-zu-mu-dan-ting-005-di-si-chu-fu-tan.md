@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-005-di-si-chu-fu-tan
-title: 第四出&#183;腐叹
+title: 第四出·腐叹
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

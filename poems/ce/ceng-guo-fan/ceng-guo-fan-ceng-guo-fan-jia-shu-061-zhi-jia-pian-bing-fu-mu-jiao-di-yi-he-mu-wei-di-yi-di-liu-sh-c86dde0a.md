@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-061-zhi-jia-pian-bing-fu-mu-jiao-di-yi-he-mu-wei-di-yi-di-liu-sh-c86dde0a
-title: 治家篇·禀父母&#183;教弟以和睦为第一第六十一
+title: 治家篇·禀父母·教弟以和睦为第一第六十一
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

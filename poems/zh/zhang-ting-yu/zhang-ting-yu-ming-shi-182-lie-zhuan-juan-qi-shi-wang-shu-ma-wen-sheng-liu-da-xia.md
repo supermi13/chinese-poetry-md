@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-182-lie-zhuan-juan-qi-shi-wang-shu-ma-wen-sheng-liu-da-xia
-title: 列传·卷七十&#183;王恕 马文升 刘大夏
+title: 列传·卷七十·王恕 马文升 刘大夏
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

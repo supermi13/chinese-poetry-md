@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-022-ben-ji-juan-er-shi-er-xi-zong
-title: 本纪·卷二十二&#183;熹宗
+title: 本纪·卷二十二·熹宗
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

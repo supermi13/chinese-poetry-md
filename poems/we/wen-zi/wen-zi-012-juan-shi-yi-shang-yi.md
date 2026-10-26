@@ -1,6 +1,6 @@
 ---
 id: wen-zi-012-juan-shi-yi-shang-yi
-title: 卷十一&#183;上义
+title: 卷十一·上义
 author: 文子
 authorSlug: wen-zi
 book: 文子

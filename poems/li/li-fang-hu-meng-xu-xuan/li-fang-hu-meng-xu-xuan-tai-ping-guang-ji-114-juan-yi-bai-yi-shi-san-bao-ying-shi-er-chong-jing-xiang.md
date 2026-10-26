@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-114-juan-yi-bai-yi-shi-san-bao-ying-shi-er-chong-jing-xiang
-title: 卷一百一十三&#183;报应十二（崇经像）
+title: 卷一百一十三·报应十二（崇经像）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

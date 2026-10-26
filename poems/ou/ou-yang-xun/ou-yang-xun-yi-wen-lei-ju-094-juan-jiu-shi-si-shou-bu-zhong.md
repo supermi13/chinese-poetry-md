@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-094-juan-jiu-shi-si-shou-bu-zhong
-title: 卷九十四&#183;兽部中
+title: 卷九十四·兽部中
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-190-yong-ren-pian-zhi-jiu-di-ji-di-ni-he-chen-she-xian-ban-da-to-200c679d
-title: 用人篇·致九弟季弟&#183;拟和陈射仙办大通厘金第一百九十
+title: 用人篇·致九弟季弟·拟和陈射仙办大通厘金第一百九十
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

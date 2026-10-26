@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-268-lie-zhuan-juan-yi-bai-wu-shi-liu-cao-wen-zhao-deng
-title: 列传·卷一百五十六&#183;曹文诏等
+title: 列传·卷一百五十六·曹文诏等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

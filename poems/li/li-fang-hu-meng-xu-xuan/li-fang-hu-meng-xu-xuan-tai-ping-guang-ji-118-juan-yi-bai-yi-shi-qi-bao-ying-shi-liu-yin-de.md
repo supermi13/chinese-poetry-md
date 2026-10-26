@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-118-juan-yi-bai-yi-shi-qi-bao-ying-shi-liu-yin-de
-title: 卷一百一十七&#183;报应十六（阴德）
+title: 卷一百一十七·报应十六（阴德）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

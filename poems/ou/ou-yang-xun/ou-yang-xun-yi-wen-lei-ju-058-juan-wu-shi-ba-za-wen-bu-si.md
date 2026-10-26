@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-058-juan-wu-shi-ba-za-wen-bu-si
-title: 卷五十八&#183;杂文部四
+title: 卷五十八·杂文部四
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

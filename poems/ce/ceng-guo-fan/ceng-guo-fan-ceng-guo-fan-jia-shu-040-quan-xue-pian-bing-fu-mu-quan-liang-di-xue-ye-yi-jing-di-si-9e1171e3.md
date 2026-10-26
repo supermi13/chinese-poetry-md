@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-040-quan-xue-pian-bing-fu-mu-quan-liang-di-xue-ye-yi-jing-di-si-9e1171e3
-title: 劝学篇·禀父母&#183;劝两弟学业宜精第四十
+title: 劝学篇·禀父母·劝两弟学业宜精第四十
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

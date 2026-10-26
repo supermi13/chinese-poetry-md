@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-292-juan-er-bai-jiu-shi-yi-shen-yi
-title: 卷二百九十一&#183;神一
+title: 卷二百九十一·神一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

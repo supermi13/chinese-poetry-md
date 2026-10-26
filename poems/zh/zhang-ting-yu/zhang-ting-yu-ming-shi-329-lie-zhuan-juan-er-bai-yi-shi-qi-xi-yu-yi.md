@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-329-lie-zhuan-juan-er-bai-yi-shi-qi-xi-yu-yi
-title: 列传·卷二百一十七&#183;西域一
+title: 列传·卷二百一十七·西域一
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

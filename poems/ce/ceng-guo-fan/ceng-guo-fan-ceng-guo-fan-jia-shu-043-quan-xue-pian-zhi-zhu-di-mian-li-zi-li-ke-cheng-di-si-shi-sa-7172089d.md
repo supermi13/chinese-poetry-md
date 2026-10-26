@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-043-quan-xue-pian-zhi-zhu-di-mian-li-zi-li-ke-cheng-di-si-shi-sa-7172089d
-title: 劝学篇·致诸弟&#183;勉励自立课程第四十三
+title: 劝学篇·致诸弟·勉励自立课程第四十三
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

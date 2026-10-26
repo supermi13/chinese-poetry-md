@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-204-lie-zhuan-juan-jiu-shi-er-chen-jiu-chou-deng
-title: 列传·卷九十二&#183;陈九畴等
+title: 列传·卷九十二·陈九畴等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

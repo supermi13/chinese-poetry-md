@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-035-zhi-juan-shi-yi-li-wu
-title: 志·卷十一&#183;历五
+title: 志·卷十一·历五
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

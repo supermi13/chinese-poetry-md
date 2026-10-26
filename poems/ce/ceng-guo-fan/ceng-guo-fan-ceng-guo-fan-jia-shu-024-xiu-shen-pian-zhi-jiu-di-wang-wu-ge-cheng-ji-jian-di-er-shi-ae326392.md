@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-024-xiu-shen-pian-zhi-jiu-di-wang-wu-ge-cheng-ji-jian-di-er-shi-ae326392
-title: 修身篇·致九弟&#183;望勿各逞己见第二十四
+title: 修身篇·致九弟·望勿各逞己见第二十四
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

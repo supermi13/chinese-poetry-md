@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-027-di-er-shi-si-chu-ma-yan
-title: 第二十四出&#183;骂筵
+title: 第二十四出·骂筵
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

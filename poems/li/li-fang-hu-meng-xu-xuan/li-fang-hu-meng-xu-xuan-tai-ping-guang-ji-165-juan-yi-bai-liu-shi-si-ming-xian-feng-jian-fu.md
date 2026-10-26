@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-165-juan-yi-bai-liu-shi-si-ming-xian-feng-jian-fu
-title: 卷一百六十四&#183;名贤（讽谏附）
+title: 卷一百六十四·名贤（讽谏附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

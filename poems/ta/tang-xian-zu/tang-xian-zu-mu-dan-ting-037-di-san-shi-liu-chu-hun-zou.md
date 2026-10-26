@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-037-di-san-shi-liu-chu-hun-zou
-title: 第三十六出&#183;婚走
+title: 第三十六出·婚走
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

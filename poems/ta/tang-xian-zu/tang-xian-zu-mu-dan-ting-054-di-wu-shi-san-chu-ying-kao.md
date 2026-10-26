@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-054-di-wu-shi-san-chu-ying-kao
-title: 第五十三出&#183;硬拷
+title: 第五十三出·硬拷
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

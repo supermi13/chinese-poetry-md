@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-069-zhi-juan-si-shi-wu-xuan-ju-yi
-title: 志·卷四十五&#183;选举一
+title: 志·卷四十五·选举一
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

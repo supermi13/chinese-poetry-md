@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-171-juan-yi-bai-qi-shi-zhi-ren-er
-title: 卷一百七十&#183;知人二
+title: 卷一百七十·知人二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

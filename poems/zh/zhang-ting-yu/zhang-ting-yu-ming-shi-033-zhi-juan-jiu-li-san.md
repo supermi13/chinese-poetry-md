@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-033-zhi-juan-jiu-li-san
-title: 志·卷九&#183;历三
+title: 志·卷九·历三
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-242-lie-zhuan-juan-yi-bai-san-shi-chen-bang-zhan-deng
-title: 列传·卷一百三十&#183;陈邦瞻等
+title: 列传·卷一百三十·陈邦瞻等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

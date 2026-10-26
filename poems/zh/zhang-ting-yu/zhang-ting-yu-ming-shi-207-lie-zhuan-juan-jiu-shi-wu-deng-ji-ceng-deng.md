@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-207-lie-zhuan-juan-jiu-shi-wu-deng-ji-ceng-deng
-title: 列传·卷九十五&#183;邓继曾等
+title: 列传·卷九十五·邓继曾等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

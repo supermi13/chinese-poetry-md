@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-414-juan-si-bai-yi-shi-san-cao-mu-ba
-title: 卷四百一十三&#183;草木八
+title: 卷四百一十三·草木八
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

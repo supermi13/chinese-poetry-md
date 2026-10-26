@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-014-ben-ji-juan-shi-si-xian-zong-er
-title: 本纪·卷十四&#183;宪宗二
+title: 本纪·卷十四·宪宗二
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-011-ben-ji-juan-shi-yi-jing-di
-title: 本纪·卷十一&#183;景帝
+title: 本纪·卷十一·景帝
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

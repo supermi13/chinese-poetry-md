@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-178-lie-zhuan-juan-liu-shi-liu-xiang-zhong-deng
-title: 列传·卷六十六&#183;项忠等
+title: 列传·卷六十六·项忠等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

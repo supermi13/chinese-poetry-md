@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-416-juan-si-bai-yi-shi-wu-cao-mu-shi
-title: 卷四百一十五&#183;草木十
+title: 卷四百一十五·草木十
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

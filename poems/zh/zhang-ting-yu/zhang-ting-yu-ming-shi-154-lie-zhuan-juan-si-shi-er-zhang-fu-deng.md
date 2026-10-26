@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-154-lie-zhuan-juan-si-shi-er-zhang-fu-deng
-title: 列传·卷四十二&#183;张辅等
+title: 列传·卷四十二·张辅等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-088-zhi-jia-pian-zhi-si-di-ju-xiang-yao-jue-yi-jie-jian-di-ba-sh-10444dff
-title: 治家篇·致四弟&#183;居乡要诀宜节俭第八十八
+title: 治家篇·致四弟·居乡要诀宜节俭第八十八
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

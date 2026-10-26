@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-090-zhi-jia-pian-zhi-si-di-jiao-zi-zhi-yi-jie-jiao-she-yi-di-jiu-4b801fd7
-title: 治家篇·致四弟&#183;教子侄宜戒骄奢佚第九十
+title: 治家篇·致四弟·教子侄宜戒骄奢佚第九十
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

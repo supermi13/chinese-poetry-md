@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-018-di-shi-qi-chu-dao-xi
-title: 第十七出&#183;道觋
+title: 第十七出·道觋
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-194-lie-zhuan-juan-ba-shi-er-qiao-yu-deng
-title: 列传·卷八十二&#183;乔宇等
+title: 列传·卷八十二·乔宇等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

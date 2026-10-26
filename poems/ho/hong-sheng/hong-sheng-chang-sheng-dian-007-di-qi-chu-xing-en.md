@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-007-di-qi-chu-xing-en
-title: 第七出&#183;幸恩
+title: 第七出·幸恩
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-111-juan-yi-bai-yi-shi-bao-ying-jiu-guan-yin-jing
-title: 卷一百一十&#183;报应九（观音经）
+title: 卷一百一十·报应九（观音经）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

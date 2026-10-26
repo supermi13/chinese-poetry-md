@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-063-zhi-juan-san-shi-jiu-le-san
-title: 志·卷三十九&#183;乐三
+title: 志·卷三十九·乐三
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

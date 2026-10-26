@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-190-lie-zhuan-juan-qi-shi-ba-yang-ting-he-liang-chu-jiang-mian-m-8a1685e0
-title: 列传·卷七十八&#183;杨廷和 梁储 蒋冕 毛纪 石珤
+title: 列传·卷七十八·杨廷和 梁储 蒋冕 毛纪 石珤
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

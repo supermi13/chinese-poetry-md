@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-066-juan-liu-shi-liu-chan-ye-bu-xia
-title: 卷六十六&#183;产业部下
+title: 卷六十六·产业部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-310-lie-zhuan-juan-yi-bai-jiu-shi-ba-tu-si
-title: 列传·卷一百九十八&#183;土司
+title: 列传·卷一百九十八·土司
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

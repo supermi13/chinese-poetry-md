@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-162-wei-zheng-pian-bing-fu-mu-he-liu-di-cheng-jiu-gong-ming-di-y-ef51a656
-title: 为政篇·禀父母&#183;贺六弟成就功名第一百六十二
+title: 为政篇·禀父母·贺六弟成就功名第一百六十二
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

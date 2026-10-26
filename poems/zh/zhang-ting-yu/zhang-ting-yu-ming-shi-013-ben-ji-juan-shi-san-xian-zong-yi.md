@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-013-ben-ji-juan-shi-san-xian-zong-yi
-title: 本纪·卷十三&#183;宪宗一
+title: 本纪·卷十三·宪宗一
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

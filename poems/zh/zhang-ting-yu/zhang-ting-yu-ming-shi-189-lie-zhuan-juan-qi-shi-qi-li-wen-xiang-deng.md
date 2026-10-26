@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-189-lie-zhuan-juan-qi-shi-qi-li-wen-xiang-deng
-title: 列传·卷七十七&#183;李文祥等
+title: 列传·卷七十七·李文祥等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

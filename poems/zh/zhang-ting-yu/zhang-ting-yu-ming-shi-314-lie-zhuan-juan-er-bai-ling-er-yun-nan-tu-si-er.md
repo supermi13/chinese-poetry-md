@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-314-lie-zhuan-juan-er-bai-ling-er-yun-nan-tu-si-er
-title: 列传·卷二百零二&#183;云南土司二
+title: 列传·卷二百零二·云南土司二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

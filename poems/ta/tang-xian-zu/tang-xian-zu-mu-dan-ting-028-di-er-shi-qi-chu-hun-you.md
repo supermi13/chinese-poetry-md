@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-028-di-er-shi-qi-chu-hun-you
-title: 第二十七出&#183;魂游
+title: 第二十七出·魂游
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-006-juan-liu-di-bu-zhou-bu-jun-bu
-title: 卷六&#183;地部、州部、郡部
+title: 卷六·地部、州部、郡部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

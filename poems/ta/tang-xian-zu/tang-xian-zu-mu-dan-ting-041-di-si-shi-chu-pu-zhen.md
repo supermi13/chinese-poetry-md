@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-041-di-si-shi-chu-pu-zhen
-title: 第四十出&#183;仆侦
+title: 第四十出·仆侦
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-027-zhi-juan-san-tian-wen-san
-title: 志·卷三&#183;天文三
+title: 志·卷三·天文三
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

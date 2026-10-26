@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-181-lie-zhuan-juan-liu-shi-jiu-xu-pu-deng
-title: 列传·卷六十九&#183;徐溥等
+title: 列传·卷六十九·徐溥等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-156-juan-yi-bai-wu-shi-wu-ding-shu-shi
-title: 卷一百五十五&#183;定数十
+title: 卷一百五十五·定数十
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

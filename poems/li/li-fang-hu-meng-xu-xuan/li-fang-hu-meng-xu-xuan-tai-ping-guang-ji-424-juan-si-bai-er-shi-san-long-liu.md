@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-424-juan-si-bai-er-shi-san-long-liu
-title: 卷四百二十三&#183;龙六
+title: 卷四百二十三·龙六
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

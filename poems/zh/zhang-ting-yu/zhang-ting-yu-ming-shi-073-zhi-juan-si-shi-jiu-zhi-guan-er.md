@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-073-zhi-juan-si-shi-jiu-zhi-guan-er
-title: 志·卷四十九&#183;职官二
+title: 志·卷四十九·职官二
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

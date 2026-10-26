@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-098-zhi-jia-pian-zhi-si-di-yi-yi-geng-du-wei-ben-di-jiu-shi-ba
-title: 治家篇·致四弟&#183;宜以耕读为本第九十八
+title: 治家篇·致四弟·宜以耕读为本第九十八
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-240-lie-zhuan-juan-yi-bai-er-shi-ba-ye-xiang-gao-deng
-title: 列传·卷一百二十八&#183;叶向高等
+title: 列传·卷一百二十八·叶向高等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

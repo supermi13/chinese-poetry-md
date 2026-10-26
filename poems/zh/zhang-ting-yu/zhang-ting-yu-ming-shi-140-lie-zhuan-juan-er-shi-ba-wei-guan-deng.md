@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-140-lie-zhuan-juan-er-shi-ba-wei-guan-deng
-title: 列传·卷二十八&#183;魏观等
+title: 列传·卷二十八·魏观等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

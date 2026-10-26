@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-075-juan-qi-shi-si-dao-shu-si
-title: 卷七十四&#183;道术四
+title: 卷七十四·道术四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

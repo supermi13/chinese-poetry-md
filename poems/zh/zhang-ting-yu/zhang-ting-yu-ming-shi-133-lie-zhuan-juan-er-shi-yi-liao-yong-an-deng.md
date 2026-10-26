@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-133-lie-zhuan-juan-er-shi-yi-liao-yong-an-deng
-title: 列传·卷二十一&#183;廖永安等
+title: 列传·卷二十一·廖永安等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

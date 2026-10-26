@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-048-quan-xue-pian-zhi-zhu-di-wu-wei-shi-wen-suo-wu-di-si-shi-ba
-title: 劝学篇·致诸弟&#183;勿为时文所误第四十八
+title: 劝学篇·致诸弟·勿为时文所误第四十八
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

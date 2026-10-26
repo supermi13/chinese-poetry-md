@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-040-di-san-shi-qi-chu-jie-bao
-title: 第三十七出&#183;劫宝
+title: 第三十七出·劫宝
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

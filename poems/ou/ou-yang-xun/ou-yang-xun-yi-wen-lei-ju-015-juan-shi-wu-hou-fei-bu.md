@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-015-juan-shi-wu-hou-fei-bu
-title: 卷十五&#183;后妃部
+title: 卷十五·后妃部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

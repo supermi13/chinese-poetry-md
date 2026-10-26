@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-048-juan-si-shi-ba-zhi-guan-bu-si
-title: 卷四十八&#183;职官部四
+title: 卷四十八·职官部四
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

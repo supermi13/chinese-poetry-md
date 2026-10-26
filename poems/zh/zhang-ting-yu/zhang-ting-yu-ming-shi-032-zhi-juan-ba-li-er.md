@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-032-zhi-juan-ba-li-er
-title: 志·卷八&#183;历二
+title: 志·卷八·历二
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

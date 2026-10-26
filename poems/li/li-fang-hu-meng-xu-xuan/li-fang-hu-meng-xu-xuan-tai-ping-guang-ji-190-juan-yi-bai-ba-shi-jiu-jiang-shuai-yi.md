@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-190-juan-yi-bai-ba-shi-jiu-jiang-shuai-yi
-title: 卷一百八十九&#183;将帅一
+title: 卷一百八十九·将帅一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

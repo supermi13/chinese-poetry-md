@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-001-xiu-shen-pian-bing-fu-mu-jin-shou-fu-qin-bao-shen-zhi-ze-di-c6985024
-title: 修身篇·禀父母&#183;谨守父亲保身之则第一
+title: 修身篇·禀父母·谨守父亲保身之则第一
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

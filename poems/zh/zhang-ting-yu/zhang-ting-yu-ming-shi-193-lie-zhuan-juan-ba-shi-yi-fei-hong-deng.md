@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-193-lie-zhuan-juan-ba-shi-yi-fei-hong-deng
-title: 列传·卷八十一&#183;费宏等
+title: 列传·卷八十一·费宏等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

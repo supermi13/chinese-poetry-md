@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-402-juan-si-bai-ling-yi-bao-er-jin-yu-fu
-title: 卷四百零一&#183;宝二（金玉附）
+title: 卷四百零一·宝二（金玉附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

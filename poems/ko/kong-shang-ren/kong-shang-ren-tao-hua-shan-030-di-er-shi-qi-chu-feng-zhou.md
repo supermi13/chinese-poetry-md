@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-030-di-er-shi-qi-chu-feng-zhou
-title: 第二十七出&#183;逢舟
+title: 第二十七出·逢舟
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

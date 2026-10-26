@@ -1,6 +1,6 @@
 ---
 id: zhang-jun-fang-yun-ji-qi-qian-108-ji-chuan-bu-juan-jiu-chuan-liu
-title: 纪传部·卷九&#183;传六
+title: 纪传部·卷九·传六
 section: 纪传部
 author: 张君房
 authorSlug: zhang-jun-fang

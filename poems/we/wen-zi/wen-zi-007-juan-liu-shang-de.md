@@ -1,6 +1,6 @@
 ---
 id: wen-zi-007-juan-liu-shang-de
-title: 卷六&#183;上德
+title: 卷六·上德
 author: 文子
 authorSlug: wen-zi
 book: 文子

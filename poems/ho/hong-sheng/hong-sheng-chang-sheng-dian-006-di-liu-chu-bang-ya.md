@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-006-di-liu-chu-bang-ya
-title: 第六出&#183;傍讶
+title: 第六出·傍讶
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

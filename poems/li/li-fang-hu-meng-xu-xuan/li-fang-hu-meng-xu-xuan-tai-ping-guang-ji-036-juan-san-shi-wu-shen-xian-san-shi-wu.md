@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-036-juan-san-shi-wu-shen-xian-san-shi-wu
-title: 卷三十五&#183;神仙三十五
+title: 卷三十五·神仙三十五
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

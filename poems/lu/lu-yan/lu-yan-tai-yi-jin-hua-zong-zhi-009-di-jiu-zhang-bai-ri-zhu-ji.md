@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-009-di-jiu-zhang-bai-ri-zhu-ji
-title: 第九章&#183;百日筑基
+title: 第九章·百日筑基
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

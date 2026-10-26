@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-072-zhi-juan-si-shi-ba-zhi-guan-yi
-title: 志·卷四十八&#183;职官一
+title: 志·卷四十八·职官一
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

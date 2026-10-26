@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-099-zhi-juan-qi-shi-wu-yi-wen-si
-title: 志·卷七十五&#183;艺文四
+title: 志·卷七十五·艺文四
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

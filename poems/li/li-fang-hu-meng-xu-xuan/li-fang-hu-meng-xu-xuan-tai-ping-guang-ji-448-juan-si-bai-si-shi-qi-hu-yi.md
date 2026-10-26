@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-448-juan-si-bai-si-shi-qi-hu-yi
-title: 卷四百四十七&#183;狐一
+title: 卷四百四十七·狐一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-281-juan-er-bai-ba-shi-meng-wu-gui-shen-shang
-title: 卷二百八十&#183;梦五（鬼神上）
+title: 卷二百八十·梦五（鬼神上）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

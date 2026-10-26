@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-037-zhi-juan-shi-san-li-qi
-title: 志·卷十三&#183;历七
+title: 志·卷十三·历七
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

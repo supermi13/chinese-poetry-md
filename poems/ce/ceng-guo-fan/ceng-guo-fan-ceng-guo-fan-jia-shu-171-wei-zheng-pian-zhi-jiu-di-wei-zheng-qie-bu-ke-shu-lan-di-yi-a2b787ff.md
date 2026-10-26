@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-171-wei-zheng-pian-zhi-jiu-di-wei-zheng-qie-bu-ke-shu-lan-di-yi-a2b787ff
-title: 为政篇·致九弟&#183;为政切不可疏懒第一百七十一
+title: 为政篇·致九弟·为政切不可疏懒第一百七十一
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

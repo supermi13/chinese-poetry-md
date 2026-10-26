@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-258-juan-er-bai-wu-shi-qi-chao-qiao-wu
-title: 卷二百五十七&#183;嘲诮五
+title: 卷二百五十七·嘲诮五
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-093-zhi-jia-pian-zhi-si-di-jiao-zi-di-lao-ji-zu-xun-ba-zi-di-jiu-33a997c1
-title: 治家篇·致四弟&#183;教子弟牢记祖训八字第九十三
+title: 治家篇·致四弟·教子弟牢记祖训八字第九十三
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

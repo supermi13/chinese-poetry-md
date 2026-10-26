@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-008-xiu-shen-pian-zhi-zhu-di-quan-yi-li-chu-lao-sao-di-ba
-title: 修身篇·致诸弟&#183;劝宜力除牢骚第八
+title: 修身篇·致诸弟·劝宜力除牢骚第八
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

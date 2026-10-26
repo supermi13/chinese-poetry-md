@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-274-lie-zhuan-juan-yi-bai-liu-shi-er-shi-ke-fa
-title: 列传·卷一百六十二&#183;史可法
+title: 列传·卷一百六十二·史可法
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

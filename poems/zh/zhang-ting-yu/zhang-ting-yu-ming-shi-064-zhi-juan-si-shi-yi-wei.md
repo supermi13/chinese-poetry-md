@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-064-zhi-juan-si-shi-yi-wei
-title: 志·卷四十&#183;仪卫
+title: 志·卷四十·仪卫
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

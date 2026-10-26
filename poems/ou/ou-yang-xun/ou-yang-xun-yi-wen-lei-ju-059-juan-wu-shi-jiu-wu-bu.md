@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-059-juan-wu-shi-jiu-wu-bu
-title: 卷五十九&#183;武部
+title: 卷五十九·武部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

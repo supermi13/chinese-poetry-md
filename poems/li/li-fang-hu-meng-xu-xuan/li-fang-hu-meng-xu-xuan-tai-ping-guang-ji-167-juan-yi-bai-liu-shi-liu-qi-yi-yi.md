@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-167-juan-yi-bai-liu-shi-liu-qi-yi-yi
-title: 卷一百六十六&#183;气义一
+title: 卷一百六十六·气义一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

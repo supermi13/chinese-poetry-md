@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-012-di-shi-er-zhang-zhou-tian
-title: 第十二章&#183;周天
+title: 第十二章·周天
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

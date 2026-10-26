@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-094-zhi-jia-pian-zhi-si-di-jiao-di-bi-xu-ai-xi-wu-li-di-jiu-shi-7c4d4fb1
-title: 治家篇·致四弟&#183;教弟必须爱惜物力第九十四
+title: 治家篇·致四弟·教弟必须爱惜物力第九十四
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

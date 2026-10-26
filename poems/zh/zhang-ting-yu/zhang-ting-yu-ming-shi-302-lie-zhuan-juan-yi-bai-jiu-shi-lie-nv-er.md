@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-302-lie-zhuan-juan-yi-bai-jiu-shi-lie-nv-er
-title: 列传·卷一百九十&#183;列女二
+title: 列传·卷一百九十·列女二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-367-juan-san-bai-liu-shi-liu-yao-guai-ba
-title: 卷三百六十六&#183;妖怪八
+title: 卷三百六十六·妖怪八
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

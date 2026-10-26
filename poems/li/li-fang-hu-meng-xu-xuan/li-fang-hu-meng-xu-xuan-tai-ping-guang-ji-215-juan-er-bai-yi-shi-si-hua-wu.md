@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-215-juan-er-bai-yi-shi-si-hua-wu
-title: 卷二百一十四&#183;画五
+title: 卷二百一十四·画五
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

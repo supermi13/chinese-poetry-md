@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-008-di-qi-chu-que-lian
-title: 第七出&#183;却奁
+title: 第七出·却奁
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

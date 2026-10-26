@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-249-lie-zhuan-juan-yi-bai-san-shi-qi-zhu-xie-yuan-deng
-title: 列传·卷一百三十七&#183;朱燮元等
+title: 列传·卷一百三十七·朱燮元等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

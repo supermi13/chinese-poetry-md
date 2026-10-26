@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-173-wei-zheng-pian-zhi-si-di-shu-jian-shou-zuo-zhan-zhi-kun-nan-4b6c4b02
-title: 为政篇·致四弟&#183;述坚守作战之困难第一百七十三
+title: 为政篇·致四弟·述坚守作战之困难第一百七十三
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-047-juan-si-shi-qi-zhi-guan-bu-san
-title: 卷四十七&#183;职官部三
+title: 卷四十七·职官部三
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

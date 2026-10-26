@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-018-di-shi-qi-chu-ju-mei
-title: 第十七出&#183;拒媒
+title: 第十七出·拒媒
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

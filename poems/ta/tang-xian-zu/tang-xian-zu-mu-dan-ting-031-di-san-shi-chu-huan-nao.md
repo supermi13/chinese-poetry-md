@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-031-di-san-shi-chu-huan-nao
-title: 第三十出&#183;欢挠
+title: 第三十出·欢挠
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

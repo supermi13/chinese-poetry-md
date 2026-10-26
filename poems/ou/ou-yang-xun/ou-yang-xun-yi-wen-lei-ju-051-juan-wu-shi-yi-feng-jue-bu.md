@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-051-juan-wu-shi-yi-feng-jue-bu
-title: 卷五十一&#183;封爵部
+title: 卷五十一·封爵部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

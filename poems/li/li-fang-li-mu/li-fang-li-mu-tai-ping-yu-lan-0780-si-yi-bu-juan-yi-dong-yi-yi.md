@@ -1,6 +1,6 @@
 ---
 id: li-fang-li-mu-tai-ping-yu-lan-0780-si-yi-bu-juan-yi-dong-yi-yi
-title: 四夷部·卷一&#183;东夷一
+title: 四夷部·卷一·东夷一
 section: 四夷部
 author: 李昉、李穆
 authorSlug: li-fang-li-mu

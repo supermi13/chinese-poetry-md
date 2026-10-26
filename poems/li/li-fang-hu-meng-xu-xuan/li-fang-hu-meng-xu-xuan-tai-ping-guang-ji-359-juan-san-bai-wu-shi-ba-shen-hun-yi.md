@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-359-juan-san-bai-wu-shi-ba-shen-hun-yi
-title: 卷三百五十八&#183;神魂一
+title: 卷三百五十八·神魂一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

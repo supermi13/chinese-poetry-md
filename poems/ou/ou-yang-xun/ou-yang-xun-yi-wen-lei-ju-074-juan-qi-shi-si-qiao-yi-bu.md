@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-074-juan-qi-shi-si-qiao-yi-bu
-title: 卷七十四&#183;巧艺部
+title: 卷七十四·巧艺部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

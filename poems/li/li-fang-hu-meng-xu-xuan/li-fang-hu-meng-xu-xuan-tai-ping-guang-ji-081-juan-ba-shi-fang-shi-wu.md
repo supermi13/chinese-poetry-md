@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-081-juan-ba-shi-fang-shi-wu
-title: 卷八十&#183;方士五
+title: 卷八十·方士五
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

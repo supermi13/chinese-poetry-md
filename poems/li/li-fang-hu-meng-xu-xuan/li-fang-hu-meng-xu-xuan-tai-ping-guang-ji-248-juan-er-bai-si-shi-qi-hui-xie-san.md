@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-248-juan-er-bai-si-shi-qi-hui-xie-san
-title: 卷二百四十七&#183;诙谐三
+title: 卷二百四十七·诙谐三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

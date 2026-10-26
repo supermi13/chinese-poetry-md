@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-150-lie-zhuan-juan-san-shi-ba-yu-xin-deng
-title: 列传·卷三十八&#183;郁新等
+title: 列传·卷三十八·郁新等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

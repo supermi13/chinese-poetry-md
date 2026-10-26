@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-075-juan-qi-shi-wu-fang-shu-bu
-title: 卷七十五&#183;方术部
+title: 卷七十五·方术部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-239-juan-er-bai-san-shi-ba-gui-zha
-title: 卷二百三十八&#183;诡诈
+title: 卷二百三十八·诡诈
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

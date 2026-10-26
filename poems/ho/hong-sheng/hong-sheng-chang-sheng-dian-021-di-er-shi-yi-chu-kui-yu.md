@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-021-di-er-shi-yi-chu-kui-yu
-title: 第二十一出&#183;窥浴
+title: 第二十一出·窥浴
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

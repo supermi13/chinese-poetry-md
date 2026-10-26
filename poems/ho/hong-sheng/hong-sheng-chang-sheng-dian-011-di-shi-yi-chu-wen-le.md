@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-011-di-shi-yi-chu-wen-le
-title: 第十一出&#183;闻乐
+title: 第十一出·闻乐
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

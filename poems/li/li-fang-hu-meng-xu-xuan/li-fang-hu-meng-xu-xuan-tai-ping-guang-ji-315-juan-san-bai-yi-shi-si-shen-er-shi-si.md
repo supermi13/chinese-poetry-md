@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-315-juan-san-bai-yi-shi-si-shen-er-shi-si
-title: 卷三百一十四&#183;神二十四
+title: 卷三百一十四·神二十四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

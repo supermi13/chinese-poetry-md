@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-457-juan-si-bai-wu-shi-liu-she-yi
-title: 卷四百五十六&#183;蛇一
+title: 卷四百五十六·蛇一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

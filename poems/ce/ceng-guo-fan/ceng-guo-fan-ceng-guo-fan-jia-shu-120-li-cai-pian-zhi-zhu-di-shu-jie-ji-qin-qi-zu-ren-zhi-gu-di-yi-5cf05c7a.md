@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-120-li-cai-pian-zhi-zhu-di-shu-jie-ji-qin-qi-zu-ren-zhi-gu-di-yi-5cf05c7a
-title: 理财篇·致诸弟&#183;述接济亲戚族人之故第一百二十
+title: 理财篇·致诸弟·述接济亲戚族人之故第一百二十
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

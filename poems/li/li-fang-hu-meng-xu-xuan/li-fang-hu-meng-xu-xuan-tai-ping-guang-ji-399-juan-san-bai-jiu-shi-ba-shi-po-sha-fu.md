@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-399-juan-san-bai-jiu-shi-ba-shi-po-sha-fu
-title: 卷三百九十八&#183;石（坡沙附）
+title: 卷三百九十八·石（坡沙附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

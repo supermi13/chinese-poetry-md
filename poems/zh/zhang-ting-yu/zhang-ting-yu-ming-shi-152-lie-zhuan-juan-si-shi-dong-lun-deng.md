@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-152-lie-zhuan-juan-si-shi-dong-lun-deng
-title: 列传·卷四十&#183;董伦等
+title: 列传·卷四十·董伦等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

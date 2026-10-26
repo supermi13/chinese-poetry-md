@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-004-di-san-chu-hong-ding
-title: 第三出&#183;哄丁
+title: 第三出·哄丁
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

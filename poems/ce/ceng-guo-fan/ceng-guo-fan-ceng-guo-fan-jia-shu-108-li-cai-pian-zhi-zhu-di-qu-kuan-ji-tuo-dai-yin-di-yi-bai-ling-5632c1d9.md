@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-108-li-cai-pian-zhi-zhu-di-qu-kuan-ji-tuo-dai-yin-di-yi-bai-ling-5632c1d9
-title: 理财篇·致诸弟&#183;取款及托带银第一百零八
+title: 理财篇·致诸弟·取款及托带银第一百零八
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

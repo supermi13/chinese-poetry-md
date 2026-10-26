@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-107-biao-juan-ba-gong-chen-shi-biao-san
-title: 表·卷八&#183;功臣世表三
+title: 表·卷八·功臣世表三
 section: 表
 author: 张廷玉
 authorSlug: zhang-ting-yu

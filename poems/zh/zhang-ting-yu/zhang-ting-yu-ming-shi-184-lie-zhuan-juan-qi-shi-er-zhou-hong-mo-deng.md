@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-184-lie-zhuan-juan-qi-shi-er-zhou-hong-mo-deng
-title: 列传·卷七十二&#183;周洪谟等
+title: 列传·卷七十二·周洪谟等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

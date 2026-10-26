@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-324-lie-zhuan-juan-er-bai-yi-shi-er-wai-guo-wu
-title: 列传·卷二百一十二&#183;外国五
+title: 列传·卷二百一十二·外国五
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

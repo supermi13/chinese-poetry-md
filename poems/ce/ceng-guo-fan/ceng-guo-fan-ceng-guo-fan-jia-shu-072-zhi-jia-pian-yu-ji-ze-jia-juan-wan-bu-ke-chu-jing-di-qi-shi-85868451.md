@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-072-zhi-jia-pian-yu-ji-ze-jia-juan-wan-bu-ke-chu-jing-di-qi-shi-85868451
-title: 治家篇·谕纪泽&#183;家眷万不可出京第七十二
+title: 治家篇·谕纪泽·家眷万不可出京第七十二
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

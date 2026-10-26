@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-079-zhi-jia-pian-zhi-si-di-bu-yi-chang-chang-chu-men-di-qi-shi-j-917586f9
-title: 治家篇·致四弟&#183;不宜常常出门第七十九
+title: 治家篇·致四弟·不宜常常出门第七十九
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

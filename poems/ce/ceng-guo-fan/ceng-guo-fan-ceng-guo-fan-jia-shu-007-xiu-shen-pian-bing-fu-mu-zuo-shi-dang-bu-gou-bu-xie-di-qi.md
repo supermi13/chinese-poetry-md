@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-007-xiu-shen-pian-bing-fu-mu-zuo-shi-dang-bu-gou-bu-xie-di-qi
-title: 修身篇·禀父母&#183;做事当不苟不懈第七
+title: 修身篇·禀父母·做事当不苟不懈第七
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

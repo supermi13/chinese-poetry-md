@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-144-lie-zhuan-juan-san-shi-er-sheng-yong-ping-an-he-fu-gu-cheng
-title: 列传·卷三十二&#183;盛庸 平安 何福 顾成
+title: 列传·卷三十二·盛庸 平安 何福 顾成
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-152-wei-zheng-pian-bing-zu-fu-mu-bao-gao-bu-shi-du-di-yi-bai-wu-af02c6e8
-title: 为政篇·禀祖父母&#183;报告补侍读第一百五十二
+title: 为政篇·禀祖父母·报告补侍读第一百五十二
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

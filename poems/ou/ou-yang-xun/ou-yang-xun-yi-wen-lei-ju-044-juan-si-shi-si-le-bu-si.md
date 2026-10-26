@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-044-juan-si-shi-si-le-bu-si
-title: 卷四十四&#183;乐部四
+title: 卷四十四·乐部四
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-040-zhi-juan-shi-liu-di-li-yi
-title: 志·卷十六&#183;地理一
+title: 志·卷十六·地理一
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

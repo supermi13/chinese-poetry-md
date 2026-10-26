@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-135-jiao-you-pian-zhi-jiu-di-shu-wan-hu-run-shuai-lian-di-yi-bai-bc638b06
-title: 交友篇·致九弟&#183;述挽胡润帅联第一百三十五
+title: 交友篇·致九弟·述挽胡润帅联第一百三十五
 section: 交友篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

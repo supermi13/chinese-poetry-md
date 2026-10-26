@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-017-di-shi-liu-chu-she-chao
-title: 第十六出&#183;设朝
+title: 第十六出·设朝
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

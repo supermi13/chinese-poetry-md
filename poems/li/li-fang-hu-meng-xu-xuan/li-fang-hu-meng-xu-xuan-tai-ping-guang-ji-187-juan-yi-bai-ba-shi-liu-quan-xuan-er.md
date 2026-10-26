@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-187-juan-yi-bai-ba-shi-liu-quan-xuan-er
-title: 卷一百八十六&#183;铨选二
+title: 卷一百八十六·铨选二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

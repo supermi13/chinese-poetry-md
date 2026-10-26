@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-052-zhi-juan-er-shi-ba-li-liu-ji-li-liu
-title: 志·卷二十八&#183;礼六(吉礼六)
+title: 志·卷二十八·礼六(吉礼六)
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-019-di-shi-jiu-chu-xu-ge
-title: 第十九出&#183;絮阁
+title: 第十九出·絮阁
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

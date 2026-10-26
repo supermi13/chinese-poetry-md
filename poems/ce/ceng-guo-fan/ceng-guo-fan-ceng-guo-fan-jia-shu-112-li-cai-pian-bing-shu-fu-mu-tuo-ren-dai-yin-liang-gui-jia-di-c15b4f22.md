@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-112-li-cai-pian-bing-shu-fu-mu-tuo-ren-dai-yin-liang-gui-jia-di-c15b4f22
-title: 理财篇·禀叔父母&#183;托人带银两归家第一百一十二
+title: 理财篇·禀叔父母·托人带银两归家第一百一十二
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

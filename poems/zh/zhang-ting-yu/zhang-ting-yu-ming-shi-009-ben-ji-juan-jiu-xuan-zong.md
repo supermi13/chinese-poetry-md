@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-009-ben-ji-juan-jiu-xuan-zong
-title: 本纪·卷九&#183;宣宗
+title: 本纪·卷九·宣宗
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-097-juan-jiu-shi-qi-lin-jie-bu-xia-chong-zhi-bu
-title: 卷九十七&#183;鳞介部下、虫豸部
+title: 卷九十七·鳞介部下、虫豸部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

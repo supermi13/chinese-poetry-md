@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-199-lie-zhuan-juan-ba-shi-qi-li-yue-deng
-title: 列传·卷八十七&#183;李钺等
+title: 列传·卷八十七·李钺等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

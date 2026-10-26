@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-039-di-san-shi-liu-chu-tao-nan
-title: 第三十六出&#183;逃难
+title: 第三十六出·逃难
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

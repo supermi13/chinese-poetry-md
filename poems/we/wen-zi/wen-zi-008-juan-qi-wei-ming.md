@@ -1,6 +1,6 @@
 ---
 id: wen-zi-008-juan-qi-wei-ming
-title: 卷七&#183;微明
+title: 卷七·微明
 author: 文子
 authorSlug: wen-zi
 book: 文子

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-170-lie-zhuan-juan-wu-shi-ba-yu-qian
-title: 列传·卷五十八&#183;于谦
+title: 列传·卷五十八·于谦
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

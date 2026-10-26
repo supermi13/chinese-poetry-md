@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-224-lie-zhuan-juan-yi-bai-yi-shi-er-yan-qing-deng
-title: 列传·卷一百一十二&#183;严清等
+title: 列传·卷一百一十二·严清等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

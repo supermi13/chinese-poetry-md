@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-093-juan-jiu-shi-san-shou-bu-shang
-title: 卷九十三&#183;兽部上
+title: 卷九十三·兽部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-077-juan-qi-shi-liu-fang-shi-yi
-title: 卷七十六&#183;方士一
+title: 卷七十六·方士一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

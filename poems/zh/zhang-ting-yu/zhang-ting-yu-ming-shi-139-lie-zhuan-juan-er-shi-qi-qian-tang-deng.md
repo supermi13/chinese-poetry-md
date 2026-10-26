@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-139-lie-zhuan-juan-er-shi-qi-qian-tang-deng
-title: 列传·卷二十七&#183;钱唐等
+title: 列传·卷二十七·钱唐等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

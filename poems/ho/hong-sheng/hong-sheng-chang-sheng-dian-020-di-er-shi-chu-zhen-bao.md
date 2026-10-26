@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-020-di-er-shi-chu-zhen-bao
-title: 第二十出&#183;侦报
+title: 第二十出·侦报
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

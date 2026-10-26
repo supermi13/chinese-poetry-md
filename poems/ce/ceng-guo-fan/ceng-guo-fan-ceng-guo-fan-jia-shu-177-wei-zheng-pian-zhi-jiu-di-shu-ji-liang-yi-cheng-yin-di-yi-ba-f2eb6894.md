@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-177-wei-zheng-pian-zhi-jiu-di-shu-ji-liang-yi-cheng-yin-di-yi-ba-f2eb6894
-title: 为政篇·致九弟&#183;述纪梁宜承荫第一百七十七
+title: 为政篇·致九弟·述纪梁宜承荫第一百七十七
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

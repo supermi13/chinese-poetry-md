@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-360-juan-san-bai-wu-shi-jiu-yao-guai-yi
-title: 卷三百五十九&#183;妖怪一
+title: 卷三百五十九·妖怪一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

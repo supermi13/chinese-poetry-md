@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-265-lie-zhuan-juan-yi-bai-wu-shi-san-fan-jing-wen-deng
-title: 列传·卷一百五十三&#183;范景文等
+title: 列传·卷一百五十三·范景文等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

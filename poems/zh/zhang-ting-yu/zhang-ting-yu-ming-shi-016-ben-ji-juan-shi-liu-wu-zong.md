@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-016-ben-ji-juan-shi-liu-wu-zong
-title: 本纪·卷十六&#183;武宗
+title: 本纪·卷十六·武宗
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

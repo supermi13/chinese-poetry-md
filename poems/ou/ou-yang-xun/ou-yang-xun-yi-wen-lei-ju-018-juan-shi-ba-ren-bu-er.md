@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-018-juan-shi-ba-ren-bu-er
-title: 卷十八&#183;人部二
+title: 卷十八·人部二
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

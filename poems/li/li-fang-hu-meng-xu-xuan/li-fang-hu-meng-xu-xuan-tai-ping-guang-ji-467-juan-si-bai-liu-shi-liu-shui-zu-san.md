@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-467-juan-si-bai-liu-shi-liu-shui-zu-san
-title: 卷四百六十六&#183;水族三
+title: 卷四百六十六·水族三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

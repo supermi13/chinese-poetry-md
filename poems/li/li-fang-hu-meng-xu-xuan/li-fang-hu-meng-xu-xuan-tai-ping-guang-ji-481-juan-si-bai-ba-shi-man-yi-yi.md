@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-481-juan-si-bai-ba-shi-man-yi-yi
-title: 卷四百八十&#183;蛮夷一
+title: 卷四百八十·蛮夷一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

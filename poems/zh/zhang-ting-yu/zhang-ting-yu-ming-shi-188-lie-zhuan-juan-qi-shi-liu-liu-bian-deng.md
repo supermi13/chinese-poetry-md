@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-188-lie-zhuan-juan-qi-shi-liu-liu-bian-deng
-title: 列传·卷七十六&#183;刘抃等
+title: 列传·卷七十六·刘抃等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

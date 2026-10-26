@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-002-di-er-chu-ding-qing
-title: 第二出&#183;定情
+title: 第二出·定情
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

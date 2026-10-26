@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-149-lie-zhuan-juan-san-shi-qi-jian-yi-deng
-title: 列传·卷三十七&#183;蹇义等
+title: 列传·卷三十七·蹇义等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

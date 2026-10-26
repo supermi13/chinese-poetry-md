@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-146-wei-zheng-pian-zhi-jiu-di-ji-di-shu-chou-ban-yue-sheng-li-ji-6973a6ff
-title: 为政篇·致九弟季弟&#183;述筹办粤省厘金第一百四十六
+title: 为政篇·致九弟季弟·述筹办粤省厘金第一百四十六
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

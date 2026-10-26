@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-008-di-ba-zhang-xiao-yao-jue
-title: 第八章&#183;逍遥诀
+title: 第八章·逍遥诀
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

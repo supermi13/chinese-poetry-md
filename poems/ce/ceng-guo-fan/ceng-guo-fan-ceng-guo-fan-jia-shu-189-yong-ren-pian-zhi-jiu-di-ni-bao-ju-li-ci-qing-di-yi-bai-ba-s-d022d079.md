@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-189-yong-ren-pian-zhi-jiu-di-ni-bao-ju-li-ci-qing-di-yi-bai-ba-s-d022d079
-title: 用人篇·致九弟&#183;拟保举李次青第一百八十九
+title: 用人篇·致九弟·拟保举李次青第一百八十九
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

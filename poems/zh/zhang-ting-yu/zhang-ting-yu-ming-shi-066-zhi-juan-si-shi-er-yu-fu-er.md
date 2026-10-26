@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-066-zhi-juan-si-shi-er-yu-fu-er
-title: 志·卷四十二&#183;舆服二
+title: 志·卷四十二·舆服二
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

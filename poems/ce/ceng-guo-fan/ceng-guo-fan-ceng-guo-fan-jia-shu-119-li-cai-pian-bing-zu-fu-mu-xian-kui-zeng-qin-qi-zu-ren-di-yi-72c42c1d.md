@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-119-li-cai-pian-bing-zu-fu-mu-xian-kui-zeng-qin-qi-zu-ren-di-yi-72c42c1d
-title: 理财篇·禀祖父母&#183;先馈赠亲戚族人第一百一十九
+title: 理财篇·禀祖父母·先馈赠亲戚族人第一百一十九
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

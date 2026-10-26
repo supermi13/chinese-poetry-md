@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-143-lie-zhuan-juan-san-shi-yi-wang-gen-deng
-title: 列传·卷三十一&#183;王艮等
+title: 列传·卷三十一·王艮等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

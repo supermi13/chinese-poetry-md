@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-137-wei-zheng-pian-bing-zu-fu-mu-shu-yu-ying-guo-yi-he-di-yi-bai-d6236f4d
-title: 为政篇·禀祖父母&#183;述与英国议和第一百三十七
+title: 为政篇·禀祖父母·述与英国议和第一百三十七
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

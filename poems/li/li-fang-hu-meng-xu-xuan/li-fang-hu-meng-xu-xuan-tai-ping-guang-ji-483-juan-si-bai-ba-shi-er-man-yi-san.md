@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-483-juan-si-bai-ba-shi-er-man-yi-san
-title: 卷四百八十二&#183;蛮夷三
+title: 卷四百八十二·蛮夷三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

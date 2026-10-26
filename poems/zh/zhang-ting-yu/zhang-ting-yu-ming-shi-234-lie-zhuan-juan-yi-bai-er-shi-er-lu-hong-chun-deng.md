@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-234-lie-zhuan-juan-yi-bai-er-shi-er-lu-hong-chun-deng
-title: 列传·卷一百二十二&#183;卢洪春等
+title: 列传·卷一百二十二·卢洪春等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

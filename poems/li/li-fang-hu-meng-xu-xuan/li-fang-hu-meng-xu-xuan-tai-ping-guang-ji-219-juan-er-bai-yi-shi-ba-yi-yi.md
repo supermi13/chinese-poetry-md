@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-219-juan-er-bai-yi-shi-ba-yi-yi
-title: 卷二百一十八&#183;医一
+title: 卷二百一十八·医一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

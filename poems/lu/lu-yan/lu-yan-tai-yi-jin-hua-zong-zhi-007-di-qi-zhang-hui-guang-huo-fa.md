@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-007-di-qi-zhang-hui-guang-huo-fa
-title: 第七章&#183;回光活法
+title: 第七章·回光活法
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

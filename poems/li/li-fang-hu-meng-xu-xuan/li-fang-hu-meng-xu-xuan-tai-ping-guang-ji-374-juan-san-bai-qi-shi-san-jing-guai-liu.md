@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-374-juan-san-bai-qi-shi-san-jing-guai-liu
-title: 卷三百七十三&#183;精怪六
+title: 卷三百七十三·精怪六
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

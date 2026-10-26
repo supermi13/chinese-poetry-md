@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-230-lie-zhuan-juan-yi-bai-yi-shi-ba-cai-shi-ding-deng
-title: 列传·卷一百一十八&#183;蔡时鼎等
+title: 列传·卷一百一十八·蔡时鼎等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

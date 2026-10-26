@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-375-juan-san-bai-qi-shi-si-ling-yi
-title: 卷三百七十四&#183;灵异
+title: 卷三百七十四·灵异
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

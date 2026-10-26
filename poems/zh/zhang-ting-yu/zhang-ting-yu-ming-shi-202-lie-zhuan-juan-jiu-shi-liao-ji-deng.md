@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-202-lie-zhuan-juan-jiu-shi-liao-ji-deng
-title: 列传·卷九十&#183;廖纪等
+title: 列传·卷九十·廖纪等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

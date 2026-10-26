@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-004-di-san-chu-xun-nv
-title: 第三出&#183;训女
+title: 第三出·训女
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

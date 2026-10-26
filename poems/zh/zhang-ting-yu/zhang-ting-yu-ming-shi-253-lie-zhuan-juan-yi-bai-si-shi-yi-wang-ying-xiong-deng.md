@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-253-lie-zhuan-juan-yi-bai-si-shi-yi-wang-ying-xiong-deng
-title: 列传·卷一百四十一&#183;王应熊等
+title: 列传·卷一百四十一·王应熊等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

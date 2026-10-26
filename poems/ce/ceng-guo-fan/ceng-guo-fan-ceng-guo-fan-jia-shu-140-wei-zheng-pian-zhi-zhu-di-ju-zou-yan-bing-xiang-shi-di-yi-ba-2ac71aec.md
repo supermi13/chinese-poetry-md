@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-140-wei-zheng-pian-zhi-zhu-di-ju-zou-yan-bing-xiang-shi-di-yi-ba-2ac71aec
-title: 为政篇·致诸弟&#183;具奏言兵饷事第一百四十
+title: 为政篇·致诸弟·具奏言兵饷事第一百四十
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

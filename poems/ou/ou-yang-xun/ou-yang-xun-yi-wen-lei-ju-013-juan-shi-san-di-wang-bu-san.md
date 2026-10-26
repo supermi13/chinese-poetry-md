@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-013-juan-shi-san-di-wang-bu-san
-title: 卷十三&#183;帝王部三
+title: 卷十三·帝王部三
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

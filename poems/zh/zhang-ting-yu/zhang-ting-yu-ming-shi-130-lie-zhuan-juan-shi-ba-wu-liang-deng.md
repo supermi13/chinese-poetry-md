@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-130-lie-zhuan-juan-shi-ba-wu-liang-deng
-title: 列传·卷十八&#183;吴良等
+title: 列传·卷十八·吴良等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

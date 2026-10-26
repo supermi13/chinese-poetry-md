@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-042-di-si-shi-yi-chu-dan-shi
-title: 第四十一出&#183;耽试
+title: 第四十一出·耽试
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

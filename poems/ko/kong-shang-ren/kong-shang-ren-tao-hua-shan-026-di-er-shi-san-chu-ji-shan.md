@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-026-di-er-shi-san-chu-ji-shan
-title: 第二十三出&#183;寄扇
+title: 第二十三出·寄扇
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

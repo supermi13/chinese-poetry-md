@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-253-juan-er-bai-wu-shi-er-hui-xie-ba
-title: 卷二百五十二&#183;诙谐八
+title: 卷二百五十二·诙谐八
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

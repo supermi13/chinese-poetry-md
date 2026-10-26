@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-155-juan-yi-bai-wu-shi-si-ding-shu-jiu
-title: 卷一百五十四&#183;定数九
+title: 卷一百五十四·定数九
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-427-juan-si-bai-er-shi-liu-hu-yi
-title: 卷四百二十六&#183;虎一
+title: 卷四百二十六·虎一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-221-juan-er-bai-er-shi-yi-san
-title: 卷二百二十&#183;医三
+title: 卷二百二十·医三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

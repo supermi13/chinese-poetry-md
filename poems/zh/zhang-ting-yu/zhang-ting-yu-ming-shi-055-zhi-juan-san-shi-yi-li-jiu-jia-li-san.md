@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-055-zhi-juan-san-shi-yi-li-jiu-jia-li-san
-title: 志·卷三十一&#183;礼九(嘉礼三)
+title: 志·卷三十一·礼九(嘉礼三)
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

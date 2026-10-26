@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-067-zhi-jia-pian-zhi-zhu-di-shu-gai-jian-zu-wu-zhi-yi-jian-di-li-6609fac2
-title: 治家篇·致诸弟&#183;述改建祖屋之意见第六十七
+title: 治家篇·致诸弟·述改建祖屋之意见第六十七
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-043-di-si-shi-san-chu-gai-zang
-title: 第四十三出&#183;改葬
+title: 第四十三出·改葬
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-101-biao-juan-er-zhu-wang-shi-biao-er
-title: 表·卷二&#183;诸王世表二
+title: 表·卷二·诸王世表二
 section: 表
 author: 张廷玉
 authorSlug: zhang-ting-yu

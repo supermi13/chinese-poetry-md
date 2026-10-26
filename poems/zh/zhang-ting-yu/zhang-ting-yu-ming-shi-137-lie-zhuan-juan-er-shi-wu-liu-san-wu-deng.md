@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-137-lie-zhuan-juan-er-shi-wu-liu-san-wu-deng
-title: 列传·卷二十五&#183;刘三吾等
+title: 列传·卷二十五·刘三吾等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

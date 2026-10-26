@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-245-lie-zhuan-juan-yi-bai-san-shi-san-zhou-qi-yuan-deng
-title: 列传·卷一百三十三&#183;周起元等
+title: 列传·卷一百三十三·周起元等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

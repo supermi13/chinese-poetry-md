@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-151-wei-zheng-pian-bing-zu-fu-mu-bao-gao-kao-cha-xin-di-yi-bai-w-b7047d10
-title: 为政篇·禀祖父母&#183;报告考差信第一百五十一
+title: 为政篇·禀祖父母·报告考差信第一百五十一
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

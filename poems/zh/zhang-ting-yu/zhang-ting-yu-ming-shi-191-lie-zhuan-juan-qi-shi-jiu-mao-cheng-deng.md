@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-191-lie-zhuan-juan-qi-shi-jiu-mao-cheng-deng
-title: 列传·卷七十九&#183;毛澄等
+title: 列传·卷七十九·毛澄等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-048-di-si-shi-ba-chu-ji-qing
-title: 第四十八出&#183;寄情
+title: 第四十八出·寄情
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-052-quan-xue-pian-zhi-zhu-di-an-yue-zuo-wen-ji-jing-di-wu-shi-er
-title: 劝学篇·致诸弟&#183;按月作文寄京第五十二
+title: 劝学篇·致诸弟·按月作文寄京第五十二
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

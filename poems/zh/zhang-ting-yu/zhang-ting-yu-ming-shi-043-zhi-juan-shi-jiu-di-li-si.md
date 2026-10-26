@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-043-zhi-juan-shi-jiu-di-li-si
-title: 志·卷十九&#183;地理四
+title: 志·卷十九·地理四
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

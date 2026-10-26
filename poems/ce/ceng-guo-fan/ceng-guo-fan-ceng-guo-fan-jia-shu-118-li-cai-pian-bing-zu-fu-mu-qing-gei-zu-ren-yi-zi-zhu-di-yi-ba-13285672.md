@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-118-li-cai-pian-bing-zu-fu-mu-qing-gei-zu-ren-yi-zi-zhu-di-yi-ba-13285672
-title: 理财篇·禀祖父母&#183;请给族人以资助第一百一十八
+title: 理财篇·禀祖父母·请给族人以资助第一百一十八
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

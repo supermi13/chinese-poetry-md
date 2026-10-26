@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-001-ben-ji-juan-yi-tai-zu-yi
-title: 本纪·卷一&#183;太祖一
+title: 本纪·卷一·太祖一
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

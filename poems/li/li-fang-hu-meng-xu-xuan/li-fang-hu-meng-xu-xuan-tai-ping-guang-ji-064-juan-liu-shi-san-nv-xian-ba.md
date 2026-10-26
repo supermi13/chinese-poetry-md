@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-064-juan-liu-shi-san-nv-xian-ba
-title: 卷六十三&#183;女仙八
+title: 卷六十三·女仙八
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

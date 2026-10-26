@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-307-lie-zhuan-juan-yi-bai-jiu-shi-wu-ning-xing
-title: 列传·卷一百九十五&#183;佞幸
+title: 列传·卷一百九十五·佞幸
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

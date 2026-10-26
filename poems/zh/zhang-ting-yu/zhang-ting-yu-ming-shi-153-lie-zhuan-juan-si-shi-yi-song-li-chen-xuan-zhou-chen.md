@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-153-lie-zhuan-juan-si-shi-yi-song-li-chen-xuan-zhou-chen
-title: 列传·卷四十一&#183;宋礼 陈瑄 周忱
+title: 列传·卷四十一·宋礼 陈瑄 周忱
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-006-di-liu-zhang-hui-guang-zheng-yan
-title: 第六章&#183;回光证验
+title: 第六章·回光证验
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

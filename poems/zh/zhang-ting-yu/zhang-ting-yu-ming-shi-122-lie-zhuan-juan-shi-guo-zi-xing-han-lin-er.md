@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-122-lie-zhuan-juan-shi-guo-zi-xing-han-lin-er
-title: 列传·卷十&#183;郭子兴 韩林儿
+title: 列传·卷十·郭子兴 韩林儿
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

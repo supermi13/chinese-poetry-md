@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-172-lie-zhuan-juan-liu-shi-luo-heng-xin-deng
-title: 列传·卷六十&#183;罗亨信等
+title: 列传·卷六十·罗亨信等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

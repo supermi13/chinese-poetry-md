@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-122-juan-yi-bai-er-shi-yi-bao-ying-er-shi-yuan-bao
-title: 卷一百二十一&#183;报应二十（冤报）
+title: 卷一百二十一·报应二十（冤报）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

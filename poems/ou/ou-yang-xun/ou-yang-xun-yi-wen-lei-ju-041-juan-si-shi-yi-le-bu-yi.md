@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-041-juan-si-shi-yi-le-bu-yi
-title: 卷四十一&#183;乐部一
+title: 卷四十一·乐部一
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-182-wei-zheng-pian-zhi-si-di-jiu-di-shu-ying-zhao-mian-bi-zhi-ce-697c80b5
-title: 为政篇·致四弟九弟&#183;述应诏面陛之策第一百八十二
+title: 为政篇·致四弟九弟·述应诏面陛之策第一百八十二
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

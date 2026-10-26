@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-212-lie-zhuan-juan-yi-bai-yu-da-you-qi-ji-guang-liu-xian-li-xi-z-9e01124e
-title: 列传·卷一百&#183;俞大猷 戚继光 刘显 李锡 张元勋
+title: 列传·卷一百·俞大猷 戚继光 刘显 李锡 张元勋
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

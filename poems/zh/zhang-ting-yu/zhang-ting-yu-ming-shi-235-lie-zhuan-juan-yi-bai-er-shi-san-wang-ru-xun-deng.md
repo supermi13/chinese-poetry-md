@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-235-lie-zhuan-juan-yi-bai-er-shi-san-wang-ru-xun-deng
-title: 列传·卷一百二十三&#183;王汝训等
+title: 列传·卷一百二十三·王汝训等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

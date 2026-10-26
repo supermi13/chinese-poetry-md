@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-268-juan-er-bai-liu-shi-qi-ku-bao-yi
-title: 卷二百六十七&#183;酷暴一
+title: 卷二百六十七·酷暴一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

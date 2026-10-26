@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-044-zhi-juan-er-shi-di-li-wu
-title: 志·卷二十&#183;地理五
+title: 志·卷二十·地理五
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

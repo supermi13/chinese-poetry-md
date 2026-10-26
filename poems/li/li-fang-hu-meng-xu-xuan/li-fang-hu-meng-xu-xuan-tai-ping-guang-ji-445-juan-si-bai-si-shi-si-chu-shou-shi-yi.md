@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-445-juan-si-bai-si-shi-si-chu-shou-shi-yi
-title: 卷四百四十四&#183;畜兽十一
+title: 卷四百四十四·畜兽十一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

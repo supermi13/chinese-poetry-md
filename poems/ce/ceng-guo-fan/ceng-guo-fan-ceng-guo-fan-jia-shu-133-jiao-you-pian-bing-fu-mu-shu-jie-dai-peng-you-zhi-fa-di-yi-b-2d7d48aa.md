@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-133-jiao-you-pian-bing-fu-mu-shu-jie-dai-peng-you-zhi-fa-di-yi-b-2d7d48aa
-title: 交友篇·禀父母&#183;述接待朋友之法第一百三十三
+title: 交友篇·禀父母·述接待朋友之法第一百三十三
 section: 交友篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

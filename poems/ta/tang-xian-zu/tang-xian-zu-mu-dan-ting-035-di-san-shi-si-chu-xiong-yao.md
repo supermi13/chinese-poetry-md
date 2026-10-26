@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-035-di-san-shi-si-chu-xiong-yao
-title: 第三十四出&#183;诇药
+title: 第三十四出·诇药
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

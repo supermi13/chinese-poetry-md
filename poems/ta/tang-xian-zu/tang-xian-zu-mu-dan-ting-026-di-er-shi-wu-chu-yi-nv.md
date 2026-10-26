@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-026-di-er-shi-wu-chu-yi-nv
-title: 第二十五出&#183;忆女
+title: 第二十五出·忆女
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

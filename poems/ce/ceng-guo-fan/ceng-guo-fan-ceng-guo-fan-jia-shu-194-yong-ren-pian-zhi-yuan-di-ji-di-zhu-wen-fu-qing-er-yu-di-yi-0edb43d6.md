@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-194-yong-ren-pian-zhi-yuan-di-ji-di-zhu-wen-fu-qing-er-yu-di-yi-0edb43d6
-title: 用人篇·致沅弟季弟&#183;嘱文辅卿二语第一百九十四
+title: 用人篇·致沅弟季弟·嘱文辅卿二语第一百九十四
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

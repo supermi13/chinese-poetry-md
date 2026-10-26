@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-462-juan-si-bai-liu-shi-yi-qin-niao-er
-title: 卷四百六十一&#183;禽鸟二
+title: 卷四百六十一·禽鸟二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-015-di-shi-si-chu-xie-zhen
-title: 第十四出&#183;写真
+title: 第十四出·写真
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

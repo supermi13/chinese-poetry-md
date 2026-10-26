@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-012-di-shi-yi-chu-tou-yuan
-title: 第十一出&#183;投辕
+title: 第十一出·投辕
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

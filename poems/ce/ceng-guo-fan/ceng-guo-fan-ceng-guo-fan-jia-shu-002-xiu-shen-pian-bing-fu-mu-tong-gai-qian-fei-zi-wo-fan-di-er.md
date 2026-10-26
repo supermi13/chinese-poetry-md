@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-002-xiu-shen-pian-bing-fu-mu-tong-gai-qian-fei-zi-wo-fan-di-er
-title: 修身篇·禀父母&#183;痛改前非自我反第二
+title: 修身篇·禀父母·痛改前非自我反第二
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

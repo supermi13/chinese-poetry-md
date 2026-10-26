@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-047-di-si-shi-qi-chu-bu-hen
-title: 第四十七出&#183;补恨
+title: 第四十七出·补恨
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

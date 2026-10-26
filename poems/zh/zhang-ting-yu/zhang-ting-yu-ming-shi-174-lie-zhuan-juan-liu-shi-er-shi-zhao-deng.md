@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-174-lie-zhuan-juan-liu-shi-er-shi-zhao-deng
-title: 列传·卷六十二&#183;史昭等
+title: 列传·卷六十二·史昭等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-132-jiao-you-pian-zhi-zhu-di-qie-wu-zhan-ren-pian-yi-di-yi-bai-s-8d6a9321
-title: 交友篇·致诸弟&#183;切勿占人便宜第一百三十二
+title: 交友篇·致诸弟·切勿占人便宜第一百三十二
 section: 交友篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

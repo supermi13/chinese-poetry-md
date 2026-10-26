@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-163-lie-zhuan-juan-wu-shi-yi-li-shi-mian-deng
-title: 列传·卷五十一&#183;李时勉等
+title: 列传·卷五十一·李时勉等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

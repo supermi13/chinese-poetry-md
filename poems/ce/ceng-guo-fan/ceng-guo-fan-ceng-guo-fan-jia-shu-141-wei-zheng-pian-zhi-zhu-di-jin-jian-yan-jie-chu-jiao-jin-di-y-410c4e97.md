@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-141-wei-zheng-pian-zhi-zhu-di-jin-jian-yan-jie-chu-jiao-jin-di-y-410c4e97
-title: 为政篇·致诸弟&#183;进谏言戒除骄矜第一百四十一
+title: 为政篇·致诸弟·进谏言戒除骄矜第一百四十一
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

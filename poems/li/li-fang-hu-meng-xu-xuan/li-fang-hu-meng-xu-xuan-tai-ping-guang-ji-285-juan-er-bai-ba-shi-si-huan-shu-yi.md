@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-285-juan-er-bai-ba-shi-si-huan-shu-yi
-title: 卷二百八十四&#183;幻术一
+title: 卷二百八十四·幻术一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

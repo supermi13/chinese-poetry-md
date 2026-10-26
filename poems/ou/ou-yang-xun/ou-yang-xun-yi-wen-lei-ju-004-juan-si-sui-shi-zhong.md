@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-004-juan-si-sui-shi-zhong
-title: 卷四&#183;岁时中
+title: 卷四·岁时中
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

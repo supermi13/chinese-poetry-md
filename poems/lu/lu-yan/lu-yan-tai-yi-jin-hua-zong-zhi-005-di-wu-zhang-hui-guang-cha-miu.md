@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-005-di-wu-zhang-hui-guang-cha-miu
-title: 第五章&#183;回光差谬
+title: 第五章·回光差谬
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

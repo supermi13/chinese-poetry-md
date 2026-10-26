@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-252-lie-zhuan-juan-yi-bai-si-shi-yang-si-chang-wu-shen
-title: 列传·卷一百四十&#183;杨嗣昌 吴甡
+title: 列传·卷一百四十·杨嗣昌 吴甡
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-049-di-si-shi-jiu-chu-de-xin
-title: 第四十九出&#183;得信
+title: 第四十九出·得信
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-220-lie-zhuan-juan-yi-bai-ling-ba-wan-shi-he-deng
-title: 列传·卷一百零八&#183;万士和等
+title: 列传·卷一百零八·万士和等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

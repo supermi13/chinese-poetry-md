@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-135-lie-zhuan-juan-er-shi-san-chen-yu-deng
-title: 列传·卷二十三&#183;陈遇等
+title: 列传·卷二十三·陈遇等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

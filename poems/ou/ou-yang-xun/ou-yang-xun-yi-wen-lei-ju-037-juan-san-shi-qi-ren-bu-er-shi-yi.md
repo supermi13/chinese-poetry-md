@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-037-juan-san-shi-qi-ren-bu-er-shi-yi
-title: 卷三十七&#183;人部二十一
+title: 卷三十七·人部二十一
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

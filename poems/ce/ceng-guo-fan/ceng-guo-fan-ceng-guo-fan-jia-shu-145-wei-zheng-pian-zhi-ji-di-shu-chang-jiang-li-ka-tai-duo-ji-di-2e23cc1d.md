@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-145-wei-zheng-pian-zhi-ji-di-shu-chang-jiang-li-ka-tai-duo-ji-di-2e23cc1d
-title: 为政篇·致季弟&#183;述长江厘卡太多季弟左右第一百四十五
+title: 为政篇·致季弟·述长江厘卡太多季弟左右第一百四十五
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-014-juan-shi-san-shen-xian-shi-san
-title: 卷十三&#183;神仙十三
+title: 卷十三·神仙十三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

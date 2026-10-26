@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-010-di-jiu-chu-fu-bing
-title: 第九出&#183;抚兵
+title: 第九出·抚兵
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-014-di-shi-san-chu-ku-zhu
-title: 第十三出&#183;哭主
+title: 第十三出·哭主
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-004-di-si-chu-chun-shui
-title: 第四出&#183;春睡
+title: 第四出·春睡
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

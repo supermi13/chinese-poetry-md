@@ -19,6 +19,7 @@ import re
 import sys
 import json
 import hashlib
+import html
 
 from build_books import slugify, render_body
 from build_poems import scan_existing
@@ -40,6 +41,17 @@ def clean_author(raw):
 def author_slug_base(name):
     s = re.split(r"(及其|及|等)", name)[0].strip()
     return s or name
+
+
+def fix_ent(s):
+    """反复反转义 HTML 实体(源站偶有 &amp;#183; 这类双重编码)"""
+    if not s:
+        return s
+    prev = None
+    while s != prev and "&" in s:
+        prev = s
+        s = html.unescape(s)
+    return s
 
 
 def split_cat(cat):
@@ -130,8 +142,8 @@ def build(target_poems):
             body = chapters.get(c["hash"])
             if not body or not body["paras"]:
                 continue
-            group = (c.get("group") or "").strip()
-            ctitle = c["title"] or body["title"]
+            group = fix_ent((c.get("group") or "").strip())
+            ctitle = fix_ent(c["title"] or body["title"])
             full_title = f"{group}·{ctitle}" if group else ctitle
             if group:
                 has_group = True

@@ -1,6 +1,6 @@
 ---
 id: wen-zi-006-juan-wu-dao-de
-title: 卷五&#183;道德
+title: 卷五·道德
 author: 文子
 authorSlug: wen-zi
 book: 文子

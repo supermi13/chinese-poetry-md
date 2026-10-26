@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-378-juan-san-bai-qi-shi-qi-zai-sheng-san
-title: 卷三百七十七&#183;再生三
+title: 卷三百七十七·再生三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

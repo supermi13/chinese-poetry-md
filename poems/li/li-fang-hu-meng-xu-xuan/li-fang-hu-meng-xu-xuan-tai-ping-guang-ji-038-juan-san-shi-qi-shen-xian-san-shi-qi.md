@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-038-juan-san-shi-qi-shen-xian-san-shi-qi
-title: 卷三十七&#183;神仙三十七
+title: 卷三十七·神仙三十七
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-287-lie-zhuan-juan-yi-bai-qi-shi-wu-wen-yuan-san
-title: 列传·卷一百七十五&#183;文苑三
+title: 列传·卷一百七十五·文苑三
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

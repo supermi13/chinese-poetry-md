@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-166-lie-zhuan-juan-wu-shi-si-han-guan-deng
-title: 列传·卷五十四&#183;韩观等
+title: 列传·卷五十四·韩观等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

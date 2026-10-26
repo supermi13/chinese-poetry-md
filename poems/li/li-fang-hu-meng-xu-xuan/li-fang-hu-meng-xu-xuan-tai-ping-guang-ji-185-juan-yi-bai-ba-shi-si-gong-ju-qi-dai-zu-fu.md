@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-185-juan-yi-bai-ba-shi-si-gong-ju-qi-dai-zu-fu
-title: 卷一百八十四&#183;贡举七（代族附）
+title: 卷一百八十四·贡举七（代族附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

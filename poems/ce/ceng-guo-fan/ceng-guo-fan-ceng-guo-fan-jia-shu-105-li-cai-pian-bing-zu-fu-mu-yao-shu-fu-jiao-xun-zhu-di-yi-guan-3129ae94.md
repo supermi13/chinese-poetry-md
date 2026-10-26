@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-105-li-cai-pian-bing-zu-fu-mu-yao-shu-fu-jiao-xun-zhu-di-yi-guan-3129ae94
-title: 理财篇·禀祖父母&#183;要叔父教训诸弟以管家事第一百零五
+title: 理财篇·禀祖父母·要叔父教训诸弟以管家事第一百零五
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

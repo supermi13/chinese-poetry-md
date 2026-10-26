@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-070-zhi-juan-si-shi-liu-xuan-ju-er
-title: 志·卷四十六&#183;选举二
+title: 志·卷四十六·选举二
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

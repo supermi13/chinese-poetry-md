@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-010-ben-ji-juan-shi-ying-zong-qian-ji
-title: 本纪·卷十&#183;英宗前纪
+title: 本纪·卷十·英宗前纪
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

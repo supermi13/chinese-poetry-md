@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-063-zhi-jia-pian-bing-fu-mu-wu-yin-jia-wu-guo-lao-di-liu-shi-san
-title: 治家篇·禀父母&#183;勿因家务过劳第六十三
+title: 治家篇·禀父母·勿因家务过劳第六十三
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

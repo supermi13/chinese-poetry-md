@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-003-di-san-zhang-hui-guang-shou-zhong
-title: 第三章&#183;回光守中
+title: 第三章·回光守中
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

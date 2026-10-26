@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-234-juan-er-bai-san-shi-san-jiu-jiu-liang-shi-jiu-fu
-title: 卷二百三十三&#183;酒（酒量、嗜酒附）
+title: 卷二百三十三·酒（酒量、嗜酒附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

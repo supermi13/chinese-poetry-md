@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-098-juan-jiu-shi-ba-xiang-rui-bu-shang
-title: 卷九十八&#183;祥瑞部上
+title: 卷九十八·祥瑞部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

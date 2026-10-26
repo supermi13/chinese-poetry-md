@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-125-li-cai-pian-zhi-jiu-di-zhou-ji-shou-hai-shen-min-di-yi-bai-e-ebc43915
-title: 理财篇·致九弟&#183;周济受害绅民第一百二十五
+title: 理财篇·致九弟·周济受害绅民第一百二十五
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

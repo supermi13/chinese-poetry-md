@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-024-di-er-shi-san-chu-ming-pan
-title: 第二十三出&#183;冥判
+title: 第二十三出·冥判
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-267-lie-zhuan-juan-yi-bai-wu-shi-wu-ma-cong-pin-deng
-title: 列传·卷一百五十五&#183;马从聘等
+title: 列传·卷一百五十五·马从聘等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

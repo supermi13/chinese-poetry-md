@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-062-zhi-jia-pian-zhi-zhu-di-jiao-di-hun-yin-da-shi-xu-jin-shen-d-61d8893f
-title: 治家篇·致诸弟&#183;教弟婚姻大事须谨慎第六十二
+title: 治家篇·致诸弟·教弟婚姻大事须谨慎第六十二
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

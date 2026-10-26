@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-019-di-shi-ba-chu-zhen-sui
-title: 第十八出&#183;诊祟
+title: 第十八出·诊祟
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

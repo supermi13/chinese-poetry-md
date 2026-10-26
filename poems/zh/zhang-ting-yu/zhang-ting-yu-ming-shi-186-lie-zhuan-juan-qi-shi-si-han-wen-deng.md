@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-186-lie-zhuan-juan-qi-shi-si-han-wen-deng
-title: 列传·卷七十四&#183;韩文等
+title: 列传·卷七十四·韩文等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

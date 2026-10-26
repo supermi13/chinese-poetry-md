@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-068-zhi-jia-pian-zhi-zhu-di-ni-ding-yu-ming-nian-gui-jia-tan-qin-b1b4c162
-title: 治家篇·致诸弟&#183;拟定于明年归家探亲第六十八
+title: 治家篇·致诸弟·拟定于明年归家探亲第六十八
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

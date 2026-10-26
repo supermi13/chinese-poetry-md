@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-057-juan-wu-shi-liu-nv-xian-yi
-title: 卷五十六&#183;女仙一
+title: 卷五十六·女仙一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

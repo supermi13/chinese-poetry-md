@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-010-xiu-shen-pian-zhi-jiu-di-quan-yi-xi-xin-ren-nai-di-shi
-title: 修身篇·致九弟&#183;劝宜息心忍耐第十
+title: 修身篇·致九弟·劝宜息心忍耐第十
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

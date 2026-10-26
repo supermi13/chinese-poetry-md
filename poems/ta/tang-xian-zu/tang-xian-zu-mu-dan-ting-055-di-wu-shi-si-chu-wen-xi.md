@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-055-di-wu-shi-si-chu-wen-xi
-title: 第五十四出&#183;闻喜
+title: 第五十四出·闻喜
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

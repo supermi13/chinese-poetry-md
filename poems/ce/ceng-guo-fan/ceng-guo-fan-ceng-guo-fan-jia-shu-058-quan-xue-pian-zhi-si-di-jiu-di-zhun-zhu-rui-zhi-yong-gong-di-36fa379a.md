@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-058-quan-xue-pian-zhi-si-di-jiu-di-zhun-zhu-rui-zhi-yong-gong-di-36fa379a
-title: 劝学篇·致四弟九弟&#183;谆嘱瑞侄用功第五十八
+title: 劝学篇·致四弟九弟·谆嘱瑞侄用功第五十八
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

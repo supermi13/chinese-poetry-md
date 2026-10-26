@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-305-lie-zhuan-juan-yi-bai-jiu-shi-san-huan-guan-er
-title: 列传·卷一百九十三&#183;宦官二
+title: 列传·卷一百九十三·宦官二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

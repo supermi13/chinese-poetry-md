@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-019-xiu-shen-pian-zhi-jiu-di-li-di-xu-jie-ao-duo-er-zi-di-shi-ji-a71a0bff
-title: 修身篇·致九弟李弟&#183;须戒傲惰二字第十九
+title: 修身篇·致九弟李弟·须戒傲惰二字第十九
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

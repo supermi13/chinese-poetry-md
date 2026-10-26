@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-135-juan-yi-bai-san-shi-si-bao-ying-san-shi-san-su-ye-chu-sheng
-title: 卷一百三十四&#183;报应三十三（宿业畜生）
+title: 卷一百三十四·报应三十三（宿业畜生）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

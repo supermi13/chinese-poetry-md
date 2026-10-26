@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-195-lie-zhuan-juan-ba-shi-san-wang-shou-ren
-title: 列传·卷八十三&#183;王守仁
+title: 列传·卷八十三·王守仁
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

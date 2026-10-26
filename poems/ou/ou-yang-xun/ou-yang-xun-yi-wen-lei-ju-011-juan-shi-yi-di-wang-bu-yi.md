@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-011-juan-shi-yi-di-wang-bu-yi
-title: 卷十一&#183;帝王部一
+title: 卷十一·帝王部一
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

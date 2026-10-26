@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-454-juan-si-bai-wu-shi-san-hu-qi
-title: 卷四百五十三&#183;狐七
+title: 卷四百五十三·狐七
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

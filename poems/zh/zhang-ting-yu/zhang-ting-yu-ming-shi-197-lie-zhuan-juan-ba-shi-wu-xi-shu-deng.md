@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-197-lie-zhuan-juan-ba-shi-wu-xi-shu-deng
-title: 列传·卷八十五&#183;席书等
+title: 列传·卷八十五·席书等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

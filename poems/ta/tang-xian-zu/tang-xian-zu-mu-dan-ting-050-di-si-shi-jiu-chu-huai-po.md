@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-050-di-si-shi-jiu-chu-huai-po
-title: 第四十九出&#183;淮泊
+title: 第四十九出·淮泊
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

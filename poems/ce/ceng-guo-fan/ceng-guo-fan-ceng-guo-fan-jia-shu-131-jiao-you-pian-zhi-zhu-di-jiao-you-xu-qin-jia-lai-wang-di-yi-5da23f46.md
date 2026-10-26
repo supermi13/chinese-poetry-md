@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-131-jiao-you-pian-zhi-zhu-di-jiao-you-xu-qin-jia-lai-wang-di-yi-5da23f46
-title: 交友篇·致诸弟&#183;交友须勤加来往第一百三十一
+title: 交友篇·致诸弟·交友须勤加来往第一百三十一
 section: 交友篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

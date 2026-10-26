@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-005-xiu-shen-pian-zhi-zhu-di-quan-di-jin-ji-jin-de-xiu-ye-di-wu
-title: 修身篇·致诸弟&#183;劝弟谨记进德修业第五
+title: 修身篇·致诸弟·劝弟谨记进德修业第五
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

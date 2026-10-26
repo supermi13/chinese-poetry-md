@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-028-juan-er-shi-ba-ren-bu-shi-er
-title: 卷二十八&#183;人部十二
+title: 卷二十八·人部十二
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

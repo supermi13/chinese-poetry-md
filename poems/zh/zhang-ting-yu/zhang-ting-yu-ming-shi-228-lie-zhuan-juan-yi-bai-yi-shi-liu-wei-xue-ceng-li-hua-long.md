@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-228-lie-zhuan-juan-yi-bai-yi-shi-liu-wei-xue-ceng-li-hua-long
-title: 列传·卷一百一十六&#183;魏学曾 李化龙
+title: 列传·卷一百一十六·魏学曾 李化龙
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-131-lie-zhuan-juan-shi-jiu-gu-shi-deng
-title: 列传·卷十九&#183;顾时等
+title: 列传·卷十九·顾时等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

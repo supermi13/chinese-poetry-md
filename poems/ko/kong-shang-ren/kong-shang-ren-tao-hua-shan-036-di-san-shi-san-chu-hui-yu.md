@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-036-di-san-shi-san-chu-hui-yu
-title: 第三十三出&#183;会狱
+title: 第三十三出·会狱
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

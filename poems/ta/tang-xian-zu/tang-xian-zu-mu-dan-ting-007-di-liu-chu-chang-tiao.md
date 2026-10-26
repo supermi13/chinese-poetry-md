@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-007-di-liu-chu-chang-tiao
-title: 第六出&#183;怅眺
+title: 第六出·怅眺
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

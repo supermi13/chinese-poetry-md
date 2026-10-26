@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-322-lie-zhuan-juan-er-bai-yi-shi-wai-guo-san
-title: 列传·卷二百一十&#183;外国三
+title: 列传·卷二百一十·外国三
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

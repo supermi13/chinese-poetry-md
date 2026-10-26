@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-128-lie-zhuan-juan-shi-liu-liu-ji-deng
-title: 列传·卷十六&#183;刘基等
+title: 列传·卷十六·刘基等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

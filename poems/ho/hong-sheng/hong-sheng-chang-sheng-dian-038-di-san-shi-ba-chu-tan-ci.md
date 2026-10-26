@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-038-di-san-shi-ba-chu-tan-ci
-title: 第三十八出&#183;弹词
+title: 第三十八出·弹词
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

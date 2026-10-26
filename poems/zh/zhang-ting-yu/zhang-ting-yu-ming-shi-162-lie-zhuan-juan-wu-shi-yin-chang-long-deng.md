@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-162-lie-zhuan-juan-wu-shi-yin-chang-long-deng
-title: 列传·卷五十&#183;尹昌隆等
+title: 列传·卷五十·尹昌隆等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

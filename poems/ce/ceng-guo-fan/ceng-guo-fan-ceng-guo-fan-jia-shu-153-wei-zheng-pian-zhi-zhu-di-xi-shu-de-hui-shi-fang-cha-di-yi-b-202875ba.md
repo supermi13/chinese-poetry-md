@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-153-wei-zheng-pian-zhi-zhu-di-xi-shu-de-hui-shi-fang-cha-di-yi-b-202875ba
-title: 为政篇·致诸弟&#183;喜述得会试房差第一百五十三
+title: 为政篇·致诸弟·喜述得会试房差第一百五十三
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

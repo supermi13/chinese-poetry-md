@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-202-juan-er-bai-ling-yi-cai-ming-hao-shang-fu
-title: 卷二百零一&#183;才名（好尚附）
+title: 卷二百零一·才名（好尚附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

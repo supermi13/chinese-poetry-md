@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-159-lie-zhuan-juan-si-shi-qi-xiong-gai-deng
-title: 列传·卷四十七&#183;熊概等
+title: 列传·卷四十七·熊概等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

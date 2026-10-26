@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-271-juan-er-bai-qi-shi-fu-ren-yi
-title: 卷二百七十&#183;妇人一
+title: 卷二百七十·妇人一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-198-lie-zhuan-juan-ba-shi-liu-yang-yi-qing-deng
-title: 列传·卷八十六&#183;杨一清等
+title: 列传·卷八十六·杨一清等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

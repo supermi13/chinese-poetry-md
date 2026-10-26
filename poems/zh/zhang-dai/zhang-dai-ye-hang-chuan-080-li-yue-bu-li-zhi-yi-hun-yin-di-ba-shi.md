@@ -1,6 +1,6 @@
 ---
 id: zhang-dai-ye-hang-chuan-080-li-yue-bu-li-zhi-yi-hun-yin-di-ba-shi
-title: 礼乐部·礼制一&#183;婚姻第八十
+title: 礼乐部·礼制一·婚姻第八十
 section: 礼乐部
 author: 张岱
 authorSlug: zhang-dai

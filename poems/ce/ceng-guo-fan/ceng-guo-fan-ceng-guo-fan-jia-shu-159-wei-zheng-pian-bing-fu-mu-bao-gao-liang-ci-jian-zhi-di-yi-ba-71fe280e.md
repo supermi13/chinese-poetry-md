@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-159-wei-zheng-pian-bing-fu-mu-bao-gao-liang-ci-jian-zhi-di-yi-ba-71fe280e
-title: 为政篇·禀父母&#183;报告两次兼职第一百五十九
+title: 为政篇·禀父母·报告两次兼职第一百五十九
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

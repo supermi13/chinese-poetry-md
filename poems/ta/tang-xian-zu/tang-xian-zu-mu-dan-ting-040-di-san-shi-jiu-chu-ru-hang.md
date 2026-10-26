@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-040-di-san-shi-jiu-chu-ru-hang
-title: 第三十九出&#183;如杭
+title: 第三十九出·如杭
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

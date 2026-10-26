@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-312-lie-zhuan-juan-er-bai-si-chuan-tu-si-er
-title: 列传·卷二百&#183;四川土司二
+title: 列传·卷二百·四川土司二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

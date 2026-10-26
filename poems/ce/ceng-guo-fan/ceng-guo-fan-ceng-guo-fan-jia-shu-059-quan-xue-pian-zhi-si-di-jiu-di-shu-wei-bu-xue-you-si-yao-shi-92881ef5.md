@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-059-quan-xue-pian-zhi-si-di-jiu-di-shu-wei-bu-xue-you-si-yao-shi-92881ef5
-title: 劝学篇·致四弟九弟&#183;述为不学有四要事第五十九
+title: 劝学篇·致四弟九弟·述为不学有四要事第五十九
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

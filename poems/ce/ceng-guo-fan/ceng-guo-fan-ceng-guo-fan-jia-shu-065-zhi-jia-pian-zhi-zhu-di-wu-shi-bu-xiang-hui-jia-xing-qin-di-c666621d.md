@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-065-zhi-jia-pian-zhi-zhu-di-wu-shi-bu-xiang-hui-jia-xing-qin-di-c666621d
-title: 治家篇·致诸弟&#183;无时不想回家省亲第六十五
+title: 治家篇·致诸弟·无时不想回家省亲第六十五
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

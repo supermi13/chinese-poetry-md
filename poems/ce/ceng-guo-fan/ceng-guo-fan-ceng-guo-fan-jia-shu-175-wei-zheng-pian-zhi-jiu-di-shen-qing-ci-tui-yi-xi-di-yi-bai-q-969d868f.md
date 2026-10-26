@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-175-wei-zheng-pian-zhi-jiu-di-shen-qing-ci-tui-yi-xi-di-yi-bai-q-969d868f
-title: 为政篇·致九弟&#183;申请辞退一席第一百七十五
+title: 为政篇·致九弟·申请辞退一席第一百七十五
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

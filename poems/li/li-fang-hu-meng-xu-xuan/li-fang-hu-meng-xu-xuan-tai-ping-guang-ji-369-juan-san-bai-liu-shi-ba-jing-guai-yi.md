@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-369-juan-san-bai-liu-shi-ba-jing-guai-yi
-title: 卷三百六十八&#183;精怪一
+title: 卷三百六十八·精怪一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

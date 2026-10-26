@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-470-juan-si-bai-liu-shi-jiu-shui-zu-liu
-title: 卷四百六十九&#183;水族六
+title: 卷四百六十九·水族六
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

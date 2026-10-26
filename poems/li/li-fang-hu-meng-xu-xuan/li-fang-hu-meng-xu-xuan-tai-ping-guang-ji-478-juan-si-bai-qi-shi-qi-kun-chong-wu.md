@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-478-juan-si-bai-qi-shi-qi-kun-chong-wu
-title: 卷四百七十七&#183;昆虫五
+title: 卷四百七十七·昆虫五
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

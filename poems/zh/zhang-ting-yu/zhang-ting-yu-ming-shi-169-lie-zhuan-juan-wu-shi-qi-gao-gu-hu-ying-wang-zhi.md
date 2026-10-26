@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-169-lie-zhuan-juan-wu-shi-qi-gao-gu-hu-ying-wang-zhi
-title: 列传·卷五十七&#183;高谷 胡濙 王直
+title: 列传·卷五十七·高谷 胡濙 王直
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-022-di-er-shi-er-chu-mi-shi
-title: 第二十二出&#183;密誓
+title: 第二十二出·密誓
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

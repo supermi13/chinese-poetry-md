@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-096-zhi-jia-pian-zhi-jiu-di-xin-xi-jia-ting-he-mu-di-jiu-shi-liu
-title: 治家篇·致九弟&#183;欣悉家庭和睦第九十六
+title: 治家篇·致九弟·欣悉家庭和睦第九十六
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

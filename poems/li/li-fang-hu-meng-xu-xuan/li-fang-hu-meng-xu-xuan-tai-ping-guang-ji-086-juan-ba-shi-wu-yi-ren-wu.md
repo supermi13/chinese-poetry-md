@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-086-juan-ba-shi-wu-yi-ren-wu
-title: 卷八十五&#183;异人五
+title: 卷八十五·异人五
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

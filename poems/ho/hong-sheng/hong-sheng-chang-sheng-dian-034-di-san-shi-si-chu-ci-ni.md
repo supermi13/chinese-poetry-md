@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-034-di-san-shi-si-chu-ci-ni
-title: 第三十四出&#183;刺逆
+title: 第三十四出·刺逆
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-291-lie-zhuan-juan-yi-bai-qi-shi-jiu-zhong-yi-san
-title: 列传·卷一百七十九&#183;忠义三
+title: 列传·卷一百七十九·忠义三
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-161-wei-zheng-pian-bing-fu-mu-fu-cheng-kao-cha-shi-wen-di-yi-bai-4ebc6cfa
-title: 为政篇·禀父母&#183;附呈考差诗文第一百六十一
+title: 为政篇·禀父母·附呈考差诗文第一百六十一
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

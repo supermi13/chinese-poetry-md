@@ -1,6 +1,6 @@
 ---
 id: wen-zi-005-juan-si-fu-yan
-title: 卷四&#183;符言
+title: 卷四·符言
 author: 文子
 authorSlug: wen-zi
 book: 文子

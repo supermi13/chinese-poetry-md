@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-109-biao-juan-shi-zai-fu-nian-biao-yi
-title: 表·卷十&#183;宰辅年表一
+title: 表·卷十·宰辅年表一
 section: 表
 author: 张廷玉
 authorSlug: zhang-ting-yu

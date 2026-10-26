@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-281-lie-zhuan-juan-yi-bai-liu-shi-jiu-xun-li
-title: 列传·卷一百六十九&#183;循吏
+title: 列传·卷一百六十九·循吏
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

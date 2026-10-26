@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-074-zhi-juan-wu-shi-zhi-guan-san
-title: 志·卷五十&#183;职官三
+title: 志·卷五十·职官三
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

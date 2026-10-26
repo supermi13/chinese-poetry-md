@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-306-lie-zhuan-juan-yi-bai-jiu-shi-si-yan-dang
-title: 列传·卷一百九十四&#183;阉党
+title: 列传·卷一百九十四·阉党
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

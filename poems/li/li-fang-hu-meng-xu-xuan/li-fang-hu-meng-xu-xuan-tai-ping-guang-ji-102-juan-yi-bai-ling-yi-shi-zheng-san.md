@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-102-juan-yi-bai-ling-yi-shi-zheng-san
-title: 卷一百零一&#183;释证三
+title: 卷一百零一·释证三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

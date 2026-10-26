@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-109-li-cai-pian-bing-fu-mu-song-can-ji-jian-xi-yin-di-yi-bai-lin-5ddb3549
-title: 理财篇·禀父母&#183;送参冀减息银第一百零九
+title: 理财篇·禀父母·送参冀减息银第一百零九
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

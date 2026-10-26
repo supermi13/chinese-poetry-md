@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-179-wei-zheng-pian-zhi-jiu-di-bu-bi-zai-xing-ci-xie-di-yi-bai-qi-e87f8761
-title: 为政篇·致九弟&#183;不必再行辞谢第一百七十九
+title: 为政篇·致九弟·不必再行辞谢第一百七十九
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-038-di-san-shi-qi-chu-hai-bian
-title: 第三十七出&#183;骇变
+title: 第三十七出·骇变
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

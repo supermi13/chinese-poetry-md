@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-012-juan-shi-er-zhong-shang
-title: 卷十二&#183;中伤
+title: 卷十二·中伤
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

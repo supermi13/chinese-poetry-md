@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-206-juan-er-bai-ling-wu-le-san
-title: 卷二百零五&#183;乐三
+title: 卷二百零五·乐三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

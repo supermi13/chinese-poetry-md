@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-111-li-cai-pian-bing-fu-mu-zai-jing-shi-shi-jie-jian-di-yi-bai-y-dfffd2b4
-title: 理财篇·禀父母&#183;在京事事节俭第一百一十一
+title: 理财篇·禀父母·在京事事节俭第一百一十一
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

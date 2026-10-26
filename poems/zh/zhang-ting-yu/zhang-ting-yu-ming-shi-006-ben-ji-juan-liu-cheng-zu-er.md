@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-006-ben-ji-juan-liu-cheng-zu-er
-title: 本纪·卷六&#183;成祖二
+title: 本纪·卷六·成祖二
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

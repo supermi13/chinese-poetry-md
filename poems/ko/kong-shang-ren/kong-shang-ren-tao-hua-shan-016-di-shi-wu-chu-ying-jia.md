@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-016-di-shi-wu-chu-ying-jia
-title: 第十五出&#183;迎驾
+title: 第十五出·迎驾
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

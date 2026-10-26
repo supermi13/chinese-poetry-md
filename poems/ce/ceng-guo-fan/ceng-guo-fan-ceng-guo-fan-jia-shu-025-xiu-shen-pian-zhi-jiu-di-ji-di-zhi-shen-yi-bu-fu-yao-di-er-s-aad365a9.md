@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-025-xiu-shen-pian-zhi-jiu-di-ji-di-zhi-shen-yi-bu-fu-yao-di-er-s-aad365a9
-title: 修身篇·致九弟季弟&#183;治身宜不服药第二十五
+title: 修身篇·致九弟季弟·治身宜不服药第二十五
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

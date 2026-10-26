@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-047-quan-xue-pian-zhi-zhu-di-wen-jing-geng-zeng-zhang-jian-shi-d-d6528154
-title: 劝学篇·致诸弟&#183;温经更增长见识第四十七
+title: 劝学篇·致诸弟·温经更增长见识第四十七
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

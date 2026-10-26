@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-017-juan-shi-qi-ren-bu-yi
-title: 卷十七&#183;人部一
+title: 卷十七·人部一
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

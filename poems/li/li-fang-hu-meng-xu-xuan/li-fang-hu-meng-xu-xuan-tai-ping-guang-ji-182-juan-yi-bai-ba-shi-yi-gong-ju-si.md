@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-182-juan-yi-bai-ba-shi-yi-gong-ju-si
-title: 卷一百八十一&#183;贡举四
+title: 卷一百八十一·贡举四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

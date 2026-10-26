@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-025-di-er-shi-si-chu-shi-hua
-title: 第二十四出&#183;拾画
+title: 第二十四出·拾画
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

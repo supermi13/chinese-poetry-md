@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-160-lie-zhuan-juan-si-shi-ba-wang-zhang-deng
-title: 列传·卷四十八&#183;王彰等
+title: 列传·卷四十八·王彰等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

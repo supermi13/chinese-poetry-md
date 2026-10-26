@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-044-di-si-shi-san-chu-yu-huai
-title: 第四十三出&#183;御淮
+title: 第四十三出·御淮
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

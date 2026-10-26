@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-223-lie-zhuan-juan-yi-bai-yi-shi-yi-sheng-ying-qi-deng
-title: 列传·卷一百一十一&#183;盛应期等
+title: 列传·卷一百一十一·盛应期等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

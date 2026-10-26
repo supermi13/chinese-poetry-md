@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-011-di-shi-chu-xiu-zha
-title: 第十出&#183;修札
+title: 第十出·修札
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

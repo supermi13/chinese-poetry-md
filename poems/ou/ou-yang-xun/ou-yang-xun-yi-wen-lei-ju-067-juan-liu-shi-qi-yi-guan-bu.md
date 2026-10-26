@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-067-juan-liu-shi-qi-yi-guan-bu
-title: 卷六十七&#183;衣冠部
+title: 卷六十七·衣冠部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

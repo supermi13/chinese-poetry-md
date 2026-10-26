@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-046-di-si-shi-liu-chu-mi-hun
-title: 第四十六出&#183;觅魂
+title: 第四十六出·觅魂
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

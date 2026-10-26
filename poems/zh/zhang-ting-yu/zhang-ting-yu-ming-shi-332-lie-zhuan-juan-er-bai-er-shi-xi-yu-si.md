@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-332-lie-zhuan-juan-er-bai-er-shi-xi-yu-si
-title: 列传·卷二百二十&#183;西域四
+title: 列传·卷二百二十·西域四
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

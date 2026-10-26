@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-261-lie-zhuan-juan-yi-bai-si-shi-jiu-lu-xiang-sheng-deng
-title: 列传·卷一百四十九&#183;卢象升等
+title: 列传·卷一百四十九·卢象升等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

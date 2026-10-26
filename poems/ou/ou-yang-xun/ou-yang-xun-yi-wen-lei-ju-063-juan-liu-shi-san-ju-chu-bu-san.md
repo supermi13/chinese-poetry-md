@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-063-juan-liu-shi-san-ju-chu-bu-san
-title: 卷六十三&#183;居处部三
+title: 卷六十三·居处部三
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

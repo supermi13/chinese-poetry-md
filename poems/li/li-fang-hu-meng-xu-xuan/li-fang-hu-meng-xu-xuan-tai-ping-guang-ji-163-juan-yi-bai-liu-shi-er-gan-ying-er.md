@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-163-juan-yi-bai-liu-shi-er-gan-ying-er
-title: 卷一百六十二&#183;感应二
+title: 卷一百六十二·感应二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

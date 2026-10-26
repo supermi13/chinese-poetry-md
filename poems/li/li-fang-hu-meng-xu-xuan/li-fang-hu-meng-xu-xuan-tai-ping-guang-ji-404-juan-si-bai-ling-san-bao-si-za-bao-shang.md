@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-404-juan-si-bai-ling-san-bao-si-za-bao-shang
-title: 卷四百零三&#183;宝四（杂宝上）
+title: 卷四百零三·宝四（杂宝上）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

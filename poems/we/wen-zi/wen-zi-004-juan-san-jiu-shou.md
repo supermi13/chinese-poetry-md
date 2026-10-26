@@ -1,6 +1,6 @@
 ---
 id: wen-zi-004-juan-san-jiu-shou
-title: 卷三&#183;九守
+title: 卷三·九守
 author: 文子
 authorSlug: wen-zi
 book: 文子

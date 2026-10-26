@@ -1,6 +1,6 @@
 ---
 id: wang-yang-ming-chuan-xi-lu-018-juan-xia-qian-de-hong-ba-di-shi-ba
-title: 卷下·钱德洪&#183;跋第十八
+title: 卷下·钱德洪·跋第十八
 section: 卷下
 author: 王阳明
 authorSlug: wang-yang-ming

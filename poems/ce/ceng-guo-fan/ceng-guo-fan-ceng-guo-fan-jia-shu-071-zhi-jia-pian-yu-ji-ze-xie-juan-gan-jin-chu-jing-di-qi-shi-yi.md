@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-071-zhi-jia-pian-yu-ji-ze-xie-juan-gan-jin-chu-jing-di-qi-shi-yi
-title: 治家篇·谕纪泽&#183;携眷赶紧出京第七十一
+title: 治家篇·谕纪泽·携眷赶紧出京第七十一
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

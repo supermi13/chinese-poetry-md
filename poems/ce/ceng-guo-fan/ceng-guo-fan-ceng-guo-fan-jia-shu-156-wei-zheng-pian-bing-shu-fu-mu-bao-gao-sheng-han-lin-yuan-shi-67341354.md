@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-156-wei-zheng-pian-bing-shu-fu-mu-bao-gao-sheng-han-lin-yuan-shi-67341354
-title: 为政篇·禀叔父母&#183;报告升翰林院侍读学士第一百五十六
+title: 为政篇·禀叔父母·报告升翰林院侍读学士第一百五十六
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

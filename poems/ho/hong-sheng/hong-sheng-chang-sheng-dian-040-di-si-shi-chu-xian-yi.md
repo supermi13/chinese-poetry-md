@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-040-di-si-shi-chu-xian-yi
-title: 第四十出&#183;仙忆
+title: 第四十出·仙忆
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

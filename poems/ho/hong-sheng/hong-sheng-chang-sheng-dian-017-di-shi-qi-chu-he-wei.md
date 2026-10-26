@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-017-di-shi-qi-chu-he-wei
-title: 第十七出&#183;合围
+title: 第十七出·合围
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

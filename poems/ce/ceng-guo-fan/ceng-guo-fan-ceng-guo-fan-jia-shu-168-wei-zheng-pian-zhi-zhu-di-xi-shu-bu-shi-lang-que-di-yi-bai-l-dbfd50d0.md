@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-168-wei-zheng-pian-zhi-zhu-di-xi-shu-bu-shi-lang-que-di-yi-bai-l-dbfd50d0
-title: 为政篇·致诸弟&#183;喜述补侍郎缺第一百六十八
+title: 为政篇·致诸弟·喜述补侍郎缺第一百六十八
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

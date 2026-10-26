@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-270-lie-zhuan-juan-yi-bai-wu-shi-ba-ma-shi-long-deng
-title: 列传·卷一百五十八&#183;马世龙等
+title: 列传·卷一百五十八·马世龙等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

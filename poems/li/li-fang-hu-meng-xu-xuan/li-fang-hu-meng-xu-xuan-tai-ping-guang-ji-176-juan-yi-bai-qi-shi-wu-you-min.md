@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-176-juan-yi-bai-qi-shi-wu-you-min
-title: 卷一百七十五&#183;幼敏
+title: 卷一百七十五·幼敏
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

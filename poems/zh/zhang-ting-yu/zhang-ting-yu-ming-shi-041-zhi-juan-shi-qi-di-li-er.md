@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-041-zhi-juan-shi-qi-di-li-er
-title: 志·卷十七&#183;地理二
+title: 志·卷十七·地理二
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

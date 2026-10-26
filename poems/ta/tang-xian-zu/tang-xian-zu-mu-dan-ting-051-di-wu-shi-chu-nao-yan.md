@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-051-di-wu-shi-chu-nao-yan
-title: 第五十出&#183;闹宴
+title: 第五十出·闹宴
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

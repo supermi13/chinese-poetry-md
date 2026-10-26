@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-054-quan-xue-pian-zhi-si-di-du-shu-bu-ke-tai-shu-hu-di-wu-shi-si
-title: 劝学篇·致四弟&#183;读书不可太疏忽第五十四
+title: 劝学篇·致四弟·读书不可太疏忽第五十四
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

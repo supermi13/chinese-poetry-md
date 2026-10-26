@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-031-juan-san-shi-shen-xian-san-shi
-title: 卷三十&#183;神仙三十
+title: 卷三十·神仙三十
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

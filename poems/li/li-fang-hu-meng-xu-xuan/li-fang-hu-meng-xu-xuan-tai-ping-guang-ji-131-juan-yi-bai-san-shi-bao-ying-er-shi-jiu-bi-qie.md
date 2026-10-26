@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-131-juan-yi-bai-san-shi-bao-ying-er-shi-jiu-bi-qie
-title: 卷一百三十&#183;报应二十九（婢妾）
+title: 卷一百三十·报应二十九（婢妾）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

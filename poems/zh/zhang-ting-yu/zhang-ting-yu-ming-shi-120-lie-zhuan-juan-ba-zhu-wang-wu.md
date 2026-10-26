@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-120-lie-zhuan-juan-ba-zhu-wang-wu
-title: 列传·卷八&#183;诸王五
+title: 列传·卷八·诸王五
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

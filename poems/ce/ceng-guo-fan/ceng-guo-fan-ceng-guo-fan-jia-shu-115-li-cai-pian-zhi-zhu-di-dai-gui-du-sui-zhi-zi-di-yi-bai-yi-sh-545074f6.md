@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-115-li-cai-pian-zhi-zhu-di-dai-gui-du-sui-zhi-zi-di-yi-bai-yi-sh-545074f6
-title: 理财篇·致诸弟&#183;带归度岁之资第一百一十五
+title: 理财篇·致诸弟·带归度岁之资第一百一十五
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

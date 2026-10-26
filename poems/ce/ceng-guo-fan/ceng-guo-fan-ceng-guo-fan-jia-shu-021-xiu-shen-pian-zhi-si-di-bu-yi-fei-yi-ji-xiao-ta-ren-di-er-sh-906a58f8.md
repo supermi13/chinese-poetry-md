@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-021-xiu-shen-pian-zhi-si-di-bu-yi-fei-yi-ji-xiao-ta-ren-di-er-sh-906a58f8
-title: 修身篇·致四弟&#183;不宜非议讥笑他人第二十一
+title: 修身篇·致四弟·不宜非议讥笑他人第二十一
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

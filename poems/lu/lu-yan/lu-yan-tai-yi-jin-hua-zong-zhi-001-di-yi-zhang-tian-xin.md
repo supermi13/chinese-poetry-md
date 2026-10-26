@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-001-di-yi-zhang-tian-xin
-title: 第一章&#183;天心
+title: 第一章·天心
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

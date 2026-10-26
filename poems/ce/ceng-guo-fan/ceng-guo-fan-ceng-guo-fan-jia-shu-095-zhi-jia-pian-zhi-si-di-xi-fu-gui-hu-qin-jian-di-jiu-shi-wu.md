@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-095-zhi-jia-pian-zhi-si-di-xi-fu-gui-hu-qin-jian-di-jiu-shi-wu
-title: 治家篇·致四弟&#183;惜福贵乎勤俭第九十五
+title: 治家篇·致四弟·惜福贵乎勤俭第九十五
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

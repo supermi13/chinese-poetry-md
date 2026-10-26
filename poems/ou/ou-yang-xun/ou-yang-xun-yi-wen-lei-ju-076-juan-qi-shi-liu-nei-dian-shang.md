@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-076-juan-qi-shi-liu-nei-dian-shang
-title: 卷七十六&#183;内典上
+title: 卷七十六·内典上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

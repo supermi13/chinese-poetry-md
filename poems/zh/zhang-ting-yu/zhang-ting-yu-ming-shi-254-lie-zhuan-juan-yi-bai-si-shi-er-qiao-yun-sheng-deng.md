@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-254-lie-zhuan-juan-yi-bai-si-shi-er-qiao-yun-sheng-deng
-title: 列传·卷一百四十二&#183;乔允升等
+title: 列传·卷一百四十二·乔允升等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

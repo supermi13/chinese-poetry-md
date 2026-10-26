@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-004-xiu-shen-pian-bing-fu-mu-quan-di-wu-ye-lang-zi-da-di-si
-title: 修身篇·禀父母&#183;劝弟勿夜郎自大第四
+title: 修身篇·禀父母·劝弟勿夜郎自大第四
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

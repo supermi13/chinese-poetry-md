@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-034-juan-san-shi-si-ren-bu-shi-ba
-title: 卷三十四&#183;人部十八
+title: 卷三十四·人部十八
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

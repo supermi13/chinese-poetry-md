@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-064-juan-liu-shi-si-ju-chu-bu-si
-title: 卷六十四&#183;居处部四
+title: 卷六十四·居处部四
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

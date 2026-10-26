@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-037-di-san-shi-qi-chu-shi-jie
-title: 第三十七出&#183;尸解
+title: 第三十七出·尸解
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

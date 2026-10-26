@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-042-zhi-juan-shi-ba-di-li-san
-title: 志·卷十八&#183;地理三
+title: 志·卷十八·地理三
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

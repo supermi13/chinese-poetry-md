@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-142-wei-zheng-pian-zhi-zhu-di-xiang-shu-ban-li-ju-dao-ji-gong-yi-c4b8df55
-title: 为政篇·致诸弟&#183;详述办理巨盗及公议粮饷事第一百四十二
+title: 为政篇·致诸弟·详述办理巨盗及公议粮饷事第一百四十二
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-075-zhi-juan-wu-shi-yi-zhi-guan-si
-title: 志·卷五十一&#183;职官四
+title: 志·卷五十一·职官四
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-022-run-er-shi-chu-xian-hua
-title: 闰二十出&#183;闲话
+title: 闰二十出·闲话
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

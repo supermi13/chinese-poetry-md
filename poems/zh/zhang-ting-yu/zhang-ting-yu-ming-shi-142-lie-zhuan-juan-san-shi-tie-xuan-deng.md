@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-142-lie-zhuan-juan-san-shi-tie-xuan-deng
-title: 列传·卷三十&#183;铁铉等
+title: 列传·卷三十·铁铉等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

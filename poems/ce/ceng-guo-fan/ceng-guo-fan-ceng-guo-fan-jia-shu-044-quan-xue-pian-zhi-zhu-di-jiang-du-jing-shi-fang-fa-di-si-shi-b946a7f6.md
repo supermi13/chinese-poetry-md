@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-044-quan-xue-pian-zhi-zhu-di-jiang-du-jing-shi-fang-fa-di-si-shi-b946a7f6
-title: 劝学篇·致诸弟&#183;讲读经史方法第四十四
+title: 劝学篇·致诸弟·讲读经史方法第四十四
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

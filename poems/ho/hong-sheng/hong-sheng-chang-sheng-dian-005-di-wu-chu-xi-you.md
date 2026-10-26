@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-005-di-wu-chu-xi-you
-title: 第五出&#183;禊游
+title: 第五出·禊游
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

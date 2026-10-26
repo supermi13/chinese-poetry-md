@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-054-juan-wu-shi-si-xing-fa-bu
-title: 卷五十四&#183;刑法部
+title: 卷五十四·刑法部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

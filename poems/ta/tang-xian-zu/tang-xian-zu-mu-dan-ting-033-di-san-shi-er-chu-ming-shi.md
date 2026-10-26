@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-033-di-san-shi-er-chu-ming-shi
-title: 第三十二出&#183;冥誓
+title: 第三十二出·冥誓
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-293-lie-zhuan-juan-yi-bai-ba-shi-yi-zhong-yi-wu
-title: 列传·卷一百八十一&#183;忠义五
+title: 列传·卷一百八十一·忠义五
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

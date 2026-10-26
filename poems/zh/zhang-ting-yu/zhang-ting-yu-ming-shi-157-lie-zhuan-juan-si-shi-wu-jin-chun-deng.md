@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-157-lie-zhuan-juan-si-shi-wu-jin-chun-deng
-title: 列传·卷四十五&#183;金纯等
+title: 列传·卷四十五·金纯等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

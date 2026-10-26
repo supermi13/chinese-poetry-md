@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-103-li-cai-pian-bing-fu-mu-zai-wai-jie-zhai-guo-nian-di-yi-bai-l-0f372483
-title: 理财篇·禀父母&#183;在外借债过年第一百零三
+title: 理财篇·禀父母·在外借债过年第一百零三
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

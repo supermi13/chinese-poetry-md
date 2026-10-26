@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-295-lie-zhuan-juan-yi-bai-ba-shi-san-zhong-yi-qi
-title: 列传·卷一百八十三&#183;忠义七
+title: 列传·卷一百八十三·忠义七
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

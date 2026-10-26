@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-074-zhi-jia-pian-yu-ji-ze-jia-juan-zai-jing-xu-yi-qie-jin-shen-d-fb6bd1eb
-title: 治家篇·谕纪泽&#183;家眷在京须一切谨慎第七十四
+title: 治家篇·谕纪泽·家眷在京须一切谨慎第七十四
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

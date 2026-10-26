@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-146-lie-zhuan-juan-san-shi-si-zhang-wu-deng
-title: 列传·卷三十四&#183;张武等
+title: 列传·卷三十四·张武等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

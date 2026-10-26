@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-015-di-shi-si-chu-zu-jian
-title: 第十四出&#183;阻奸
+title: 第十四出·阻奸
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

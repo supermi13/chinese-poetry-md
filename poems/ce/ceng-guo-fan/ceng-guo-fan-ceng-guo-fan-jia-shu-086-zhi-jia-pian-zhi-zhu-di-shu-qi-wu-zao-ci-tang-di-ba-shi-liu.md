@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-086-zhi-jia-pian-zhi-zhu-di-shu-qi-wu-zao-ci-tang-di-ba-shi-liu
-title: 治家篇·致诸弟&#183;述起屋造祠堂第八十六
+title: 治家篇·致诸弟·述起屋造祠堂第八十六
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

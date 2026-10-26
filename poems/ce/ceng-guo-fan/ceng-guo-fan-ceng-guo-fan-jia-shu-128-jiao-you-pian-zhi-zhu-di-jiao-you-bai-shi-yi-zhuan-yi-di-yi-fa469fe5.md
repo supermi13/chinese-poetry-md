@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-128-jiao-you-pian-zhi-zhu-di-jiao-you-bai-shi-yi-zhuan-yi-di-yi-fa469fe5
-title: 交友篇·致诸弟&#183;交友拜师宜专一第一百二十八
+title: 交友篇·致诸弟·交友拜师宜专一第一百二十八
 section: 交友篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

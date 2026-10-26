@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-076-zhi-juan-wu-shi-er-zhi-guan-wu
-title: 志·卷五十二&#183;职官五
+title: 志·卷五十二·职官五
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-029-di-er-shi-jiu-chu-wen-ling
-title: 第二十九出&#183;闻铃
+title: 第二十九出·闻铃
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

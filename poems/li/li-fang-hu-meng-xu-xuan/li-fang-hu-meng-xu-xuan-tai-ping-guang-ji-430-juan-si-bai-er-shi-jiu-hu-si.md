@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-430-juan-si-bai-er-shi-jiu-hu-si
-title: 卷四百二十九&#183;虎四
+title: 卷四百二十九·虎四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

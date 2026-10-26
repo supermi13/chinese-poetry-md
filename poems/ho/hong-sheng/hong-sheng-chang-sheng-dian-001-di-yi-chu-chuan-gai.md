@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-001-di-yi-chu-chuan-gai
-title: 第一出&#183;传概
+title: 第一出·传概
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

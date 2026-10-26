@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-069-juan-liu-shi-jiu-fu-shi-bu-shang
-title: 卷六十九&#183;服饰部上
+title: 卷六十九·服饰部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

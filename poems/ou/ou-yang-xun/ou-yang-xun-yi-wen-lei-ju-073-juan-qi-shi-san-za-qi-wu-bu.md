@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-073-juan-qi-shi-san-za-qi-wu-bu
-title: 卷七十三&#183;杂器物部
+title: 卷七十三·杂器物部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

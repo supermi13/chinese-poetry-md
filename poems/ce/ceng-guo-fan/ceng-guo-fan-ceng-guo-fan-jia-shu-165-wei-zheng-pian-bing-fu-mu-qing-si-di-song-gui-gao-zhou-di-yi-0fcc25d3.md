@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-165-wei-zheng-pian-bing-fu-mu-qing-si-di-song-gui-gao-zhou-di-yi-0fcc25d3
-title: 为政篇·禀父母&#183;请四弟送归诰轴第一百六十五
+title: 为政篇·禀父母·请四弟送归诰轴第一百六十五
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

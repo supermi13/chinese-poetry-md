@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-090-juan-ba-shi-jiu-yi-seng-san
-title: 卷八十九&#183;异僧三
+title: 卷八十九·异僧三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

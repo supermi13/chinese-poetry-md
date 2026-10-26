@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-006-di-wu-chu-yan-shi
-title: 第五出&#183;延师
+title: 第五出·延师
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-195-yong-ren-pian-zhi-jiu-di-yi-duo-xuan-hao-ti-shou-di-yi-bai-j-a1ae5d65
-title: 用人篇·致九弟&#183;宜多选好替手第一百九十五
+title: 用人篇·致九弟·宜多选好替手第一百九十五
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

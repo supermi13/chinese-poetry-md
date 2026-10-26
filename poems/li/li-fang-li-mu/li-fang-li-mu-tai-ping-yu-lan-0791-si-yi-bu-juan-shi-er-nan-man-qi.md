@@ -1,6 +1,6 @@
 ---
 id: li-fang-li-mu-tai-ping-yu-lan-0791-si-yi-bu-juan-shi-er-nan-man-qi
-title: 四夷部·卷十二&#183;南蛮七
+title: 四夷部·卷十二·南蛮七
 section: 四夷部
 author: 李昉、李穆
 authorSlug: li-fang-li-mu

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-113-lie-zhuan-juan-yi-hou-fei
-title: 列传·卷一&#183;后妃
+title: 列传·卷一·后妃
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

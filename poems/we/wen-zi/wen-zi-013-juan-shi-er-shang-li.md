@@ -1,6 +1,6 @@
 ---
 id: wen-zi-013-juan-shi-er-shang-li
-title: 卷十二&#183;上礼
+title: 卷十二·上礼
 author: 文子
 authorSlug: wen-zi
 book: 文子

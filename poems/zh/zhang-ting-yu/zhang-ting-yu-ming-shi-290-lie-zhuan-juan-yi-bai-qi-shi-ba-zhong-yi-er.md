@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-290-lie-zhuan-juan-yi-bai-qi-shi-ba-zhong-yi-er
-title: 列传·卷一百七十八&#183;忠义二
+title: 列传·卷一百七十八·忠义二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

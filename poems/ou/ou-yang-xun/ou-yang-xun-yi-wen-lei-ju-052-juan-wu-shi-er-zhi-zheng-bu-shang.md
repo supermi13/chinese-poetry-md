@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-052-juan-wu-shi-er-zhi-zheng-bu-shang
-title: 卷五十二&#183;治政部上
+title: 卷五十二·治政部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

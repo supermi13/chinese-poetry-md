@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-012-di-shi-yi-chu-ci-jie
-title: 第十一出&#183;慈戒
+title: 第十一出·慈戒
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

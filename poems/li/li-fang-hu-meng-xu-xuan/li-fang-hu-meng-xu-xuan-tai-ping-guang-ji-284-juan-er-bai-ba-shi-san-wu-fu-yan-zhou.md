@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-284-juan-er-bai-ba-shi-san-wu-fu-yan-zhou
-title: 卷二百八十三&#183;巫（附厌咒）
+title: 卷二百八十三·巫（附厌咒）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

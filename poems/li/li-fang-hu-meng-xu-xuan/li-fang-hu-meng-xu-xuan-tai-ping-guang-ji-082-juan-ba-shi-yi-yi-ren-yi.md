@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-082-juan-ba-shi-yi-yi-ren-yi
-title: 卷八十一&#183;异人一
+title: 卷八十一·异人一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

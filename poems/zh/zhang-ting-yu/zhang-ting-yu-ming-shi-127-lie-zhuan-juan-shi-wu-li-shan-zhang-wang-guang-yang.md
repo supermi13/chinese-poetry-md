@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-127-lie-zhuan-juan-shi-wu-li-shan-zhang-wang-guang-yang
-title: 列传·卷十五&#183;李善长 汪广洋
+title: 列传·卷十五·李善长 汪广洋
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

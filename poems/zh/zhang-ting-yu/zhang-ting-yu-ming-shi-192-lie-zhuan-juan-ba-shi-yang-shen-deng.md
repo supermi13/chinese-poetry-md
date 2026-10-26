@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-192-lie-zhuan-juan-ba-shi-yang-shen-deng
-title: 列传·卷八十&#183;杨慎等
+title: 列传·卷八十·杨慎等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

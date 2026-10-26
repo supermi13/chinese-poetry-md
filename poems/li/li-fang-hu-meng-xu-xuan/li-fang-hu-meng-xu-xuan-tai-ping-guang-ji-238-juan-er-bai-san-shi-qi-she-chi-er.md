@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-238-juan-er-bai-san-shi-qi-she-chi-er
-title: 卷二百三十七&#183;奢侈二
+title: 卷二百三十七·奢侈二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

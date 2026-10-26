@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-067-zhi-juan-si-shi-san-yu-fu-san
-title: 志·卷四十三&#183;舆服三
+title: 志·卷四十三·舆服三
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

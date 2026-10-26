@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-017-di-shi-liu-chu-ji-bing
-title: 第十六出&#183;诘病
+title: 第十六出·诘病
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

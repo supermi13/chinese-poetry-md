@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-029-di-er-shi-ba-chu-you-gou
-title: 第二十八出&#183;幽媾
+title: 第二十八出·幽媾
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

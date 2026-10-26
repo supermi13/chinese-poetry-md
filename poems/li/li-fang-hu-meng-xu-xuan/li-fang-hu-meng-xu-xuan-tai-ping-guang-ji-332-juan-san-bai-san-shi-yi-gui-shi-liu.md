@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-332-juan-san-bai-san-shi-yi-gui-shi-liu
-title: 卷三百三十一&#183;鬼十六
+title: 卷三百三十一·鬼十六
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

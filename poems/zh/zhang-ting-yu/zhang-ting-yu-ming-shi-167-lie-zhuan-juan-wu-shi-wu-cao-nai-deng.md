@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-167-lie-zhuan-juan-wu-shi-wu-cao-nai-deng
-title: 列传·卷五十五&#183;曹鼐等
+title: 列传·卷五十五·曹鼐等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

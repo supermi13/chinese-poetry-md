@@ -1,6 +1,6 @@
 ---
 id: wen-zi-010-juan-jiu-xia-de
-title: 卷九&#183;下德
+title: 卷九·下德
 author: 文子
 authorSlug: wen-zi
 book: 文子

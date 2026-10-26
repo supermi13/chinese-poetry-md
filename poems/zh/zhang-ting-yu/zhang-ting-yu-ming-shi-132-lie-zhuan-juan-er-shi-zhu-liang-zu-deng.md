@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-132-lie-zhuan-juan-er-shi-zhu-liang-zu-deng
-title: 列传·卷二十&#183;朱亮祖等
+title: 列传·卷二十·朱亮祖等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-130-jiao-you-pian-bing-shu-fu-bu-ci-lao-ku-liao-li-peng-you-de-s-09dda652
-title: 交友篇·禀叔父&#183;不辞劳苦料理朋友的丧事第一百三十
+title: 交友篇·禀叔父·不辞劳苦料理朋友的丧事第一百三十
 section: 交友篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

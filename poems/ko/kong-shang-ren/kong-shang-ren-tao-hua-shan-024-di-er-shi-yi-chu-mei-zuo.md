@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-024-di-er-shi-yi-chu-mei-zuo
-title: 第二十一出&#183;媚座
+title: 第二十一出·媚座
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-059-zhi-juan-san-shi-wu-li-shi-san-xiong-li-er
-title: 志·卷三十五&#183;礼十三(凶礼二)
+title: 志·卷三十五·礼十三(凶礼二)
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

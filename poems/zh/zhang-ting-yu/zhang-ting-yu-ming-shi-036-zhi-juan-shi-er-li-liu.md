@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-036-zhi-juan-shi-er-li-liu
-title: 志·卷十二&#183;历六
+title: 志·卷十二·历六
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

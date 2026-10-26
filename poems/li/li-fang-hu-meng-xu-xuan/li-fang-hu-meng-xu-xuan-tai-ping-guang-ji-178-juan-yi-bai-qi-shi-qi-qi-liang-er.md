@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-178-juan-yi-bai-qi-shi-qi-qi-liang-er
-title: 卷一百七十七&#183;器量二
+title: 卷一百七十七·器量二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-072-juan-qi-shi-er-shi-wu-bu
-title: 卷七十二&#183;食物部
+title: 卷七十二·食物部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

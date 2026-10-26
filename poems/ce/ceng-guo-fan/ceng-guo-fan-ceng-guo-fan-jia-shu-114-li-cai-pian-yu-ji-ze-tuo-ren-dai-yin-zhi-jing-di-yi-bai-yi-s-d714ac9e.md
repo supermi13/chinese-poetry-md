@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-114-li-cai-pian-yu-ji-ze-tuo-ren-dai-yin-zhi-jing-di-yi-bai-yi-s-d714ac9e
-title: 理财篇·谕纪泽&#183;托人带银至京第一百一十四
+title: 理财篇·谕纪泽·托人带银至京第一百一十四
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

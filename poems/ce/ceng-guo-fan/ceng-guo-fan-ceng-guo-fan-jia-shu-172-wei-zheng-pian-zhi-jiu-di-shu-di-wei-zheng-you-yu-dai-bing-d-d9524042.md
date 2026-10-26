@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-172-wei-zheng-pian-zhi-jiu-di-shu-di-wei-zheng-you-yu-dai-bing-d-d9524042
-title: 为政篇·致九弟&#183;述弟为政优于带兵第一百七十二
+title: 为政篇·致九弟·述弟为政优于带兵第一百七十二
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

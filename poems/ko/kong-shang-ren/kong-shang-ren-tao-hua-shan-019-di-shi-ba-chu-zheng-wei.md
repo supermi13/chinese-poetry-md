@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-019-di-shi-ba-chu-zheng-wei
-title: 第十八出&#183;争位
+title: 第十八出·争位
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

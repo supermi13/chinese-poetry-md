@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-245-juan-er-bai-si-shi-si-bian-ji
-title: 卷二百四十四&#183;褊急
+title: 卷二百四十四·褊急
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

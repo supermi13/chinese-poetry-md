@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-082-juan-ba-shi-er-cao-bu-xia
-title: 卷八十二&#183;草部下
+title: 卷八十二·草部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

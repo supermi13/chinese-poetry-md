@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-104-biao-juan-wu-zhu-wang-shi-biao-wu
-title: 表·卷五&#183;诸王世表五
+title: 表·卷五·诸王世表五
 section: 表
 author: 张廷玉
 authorSlug: zhang-ting-yu

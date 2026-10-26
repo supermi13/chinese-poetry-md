@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-075-zhi-jia-pian-zhi-zhu-di-zai-jia-yi-zhu-zhong-qin-jing-he-di-73b6ba55
-title: 治家篇·致诸弟&#183;在家宜注重勤敬和第七十五
+title: 治家篇·致诸弟·在家宜注重勤敬和第七十五
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

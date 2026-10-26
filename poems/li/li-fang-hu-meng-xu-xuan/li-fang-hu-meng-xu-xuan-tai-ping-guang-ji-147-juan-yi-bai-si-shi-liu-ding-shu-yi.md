@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-147-juan-yi-bai-si-shi-liu-ding-shu-yi
-title: 卷一百四十六&#183;定数一
+title: 卷一百四十六·定数一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

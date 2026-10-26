@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-222-lie-zhuan-juan-yi-bai-yi-shi-tan-lun-xu-deng
-title: 列传·卷一百一十&#183;谭纶徐等
+title: 列传·卷一百一十·谭纶徐等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

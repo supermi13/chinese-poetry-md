@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-188-yong-ren-pian-zhi-jiu-di-yi-yi-qiu-cai-wei-zai-shi-di-yi-bai-3e6e6458
-title: 用人篇·致九弟&#183;宜以求才为在事第一百八十八
+title: 用人篇·致九弟·宜以求才为在事第一百八十八
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

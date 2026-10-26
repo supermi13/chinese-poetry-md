@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-184-yong-ren-pian-zhi-zhu-di-diao-peng-xue-qin-lai-jiang-di-yi-b-10ceb1fd
-title: 用人篇·致诸弟&#183;调彭雪琴来江第一百八十四
+title: 用人篇·致诸弟·调彭雪琴来江第一百八十四
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

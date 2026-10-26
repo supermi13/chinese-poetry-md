@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-055-quan-xue-pian-zhi-si-di-yi-quan-zhu-zhi-qin-du-shu-di-wu-shi-5339fdd1
-title: 劝学篇·致四弟&#183;宜劝诸侄勤读书第五十五
+title: 劝学篇·致四弟·宜劝诸侄勤读书第五十五
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

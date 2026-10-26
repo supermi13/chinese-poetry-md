@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-018-di-shi-ba-chu-ye-yuan
-title: 第十八出&#183;夜怨
+title: 第十八出·夜怨
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

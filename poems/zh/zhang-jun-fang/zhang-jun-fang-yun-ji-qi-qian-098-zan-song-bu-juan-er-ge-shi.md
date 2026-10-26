@@ -1,6 +1,6 @@
 ---
 id: zhang-jun-fang-yun-ji-qi-qian-098-zan-song-bu-juan-er-ge-shi
-title: 赞颂部·卷二&#183;歌诗
+title: 赞颂部·卷二·歌诗
 section: 赞颂部
 author: 张君房
 authorSlug: zhang-jun-fang

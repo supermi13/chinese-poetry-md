@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-126-li-cai-pian-zhi-si-di-jiu-di-qian-li-ji-yin-li-qing-yi-zhong-4213e122
-title: 理财篇·致四弟九弟&#183;千里寄银礼轻义重第一百二十六
+title: 理财篇·致四弟九弟·千里寄银礼轻义重第一百二十六
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

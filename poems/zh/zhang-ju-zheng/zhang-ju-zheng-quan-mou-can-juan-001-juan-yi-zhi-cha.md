@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-001-juan-yi-zhi-cha
-title: 卷一&#183;智察
+title: 卷一·智察
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

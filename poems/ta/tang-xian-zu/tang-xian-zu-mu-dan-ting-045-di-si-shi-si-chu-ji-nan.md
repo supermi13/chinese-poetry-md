@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-045-di-si-shi-si-chu-ji-nan
-title: 第四十四出&#183;急难
+title: 第四十四出·急难
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

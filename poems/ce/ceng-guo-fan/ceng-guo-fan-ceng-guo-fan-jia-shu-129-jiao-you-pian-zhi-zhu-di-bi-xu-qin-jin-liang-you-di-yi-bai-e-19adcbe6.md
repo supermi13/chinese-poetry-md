@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-129-jiao-you-pian-zhi-zhu-di-bi-xu-qin-jin-liang-you-di-yi-bai-e-19adcbe6
-title: 交友篇·致诸弟&#183;必须亲近良友第一百二十九
+title: 交友篇·致诸弟·必须亲近良友第一百二十九
 section: 交友篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

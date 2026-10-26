@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-056-di-wu-shi-wu-chu-yuan-jia
-title: 第五十五出&#183;圆驾
+title: 第五十五出·圆驾
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

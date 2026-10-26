@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-022-juan-er-shi-er-ren-bu-liu
-title: 卷二十二&#183;人部六
+title: 卷二十二·人部六
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-095-juan-jiu-shi-wu-shou-bu-xia
-title: 卷九十五&#183;兽部下
+title: 卷九十五·兽部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

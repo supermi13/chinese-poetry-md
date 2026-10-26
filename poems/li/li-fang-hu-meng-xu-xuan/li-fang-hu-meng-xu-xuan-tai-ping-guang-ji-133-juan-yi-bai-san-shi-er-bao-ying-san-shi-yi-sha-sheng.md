@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-133-juan-yi-bai-san-shi-er-bao-ying-san-shi-yi-sha-sheng
-title: 卷一百三十二&#183;报应三十一（杀生）
+title: 卷一百三十二·报应三十一（杀生）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

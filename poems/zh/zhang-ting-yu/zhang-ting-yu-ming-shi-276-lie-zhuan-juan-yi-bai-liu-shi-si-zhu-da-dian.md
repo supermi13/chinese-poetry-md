@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-276-lie-zhuan-juan-yi-bai-liu-shi-si-zhu-da-dian
-title: 列传·卷一百六十四&#183;朱大典
+title: 列传·卷一百六十四·朱大典
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

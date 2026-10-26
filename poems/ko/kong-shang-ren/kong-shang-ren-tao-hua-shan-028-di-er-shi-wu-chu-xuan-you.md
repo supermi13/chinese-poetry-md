@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-028-di-er-shi-wu-chu-xuan-you
-title: 第二十五出&#183;选优
+title: 第二十五出·选优
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-165-lie-zhuan-juan-wu-shi-san-tao-cheng-deng
-title: 列传·卷五十三&#183;陶成等
+title: 列传·卷五十三·陶成等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

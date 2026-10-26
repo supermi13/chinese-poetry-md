@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-001-juan-yi-tian-bu-shang
-title: 卷一&#183;天部上
+title: 卷一·天部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

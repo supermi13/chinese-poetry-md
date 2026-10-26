@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-100-li-cai-pian-bing-zu-fu-mu-shu-jing-zhong-jiong-po-zhuang-di-a57190de
-title: 理财篇·禀祖父母&#183;述京中窘迫状第一百
+title: 理财篇·禀祖父母·述京中窘迫状第一百
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

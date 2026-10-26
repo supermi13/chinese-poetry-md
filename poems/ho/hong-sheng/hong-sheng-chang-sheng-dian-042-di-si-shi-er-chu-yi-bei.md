@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-042-di-si-shi-er-chu-yi-bei
-title: 第四十二出&#183;驿备
+title: 第四十二出·驿备
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

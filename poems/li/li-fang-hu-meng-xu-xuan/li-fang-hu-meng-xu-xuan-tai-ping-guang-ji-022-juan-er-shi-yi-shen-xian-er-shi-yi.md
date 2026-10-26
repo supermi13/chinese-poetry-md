@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-022-juan-er-shi-yi-shen-xian-er-shi-yi
-title: 卷二十一&#183;神仙二十一
+title: 卷二十一·神仙二十一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

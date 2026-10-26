@@ -1,6 +1,6 @@
 ---
 id: meng-shen-shi-liao-ben-cao-050-juan-shang-shu-jiao-qin-jiao-di-wu-shi
-title: 卷上·蜀椒&#183;秦椒第五十
+title: 卷上·蜀椒·秦椒第五十
 section: 卷上
 author: 孟诜
 authorSlug: meng-shen

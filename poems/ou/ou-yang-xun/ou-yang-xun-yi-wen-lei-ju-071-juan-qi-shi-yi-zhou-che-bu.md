@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-071-juan-qi-shi-yi-zhou-che-bu
-title: 卷七十一&#183;舟车部
+title: 卷七十一·舟车部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

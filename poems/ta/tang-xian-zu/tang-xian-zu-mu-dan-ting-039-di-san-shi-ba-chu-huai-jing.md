@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-039-di-san-shi-ba-chu-huai-jing
-title: 第三十八出&#183;淮警
+title: 第三十八出·淮警
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

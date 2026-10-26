@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-113-li-cai-pian-zhi-zhu-di-jia-zhong-wu-qing-lve-you-ji-xu-di-yi-71bbf8e9
-title: 理财篇·致诸弟&#183;家中务请略有积蓄第一百一十三
+title: 理财篇·致诸弟·家中务请略有积蓄第一百一十三
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

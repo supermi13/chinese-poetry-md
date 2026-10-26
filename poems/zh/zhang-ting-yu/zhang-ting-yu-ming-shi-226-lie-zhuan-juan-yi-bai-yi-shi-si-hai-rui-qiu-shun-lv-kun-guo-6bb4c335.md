@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-226-lie-zhuan-juan-yi-bai-yi-shi-si-hai-rui-qiu-shun-lv-kun-guo-6bb4c335
-title: 列传·卷一百一十四&#183;海瑞 丘橓 吕坤 郭正域
+title: 列传·卷一百一十四·海瑞 丘橓 吕坤 郭正域
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

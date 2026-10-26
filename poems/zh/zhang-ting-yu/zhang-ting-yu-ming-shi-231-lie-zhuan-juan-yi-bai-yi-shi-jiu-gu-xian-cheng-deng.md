@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-231-lie-zhuan-juan-yi-bai-yi-shi-jiu-gu-xian-cheng-deng
-title: 列传·卷一百一十九&#183;顾宪成等
+title: 列传·卷一百一十九·顾宪成等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

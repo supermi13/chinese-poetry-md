@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-200-lie-zhuan-juan-ba-shi-ba-yao-mo-deng
-title: 列传·卷八十八&#183;姚镆等
+title: 列传·卷八十八·姚镆等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

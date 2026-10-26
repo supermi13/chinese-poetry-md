@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-032-di-san-shi-yi-chu-shan-bei
-title: 第三十一出&#183;缮备
+title: 第三十一出·缮备
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

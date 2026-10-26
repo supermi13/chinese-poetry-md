@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-083-juan-ba-shi-san-bao-yu-bu-shang
-title: 卷八十三&#183;宝玉部上
+title: 卷八十三·宝玉部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

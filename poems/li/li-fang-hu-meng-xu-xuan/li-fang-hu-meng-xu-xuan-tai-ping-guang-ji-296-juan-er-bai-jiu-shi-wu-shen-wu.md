@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-296-juan-er-bai-jiu-shi-wu-shen-wu
-title: 卷二百九十五&#183;神五
+title: 卷二百九十五·神五
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

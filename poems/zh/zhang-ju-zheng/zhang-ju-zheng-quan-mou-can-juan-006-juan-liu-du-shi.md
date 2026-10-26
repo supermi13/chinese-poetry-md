@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-006-juan-liu-du-shi
-title: 卷六&#183;度势
+title: 卷六·度势
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

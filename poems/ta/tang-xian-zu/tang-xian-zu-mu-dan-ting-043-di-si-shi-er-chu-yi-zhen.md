@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-043-di-si-shi-er-chu-yi-zhen
-title: 第四十二出&#183;移镇
+title: 第四十二出·移镇
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

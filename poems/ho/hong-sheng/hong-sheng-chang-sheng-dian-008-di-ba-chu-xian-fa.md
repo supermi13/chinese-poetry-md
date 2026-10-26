@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-008-di-ba-chu-xian-fa
-title: 第八出&#183;献发
+title: 第八出·献发
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

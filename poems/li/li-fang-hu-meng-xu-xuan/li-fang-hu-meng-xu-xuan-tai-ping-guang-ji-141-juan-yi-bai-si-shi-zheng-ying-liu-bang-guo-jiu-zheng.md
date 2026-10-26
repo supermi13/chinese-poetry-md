@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-141-juan-yi-bai-si-shi-zheng-ying-liu-bang-guo-jiu-zheng
-title: 卷一百四十&#183;征应六（邦国咎征）
+title: 卷一百四十·征应六（邦国咎征）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

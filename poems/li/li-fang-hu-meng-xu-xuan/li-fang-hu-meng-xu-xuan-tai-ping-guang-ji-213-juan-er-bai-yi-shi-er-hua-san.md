@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-213-juan-er-bai-yi-shi-er-hua-san
-title: 卷二百一十二&#183;画三
+title: 卷二百一十二·画三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

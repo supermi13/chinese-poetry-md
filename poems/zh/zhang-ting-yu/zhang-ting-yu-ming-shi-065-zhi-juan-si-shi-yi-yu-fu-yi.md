@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-065-zhi-juan-si-shi-yi-yu-fu-yi
-title: 志·卷四十一&#183;舆服一
+title: 志·卷四十一·舆服一
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

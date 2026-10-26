@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-153-juan-yi-bai-wu-shi-er-ding-shu-qi
-title: 卷一百五十二&#183;定数七
+title: 卷一百五十二·定数七
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

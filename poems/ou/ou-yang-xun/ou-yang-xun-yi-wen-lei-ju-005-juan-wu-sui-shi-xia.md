@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-005-juan-wu-sui-shi-xia
-title: 卷五&#183;岁时下
+title: 卷五·岁时下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

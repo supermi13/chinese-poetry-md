@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-025-zhi-juan-yi-tian-wen-yi
-title: 志·卷一&#183;天文一
+title: 志·卷一·天文一
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-031-xiu-shen-pian-zhi-jiu-di-wan-wang-wu-nao-wu-nu-di-san-shi-yi
-title: 修身篇·致九弟&#183;万望毋恼毋怒第三十一
+title: 修身篇·致九弟·万望毋恼毋怒第三十一
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

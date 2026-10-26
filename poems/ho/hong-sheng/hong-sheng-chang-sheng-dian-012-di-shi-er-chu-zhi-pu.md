@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-012-di-shi-er-chu-zhi-pu
-title: 第十二出&#183;制谱
+title: 第十二出·制谱
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

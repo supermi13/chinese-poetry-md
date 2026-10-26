@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-256-lie-zhuan-juan-yi-bai-si-shi-si-cui-jing-rong-deng
-title: 列传·卷一百四十四&#183;崔景荣等
+title: 列传·卷一百四十四·崔景荣等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

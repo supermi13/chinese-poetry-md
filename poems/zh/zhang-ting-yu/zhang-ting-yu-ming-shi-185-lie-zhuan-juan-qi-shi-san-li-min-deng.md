@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-185-lie-zhuan-juan-qi-shi-san-li-min-deng
-title: 列传·卷七十三&#183;李敏等
+title: 列传·卷七十三·李敏等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

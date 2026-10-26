@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-091-zhi-juan-liu-shi-qi-bing-san
-title: 志·卷六十七&#183;兵三
+title: 志·卷六十七·兵三
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

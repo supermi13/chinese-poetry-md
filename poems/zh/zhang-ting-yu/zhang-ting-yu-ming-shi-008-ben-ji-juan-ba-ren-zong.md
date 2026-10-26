@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-008-ben-ji-juan-ba-ren-zong
-title: 本纪·卷八&#183;仁宗
+title: 本纪·卷八·仁宗
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

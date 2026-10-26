@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-081-zhi-juan-wu-shi-qi-shi-huo-wu
-title: 志·卷五十七&#183;食货五
+title: 志·卷五十七·食货五
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

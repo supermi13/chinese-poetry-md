@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-102-biao-juan-san-zhu-wang-shi-biao-san
-title: 表·卷三&#183;诸王世表三
+title: 表·卷三·诸王世表三
 section: 表
 author: 张廷玉
 authorSlug: zhang-ting-yu

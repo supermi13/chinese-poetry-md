@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-166-juan-yi-bai-liu-shi-wu-lian-jian-lin-se-fu
-title: 卷一百六十五&#183;廉俭（吝啬附）
+title: 卷一百六十五·廉俭（吝啬附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

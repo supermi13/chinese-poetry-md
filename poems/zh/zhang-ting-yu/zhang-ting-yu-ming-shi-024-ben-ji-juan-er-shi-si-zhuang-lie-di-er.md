@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-024-ben-ji-juan-er-shi-si-zhuang-lie-di-er
-title: 本纪·卷二十四&#183;庄烈帝二
+title: 本纪·卷二十四·庄烈帝二
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

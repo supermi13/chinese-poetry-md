@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-117-li-cai-pian-zhi-jiu-di-quan-juan-yin-xiu-ci-tang-di-yi-bai-y-b3277a2a
-title: 理财篇·致九弟&#183;劝捐银修祠堂第一百一十七
+title: 理财篇·致九弟·劝捐银修祠堂第一百一十七
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

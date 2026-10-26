@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-155-lie-zhuan-juan-si-shi-san-song-cheng-deng
-title: 列传·卷四十三&#183;宋晟等
+title: 列传·卷四十三·宋晟等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

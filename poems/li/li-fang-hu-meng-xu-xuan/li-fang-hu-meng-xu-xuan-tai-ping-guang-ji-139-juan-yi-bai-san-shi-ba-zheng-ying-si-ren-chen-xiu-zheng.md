@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-139-juan-yi-bai-san-shi-ba-zheng-ying-si-ren-chen-xiu-zheng
-title: 卷一百三十八&#183;征应四（人臣休征）
+title: 卷一百三十八·征应四（人臣休征）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

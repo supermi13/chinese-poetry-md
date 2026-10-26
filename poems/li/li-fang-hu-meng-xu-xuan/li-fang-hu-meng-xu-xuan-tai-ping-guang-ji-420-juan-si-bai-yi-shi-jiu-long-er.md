@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-420-juan-si-bai-yi-shi-jiu-long-er
-title: 卷四百一十九&#183;龙二
+title: 卷四百一十九·龙二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

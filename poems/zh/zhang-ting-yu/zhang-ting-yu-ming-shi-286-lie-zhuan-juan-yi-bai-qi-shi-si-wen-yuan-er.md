@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-286-lie-zhuan-juan-yi-bai-qi-shi-si-wen-yuan-er
-title: 列传·卷一百七十四&#183;文苑二
+title: 列传·卷一百七十四·文苑二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

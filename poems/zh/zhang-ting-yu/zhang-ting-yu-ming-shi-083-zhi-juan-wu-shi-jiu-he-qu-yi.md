@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-083-zhi-juan-wu-shi-jiu-he-qu-yi
-title: 志·卷五十九&#183;河渠一
+title: 志·卷五十九·河渠一
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

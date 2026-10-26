@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-048-di-si-shi-qi-chu-wei-shi
-title: 第四十七出&#183;围释
+title: 第四十七出·围释
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

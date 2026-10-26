@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-233-lie-zhuan-juan-yi-bai-er-shi-yi-jiang-ying-lin-deng
-title: 列传·卷一百二十一&#183;姜应麟等
+title: 列传·卷一百二十一·姜应麟等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

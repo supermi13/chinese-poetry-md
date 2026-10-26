@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-082-zhi-jia-pian-zhi-si-di-ji-di-zai-jia-li-zhu-zhong-zhong-shu-c5ee3522
-title: 治家篇·致四弟季弟&#183;在家里注重种蔬等事第八十二
+title: 治家篇·致四弟季弟·在家里注重种蔬等事第八十二
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

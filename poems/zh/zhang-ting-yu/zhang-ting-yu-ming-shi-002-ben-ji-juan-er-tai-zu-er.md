@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-002-ben-ji-juan-er-tai-zu-er
-title: 本纪·卷二&#183;太祖二
+title: 本纪·卷二·太祖二
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

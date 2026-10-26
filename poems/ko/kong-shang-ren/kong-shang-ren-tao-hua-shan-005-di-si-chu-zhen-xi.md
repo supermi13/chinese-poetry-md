@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-005-di-si-chu-zhen-xi
-title: 第四出&#183;侦戏
+title: 第四出·侦戏
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

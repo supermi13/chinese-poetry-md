@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-061-zhi-juan-san-shi-qi-le-yi
-title: 志·卷三十七&#183;乐一
+title: 志·卷三十七·乐一
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

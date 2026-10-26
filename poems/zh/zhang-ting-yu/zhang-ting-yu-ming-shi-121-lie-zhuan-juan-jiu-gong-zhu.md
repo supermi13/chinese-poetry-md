@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-121-lie-zhuan-juan-jiu-gong-zhu
-title: 列传·卷九&#183;公主
+title: 列传·卷九·公主
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

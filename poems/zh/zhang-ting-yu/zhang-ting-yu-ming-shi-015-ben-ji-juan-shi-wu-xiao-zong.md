@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-015-ben-ji-juan-shi-wu-xiao-zong
-title: 本纪·卷十五&#183;孝宗
+title: 本纪·卷十五·孝宗
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

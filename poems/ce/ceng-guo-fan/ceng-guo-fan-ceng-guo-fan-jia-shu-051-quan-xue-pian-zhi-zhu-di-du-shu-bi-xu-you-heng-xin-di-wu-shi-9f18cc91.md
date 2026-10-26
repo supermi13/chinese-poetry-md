@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-051-quan-xue-pian-zhi-zhu-di-du-shu-bi-xu-you-heng-xin-di-wu-shi-9f18cc91
-title: 劝学篇·致诸弟&#183;读书必须有恒心第五十一
+title: 劝学篇·致诸弟·读书必须有恒心第五十一
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

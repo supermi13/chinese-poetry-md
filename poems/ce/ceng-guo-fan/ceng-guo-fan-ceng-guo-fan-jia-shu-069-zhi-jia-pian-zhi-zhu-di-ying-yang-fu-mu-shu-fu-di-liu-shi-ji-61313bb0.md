@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-069-zhi-jia-pian-zhi-zhu-di-ying-yang-fu-mu-shu-fu-di-liu-shi-ji-61313bb0
-title: 治家篇·致诸弟&#183;迎养父母叔父第六十九
+title: 治家篇·致诸弟·迎养父母叔父第六十九
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

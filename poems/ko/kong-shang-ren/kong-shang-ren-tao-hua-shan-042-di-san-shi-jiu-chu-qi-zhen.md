@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-042-di-san-shi-jiu-chu-qi-zhen
-title: 第三十九出&#183;栖真
+title: 第三十九出·栖真
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

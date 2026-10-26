@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-039-zhi-juan-shi-wu-li-jiu
-title: 志·卷十五&#183;历九
+title: 志·卷十五·历九
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

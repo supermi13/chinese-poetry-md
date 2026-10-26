@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-080-juan-qi-shi-jiu-fang-shi-si
-title: 卷七十九&#183;方士四
+title: 卷七十九·方士四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

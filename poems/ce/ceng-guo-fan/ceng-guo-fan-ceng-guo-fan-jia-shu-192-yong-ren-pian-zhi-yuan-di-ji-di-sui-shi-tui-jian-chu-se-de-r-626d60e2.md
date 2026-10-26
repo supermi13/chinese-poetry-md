@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-192-yong-ren-pian-zhi-yuan-di-ji-di-sui-shi-tui-jian-chu-se-de-r-626d60e2
-title: 用人篇·致沅弟季弟&#183;随时推荐出色的人第一百九十二
+title: 用人篇·致沅弟季弟·随时推荐出色的人第一百九十二
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

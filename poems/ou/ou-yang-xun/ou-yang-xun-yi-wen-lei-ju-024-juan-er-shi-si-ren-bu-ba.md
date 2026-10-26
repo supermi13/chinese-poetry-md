@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-024-juan-er-shi-si-ren-bu-ba
-title: 卷二十四&#183;人部八
+title: 卷二十四·人部八
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

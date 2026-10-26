@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-027-di-er-shi-qi-chu-ming-zhui
-title: 第二十七出&#183;冥追
+title: 第二十七出·冥追
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

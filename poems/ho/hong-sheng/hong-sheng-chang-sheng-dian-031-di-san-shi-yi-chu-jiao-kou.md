@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-031-di-san-shi-yi-chu-jiao-kou
-title: 第三十一出&#183;剿寇
+title: 第三十一出·剿寇
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

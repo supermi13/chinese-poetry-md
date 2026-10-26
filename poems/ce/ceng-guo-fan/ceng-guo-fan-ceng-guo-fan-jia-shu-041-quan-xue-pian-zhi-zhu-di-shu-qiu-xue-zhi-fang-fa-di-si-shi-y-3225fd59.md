@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-041-quan-xue-pian-zhi-zhu-di-shu-qiu-xue-zhi-fang-fa-di-si-shi-y-3225fd59
-title: 劝学篇·致诸弟&#183;述求学之方法第四十一
+title: 劝学篇·致诸弟·述求学之方法第四十一
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

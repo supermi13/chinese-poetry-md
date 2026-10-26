@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-029-zhi-juan-wu-wu-xing-er-huo-mu
-title: 志·卷五&#183;五行二(火 木)
+title: 志·卷五·五行二(火 木)
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

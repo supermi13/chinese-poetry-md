@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-010-juan-shi-ji-bian
-title: 卷十&#183;机变
+title: 卷十·机变
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-003-di-er-chu-yan-huai
-title: 第二出&#183;言怀
+title: 第二出·言怀
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

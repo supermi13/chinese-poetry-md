@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-298-lie-zhuan-juan-yi-bai-ba-shi-liu-yin-yi
-title: 列传·卷一百八十六&#183;隐逸
+title: 列传·卷一百八十六·隐逸
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

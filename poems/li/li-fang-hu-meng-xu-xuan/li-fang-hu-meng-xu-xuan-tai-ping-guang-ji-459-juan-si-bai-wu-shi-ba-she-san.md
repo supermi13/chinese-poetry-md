@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-459-juan-si-bai-wu-shi-ba-she-san
-title: 卷四百五十八&#183;蛇三
+title: 卷四百五十八·蛇三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

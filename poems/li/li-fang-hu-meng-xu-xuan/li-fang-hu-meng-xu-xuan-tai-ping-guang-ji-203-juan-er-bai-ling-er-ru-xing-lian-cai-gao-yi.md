@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-203-juan-er-bai-ling-er-ru-xing-lian-cai-gao-yi
-title: 卷二百零二&#183;儒行（怜才　高逸）
+title: 卷二百零二·儒行（怜才　高逸）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

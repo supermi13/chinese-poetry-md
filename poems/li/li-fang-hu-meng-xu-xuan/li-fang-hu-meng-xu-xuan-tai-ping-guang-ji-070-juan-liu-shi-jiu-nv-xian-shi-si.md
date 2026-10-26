@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-070-juan-liu-shi-jiu-nv-xian-shi-si
-title: 卷六十九&#183;女仙十四
+title: 卷六十九·女仙十四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

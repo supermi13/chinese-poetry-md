@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-400-juan-san-bai-jiu-shi-jiu-shui-jing-fu
-title: 卷三百九十九&#183;水（井附）
+title: 卷三百九十九·水（井附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

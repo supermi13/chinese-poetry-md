@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-206-lie-zhuan-juan-jiu-shi-si-ma-lu-deng
-title: 列传·卷九十四&#183;马录等
+title: 列传·卷九十四·马录等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

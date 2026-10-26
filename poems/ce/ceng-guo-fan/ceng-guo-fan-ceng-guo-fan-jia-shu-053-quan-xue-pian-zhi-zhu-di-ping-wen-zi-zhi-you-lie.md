@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-053-quan-xue-pian-zhi-zhu-di-ping-wen-zi-zhi-you-lie
-title: 劝学篇·致诸弟&#183;评文字之优劣
+title: 劝学篇·致诸弟·评文字之优劣
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

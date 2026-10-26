@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-085-zhi-jia-pian-zhi-zhu-di-shu-liu-di-fu-zhi-jia-xian-hui-er-mi-9ac1bf1e
-title: 治家篇·致诸弟&#183;述六弟妇治家贤慧而命最苦第八十五
+title: 治家篇·致诸弟·述六弟妇治家贤慧而命最苦第八十五
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

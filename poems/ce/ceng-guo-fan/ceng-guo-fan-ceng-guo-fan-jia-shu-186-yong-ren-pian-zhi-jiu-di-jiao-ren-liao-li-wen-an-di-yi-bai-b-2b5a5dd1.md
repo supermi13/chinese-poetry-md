@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-186-yong-ren-pian-zhi-jiu-di-jiao-ren-liao-li-wen-an-di-yi-bai-b-2b5a5dd1
-title: 用人篇·致九弟&#183;交人料理文案第一百八十六
+title: 用人篇·致九弟·交人料理文案第一百八十六
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

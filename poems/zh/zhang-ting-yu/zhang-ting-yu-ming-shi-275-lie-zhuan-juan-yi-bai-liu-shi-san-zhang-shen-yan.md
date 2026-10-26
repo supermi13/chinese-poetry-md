@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-275-lie-zhuan-juan-yi-bai-liu-shi-san-zhang-shen-yan
-title: 列传·卷一百六十三&#183;张慎言
+title: 列传·卷一百六十三·张慎言
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-043-juan-si-shi-san-le-bu-san
-title: 卷四十三&#183;乐部三
+title: 卷四十三·乐部三
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

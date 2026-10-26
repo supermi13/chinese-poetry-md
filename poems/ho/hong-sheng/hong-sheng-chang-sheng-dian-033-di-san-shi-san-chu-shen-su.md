@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-033-di-san-shi-san-chu-shen-su
-title: 第三十三出&#183;神诉
+title: 第三十三出·神诉
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

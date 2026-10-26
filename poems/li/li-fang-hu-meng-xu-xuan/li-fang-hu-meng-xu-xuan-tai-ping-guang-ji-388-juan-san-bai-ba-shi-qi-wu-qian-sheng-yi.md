@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-388-juan-san-bai-ba-shi-qi-wu-qian-sheng-yi
-title: 卷三百八十七&#183;悟前生一
+title: 卷三百八十七·悟前生一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

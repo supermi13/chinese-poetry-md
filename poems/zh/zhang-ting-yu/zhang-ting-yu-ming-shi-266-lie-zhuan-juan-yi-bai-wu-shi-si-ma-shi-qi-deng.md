@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-266-lie-zhuan-juan-yi-bai-wu-shi-si-ma-shi-qi-deng
-title: 列传·卷一百五十四&#183;马世奇等
+title: 列传·卷一百五十四·马世奇等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

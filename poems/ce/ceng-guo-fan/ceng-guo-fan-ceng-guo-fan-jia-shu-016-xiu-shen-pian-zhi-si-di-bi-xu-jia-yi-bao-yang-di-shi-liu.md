@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-016-xiu-shen-pian-zhi-si-di-bi-xu-jia-yi-bao-yang-di-shi-liu
-title: 修身篇·致四弟&#183;必须加意保养第十六
+title: 修身篇·致四弟·必须加意保养第十六
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

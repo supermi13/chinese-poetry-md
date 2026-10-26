@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-195-juan-yi-bai-jiu-shi-si-hao-xia-er
-title: 卷一百九十四&#183;豪侠二
+title: 卷一百九十四·豪侠二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-028-xiu-shen-pian-zhi-si-di-yu-guan-xiang-jian-yi-qian-jin-wei-z-bf3026b8
-title: 修身篇·致四弟&#183;与官相见以谦谨为主第二十八
+title: 修身篇·致四弟·与官相见以谦谨为主第二十八
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

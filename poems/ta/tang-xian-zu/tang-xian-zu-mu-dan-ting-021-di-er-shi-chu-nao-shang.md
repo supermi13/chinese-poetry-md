@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-021-di-er-shi-chu-nao-shang
-title: 第二十出&#183;闹殇
+title: 第二十出·闹殇
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

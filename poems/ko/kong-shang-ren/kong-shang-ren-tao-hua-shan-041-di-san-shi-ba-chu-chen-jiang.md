@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-041-di-san-shi-ba-chu-chen-jiang
-title: 第三十八出&#183;沉江
+title: 第三十八出·沉江
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-011-di-shi-chu-jing-meng
-title: 第十出&#183;惊梦
+title: 第十出·惊梦
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

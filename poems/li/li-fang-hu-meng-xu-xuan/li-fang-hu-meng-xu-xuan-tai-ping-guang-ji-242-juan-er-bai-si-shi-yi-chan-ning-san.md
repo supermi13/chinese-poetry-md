@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-242-juan-er-bai-si-shi-yi-chan-ning-san
-title: 卷二百四十一&#183;谄佞三
+title: 卷二百四十一·谄佞三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

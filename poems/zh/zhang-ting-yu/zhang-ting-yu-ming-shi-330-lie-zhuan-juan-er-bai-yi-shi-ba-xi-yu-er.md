@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-330-lie-zhuan-juan-er-bai-yi-shi-ba-xi-yu-er
-title: 列传·卷二百一十八&#183;西域二
+title: 列传·卷二百一十八·西域二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

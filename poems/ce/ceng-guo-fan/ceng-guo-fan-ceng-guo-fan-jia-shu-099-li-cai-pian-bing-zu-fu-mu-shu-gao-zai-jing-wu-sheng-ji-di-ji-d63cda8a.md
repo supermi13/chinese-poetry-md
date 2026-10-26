@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-099-li-cai-pian-bing-zu-fu-mu-shu-gao-zai-jing-wu-sheng-ji-di-ji-d63cda8a
-title: 理财篇·禀祖父母&#183;述告在京无生计第九十九
+title: 理财篇·禀祖父母·述告在京无生计第九十九
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

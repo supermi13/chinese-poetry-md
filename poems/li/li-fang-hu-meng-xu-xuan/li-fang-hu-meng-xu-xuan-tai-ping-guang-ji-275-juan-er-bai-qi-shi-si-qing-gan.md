@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-275-juan-er-bai-qi-shi-si-qing-gan
-title: 卷二百七十四&#183;情感
+title: 卷二百七十四·情感
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

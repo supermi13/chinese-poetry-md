@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-084-juan-ba-shi-san-yi-ren-san
-title: 卷八十三&#183;异人三
+title: 卷八十三·异人三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

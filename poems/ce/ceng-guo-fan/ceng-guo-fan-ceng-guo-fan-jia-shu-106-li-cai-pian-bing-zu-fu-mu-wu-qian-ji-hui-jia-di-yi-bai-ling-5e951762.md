@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-106-li-cai-pian-bing-zu-fu-mu-wu-qian-ji-hui-jia-di-yi-bai-ling-5e951762
-title: 理财篇·禀祖父母&#183;无钱寄回家第一百零六
+title: 理财篇·禀祖父母·无钱寄回家第一百零六
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: wen-zi-009-juan-ba-zi-ran
-title: 卷八&#183;自然
+title: 卷八·自然
 author: 文子
 authorSlug: wen-zi
 book: 文子

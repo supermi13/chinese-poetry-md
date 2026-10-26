@@ -1,6 +1,6 @@
 ---
 id: li-fang-li-mu-tai-ping-yu-lan-0794-si-yi-bu-juan-shi-wu-xi-rong-san
-title: 四夷部·卷十五&#183;西戎三
+title: 四夷部·卷十五·西戎三
 section: 四夷部
 author: 李昉、李穆
 authorSlug: li-fang-li-mu

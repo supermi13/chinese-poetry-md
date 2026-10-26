@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-023-xiu-shen-pian-zhi-jiu-di-ji-di-bi-xu-zi-li-zi-qiang-di-er-sh-c8a88d54
-title: 修身篇·致九弟季弟&#183;必须自立自强第二十三
+title: 修身篇·致九弟季弟·必须自立自强第二十三
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

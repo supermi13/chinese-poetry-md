@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-014-juan-shi-si-di-wang-bu-si
-title: 卷十四&#183;帝王部四
+title: 卷十四·帝王部四
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-095-zhi-juan-qi-shi-yi-xing-fa-san
-title: 志·卷七十一&#183;刑法三
+title: 志·卷七十一·刑法三
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

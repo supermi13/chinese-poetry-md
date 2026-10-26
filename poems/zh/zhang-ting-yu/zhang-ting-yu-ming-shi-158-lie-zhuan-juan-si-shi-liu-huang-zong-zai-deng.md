@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-158-lie-zhuan-juan-si-shi-liu-huang-zong-zai-deng
-title: 列传·卷四十六&#183;黄宗载等
+title: 列传·卷四十六·黄宗载等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

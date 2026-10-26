@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-217-lie-zhuan-juan-yi-bai-ling-wu-wang-jia-ping-deng
-title: 列传·卷一百零五&#183;王家屏等
+title: 列传·卷一百零五·王家屏等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

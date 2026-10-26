@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-038-juan-san-shi-ba-li-bu-shang
-title: 卷三十八&#183;礼部上
+title: 卷三十八·礼部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

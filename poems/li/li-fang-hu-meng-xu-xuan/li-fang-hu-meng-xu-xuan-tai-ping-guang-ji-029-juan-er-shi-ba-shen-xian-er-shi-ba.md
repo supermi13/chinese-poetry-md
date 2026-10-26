@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-029-juan-er-shi-ba-shen-xian-er-shi-ba
-title: 卷二十八&#183;神仙二十八
+title: 卷二十八·神仙二十八
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-018-xiu-shen-pian-zhi-jiu-di-yi-ping-jiao-jin-zhi-qi-di-shi-ba
-title: 修身篇·致九弟&#183;宜平骄矜之气第十八
+title: 修身篇·致九弟·宜平骄矜之气第十八
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

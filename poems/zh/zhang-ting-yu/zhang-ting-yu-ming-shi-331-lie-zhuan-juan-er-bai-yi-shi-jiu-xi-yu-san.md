@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-331-lie-zhuan-juan-er-bai-yi-shi-jiu-xi-yu-san
-title: 列传·卷二百一十九&#183;西域三
+title: 列传·卷二百一十九·西域三
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

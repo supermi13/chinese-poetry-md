@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-089-juan-ba-shi-jiu-mu-bu-xia
-title: 卷八十九&#183;木部下
+title: 卷八十九·木部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

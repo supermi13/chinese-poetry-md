@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-034-di-san-shi-yi-chu-cao-xi
-title: 第三十一出&#183;草檄
+title: 第三十一出·草檄
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

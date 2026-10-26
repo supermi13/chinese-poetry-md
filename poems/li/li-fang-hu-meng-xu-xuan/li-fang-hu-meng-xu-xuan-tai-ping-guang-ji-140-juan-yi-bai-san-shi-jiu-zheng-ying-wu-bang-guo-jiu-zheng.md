@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-140-juan-yi-bai-san-shi-jiu-zheng-ying-wu-bang-guo-jiu-zheng
-title: 卷一百三十九&#183;征应五（邦国咎征）
+title: 卷一百三十九·征应五（邦国咎征）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

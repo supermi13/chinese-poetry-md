@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-030-juan-san-shi-ren-bu-shi-si
-title: 卷三十&#183;人部十四
+title: 卷三十·人部十四
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

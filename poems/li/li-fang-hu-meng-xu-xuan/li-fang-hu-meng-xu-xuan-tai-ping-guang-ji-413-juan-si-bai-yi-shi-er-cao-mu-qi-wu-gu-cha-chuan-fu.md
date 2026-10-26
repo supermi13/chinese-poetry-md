@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-413-juan-si-bai-yi-shi-er-cao-mu-qi-wu-gu-cha-chuan-fu
-title: 卷四百一十二&#183;草木七（五谷、茶、荈附）
+title: 卷四百一十二·草木七（五谷、茶、荈附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

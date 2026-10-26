@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-138-wei-zheng-pian-bing-fu-mu-shu-pan-cha-guo-ku-ju-an-di-yi-bai-92ec9d0e
-title: 为政篇·禀父母&#183;述盘查国库巨案第一百三十八
+title: 为政篇·禀父母·述盘查国库巨案第一百三十八
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

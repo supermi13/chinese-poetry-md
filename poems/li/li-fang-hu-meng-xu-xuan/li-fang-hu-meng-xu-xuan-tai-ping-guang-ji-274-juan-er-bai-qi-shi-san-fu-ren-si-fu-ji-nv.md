@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-274-juan-er-bai-qi-shi-san-fu-ren-si-fu-ji-nv
-title: 卷二百七十三&#183;妇人四（附妓女）
+title: 卷二百七十三·妇人四（附妓女）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

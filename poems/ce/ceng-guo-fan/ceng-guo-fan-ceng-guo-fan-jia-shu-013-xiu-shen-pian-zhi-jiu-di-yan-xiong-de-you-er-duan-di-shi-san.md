@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-013-xiu-shen-pian-zhi-jiu-di-yan-xiong-de-you-er-duan-di-shi-san
-title: 修身篇·致九弟&#183;言凶德有二端第十三
+title: 修身篇·致九弟·言凶德有二端第十三
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

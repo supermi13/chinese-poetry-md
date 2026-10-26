@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-198-juan-yi-bai-jiu-shi-qi-bo-wu
-title: 卷一百九十七&#183;博物
+title: 卷一百九十七·博物
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-036-juan-san-shi-liu-ren-bu-er-shi
-title: 卷三十六&#183;人部二十
+title: 卷三十六·人部二十
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

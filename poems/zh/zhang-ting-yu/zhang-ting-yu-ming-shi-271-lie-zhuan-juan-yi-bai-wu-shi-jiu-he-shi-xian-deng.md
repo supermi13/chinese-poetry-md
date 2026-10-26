@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-271-lie-zhuan-juan-yi-bai-wu-shi-jiu-he-shi-xian-deng
-title: 列传·卷一百五十九&#183;贺世贤等
+title: 列传·卷一百五十九·贺世贤等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

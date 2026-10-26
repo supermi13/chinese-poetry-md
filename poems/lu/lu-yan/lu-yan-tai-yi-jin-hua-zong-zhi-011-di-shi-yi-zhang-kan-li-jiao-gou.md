@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-011-di-shi-yi-zhang-kan-li-jiao-gou
-title: 第十一章&#183;坎离交媾
+title: 第十一章·坎离交媾
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-020-di-shi-jiu-chu-pin-zei
-title: 第十九出&#183;牝贼
+title: 第十九出·牝贼
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

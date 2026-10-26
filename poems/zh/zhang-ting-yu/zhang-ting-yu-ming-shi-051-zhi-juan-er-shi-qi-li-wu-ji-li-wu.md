@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-051-zhi-juan-er-shi-qi-li-wu-ji-li-wu
-title: 志·卷二十七&#183;礼五(吉礼五)
+title: 志·卷二十七·礼五(吉礼五)
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-262-lie-zhuan-juan-yi-bai-wu-shi-fu-zong-long-deng
-title: 列传·卷一百五十&#183;傅宗龙等
+title: 列传·卷一百五十·傅宗龙等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

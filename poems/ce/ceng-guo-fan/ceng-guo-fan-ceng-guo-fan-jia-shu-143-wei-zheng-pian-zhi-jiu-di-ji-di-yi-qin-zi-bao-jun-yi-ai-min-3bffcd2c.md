@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-143-wei-zheng-pian-zhi-jiu-di-ji-di-yi-qin-zi-bao-jun-yi-ai-min-3bffcd2c
-title: 为政篇·致九弟季弟&#183;以勤字报君以爱民二字报亲第一百四十三
+title: 为政篇·致九弟季弟·以勤字报君以爱民二字报亲第一百四十三
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

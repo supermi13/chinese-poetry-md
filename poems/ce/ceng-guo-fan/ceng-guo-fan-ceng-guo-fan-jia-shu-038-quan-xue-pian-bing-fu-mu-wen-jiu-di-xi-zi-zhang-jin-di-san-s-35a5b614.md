@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-038-quan-xue-pian-bing-fu-mu-wen-jiu-di-xi-zi-zhang-jin-di-san-s-35a5b614
-title: 劝学篇·禀父母&#183;闻九弟习字长进第三十八
+title: 劝学篇·禀父母·闻九弟习字长进第三十八
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

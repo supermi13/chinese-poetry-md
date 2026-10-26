@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-027-di-er-shi-liu-chu-wan-zhen
-title: 第二十六出&#183;玩真
+title: 第二十六出·玩真
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

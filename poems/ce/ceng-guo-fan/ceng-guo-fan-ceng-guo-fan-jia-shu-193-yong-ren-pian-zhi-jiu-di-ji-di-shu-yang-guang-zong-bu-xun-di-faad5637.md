@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-193-yong-ren-pian-zhi-jiu-di-ji-di-shu-yang-guang-zong-bu-xun-di-faad5637
-title: 用人篇·致九弟季弟&#183;述杨光宗不驯第一百九十三
+title: 用人篇·致九弟季弟·述杨光宗不驯第一百九十三
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

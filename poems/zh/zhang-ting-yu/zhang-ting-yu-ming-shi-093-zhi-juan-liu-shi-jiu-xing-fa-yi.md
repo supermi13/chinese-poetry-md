@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-093-zhi-juan-liu-shi-jiu-xing-fa-yi
-title: 志·卷六十九&#183;刑法一
+title: 志·卷六十九·刑法一
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

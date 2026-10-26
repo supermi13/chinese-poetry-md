@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-003-juan-san-sui-shi-shang
-title: 卷三&#183;岁时上
+title: 卷三·岁时上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

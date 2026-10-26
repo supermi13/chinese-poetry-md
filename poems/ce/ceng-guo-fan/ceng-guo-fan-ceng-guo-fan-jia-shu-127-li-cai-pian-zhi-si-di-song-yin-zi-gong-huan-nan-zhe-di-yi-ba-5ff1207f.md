@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-127-li-cai-pian-zhi-si-di-song-yin-zi-gong-huan-nan-zhe-di-yi-ba-5ff1207f
-title: 理财篇·致四弟&#183;送银子共患难者第一百二十七
+title: 理财篇·致四弟·送银子共患难者第一百二十七
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

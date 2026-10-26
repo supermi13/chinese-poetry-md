@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-148-wei-zheng-pian-zhi-jiu-di-chu-shi-xiu-shen-yi-ming-qiang-di-392bfb94
-title: 为政篇·致九弟&#183;处事修身宜明强第一百四十八
+title: 为政篇·致九弟·处事修身宜明强第一百四十八
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

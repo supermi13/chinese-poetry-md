@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-280-juan-er-bai-qi-shi-jiu-meng-si
-title: 卷二百七十九&#183;梦四
+title: 卷二百七十九·梦四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

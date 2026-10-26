@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-056-zhi-juan-san-shi-er-li-shi-jia-li-si-bin-li
-title: 志·卷三十二&#183;礼十(嘉礼四 宾礼)
+title: 志·卷三十二·礼十(嘉礼四 宾礼)
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

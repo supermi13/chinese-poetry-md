@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-037-di-san-shi-si-chu-jie-ji
-title: 第三十四出&#183;截矶
+title: 第三十四出·截矶
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

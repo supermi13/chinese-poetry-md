@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-017-ben-ji-juan-shi-qi-shi-zong-yi
-title: 本纪·卷十七&#183;世宗一
+title: 本纪·卷十七·世宗一
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

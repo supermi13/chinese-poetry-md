@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-041-di-si-shi-yi-chu-jian-yue
-title: 第四十一出&#183;见月
+title: 第四十一出·见月
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

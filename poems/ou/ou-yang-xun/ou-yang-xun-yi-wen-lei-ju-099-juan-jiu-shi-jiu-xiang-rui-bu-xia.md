@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-099-juan-jiu-shi-jiu-xiang-rui-bu-xia
-title: 卷九十九&#183;祥瑞部下
+title: 卷九十九·祥瑞部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

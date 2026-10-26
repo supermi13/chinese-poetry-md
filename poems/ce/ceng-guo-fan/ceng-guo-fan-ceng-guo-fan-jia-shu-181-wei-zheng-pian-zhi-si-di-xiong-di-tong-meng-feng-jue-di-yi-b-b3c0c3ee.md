@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-181-wei-zheng-pian-zhi-si-di-xiong-di-tong-meng-feng-jue-di-yi-b-b3c0c3ee
-title: 为政篇·致四弟&#183;兄弟同蒙封爵第一百八十一
+title: 为政篇·致四弟·兄弟同蒙封爵第一百八十一
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

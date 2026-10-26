@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-049-quan-xue-pian-bing-fu-mu-jiao-di-zhu-zhong-kan-shu-di-si-shi-dff6a647
-title: 劝学篇·禀父母&#183;教弟注重看书第四十九
+title: 劝学篇·禀父母·教弟注重看书第四十九
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-145-lie-zhuan-juan-san-shi-san-yao-guang-xiao-deng
-title: 列传·卷三十三&#183;姚广孝等
+title: 列传·卷三十三·姚广孝等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

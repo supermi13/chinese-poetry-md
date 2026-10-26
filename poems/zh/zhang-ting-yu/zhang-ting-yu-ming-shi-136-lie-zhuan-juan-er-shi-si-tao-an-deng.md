@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-136-lie-zhuan-juan-er-shi-si-tao-an-deng
-title: 列传·卷二十四&#183;陶安等
+title: 列传·卷二十四·陶安等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

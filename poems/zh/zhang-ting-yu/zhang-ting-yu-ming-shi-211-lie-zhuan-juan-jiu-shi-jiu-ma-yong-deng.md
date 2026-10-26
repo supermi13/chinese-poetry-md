@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-211-lie-zhuan-juan-jiu-shi-jiu-ma-yong-deng
-title: 列传·卷九十九&#183;马永等
+title: 列传·卷九十九·马永等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

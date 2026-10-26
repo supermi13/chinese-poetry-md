@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-125-lie-zhuan-juan-shi-san-xu-da-chang-yu-chun
-title: 列传·卷十三&#183;徐达 常遇春
+title: 列传·卷十三·徐达 常遇春
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-035-di-san-shi-er-chu-bai-tan
-title: 第三十二出&#183;拜坛
+title: 第三十二出·拜坛
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

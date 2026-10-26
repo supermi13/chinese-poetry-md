@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-273-lie-zhuan-juan-yi-bai-liu-shi-yi-zuo-liang-yu
-title: 列传·卷一百六十一&#183;左良玉
+title: 列传·卷一百六十一·左良玉
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

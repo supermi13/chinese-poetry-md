@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-316-lie-zhuan-juan-er-bai-ling-si-gui-zhou-tu-si
-title: 列传·卷二百零四&#183;贵州土司
+title: 列传·卷二百零四·贵州土司
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

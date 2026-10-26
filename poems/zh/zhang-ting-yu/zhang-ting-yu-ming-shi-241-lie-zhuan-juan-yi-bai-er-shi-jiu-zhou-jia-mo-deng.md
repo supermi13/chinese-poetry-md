@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-241-lie-zhuan-juan-yi-bai-er-shi-jiu-zhou-jia-mo-deng
-title: 列传·卷一百二十九&#183;周嘉谟等
+title: 列传·卷一百二十九·周嘉谟等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-277-juan-er-bai-qi-shi-liu-meng-yi
-title: 卷二百七十六&#183;梦一
+title: 卷二百七十六·梦一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

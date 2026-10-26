@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-091-zhi-jia-pian-zhi-si-di-jiao-zi-zhi-zuo-ren-yao-qian-xu-qin-l-f7d4e71b
-title: 治家篇·致四弟&#183;教子侄做人要谦虚勤劳第九十一
+title: 治家篇·致四弟·教子侄做人要谦虚勤劳第九十一
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

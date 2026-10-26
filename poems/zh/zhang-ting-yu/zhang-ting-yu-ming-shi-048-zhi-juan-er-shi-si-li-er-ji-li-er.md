@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-048-zhi-juan-er-shi-si-li-er-ji-li-er
-title: 志·卷二十四&#183;礼二(吉礼二)
+title: 志·卷二十四·礼二(吉礼二)
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

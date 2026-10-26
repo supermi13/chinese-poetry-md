@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-009-di-ba-chu-quan-nong
-title: 第八出&#183;劝农
+title: 第八出·劝农
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

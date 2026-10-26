@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-032-xiu-shen-pian-zhi-jiu-di-yi-yi-zi-yang-zi-yi-wei-zhu-di-san-36c6c650
-title: 修身篇·致九弟&#183;宜以自养自医为主第三十二
+title: 修身篇·致九弟·宜以自养自医为主第三十二
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

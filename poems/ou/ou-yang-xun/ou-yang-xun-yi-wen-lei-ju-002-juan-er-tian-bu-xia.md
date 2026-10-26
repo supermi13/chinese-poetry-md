@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-002-juan-er-tian-bu-xia
-title: 卷二&#183;天部下
+title: 卷二·天部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

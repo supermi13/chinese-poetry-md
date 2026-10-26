@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-049-juan-si-shi-jiu-zhi-guan-bu-wu
-title: 卷四十九&#183;职官部五
+title: 卷四十九·职官部五
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

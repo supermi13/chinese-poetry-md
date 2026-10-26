@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-073-juan-qi-shi-er-dao-shu-er
-title: 卷七十二&#183;道术二
+title: 卷七十二·道术二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

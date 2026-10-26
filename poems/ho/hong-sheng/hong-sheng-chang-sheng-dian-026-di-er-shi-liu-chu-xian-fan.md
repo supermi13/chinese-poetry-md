@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-026-di-er-shi-liu-chu-xian-fan
-title: 第二十六出&#183;献饭
+title: 第二十六出·献饭
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

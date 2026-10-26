@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-046-juan-si-shi-liu-zhi-guan-bu-er
-title: 卷四十六&#183;职官部二
+title: 卷四十六·职官部二
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

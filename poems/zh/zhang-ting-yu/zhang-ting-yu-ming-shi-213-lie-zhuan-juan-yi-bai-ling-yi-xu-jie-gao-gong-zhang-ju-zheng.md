@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-213-lie-zhuan-juan-yi-bai-ling-yi-xu-jie-gao-gong-zhang-ju-zheng
-title: 列传·卷一百零一&#183;徐阶 高拱 张居正
+title: 列传·卷一百零一·徐阶 高拱 张居正
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

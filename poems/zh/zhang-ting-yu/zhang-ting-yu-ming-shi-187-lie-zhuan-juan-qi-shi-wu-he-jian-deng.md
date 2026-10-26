@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-187-lie-zhuan-juan-qi-shi-wu-he-jian-deng
-title: 列传·卷七十五&#183;何鉴等
+title: 列传·卷七十五·何鉴等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

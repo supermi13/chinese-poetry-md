@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-251-lie-zhuan-juan-yi-bai-san-shi-jiu-li-biao-deng
-title: 列传·卷一百三十九&#183;李标等
+title: 列传·卷一百三十九·李标等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

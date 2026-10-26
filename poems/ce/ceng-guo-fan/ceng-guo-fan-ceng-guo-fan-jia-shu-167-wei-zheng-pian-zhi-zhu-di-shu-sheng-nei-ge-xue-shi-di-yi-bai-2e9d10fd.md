@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-167-wei-zheng-pian-zhi-zhu-di-shu-sheng-nei-ge-xue-shi-di-yi-bai-2e9d10fd
-title: 为政篇·致诸弟&#183;述升内阁学士第一百六十七
+title: 为政篇·致诸弟·述升内阁学士第一百六十七
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

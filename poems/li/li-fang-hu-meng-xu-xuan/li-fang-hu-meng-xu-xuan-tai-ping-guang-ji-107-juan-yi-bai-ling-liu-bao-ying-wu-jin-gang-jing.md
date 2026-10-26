@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-107-juan-yi-bai-ling-liu-bao-ying-wu-jin-gang-jing
-title: 卷一百零六&#183;报应五（金刚经）
+title: 卷一百零六·报应五（金刚经）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

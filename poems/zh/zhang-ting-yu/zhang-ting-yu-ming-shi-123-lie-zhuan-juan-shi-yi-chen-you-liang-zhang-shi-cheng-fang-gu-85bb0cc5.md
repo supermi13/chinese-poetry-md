@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-123-lie-zhuan-juan-shi-yi-chen-you-liang-zhang-shi-cheng-fang-gu-85bb0cc5
-title: 列传·卷十一&#183;陈友谅 张士诚 方国珍 明玉珍
+title: 列传·卷十一·陈友谅 张士诚 方国珍 明玉珍
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

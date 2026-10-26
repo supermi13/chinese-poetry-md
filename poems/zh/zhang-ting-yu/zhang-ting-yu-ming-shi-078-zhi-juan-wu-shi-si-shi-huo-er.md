@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-078-zhi-juan-wu-shi-si-shi-huo-er
-title: 志·卷五十四&#183;食货二
+title: 志·卷五十四·食货二
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

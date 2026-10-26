@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-244-juan-er-bai-si-shi-san-zhi-sheng-tan-fu
-title: 卷二百四十三&#183;治生（贪附）
+title: 卷二百四十三·治生（贪附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

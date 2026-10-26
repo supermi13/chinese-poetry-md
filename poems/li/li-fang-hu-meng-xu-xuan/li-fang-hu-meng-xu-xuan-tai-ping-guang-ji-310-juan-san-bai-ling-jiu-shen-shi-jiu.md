@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-310-juan-san-bai-ling-jiu-shen-shi-jiu
-title: 卷三百零九&#183;神十九
+title: 卷三百零九·神十九
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

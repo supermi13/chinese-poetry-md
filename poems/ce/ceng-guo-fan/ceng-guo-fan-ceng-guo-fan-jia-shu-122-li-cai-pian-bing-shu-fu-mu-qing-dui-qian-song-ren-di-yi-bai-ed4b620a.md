@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-122-li-cai-pian-bing-shu-fu-mu-qing-dui-qian-song-ren-di-yi-bai-ed4b620a
-title: 理财篇·禀叔父母&#183;请兑钱送人第一百二十二
+title: 理财篇·禀叔父母·请兑钱送人第一百二十二
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

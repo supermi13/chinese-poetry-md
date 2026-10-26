@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-066-zhi-jia-pian-zhi-zhu-di-gao-jie-di-di-yao-qing-bai-zuo-ren-d-0fd02757
-title: 治家篇·致诸弟&#183;告诫弟弟要清白做人第六十六
+title: 治家篇·致诸弟·告诫弟弟要清白做人第六十六
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

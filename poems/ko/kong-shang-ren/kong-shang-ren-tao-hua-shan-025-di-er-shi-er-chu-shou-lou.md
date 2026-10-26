@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-025-di-er-shi-er-chu-shou-lou
-title: 第二十二出&#183;守楼
+title: 第二十二出·守楼
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

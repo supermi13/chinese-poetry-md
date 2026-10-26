@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-229-juan-er-bai-er-shi-ba-bo-xi
-title: 卷二百二十八&#183;博戏
+title: 卷二百二十八·博戏
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-074-juan-qi-shi-san-dao-shu-san
-title: 卷七十三&#183;道术三
+title: 卷七十三·道术三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

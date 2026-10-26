@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-124-li-cai-pian-zhi-jiu-di-shun-bian-ke-yi-zhou-ji-di-yi-bai-er-b0c6b9db
-title: 理财篇·致九弟&#183;顺便可以周济第一百二十四
+title: 理财篇·致九弟·顺便可以周济第一百二十四
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-080-zhi-jia-pian-zhi-si-di-de-liang-di-wei-bang-shou
-title: 治家篇·致四弟&#183;得两弟为帮手
+title: 治家篇·致四弟·得两弟为帮手
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

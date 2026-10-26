@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-214-lie-zhuan-juan-yi-bai-ling-er-yang-bo-deng
-title: 列传·卷一百零二&#183;杨博等
+title: 列传·卷一百零二·杨博等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

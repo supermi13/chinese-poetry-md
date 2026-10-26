@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-224-juan-er-bai-er-shi-san-xiang-san
-title: 卷二百二十三&#183;相三
+title: 卷二百二十三·相三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

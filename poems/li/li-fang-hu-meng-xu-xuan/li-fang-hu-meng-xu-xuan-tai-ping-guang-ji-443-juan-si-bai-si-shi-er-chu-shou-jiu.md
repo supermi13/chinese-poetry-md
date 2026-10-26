@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-443-juan-si-bai-si-shi-er-chu-shou-jiu
-title: 卷四百四十二&#183;畜兽九
+title: 卷四百四十二·畜兽九
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

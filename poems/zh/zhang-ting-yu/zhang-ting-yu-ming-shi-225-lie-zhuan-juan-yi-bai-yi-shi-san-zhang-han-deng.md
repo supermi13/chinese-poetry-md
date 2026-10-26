@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-225-lie-zhuan-juan-yi-bai-yi-shi-san-zhang-han-deng
-title: 列传·卷一百一十三&#183;张瀚等
+title: 列传·卷一百一十三·张瀚等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

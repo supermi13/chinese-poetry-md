@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-092-juan-jiu-shi-er-niao-bu-xia
-title: 卷九十二&#183;鸟部下
+title: 卷九十二·鸟部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

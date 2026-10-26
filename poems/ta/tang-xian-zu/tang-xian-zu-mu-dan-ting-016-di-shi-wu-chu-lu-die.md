@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-016-di-shi-wu-chu-lu-die
-title: 第十五出&#183;虏谍
+title: 第十五出·虏谍
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-031-juan-san-shi-yi-ren-bu-shi-wu
-title: 卷三十一&#183;人部十五
+title: 卷三十一·人部十五
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

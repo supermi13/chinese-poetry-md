@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-340-juan-san-bai-san-shi-jiu-gui-er-shi-si
-title: 卷三百三十九&#183;鬼二十四
+title: 卷三百三十九·鬼二十四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

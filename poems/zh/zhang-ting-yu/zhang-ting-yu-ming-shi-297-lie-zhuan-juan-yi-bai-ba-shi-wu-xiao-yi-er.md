@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-297-lie-zhuan-juan-yi-bai-ba-shi-wu-xiao-yi-er
-title: 列传·卷一百八十五&#183;孝义二
+title: 列传·卷一百八十五·孝义二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-228-juan-er-bai-er-shi-qi-ji-qiao-san-jue-yi-fu
-title: 卷二百二十七&#183;伎巧三（绝艺附）
+title: 卷二百二十七·伎巧三（绝艺附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

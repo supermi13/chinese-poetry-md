@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-087-zhi-juan-liu-shi-san-he-qu-wu
-title: 志·卷六十三&#183;河渠五
+title: 志·卷六十三·河渠五
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

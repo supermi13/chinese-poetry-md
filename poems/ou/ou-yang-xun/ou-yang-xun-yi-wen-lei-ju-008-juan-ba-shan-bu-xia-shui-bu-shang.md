@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-008-juan-ba-shan-bu-xia-shui-bu-shang
-title: 卷八&#183;山部下、水部上
+title: 卷八·山部下、水部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

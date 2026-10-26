@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-083-zhi-jia-pian-zhi-zhu-di-yi-xiong-di-he-mu-you-shi-xing-qin-j-c3e6bcde
-title: 治家篇·致诸弟&#183;宜兄弟和睦又实行勤俭二字第八十三
+title: 治家篇·致诸弟·宜兄弟和睦又实行勤俭二字第八十三
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

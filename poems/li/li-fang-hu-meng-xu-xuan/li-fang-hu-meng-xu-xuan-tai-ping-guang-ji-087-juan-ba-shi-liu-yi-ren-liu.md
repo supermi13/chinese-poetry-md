@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-087-juan-ba-shi-liu-yi-ren-liu
-title: 卷八十六&#183;异人六
+title: 卷八十六·异人六
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

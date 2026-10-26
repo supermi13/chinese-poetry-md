@@ -1,6 +1,6 @@
 ---
 id: zhang-jun-fang-yun-ji-qi-qian-112-ji-chuan-bu-juan-shi-san-chuan-shi
-title: 纪传部·卷十三&#183;传十
+title: 纪传部·卷十三·传十
 section: 纪传部
 author: 张君房
 authorSlug: zhang-jun-fang

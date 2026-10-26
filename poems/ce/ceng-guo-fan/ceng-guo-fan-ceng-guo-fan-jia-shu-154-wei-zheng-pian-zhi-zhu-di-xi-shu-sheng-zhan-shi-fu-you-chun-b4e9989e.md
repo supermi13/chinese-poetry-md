@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-154-wei-zheng-pian-zhi-zhu-di-xi-shu-sheng-zhan-shi-fu-you-chun-b4e9989e
-title: 为政篇·致诸弟&#183;喜述升詹事府右春坊右庶子第一百五十四
+title: 为政篇·致诸弟·喜述升詹事府右春坊右庶子第一百五十四
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

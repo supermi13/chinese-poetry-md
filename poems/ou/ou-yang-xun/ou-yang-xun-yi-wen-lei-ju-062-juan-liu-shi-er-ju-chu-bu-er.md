@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-062-juan-liu-shi-er-ju-chu-bu-er
-title: 卷六十二&#183;居处部二
+title: 卷六十二·居处部二
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-015-di-shi-wu-chu-jin-guo
-title: 第十五出&#183;进果
+title: 第十五出·进果
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

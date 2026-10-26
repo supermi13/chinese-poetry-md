@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-149-wei-zheng-pian-zhi-zhu-di-xi-shu-da-kao-sheng-guan-di-yi-bai-209a69c7
-title: 为政篇·致诸弟&#183;喜述大考升官第一百四十九
+title: 为政篇·致诸弟·喜述大考升官第一百四十九
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

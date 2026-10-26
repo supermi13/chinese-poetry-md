@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-126-lie-zhuan-juan-shi-si-li-wen-zhong-deng-yu-tang-he-mu-ying
-title: 列传·卷十四&#183;李文忠 邓愈 汤和 沐英
+title: 列传·卷十四·李文忠 邓愈 汤和 沐英
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

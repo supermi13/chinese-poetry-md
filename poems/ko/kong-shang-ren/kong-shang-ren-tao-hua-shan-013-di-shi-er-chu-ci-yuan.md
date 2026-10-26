@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-013-di-shi-er-chu-ci-yuan
-title: 第十二出&#183;辞院
+title: 第十二出·辞院
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

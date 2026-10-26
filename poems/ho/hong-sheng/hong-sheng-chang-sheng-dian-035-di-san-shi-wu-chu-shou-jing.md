@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-035-di-san-shi-wu-chu-shou-jing
-title: 第三十五出&#183;收京
+title: 第三十五出·收京
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

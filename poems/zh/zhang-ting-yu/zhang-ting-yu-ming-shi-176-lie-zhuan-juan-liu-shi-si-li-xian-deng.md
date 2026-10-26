@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-176-lie-zhuan-juan-liu-shi-si-li-xian-deng
-title: 列传·卷六十四&#183;李贤等
+title: 列传·卷六十四·李贤等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

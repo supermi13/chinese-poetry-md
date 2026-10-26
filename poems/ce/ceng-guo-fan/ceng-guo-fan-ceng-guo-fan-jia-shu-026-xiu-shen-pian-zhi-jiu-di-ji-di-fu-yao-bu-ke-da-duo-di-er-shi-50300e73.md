@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-026-xiu-shen-pian-zhi-jiu-di-ji-di-fu-yao-bu-ke-da-duo-di-er-shi-50300e73
-title: 修身篇·致九弟季弟&#183;服药不可大多第二十六
+title: 修身篇·致九弟季弟·服药不可大多第二十六
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

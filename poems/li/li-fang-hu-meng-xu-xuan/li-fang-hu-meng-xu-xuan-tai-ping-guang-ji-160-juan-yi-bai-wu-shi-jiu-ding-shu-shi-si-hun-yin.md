@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-160-juan-yi-bai-wu-shi-jiu-ding-shu-shi-si-hun-yin
-title: 卷一百五十九&#183;定数十四（婚姻）
+title: 卷一百五十九·定数十四（婚姻）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

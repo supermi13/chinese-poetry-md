@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-092-zhi-jia-pian-zhi-si-di-jiao-zi-di-qu-jiao-qi-duo-xi-di-jiu-s-78fffd53
-title: 治家篇·致四弟&#183;教子弟去骄气惰习第九十二
+title: 治家篇·致四弟·教子弟去骄气惰习第九十二
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

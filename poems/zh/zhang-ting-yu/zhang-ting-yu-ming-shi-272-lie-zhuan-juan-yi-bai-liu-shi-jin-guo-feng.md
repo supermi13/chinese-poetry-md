@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-272-lie-zhuan-juan-yi-bai-liu-shi-jin-guo-feng
-title: 列传·卷一百六十&#183;金国凤
+title: 列传·卷一百六十·金国凤
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

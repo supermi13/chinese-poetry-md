@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-311-lie-zhuan-juan-yi-bai-jiu-shi-jiu-si-chuan-tu-si
-title: 列传·卷一百九十九&#183;四川土司
+title: 列传·卷一百九十九·四川土司
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

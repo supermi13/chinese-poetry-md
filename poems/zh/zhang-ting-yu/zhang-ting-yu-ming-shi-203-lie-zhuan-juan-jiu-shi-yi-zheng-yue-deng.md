@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-203-lie-zhuan-juan-jiu-shi-yi-zheng-yue-deng
-title: 列传·卷九十一&#183;郑岳等
+title: 列传·卷九十一·郑岳等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

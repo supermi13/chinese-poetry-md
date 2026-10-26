@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-005-ben-ji-juan-wu-cheng-zu-yi
-title: 本纪·卷五&#183;成祖一
+title: 本纪·卷五·成祖一
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

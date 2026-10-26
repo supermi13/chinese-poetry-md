@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-191-yong-ren-pian-zhi-jiu-di-shu-gao-ban-shi-hao-shou-bu-duo-di-94afa884
-title: 用人篇·致九弟&#183;述告办事好手不多第一百九十一
+title: 用人篇·致九弟·述告办事好手不多第一百九十一
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

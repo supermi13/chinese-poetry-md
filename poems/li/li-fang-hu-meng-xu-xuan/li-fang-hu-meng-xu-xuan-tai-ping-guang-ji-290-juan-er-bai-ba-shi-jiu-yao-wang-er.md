@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-290-juan-er-bai-ba-shi-jiu-yao-wang-er
-title: 卷二百八十九&#183;妖妄二
+title: 卷二百八十九·妖妄二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

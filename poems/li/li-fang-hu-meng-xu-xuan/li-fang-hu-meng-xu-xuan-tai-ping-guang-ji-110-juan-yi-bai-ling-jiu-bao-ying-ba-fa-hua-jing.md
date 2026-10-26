@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-110-juan-yi-bai-ling-jiu-bao-ying-ba-fa-hua-jing
-title: 卷一百零九&#183;报应八（法华经）
+title: 卷一百零九·报应八（法华经）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

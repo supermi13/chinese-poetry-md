@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-116-li-cai-pian-zhi-jiu-di-shu-juan-yin-zuo-ji-fei-di-yi-bai-yi-145c4f6e
-title: 理财篇·致九弟&#183;述捐银作祭费第一百一十六
+title: 理财篇·致九弟·述捐银作祭费第一百一十六
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

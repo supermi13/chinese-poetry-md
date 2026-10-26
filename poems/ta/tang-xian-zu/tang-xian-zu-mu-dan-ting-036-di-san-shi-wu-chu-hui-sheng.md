@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-036-di-san-shi-wu-chu-hui-sheng
-title: 第三十五出&#183;回生
+title: 第三十五出·回生
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

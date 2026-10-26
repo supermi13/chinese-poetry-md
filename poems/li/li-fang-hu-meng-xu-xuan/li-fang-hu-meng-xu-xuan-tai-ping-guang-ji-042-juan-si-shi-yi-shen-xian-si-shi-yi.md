@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-042-juan-si-shi-yi-shen-xian-si-shi-yi
-title: 卷四十一&#183;神仙四十一
+title: 卷四十一·神仙四十一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

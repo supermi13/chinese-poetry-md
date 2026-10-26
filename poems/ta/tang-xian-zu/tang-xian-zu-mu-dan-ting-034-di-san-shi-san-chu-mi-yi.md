@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-034-di-san-shi-san-chu-mi-yi
-title: 第三十三出&#183;秘议
+title: 第三十三出·秘议
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

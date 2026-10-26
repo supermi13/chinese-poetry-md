@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-046-quan-xue-pian-zhi-zhu-di-quan-shu-xiao-ti-zhi-dao-di-si-shi-43a5a26f
-title: 劝学篇·致诸弟&#183;劝述孝悌之道第四十六
+title: 劝学篇·致诸弟·劝述孝悌之道第四十六
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

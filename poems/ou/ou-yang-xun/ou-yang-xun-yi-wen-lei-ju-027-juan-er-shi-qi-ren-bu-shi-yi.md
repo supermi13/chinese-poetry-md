@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-027-juan-er-shi-qi-ren-bu-shi-yi
-title: 卷二十七&#183;人部十一
+title: 卷二十七·人部十一
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

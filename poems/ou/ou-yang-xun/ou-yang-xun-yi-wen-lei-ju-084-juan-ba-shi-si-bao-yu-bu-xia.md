@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-084-juan-ba-shi-si-bao-yu-bu-xia
-title: 卷八十四&#183;宝玉部下
+title: 卷八十四·宝玉部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

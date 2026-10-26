@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-156-lie-zhuan-juan-si-shi-si-wu-yun-cheng-deng
-title: 列传·卷四十四&#183;吴允诚等
+title: 列传·卷四十四·吴允诚等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

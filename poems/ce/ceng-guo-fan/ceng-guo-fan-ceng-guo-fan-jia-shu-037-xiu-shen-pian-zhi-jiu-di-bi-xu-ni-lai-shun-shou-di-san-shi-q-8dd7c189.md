@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-037-xiu-shen-pian-zhi-jiu-di-bi-xu-ni-lai-shun-shou-di-san-shi-q-8dd7c189
-title: 修身篇·致九弟&#183;必须逆来顺受第三十七
+title: 修身篇·致九弟·必须逆来顺受第三十七
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-008-di-qi-chu-gui-shu
-title: 第七出&#183;闺塾
+title: 第七出·闺塾
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

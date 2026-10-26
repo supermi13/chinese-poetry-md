@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-124-lie-zhuan-juan-shi-er-kuo-kuo-tie-mu-er-deng
-title: 列传·卷十二&#183;扩廓帖木儿等
+title: 列传·卷十二·扩廓帖木儿等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

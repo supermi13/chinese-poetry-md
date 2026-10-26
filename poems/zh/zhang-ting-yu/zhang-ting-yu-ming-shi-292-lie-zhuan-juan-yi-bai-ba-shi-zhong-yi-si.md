@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-292-lie-zhuan-juan-yi-bai-ba-shi-zhong-yi-si
-title: 列传·卷一百八十&#183;忠义四
+title: 列传·卷一百八十·忠义四
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

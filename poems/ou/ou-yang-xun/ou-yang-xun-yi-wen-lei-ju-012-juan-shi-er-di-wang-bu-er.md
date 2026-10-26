@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-012-juan-shi-er-di-wang-bu-er
-title: 卷十二&#183;帝王部二
+title: 卷十二·帝王部二
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

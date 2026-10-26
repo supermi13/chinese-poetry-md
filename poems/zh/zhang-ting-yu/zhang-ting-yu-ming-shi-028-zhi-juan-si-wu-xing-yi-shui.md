@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-028-zhi-juan-si-wu-xing-yi-shui
-title: 志·卷四&#183;五行一(水)
+title: 志·卷四·五行一(水)
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

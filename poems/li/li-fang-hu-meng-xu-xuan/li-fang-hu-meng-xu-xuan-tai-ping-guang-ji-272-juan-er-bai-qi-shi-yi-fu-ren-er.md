@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-272-juan-er-bai-qi-shi-yi-fu-ren-er
-title: 卷二百七十一&#183;妇人二
+title: 卷二百七十一·妇人二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

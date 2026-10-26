@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-081-juan-ba-shi-yi-yao-xiang-cao-bu-shang
-title: 卷八十一&#183;药香草部上
+title: 卷八十一·药香草部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

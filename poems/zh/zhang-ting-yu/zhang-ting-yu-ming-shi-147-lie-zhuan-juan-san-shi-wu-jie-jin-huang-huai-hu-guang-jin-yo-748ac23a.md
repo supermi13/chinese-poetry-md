@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-147-lie-zhuan-juan-san-shi-wu-jie-jin-huang-huai-hu-guang-jin-yo-748ac23a
-title: 列传·卷三十五&#183;解缙 黄淮 胡广 金幼孜 胡俨
+title: 列传·卷三十五·解缙 黄淮 胡广 金幼孜 胡俨
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

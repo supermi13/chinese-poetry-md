@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-010-di-shi-zhang-xing-guang-shi-guang
-title: 第十章&#183;性光识光
+title: 第十章·性光识光
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

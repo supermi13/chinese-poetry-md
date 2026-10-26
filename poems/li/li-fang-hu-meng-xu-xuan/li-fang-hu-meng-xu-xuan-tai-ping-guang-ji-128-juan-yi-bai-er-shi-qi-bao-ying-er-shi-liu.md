@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-128-juan-yi-bai-er-shi-qi-bao-ying-er-shi-liu
-title: 卷一百二十七&#183;报应二十六
+title: 卷一百二十七·报应二十六
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

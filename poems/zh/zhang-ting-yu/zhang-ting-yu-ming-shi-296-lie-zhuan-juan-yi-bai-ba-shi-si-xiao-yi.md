@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-296-lie-zhuan-juan-yi-bai-ba-shi-si-xiao-yi
-title: 列传·卷一百八十四&#183;孝义
+title: 列传·卷一百八十四·孝义
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

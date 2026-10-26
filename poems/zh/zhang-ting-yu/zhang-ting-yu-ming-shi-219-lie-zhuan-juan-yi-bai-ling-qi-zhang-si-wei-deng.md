@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-219-lie-zhuan-juan-yi-bai-ling-qi-zhang-si-wei-deng
-title: 列传·卷一百零七&#183;张四维等
+title: 列传·卷一百零七·张四维等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-070-juan-qi-shi-fu-shi-bu-xia
-title: 卷七十&#183;服饰部下
+title: 卷七十·服饰部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

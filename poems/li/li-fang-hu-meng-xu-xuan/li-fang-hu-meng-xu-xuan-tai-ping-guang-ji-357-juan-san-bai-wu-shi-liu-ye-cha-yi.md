@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-357-juan-san-bai-wu-shi-liu-ye-cha-yi
-title: 卷三百五十六&#183;夜叉一
+title: 卷三百五十六·夜叉一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

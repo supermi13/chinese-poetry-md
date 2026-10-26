@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-040-juan-si-shi-li-bu-xia
-title: 卷四十&#183;礼部下
+title: 卷四十·礼部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

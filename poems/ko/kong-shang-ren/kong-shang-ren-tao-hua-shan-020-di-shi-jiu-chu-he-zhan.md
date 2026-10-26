@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-020-di-shi-jiu-chu-he-zhan
-title: 第十九出&#183;和战
+title: 第十九出·和战
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

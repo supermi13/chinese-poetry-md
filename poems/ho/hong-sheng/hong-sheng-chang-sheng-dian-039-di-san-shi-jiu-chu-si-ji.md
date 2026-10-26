@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-039-di-san-shi-jiu-chu-si-ji
-title: 第三十九出&#183;私祭
+title: 第三十九出·私祭
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

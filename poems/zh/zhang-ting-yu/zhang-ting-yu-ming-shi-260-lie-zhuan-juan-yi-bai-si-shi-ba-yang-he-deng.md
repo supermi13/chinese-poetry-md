@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-260-lie-zhuan-juan-yi-bai-si-shi-ba-yang-he-deng
-title: 列传·卷一百四十八&#183;杨鹤等
+title: 列传·卷一百四十八·杨鹤等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

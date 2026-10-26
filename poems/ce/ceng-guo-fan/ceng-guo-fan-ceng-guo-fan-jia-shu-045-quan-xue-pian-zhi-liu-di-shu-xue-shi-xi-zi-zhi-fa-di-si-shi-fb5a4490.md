@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-045-quan-xue-pian-zhi-liu-di-shu-xue-shi-xi-zi-zhi-fa-di-si-shi-fb5a4490
-title: 劝学篇·致六弟&#183;述学诗习字之法第四十五
+title: 劝学篇·致六弟·述学诗习字之法第四十五
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

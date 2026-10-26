@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-061-juan-liu-shi-yi-ju-chu-bu-yi
-title: 卷六十一&#183;居处部一
+title: 卷六十一·居处部一
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

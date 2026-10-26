@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-066-juan-liu-shi-wu-nv-xian-shi
-title: 卷六十五&#183;女仙十
+title: 卷六十五·女仙十
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

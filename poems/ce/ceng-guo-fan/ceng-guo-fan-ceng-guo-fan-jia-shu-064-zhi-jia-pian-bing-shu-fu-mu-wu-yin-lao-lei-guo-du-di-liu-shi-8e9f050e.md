@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-064-zhi-jia-pian-bing-shu-fu-mu-wu-yin-lao-lei-guo-du-di-liu-shi-8e9f050e
-title: 治家篇·禀叔父母&#183;勿因劳累过度第六十四
+title: 治家篇·禀叔父母·勿因劳累过度第六十四
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

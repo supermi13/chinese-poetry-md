@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-071-zhi-juan-si-shi-qi-xuan-ju-san
-title: 志·卷四十七&#183;选举三
+title: 志·卷四十七·选举三
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

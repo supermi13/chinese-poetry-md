@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-178-wei-zheng-pian-zhi-jiu-di-shu-zou-yi-nai-wei-chen-zhi-shi-di-fe9f3bbe
-title: 为政篇·致九弟&#183;述奏议乃为臣之事第一百七十八
+title: 为政篇·致九弟·述奏议乃为臣之事第一百七十八
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

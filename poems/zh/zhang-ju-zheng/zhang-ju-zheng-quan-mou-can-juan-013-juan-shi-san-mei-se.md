@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-013-juan-shi-san-mei-se
-title: 卷十三&#183;美色
+title: 卷十三·美色
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

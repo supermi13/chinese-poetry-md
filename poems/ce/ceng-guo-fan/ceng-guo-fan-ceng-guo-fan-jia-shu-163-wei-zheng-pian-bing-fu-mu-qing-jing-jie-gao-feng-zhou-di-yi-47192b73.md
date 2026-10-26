@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-163-wei-zheng-pian-bing-fu-mu-qing-jing-jie-gao-feng-zhou-di-yi-47192b73
-title: 为政篇·禀父母&#183;请敬接诰封轴第一百六十三
+title: 为政篇·禀父母·请敬接诰封轴第一百六十三
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

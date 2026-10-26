@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-023-di-er-shi-san-chu-xian-guan
-title: 第二十三出&#183;陷关
+title: 第二十三出·陷关
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

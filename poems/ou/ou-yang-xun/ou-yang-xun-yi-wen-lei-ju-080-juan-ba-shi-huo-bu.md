@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-080-juan-ba-shi-huo-bu
-title: 卷八十&#183;火部
+title: 卷八十·火部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

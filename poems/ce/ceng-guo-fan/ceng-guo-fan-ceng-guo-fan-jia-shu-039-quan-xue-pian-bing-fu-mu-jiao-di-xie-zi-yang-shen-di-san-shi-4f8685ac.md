@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-039-quan-xue-pian-bing-fu-mu-jiao-di-xie-zi-yang-shen-di-san-shi-4f8685ac
-title: 劝学篇·禀父母&#183;教弟写字养神第三十九
+title: 劝学篇·禀父母·教弟写字养神第三十九
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

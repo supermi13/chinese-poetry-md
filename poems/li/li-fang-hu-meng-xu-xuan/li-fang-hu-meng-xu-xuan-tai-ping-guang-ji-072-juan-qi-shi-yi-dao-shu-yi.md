@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-072-juan-qi-shi-yi-dao-shu-yi
-title: 卷七十一&#183;道术一
+title: 卷七十一·道术一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-108-biao-juan-jiu-wai-qi-en-ze-hou-biao
-title: 表·卷九&#183;外戚恩泽侯表
+title: 表·卷九·外戚恩泽侯表
 section: 表
 author: 张廷玉
 authorSlug: zhang-ting-yu

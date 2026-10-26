@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-119-juan-yi-bai-yi-shi-ba-bao-ying-shi-qi-yi-lei
-title: 卷一百一十八&#183;报应十七（异类）
+title: 卷一百一十八·报应十七（异类）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

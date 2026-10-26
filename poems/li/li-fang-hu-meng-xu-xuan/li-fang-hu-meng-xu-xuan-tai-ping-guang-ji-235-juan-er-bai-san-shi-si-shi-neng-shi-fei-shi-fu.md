@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-235-juan-er-bai-san-shi-si-shi-neng-shi-fei-shi-fu
-title: 卷二百三十四&#183;食（能食、菲食附）
+title: 卷二百三十四·食（能食、菲食附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

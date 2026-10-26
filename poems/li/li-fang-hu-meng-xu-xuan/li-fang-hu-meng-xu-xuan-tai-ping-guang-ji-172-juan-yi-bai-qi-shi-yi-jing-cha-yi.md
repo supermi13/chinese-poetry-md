@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-172-juan-yi-bai-qi-shi-yi-jing-cha-yi
-title: 卷一百七十一&#183;精察一
+title: 卷一百七十一·精察一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

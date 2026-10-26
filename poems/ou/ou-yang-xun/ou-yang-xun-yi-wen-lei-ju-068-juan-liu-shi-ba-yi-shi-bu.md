@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-068-juan-liu-shi-ba-yi-shi-bu
-title: 卷六十八&#183;仪饰部
+title: 卷六十八·仪饰部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

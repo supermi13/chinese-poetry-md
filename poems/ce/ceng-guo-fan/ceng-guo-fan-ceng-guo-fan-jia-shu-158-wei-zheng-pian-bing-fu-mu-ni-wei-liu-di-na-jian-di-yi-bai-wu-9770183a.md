@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-158-wei-zheng-pian-bing-fu-mu-ni-wei-liu-di-na-jian-di-yi-bai-wu-9770183a
-title: 为政篇·禀父母&#183;拟为六弟纳监第一百五十八
+title: 为政篇·禀父母·拟为六弟纳监第一百五十八
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

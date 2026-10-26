@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-394-juan-san-bai-jiu-shi-san-lei-yi
-title: 卷三百九十三&#183;雷一
+title: 卷三百九十三·雷一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-045-di-si-shi-wu-chu-yu-meng
-title: 第四十五出&#183;雨梦
+title: 第四十五出·雨梦
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

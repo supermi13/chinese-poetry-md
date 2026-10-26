@@ -1,6 +1,6 @@
 ---
 id: li-fang-li-mu-tai-ping-yu-lan-0788-si-yi-bu-juan-jiu-nan-man-si
-title: 四夷部·卷九&#183;南蛮四
+title: 四夷部·卷九·南蛮四
 section: 四夷部
 author: 李昉、李穆
 authorSlug: li-fang-li-mu

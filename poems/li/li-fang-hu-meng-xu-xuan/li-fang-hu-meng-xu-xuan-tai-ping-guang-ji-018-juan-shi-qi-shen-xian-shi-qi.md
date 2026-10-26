@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-018-juan-shi-qi-shen-xian-shi-qi
-title: 卷十七&#183;神仙十七
+title: 卷十七·神仙十七
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

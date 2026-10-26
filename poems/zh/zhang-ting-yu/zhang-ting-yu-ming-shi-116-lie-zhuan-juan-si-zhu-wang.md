@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-116-lie-zhuan-juan-si-zhu-wang
-title: 列传·卷四&#183;诸王
+title: 列传·卷四·诸王
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

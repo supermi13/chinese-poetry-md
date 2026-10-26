@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-049-di-si-shi-ba-chu-yu-mu
-title: 第四十八出&#183;遇母
+title: 第四十八出·遇母
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

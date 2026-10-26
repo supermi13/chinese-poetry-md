@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-081-zhi-jia-pian-zhi-jiu-di-gui-jia-liao-li-ci-tang-di-ba-shi-yi
-title: 治家篇·致九弟&#183;归家料理祠堂第八十一
+title: 治家篇·致九弟·归家料理祠堂第八十一
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

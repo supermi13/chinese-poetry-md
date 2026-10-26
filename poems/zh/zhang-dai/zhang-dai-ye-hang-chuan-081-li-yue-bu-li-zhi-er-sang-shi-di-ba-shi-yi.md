@@ -1,6 +1,6 @@
 ---
 id: zhang-dai-ye-hang-chuan-081-li-yue-bu-li-zhi-er-sang-shi-di-ba-shi-yi
-title: 礼乐部·礼制二&#183;丧事第八十一
+title: 礼乐部·礼制二·丧事第八十一
 section: 礼乐部
 author: 张岱
 authorSlug: zhang-dai

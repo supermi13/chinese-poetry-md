@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-174-wei-zheng-pian-zhi-jiu-di-shu-xiong-di-tong-huo-sheng-en-di-1c53f1c5
-title: 为政篇·致九弟&#183;述兄弟同获圣恩第一百七十四
+title: 为政篇·致九弟·述兄弟同获圣恩第一百七十四
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

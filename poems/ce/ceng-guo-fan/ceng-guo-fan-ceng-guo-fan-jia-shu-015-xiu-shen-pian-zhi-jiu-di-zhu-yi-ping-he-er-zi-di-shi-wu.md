@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-015-xiu-shen-pian-zhi-jiu-di-zhu-yi-ping-he-er-zi-di-shi-wu
-title: 修身篇·致九弟&#183;注意平和二字第十五
+title: 修身篇·致九弟·注意平和二字第十五
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-101-li-cai-pian-bing-fu-mu-chou-hua-gui-huan-jie-kuan-di-yi-bai-24dcbf31
-title: 理财篇·禀父母&#183;筹划归还借款第一百零一
+title: 理财篇·禀父母·筹划归还借款第一百零一
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

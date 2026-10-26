@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-002-di-er-zhang-yuan-shen-shi-shen
-title: 第二章&#183;元神、识神
+title: 第二章·元神、识神
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

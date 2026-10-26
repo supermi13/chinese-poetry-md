@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-009-juan-jiu-shui-bu-xia
-title: 卷九&#183;水部下
+title: 卷九·水部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

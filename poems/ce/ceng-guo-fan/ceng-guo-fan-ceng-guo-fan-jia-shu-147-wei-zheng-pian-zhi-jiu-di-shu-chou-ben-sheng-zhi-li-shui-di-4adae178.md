@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-147-wei-zheng-pian-zhi-jiu-di-shu-chou-ben-sheng-zhi-li-shui-di-4adae178
-title: 为政篇·致九弟&#183;述抽本省之厘税第一百四十七
+title: 为政篇·致九弟·述抽本省之厘税第一百四十七
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

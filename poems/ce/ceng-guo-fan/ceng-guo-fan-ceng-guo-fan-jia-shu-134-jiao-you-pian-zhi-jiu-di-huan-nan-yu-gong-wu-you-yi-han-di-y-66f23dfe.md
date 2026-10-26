@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-134-jiao-you-pian-zhi-jiu-di-huan-nan-yu-gong-wu-you-yi-han-di-y-66f23dfe
-title: 交友篇·致九弟&#183;患难与共勿有遗憾第一百三十四
+title: 交友篇·致九弟·患难与共勿有遗憾第一百三十四
 section: 交友篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

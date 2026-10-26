@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-232-lie-zhuan-juan-yi-bai-er-shi-wei-yun-zhen-wang-guo-yu-mao-he-08408b4e
-title: 列传·卷一百二十&#183;魏允贞 王国 余懋衡 李三才
+title: 列传·卷一百二十·魏允贞 王国 余懋衡 李三才
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

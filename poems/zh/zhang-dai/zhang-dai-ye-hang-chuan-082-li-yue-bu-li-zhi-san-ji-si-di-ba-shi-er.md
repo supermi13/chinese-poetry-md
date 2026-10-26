@@ -1,6 +1,6 @@
 ---
 id: zhang-dai-ye-hang-chuan-082-li-yue-bu-li-zhi-san-ji-si-di-ba-shi-er
-title: 礼乐部·礼制三&#183;祭祀第八十二
+title: 礼乐部·礼制三·祭祀第八十二
 section: 礼乐部
 author: 张岱
 authorSlug: zhang-dai

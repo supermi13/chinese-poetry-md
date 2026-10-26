@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-216-juan-er-bai-yi-shi-wu-suan-shu
-title: 卷二百一十五&#183;算术
+title: 卷二百一十五·算术
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

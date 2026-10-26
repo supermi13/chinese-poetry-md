@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-208-lie-zhuan-juan-jiu-shi-liu-zhang-qin-deng
-title: 列传·卷九十六&#183;张芹等
+title: 列传·卷九十六·张芹等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

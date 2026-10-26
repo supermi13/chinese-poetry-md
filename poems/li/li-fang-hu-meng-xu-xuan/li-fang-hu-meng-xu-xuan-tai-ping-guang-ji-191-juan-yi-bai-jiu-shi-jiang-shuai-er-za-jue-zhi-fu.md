@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-191-juan-yi-bai-jiu-shi-jiang-shuai-er-za-jue-zhi-fu
-title: 卷一百九十&#183;将帅二（杂谲智附）
+title: 卷一百九十·将帅二（杂谲智附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

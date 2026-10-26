@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-318-lie-zhuan-juan-er-bai-ling-liu-guang-xi-tu-si-er
-title: 列传·卷二百零六&#183;广西土司二
+title: 列传·卷二百零六·广西土司二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-033-di-san-shi-chu-gui-shan
-title: 第三十出&#183;归山
+title: 第三十出·归山
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

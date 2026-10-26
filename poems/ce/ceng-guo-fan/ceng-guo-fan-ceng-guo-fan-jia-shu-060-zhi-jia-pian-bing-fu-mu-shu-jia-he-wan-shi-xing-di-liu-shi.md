@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-060-zhi-jia-pian-bing-fu-mu-shu-jia-he-wan-shi-xing-di-liu-shi
-title: 治家篇·禀父母&#183;述家和万事兴第六十
+title: 治家篇·禀父母·述家和万事兴第六十
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-016-juan-shi-liu-chu-gong-bu
-title: 卷十六&#183;储宫部
+title: 卷十六·储宫部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

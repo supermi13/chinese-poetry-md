@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-003-ben-ji-juan-san-tai-zu-san
-title: 本纪·卷三&#183;太祖三
+title: 本纪·卷三·太祖三
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

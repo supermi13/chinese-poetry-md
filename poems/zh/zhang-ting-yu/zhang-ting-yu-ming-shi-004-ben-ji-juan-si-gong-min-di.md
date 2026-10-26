@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-004-ben-ji-juan-si-gong-min-di
-title: 本纪·卷四&#183;恭闵帝
+title: 本纪·卷四·恭闵帝
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

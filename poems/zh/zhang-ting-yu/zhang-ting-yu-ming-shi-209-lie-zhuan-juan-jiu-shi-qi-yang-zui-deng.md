@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-209-lie-zhuan-juan-jiu-shi-qi-yang-zui-deng
-title: 列传·卷九十七&#183;杨最等
+title: 列传·卷九十七·杨最等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

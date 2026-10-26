@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-010-juan-shi-fu-ming-bu
-title: 卷十&#183;符命部
+title: 卷十·符命部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

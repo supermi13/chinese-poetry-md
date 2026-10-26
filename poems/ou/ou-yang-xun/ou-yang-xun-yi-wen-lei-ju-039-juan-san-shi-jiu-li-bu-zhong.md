@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-039-juan-san-shi-jiu-li-bu-zhong
-title: 卷三十九&#183;礼部中
+title: 卷三十九·礼部中
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

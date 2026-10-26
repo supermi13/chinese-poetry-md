@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-013-di-shi-er-chu-xun-meng
-title: 第十二出&#183;寻梦
+title: 第十二出·寻梦
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

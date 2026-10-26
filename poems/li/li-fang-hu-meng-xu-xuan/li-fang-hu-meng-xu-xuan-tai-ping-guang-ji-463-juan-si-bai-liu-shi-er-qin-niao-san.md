@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-463-juan-si-bai-liu-shi-er-qin-niao-san
-title: 卷四百六十二&#183;禽鸟三
+title: 卷四百六十二·禽鸟三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

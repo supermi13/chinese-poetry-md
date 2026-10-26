@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-101-juan-yi-bai-shi-zheng-er
-title: 卷一百&#183;释证二
+title: 卷一百·释证二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

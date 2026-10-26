@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-043-di-si-shi-chu-ru-dao
-title: 第四十出&#183;入道
+title: 第四十出·入道
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

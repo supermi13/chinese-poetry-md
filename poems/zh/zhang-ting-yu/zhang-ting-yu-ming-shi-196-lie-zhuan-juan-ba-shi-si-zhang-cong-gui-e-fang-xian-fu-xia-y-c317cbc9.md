@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-196-lie-zhuan-juan-ba-shi-si-zhang-cong-gui-e-fang-xian-fu-xia-y-c317cbc9
-title: 列传·卷八十四&#183;张璁 桂萼 方献夫 夏言
+title: 列传·卷八十四·张璁 桂萼 方献夫 夏言
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

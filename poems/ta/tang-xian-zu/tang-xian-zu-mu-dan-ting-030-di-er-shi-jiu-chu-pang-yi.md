@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-030-di-er-shi-jiu-chu-pang-yi
-title: 第二十九出&#183;旁疑
+title: 第二十九出·旁疑
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

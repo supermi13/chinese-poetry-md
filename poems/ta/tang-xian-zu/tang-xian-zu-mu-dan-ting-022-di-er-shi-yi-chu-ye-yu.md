@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-022-di-er-shi-yi-chu-ye-yu
-title: 第二十一出&#183;谒遇
+title: 第二十一出·谒遇
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

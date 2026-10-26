@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-187-yong-ren-pian-zhi-jiu-di-kui-dui-jiang-xi-shen-shi-di-yi-bai-7e7dab6c
-title: 用人篇·致九弟&#183;愧对江西绅士第一百八十七
+title: 用人篇·致九弟·愧对江西绅士第一百八十七
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

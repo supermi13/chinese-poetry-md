@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-033-xiu-shen-pian-zhi-jiu-di-fan-yu-nu-zui-yi-shang-ren-di-san-s-13e76ee9
-title: 修身篇·致九弟&#183;凡郁怒最易伤人第三十三
+title: 修身篇·致九弟·凡郁怒最易伤人第三十三
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

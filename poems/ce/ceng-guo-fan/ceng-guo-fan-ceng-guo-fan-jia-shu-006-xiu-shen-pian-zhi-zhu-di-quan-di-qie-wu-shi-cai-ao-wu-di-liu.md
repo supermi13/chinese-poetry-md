@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-006-xiu-shen-pian-zhi-zhu-di-quan-di-qie-wu-shi-cai-ao-wu-di-liu
-title: 修身篇·致诸弟&#183;劝弟切勿恃才傲物第六
+title: 修身篇·致诸弟·劝弟切勿恃才傲物第六
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

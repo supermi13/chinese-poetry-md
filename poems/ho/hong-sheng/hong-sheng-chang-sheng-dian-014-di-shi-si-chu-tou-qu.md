@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-014-di-shi-si-chu-tou-qu
-title: 第十四出&#183;偷曲
+title: 第十四出·偷曲
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

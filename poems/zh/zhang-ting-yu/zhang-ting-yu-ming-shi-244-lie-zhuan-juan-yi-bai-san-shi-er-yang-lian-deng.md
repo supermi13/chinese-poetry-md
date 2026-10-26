@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-244-lie-zhuan-juan-yi-bai-san-shi-er-yang-lian-deng
-title: 列传·卷一百三十二&#183;杨涟等
+title: 列传·卷一百三十二·杨涟等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-114-lie-zhuan-juan-er-hou-fei-er
-title: 列传·卷二&#183;后妃二
+title: 列传·卷二·后妃二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

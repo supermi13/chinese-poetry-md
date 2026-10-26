@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-288-lie-zhuan-juan-yi-bai-qi-shi-liu-wen-yuan-si
-title: 列传·卷一百七十六&#183;文苑四
+title: 列传·卷一百七十六·文苑四
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

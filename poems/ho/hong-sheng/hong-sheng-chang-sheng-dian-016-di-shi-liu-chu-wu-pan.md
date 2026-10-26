@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-016-di-shi-liu-chu-wu-pan
-title: 第十六出&#183;舞盘
+title: 第十六出·舞盘
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-011-juan-shi-yi-feng-jian
-title: 卷十一&#183;讽谏
+title: 卷十一·讽谏
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

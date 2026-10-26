@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-160-wei-zheng-pian-bing-fu-mu-qing-wu-xuan-wang-de-cha-di-yi-bai-13ed21aa
-title: 为政篇·禀父母&#183;请勿悬望得差第一百六十
+title: 为政篇·禀父母·请勿悬望得差第一百六十
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

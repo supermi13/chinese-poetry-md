@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-175-lie-zhuan-juan-liu-shi-san-wei-qing-deng
-title: 列传·卷六十三&#183;卫青等
+title: 列传·卷六十三·卫青等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

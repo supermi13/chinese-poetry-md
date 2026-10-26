@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-005-juan-wu-bi-huo
-title: 卷五&#183;避祸
+title: 卷五·避祸
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

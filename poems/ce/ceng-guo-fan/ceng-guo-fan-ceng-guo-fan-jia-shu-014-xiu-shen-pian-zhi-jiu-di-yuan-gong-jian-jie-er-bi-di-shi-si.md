@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-014-xiu-shen-pian-zhi-jiu-di-yuan-gong-jian-jie-er-bi-di-shi-si
-title: 修身篇·致九弟&#183;愿共鉴诫二弊第十四
+title: 修身篇·致九弟·愿共鉴诫二弊第十四
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

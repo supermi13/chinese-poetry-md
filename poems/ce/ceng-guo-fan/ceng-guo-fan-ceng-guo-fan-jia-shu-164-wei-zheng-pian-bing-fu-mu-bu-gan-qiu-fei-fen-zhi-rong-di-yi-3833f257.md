@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-164-wei-zheng-pian-bing-fu-mu-bu-gan-qiu-fei-fen-zhi-rong-di-yi-3833f257
-title: 为政篇·禀父母&#183;不敢求非分之荣第一百六十四
+title: 为政篇·禀父母·不敢求非分之荣第一百六十四
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

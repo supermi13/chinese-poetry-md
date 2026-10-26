@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-036-xiu-shen-pian-zhi-jiu-di-shi-ke-hui-wu-da-you-jin-yi-di-san-a1878a35
-title: 修身篇·致九弟&#183;时刻悔悟大有进益第三十六
+title: 修身篇·致九弟·时刻悔悟大有进益第三十六
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

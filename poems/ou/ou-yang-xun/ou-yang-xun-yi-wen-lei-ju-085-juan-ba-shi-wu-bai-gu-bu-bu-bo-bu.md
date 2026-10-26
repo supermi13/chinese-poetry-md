@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-085-juan-ba-shi-wu-bai-gu-bu-bu-bo-bu
-title: 卷八十五&#183;百穀部、布帛部
+title: 卷八十五·百穀部、布帛部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

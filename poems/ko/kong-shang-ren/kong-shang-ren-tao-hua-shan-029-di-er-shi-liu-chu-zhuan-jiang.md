@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-029-di-er-shi-liu-chu-zhuan-jiang
-title: 第二十六出&#183;赚将
+title: 第二十六出·赚将
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

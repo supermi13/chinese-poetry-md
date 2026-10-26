@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-077-juan-qi-shi-qi-nei-dian-xia
-title: 卷七十七&#183;内典下
+title: 卷七十七·内典下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

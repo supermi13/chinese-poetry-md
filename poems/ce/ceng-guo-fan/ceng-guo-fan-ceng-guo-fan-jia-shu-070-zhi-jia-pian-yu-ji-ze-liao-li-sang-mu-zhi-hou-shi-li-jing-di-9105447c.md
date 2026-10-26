@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-070-zhi-jia-pian-yu-ji-ze-liao-li-sang-mu-zhi-hou-shi-li-jing-di-9105447c
-title: 治家篇·谕纪泽&#183;料理丧母之后事离京第七十
+title: 治家篇·谕纪泽·料理丧母之后事离京第七十
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

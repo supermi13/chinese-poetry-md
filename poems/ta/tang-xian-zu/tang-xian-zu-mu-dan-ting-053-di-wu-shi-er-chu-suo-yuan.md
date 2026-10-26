@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-053-di-wu-shi-er-chu-suo-yuan
-title: 第五十二出&#183;索元
+title: 第五十二出·索元
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

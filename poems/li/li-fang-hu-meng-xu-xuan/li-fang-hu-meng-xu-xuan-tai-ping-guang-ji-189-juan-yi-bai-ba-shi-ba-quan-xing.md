@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-189-juan-yi-bai-ba-shi-ba-quan-xing
-title: 卷一百八十八&#183;权倖
+title: 卷一百八十八·权倖
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

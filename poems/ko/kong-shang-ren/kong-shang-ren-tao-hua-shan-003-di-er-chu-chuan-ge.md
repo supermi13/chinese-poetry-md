@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-003-di-er-chu-chuan-ge
-title: 第二出&#183;传歌
+title: 第二出·传歌
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

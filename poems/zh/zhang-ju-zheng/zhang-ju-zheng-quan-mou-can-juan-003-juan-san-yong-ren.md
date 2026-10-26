@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-003-juan-san-yong-ren
-title: 卷三&#183;用人
+title: 卷三·用人
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

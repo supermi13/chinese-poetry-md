@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-100-juan-yi-bai-zai-yi-bu
-title: 卷一百&#183;灾异部
+title: 卷一百·灾异部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

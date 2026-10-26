@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-321-lie-zhuan-juan-er-bai-ling-jiu-wai-guo-er
-title: 列传·卷二百零九&#183;外国二
+title: 列传·卷二百零九·外国二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

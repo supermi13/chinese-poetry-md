@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-092-zhi-juan-liu-shi-ba-bing-si
-title: 志·卷六十八&#183;兵四
+title: 志·卷六十八·兵四
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

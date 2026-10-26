@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-225-juan-er-bai-er-shi-si-xiang-si
-title: 卷二百二十四&#183;相四
+title: 卷二百二十四·相四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

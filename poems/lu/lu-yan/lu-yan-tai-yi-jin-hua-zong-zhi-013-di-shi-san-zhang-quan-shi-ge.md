@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-013-di-shi-san-zhang-quan-shi-ge
-title: 第十三章&#183;劝世歌
+title: 第十三章·劝世歌
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

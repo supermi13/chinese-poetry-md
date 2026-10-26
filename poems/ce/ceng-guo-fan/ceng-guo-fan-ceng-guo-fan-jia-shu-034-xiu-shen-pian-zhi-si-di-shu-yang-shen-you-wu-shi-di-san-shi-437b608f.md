@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-034-xiu-shen-pian-zhi-si-di-shu-yang-shen-you-wu-shi-di-san-shi-437b608f
-title: 修身篇·致四弟&#183;述养身有五事第三十四
+title: 修身篇·致四弟·述养身有五事第三十四
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

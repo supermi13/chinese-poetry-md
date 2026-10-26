@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-020-xiu-shen-pian-zhi-si-di-yong-yao-xu-xiao-xin-jin-shen-di-er-70783113
-title: 修身篇·致四弟&#183;用药须小心谨慎第二十
+title: 修身篇·致四弟·用药须小心谨慎第二十
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

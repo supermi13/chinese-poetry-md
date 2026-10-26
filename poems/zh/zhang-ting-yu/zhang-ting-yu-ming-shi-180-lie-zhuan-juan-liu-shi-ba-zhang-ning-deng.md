@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-180-lie-zhuan-juan-liu-shi-ba-zhang-ning-deng
-title: 列传·卷六十八&#183;张宁等
+title: 列传·卷六十八·张宁等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

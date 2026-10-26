@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-104-li-cai-pian-bing-fu-mu-jia-zhong-fei-yong-jiong-po-di-yi-bai-788028e4
-title: 理财篇·禀父母&#183;家中费用窘迫第一百零四
+title: 理财篇·禀父母·家中费用窘迫第一百零四
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

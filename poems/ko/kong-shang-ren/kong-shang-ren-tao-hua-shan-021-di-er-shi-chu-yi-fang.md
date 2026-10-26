@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-021-di-er-shi-chu-yi-fang
-title: 第二十出&#183;移防
+title: 第二十出·移防
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

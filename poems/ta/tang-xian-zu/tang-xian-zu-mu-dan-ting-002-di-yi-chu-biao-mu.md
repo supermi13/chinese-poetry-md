@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-002-di-yi-chu-biao-mu
-title: 第一出&#183;标目
+title: 第一出·标目
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

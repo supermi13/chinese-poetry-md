@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-076-juan-qi-shi-wu-dao-shu-wu
-title: 卷七十五&#183;道术五
+title: 卷七十五·道术五
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

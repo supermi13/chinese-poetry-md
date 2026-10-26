@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-236-juan-er-bai-san-shi-wu-jiao-you
-title: 卷二百三十五&#183;交友
+title: 卷二百三十五·交友
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

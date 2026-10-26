@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-050-di-wu-shi-chu-chong-yuan
-title: 第五十出&#183;重圆
+title: 第五十出·重圆
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

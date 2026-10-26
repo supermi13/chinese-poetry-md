@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-121-li-cai-pian-bing-zu-fu-mu-zeng-qin-qi-zu-ren-shu-mu-di-yi-ba-5f30f937
-title: 理财篇·禀祖父母&#183;赠亲戚族人数目第一百二十一
+title: 理财篇·禀祖父母·赠亲戚族人数目第一百二十一
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

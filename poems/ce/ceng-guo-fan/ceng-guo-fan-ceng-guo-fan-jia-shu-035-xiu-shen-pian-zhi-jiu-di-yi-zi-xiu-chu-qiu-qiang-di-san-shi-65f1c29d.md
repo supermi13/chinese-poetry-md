@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-035-xiu-shen-pian-zhi-jiu-di-yi-zi-xiu-chu-qiu-qiang-di-san-shi-65f1c29d
-title: 修身篇·致九弟&#183;宜自修处求强第三十五
+title: 修身篇·致九弟·宜自修处求强第三十五
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

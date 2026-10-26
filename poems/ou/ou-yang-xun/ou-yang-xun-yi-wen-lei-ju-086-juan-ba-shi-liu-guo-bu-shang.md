@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-086-juan-ba-shi-liu-guo-bu-shang
-title: 卷八十六&#183;果部上
+title: 卷八十六·果部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

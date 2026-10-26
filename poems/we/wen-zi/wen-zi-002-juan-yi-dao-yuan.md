@@ -1,6 +1,6 @@
 ---
 id: wen-zi-002-juan-yi-dao-yuan
-title: 卷一&#183;道原
+title: 卷一·道原
 author: 文子
 authorSlug: wen-zi
 book: 文子

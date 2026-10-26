@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-472-juan-si-bai-qi-shi-yi-shui-zu-ba
-title: 卷四百七十一&#183;水族八
+title: 卷四百七十一·水族八
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-076-zhi-jia-pian-zhi-zhu-di-wu-shi-zi-zhi-jiao-she-yin-yi-di-qi-f027c51f
-title: 治家篇·致诸弟&#183;勿使子侄骄奢淫佚第七十六
+title: 治家篇·致诸弟·勿使子侄骄奢淫佚第七十六
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

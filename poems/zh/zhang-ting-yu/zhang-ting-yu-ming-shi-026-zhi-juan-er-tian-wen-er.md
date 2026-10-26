@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-026-zhi-juan-er-tian-wen-er
-title: 志·卷二&#183;天文二
+title: 志·卷二·天文二
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

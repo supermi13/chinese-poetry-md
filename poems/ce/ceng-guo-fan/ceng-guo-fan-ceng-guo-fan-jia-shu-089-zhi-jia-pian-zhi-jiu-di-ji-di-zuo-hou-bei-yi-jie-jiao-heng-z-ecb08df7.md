@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-089-zhi-jia-pian-zhi-jiu-di-ji-di-zuo-hou-bei-yi-jie-jiao-heng-z-ecb08df7
-title: 治家篇·致九弟季弟&#183;做后辈宜戒骄横之心第八十九
+title: 治家篇·致九弟季弟·做后辈宜戒骄横之心第八十九
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

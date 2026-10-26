@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-141-lie-zhuan-juan-er-shi-jiu-qi-tai-deng
-title: 列传·卷二十九&#183;齐泰等
+title: 列传·卷二十九·齐泰等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

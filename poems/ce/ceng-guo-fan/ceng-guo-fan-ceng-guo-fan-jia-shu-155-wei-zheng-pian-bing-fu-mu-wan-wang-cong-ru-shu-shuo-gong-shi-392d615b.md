@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-155-wei-zheng-pian-bing-fu-mu-wan-wang-cong-ru-shu-shuo-gong-shi-392d615b
-title: 为政篇·禀父母&#183;万望匆入署说公事第一百五十五
+title: 为政篇·禀父母·万望匆入署说公事第一百五十五
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

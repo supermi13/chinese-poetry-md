@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-326-lie-zhuan-juan-er-bai-yi-shi-si-wai-guo-qi
-title: 列传·卷二百一十四&#183;外国七
+title: 列传·卷二百一十四·外国七
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

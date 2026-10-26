@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-157-wei-zheng-pian-bing-fu-mu-jing-qing-zu-fu-huan-lan-ding-di-y-1dea0570
-title: 为政篇·禀父母&#183;敬请祖父换蓝顶第一百五十七
+title: 为政篇·禀父母·敬请祖父换蓝顶第一百五十七
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

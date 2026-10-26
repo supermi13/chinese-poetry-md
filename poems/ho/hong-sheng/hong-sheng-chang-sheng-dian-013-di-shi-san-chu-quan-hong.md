@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-013-di-shi-san-chu-quan-hong
-title: 第十三出&#183;权哄
+title: 第十三出·权哄
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

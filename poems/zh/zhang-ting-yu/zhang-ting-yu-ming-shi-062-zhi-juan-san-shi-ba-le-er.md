@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-062-zhi-juan-san-shi-ba-le-er
-title: 志·卷三十八&#183;乐二
+title: 志·卷三十八·乐二
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

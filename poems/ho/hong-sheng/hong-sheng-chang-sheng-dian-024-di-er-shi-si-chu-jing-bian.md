@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-024-di-er-shi-si-chu-jing-bian
-title: 第二十四出&#183;惊变
+title: 第二十四出·惊变
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

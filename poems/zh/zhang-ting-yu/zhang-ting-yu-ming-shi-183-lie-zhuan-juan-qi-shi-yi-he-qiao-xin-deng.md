@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-183-lie-zhuan-juan-qi-shi-yi-he-qiao-xin-deng
-title: 列传·卷七十一&#183;何乔新等
+title: 列传·卷七十一·何乔新等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

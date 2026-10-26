@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-009-xiu-shen-pian-zhi-si-di-bu-yi-lu-tou-jiao-yu-wai-di-jiu
-title: 修身篇·致四弟&#183;不宜露头角于外第九
+title: 修身篇·致四弟·不宜露头角于外第九
 section: 修身篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

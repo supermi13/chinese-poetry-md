@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-238-lie-zhuan-juan-yi-bai-er-shi-liu-li-cheng-liang-ma-gui
-title: 列传·卷一百二十六&#183;李成梁 麻贵
+title: 列传·卷一百二十六·李成梁 麻贵
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

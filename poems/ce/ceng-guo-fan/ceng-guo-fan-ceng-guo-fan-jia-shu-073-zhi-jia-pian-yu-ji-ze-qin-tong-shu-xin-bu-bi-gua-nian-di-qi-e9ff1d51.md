@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-073-zhi-jia-pian-yu-ji-ze-qin-tong-shu-xin-bu-bi-gua-nian-di-qi-e9ff1d51
-title: 治家篇·谕纪泽&#183;勤通书信不必挂念第七十三
+title: 治家篇·谕纪泽·勤通书信不必挂念第七十三
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

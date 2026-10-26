@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-117-lie-zhuan-juan-wu-zhu-wang-er
-title: 列传·卷五&#183;诸王二
+title: 列传·卷五·诸王二
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

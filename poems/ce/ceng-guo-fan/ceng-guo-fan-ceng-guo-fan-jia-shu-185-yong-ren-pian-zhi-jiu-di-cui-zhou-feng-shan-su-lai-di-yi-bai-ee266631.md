@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-185-yong-ren-pian-zhi-jiu-di-cui-zhou-feng-shan-su-lai-di-yi-bai-ee266631
-title: 用人篇·致九弟&#183;催周凤山速来第一百八十五
+title: 用人篇·致九弟·催周凤山速来第一百八十五
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

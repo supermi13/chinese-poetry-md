@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-170-wei-zheng-pian-zhi-zhu-di-xi-wen-jiu-di-de-you-gong-di-yi-ba-cb9447be
-title: 为政篇·致诸弟&#183;喜闻九弟得优贡第一百七十
+title: 为政篇·致诸弟·喜闻九弟得优贡第一百七十
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

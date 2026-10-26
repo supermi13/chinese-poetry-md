@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-054-juan-wu-shi-san-shen-xian-wu-shi-san
-title: 卷五十三&#183;神仙五十三
+title: 卷五十三·神仙五十三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

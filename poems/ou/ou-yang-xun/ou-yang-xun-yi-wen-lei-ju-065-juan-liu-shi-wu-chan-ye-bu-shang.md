@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-065-juan-liu-shi-wu-chan-ye-bu-shang
-title: 卷六十五&#183;产业部上
+title: 卷六十五·产业部上
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

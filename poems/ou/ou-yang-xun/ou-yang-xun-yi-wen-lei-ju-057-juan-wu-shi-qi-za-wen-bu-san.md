@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-057-juan-wu-shi-qi-za-wen-bu-san
-title: 卷五十七&#183;杂文部三
+title: 卷五十七·杂文部三
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

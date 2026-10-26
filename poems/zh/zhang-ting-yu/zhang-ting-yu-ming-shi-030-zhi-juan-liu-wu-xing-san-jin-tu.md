@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-030-zhi-juan-liu-wu-xing-san-jin-tu
-title: 志·卷六&#183;五行三(金 土)
+title: 志·卷六·五行三(金 土)
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

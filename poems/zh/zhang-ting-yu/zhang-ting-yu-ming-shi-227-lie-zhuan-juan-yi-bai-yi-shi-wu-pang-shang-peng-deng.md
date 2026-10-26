@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-227-lie-zhuan-juan-yi-bai-yi-shi-wu-pang-shang-peng-deng
-title: 列传·卷一百一十五&#183;庞尚鹏等
+title: 列传·卷一百一十五·庞尚鹏等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

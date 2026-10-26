@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-047-di-si-shi-liu-chu-zhe-kou
-title: 第四十六出&#183;折寇
+title: 第四十六出·折寇
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

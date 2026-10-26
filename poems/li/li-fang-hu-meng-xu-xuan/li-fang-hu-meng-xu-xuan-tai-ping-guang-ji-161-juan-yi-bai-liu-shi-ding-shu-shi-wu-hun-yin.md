@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-161-juan-yi-bai-liu-shi-ding-shu-shi-wu-hun-yin
-title: 卷一百六十&#183;定数十五（婚姻）
+title: 卷一百六十·定数十五（婚姻）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

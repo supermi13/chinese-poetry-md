@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-161-lie-zhuan-juan-si-shi-jiu-zhou-xin-deng
-title: 列传·卷四十九&#183;周新等
+title: 列传·卷四十九·周新等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

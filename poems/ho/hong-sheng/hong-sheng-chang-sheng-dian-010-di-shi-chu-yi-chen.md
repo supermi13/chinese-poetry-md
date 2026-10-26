@@ -1,6 +1,6 @@
 ---
 id: hong-sheng-chang-sheng-dian-010-di-shi-chu-yi-chen
-title: 第十出&#183;疑谶
+title: 第十出·疑谶
 author: 洪昇
 authorSlug: hong-sheng
 book: 长生殿

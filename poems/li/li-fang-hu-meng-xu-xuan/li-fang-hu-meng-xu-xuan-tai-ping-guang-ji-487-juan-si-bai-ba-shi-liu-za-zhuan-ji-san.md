@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-487-juan-si-bai-ba-shi-liu-za-zhuan-ji-san
-title: 卷四百八十六&#183;杂传记三
+title: 卷四百八十六·杂传记三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

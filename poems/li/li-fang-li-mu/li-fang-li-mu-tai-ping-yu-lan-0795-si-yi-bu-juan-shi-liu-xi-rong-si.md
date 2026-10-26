@@ -1,6 +1,6 @@
 ---
 id: li-fang-li-mu-tai-ping-yu-lan-0795-si-yi-bu-juan-shi-liu-xi-rong-si
-title: 四夷部·卷十六&#183;西戎四
+title: 四夷部·卷十六·西戎四
 section: 四夷部
 author: 李昉、李穆
 authorSlug: li-fang-li-mu

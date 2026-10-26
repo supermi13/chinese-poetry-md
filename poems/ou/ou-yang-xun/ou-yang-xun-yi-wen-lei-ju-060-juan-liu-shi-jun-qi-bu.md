@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-060-juan-liu-shi-jun-qi-bu
-title: 卷六十&#183;军器部
+title: 卷六十·军器部
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

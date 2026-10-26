@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-407-juan-si-bai-ling-liu-cao-mu-yi-wen-li-mu-fu
-title: 卷四百零六&#183;草木一（文理木附）
+title: 卷四百零六·草木一（文理木附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

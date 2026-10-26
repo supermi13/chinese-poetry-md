@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-034-zhi-juan-shi-li-si
-title: 志·卷十&#183; 历四
+title: 志·卷十· 历四
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

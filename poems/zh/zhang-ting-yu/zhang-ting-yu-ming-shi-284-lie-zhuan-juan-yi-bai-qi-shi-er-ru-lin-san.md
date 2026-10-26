@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-284-lie-zhuan-juan-yi-bai-qi-shi-er-ru-lin-san
-title: 列传·卷一百七十二&#183;儒林三
+title: 列传·卷一百七十二·儒林三
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

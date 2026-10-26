@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-020-juan-shi-jiu-shen-xian-shi-jiu
-title: 卷十九&#183;神仙十九
+title: 卷十九·神仙十九
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

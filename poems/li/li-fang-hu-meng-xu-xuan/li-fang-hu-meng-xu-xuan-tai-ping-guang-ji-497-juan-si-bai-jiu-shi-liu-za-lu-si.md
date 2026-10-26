@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-497-juan-si-bai-jiu-shi-liu-za-lu-si
-title: 卷四百九十六&#183;杂录四
+title: 卷四百九十六·杂录四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

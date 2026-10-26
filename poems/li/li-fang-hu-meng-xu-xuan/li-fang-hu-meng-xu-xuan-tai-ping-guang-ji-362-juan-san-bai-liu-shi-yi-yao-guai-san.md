@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-362-juan-san-bai-liu-shi-yi-yao-guai-san
-title: 卷三百六十一&#183;妖怪三
+title: 卷三百六十一·妖怪三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

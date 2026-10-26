@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-137-juan-yi-bai-san-shi-liu-zheng-ying-er-di-wang-xiu-zheng
-title: 卷一百三十六&#183;征应二（帝王休征）
+title: 卷一百三十六·征应二（帝王休征）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

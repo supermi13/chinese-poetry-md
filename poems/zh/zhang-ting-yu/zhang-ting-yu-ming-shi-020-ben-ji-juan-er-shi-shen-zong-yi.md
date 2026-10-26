@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-020-ben-ji-juan-er-shi-shen-zong-yi
-title: 本纪·卷二十&#183;神宗一
+title: 本纪·卷二十·神宗一
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

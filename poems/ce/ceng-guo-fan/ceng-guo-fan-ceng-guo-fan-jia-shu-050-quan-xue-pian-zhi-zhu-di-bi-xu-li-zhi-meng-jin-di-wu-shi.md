@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-050-quan-xue-pian-zhi-zhu-di-bi-xu-li-zhi-meng-jin-di-wu-shi
-title: 劝学篇·致诸弟&#183;必须立志猛进第五十
+title: 劝学篇·致诸弟·必须立志猛进第五十
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

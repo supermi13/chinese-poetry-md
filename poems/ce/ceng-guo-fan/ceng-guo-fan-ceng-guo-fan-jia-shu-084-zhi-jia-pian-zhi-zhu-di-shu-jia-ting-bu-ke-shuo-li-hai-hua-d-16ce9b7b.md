@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-084-zhi-jia-pian-zhi-zhu-di-shu-jia-ting-bu-ke-shuo-li-hai-hua-d-16ce9b7b
-title: 治家篇·致诸弟&#183;述家庭不可说利害话第八十四
+title: 治家篇·致诸弟·述家庭不可说利害话第八十四
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

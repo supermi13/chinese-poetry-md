@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-090-zhi-juan-liu-shi-liu-bing-er
-title: 志·卷六十六&#183;兵二
+title: 志·卷六十六·兵二
 section: 志
 author: 张廷玉
 authorSlug: zhang-ting-yu

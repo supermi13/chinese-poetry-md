@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-046-di-si-shi-wu-chu-kou-jian
-title: 第四十五出&#183;寇间
+title: 第四十五出·寇间
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

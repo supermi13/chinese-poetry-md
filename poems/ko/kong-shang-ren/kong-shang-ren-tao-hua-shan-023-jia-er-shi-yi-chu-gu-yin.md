@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-023-jia-er-shi-yi-chu-gu-yin
-title: 加二十一出&#183;孤吟
+title: 加二十一出·孤吟
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

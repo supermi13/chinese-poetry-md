@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-316-juan-san-bai-yi-shi-wu-shen-er-shi-wu-yin-ci-fu
-title: 卷三百一十五&#183;神二十五（淫祠附）
+title: 卷三百一十五·神二十五（淫祠附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

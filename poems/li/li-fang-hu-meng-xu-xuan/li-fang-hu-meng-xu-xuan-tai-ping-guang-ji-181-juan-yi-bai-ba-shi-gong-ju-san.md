@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-181-juan-yi-bai-ba-shi-gong-ju-san
-title: 卷一百八十&#183;贡举三
+title: 卷一百八十·贡举三
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

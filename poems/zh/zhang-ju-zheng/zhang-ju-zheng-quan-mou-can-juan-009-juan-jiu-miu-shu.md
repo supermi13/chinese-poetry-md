@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-009-juan-jiu-miu-shu
-title: 卷九&#183;谬数
+title: 卷九·谬数
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

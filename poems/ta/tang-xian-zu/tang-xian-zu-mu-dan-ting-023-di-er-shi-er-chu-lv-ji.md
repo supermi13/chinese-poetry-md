@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-023-di-er-shi-er-chu-lv-ji
-title: 第二十二出&#183;旅寄
+title: 第二十二出·旅寄
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

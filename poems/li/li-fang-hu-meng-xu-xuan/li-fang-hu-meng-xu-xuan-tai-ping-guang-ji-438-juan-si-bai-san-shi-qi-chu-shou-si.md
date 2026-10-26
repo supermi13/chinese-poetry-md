@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-438-juan-si-bai-san-shi-qi-chu-shou-si
-title: 卷四百三十七&#183;畜兽四
+title: 卷四百三十七·畜兽四
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

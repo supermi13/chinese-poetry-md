@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-056-juan-wu-shi-liu-za-wen-bu-er
-title: 卷五十六&#183;杂文部二
+title: 卷五十六·杂文部二
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

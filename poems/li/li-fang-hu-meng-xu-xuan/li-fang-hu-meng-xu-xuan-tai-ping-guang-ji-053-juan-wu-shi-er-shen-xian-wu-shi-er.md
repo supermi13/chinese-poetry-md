@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-053-juan-wu-shi-er-shen-xian-wu-shi-er
-title: 卷五十二&#183;神仙五十二
+title: 卷五十二·神仙五十二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

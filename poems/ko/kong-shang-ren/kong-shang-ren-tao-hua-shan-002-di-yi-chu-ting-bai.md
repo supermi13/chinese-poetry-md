@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-002-di-yi-chu-ting-bai
-title: 第一出&#183;听稗
+title: 第一出·听稗
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

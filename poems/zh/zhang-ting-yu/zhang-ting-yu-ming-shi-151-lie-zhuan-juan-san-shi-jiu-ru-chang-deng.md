@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-151-lie-zhuan-juan-san-shi-jiu-ru-chang-deng
-title: 列传·卷三十九&#183;茹瑺等
+title: 列传·卷三十九·茹瑺等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

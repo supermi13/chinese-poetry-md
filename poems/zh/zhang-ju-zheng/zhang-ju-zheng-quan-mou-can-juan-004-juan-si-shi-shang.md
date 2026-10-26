@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-004-juan-si-shi-shang
-title: 卷四&#183;事上
+title: 卷四·事上
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

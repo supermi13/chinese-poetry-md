@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-304-lie-zhuan-juan-yi-bai-jiu-shi-er-huan-guan-yi
-title: 列传·卷一百九十二&#183;宦官一
+title: 列传·卷一百九十二·宦官一
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

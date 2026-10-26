@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-201-lie-zhuan-juan-ba-shi-jiu-tao-yan-deng
-title: 列传·卷八十九&#183;陶琰等
+title: 列传·卷八十九·陶琰等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

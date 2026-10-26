@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-045-juan-si-shi-wu-zhi-guan-bu-yi
-title: 卷四十五&#183;职官部一
+title: 卷四十五·职官部一
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

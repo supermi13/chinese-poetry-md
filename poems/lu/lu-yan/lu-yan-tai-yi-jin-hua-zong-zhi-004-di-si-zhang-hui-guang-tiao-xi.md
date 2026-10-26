@@ -1,6 +1,6 @@
 ---
 id: lu-yan-tai-yi-jin-hua-zong-zhi-004-di-si-zhang-hui-guang-tiao-xi
-title: 第四章&#183;回光调息
+title: 第四章·回光调息
 author: 吕岩
 authorSlug: lu-yan
 book: 太乙金华宗旨

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-166-wei-zheng-pian-bing-fu-mu-jin-zun-jia-ming-yi-xin-fu-guan-di-f20a423f
-title: 为政篇·禀父母&#183;谨遵家命一心服官第一百六十六
+title: 为政篇·禀父母·谨遵家命一心服官第一百六十六
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

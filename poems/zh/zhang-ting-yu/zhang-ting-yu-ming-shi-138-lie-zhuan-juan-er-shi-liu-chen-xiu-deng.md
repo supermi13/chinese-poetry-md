@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-138-lie-zhuan-juan-er-shi-liu-chen-xiu-deng
-title: 列传·卷二十六&#183;陈修等
+title: 列传·卷二十六·陈修等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

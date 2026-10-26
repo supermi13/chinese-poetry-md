@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-006-di-wu-chu-fang-cui
-title: 第五出&#183;访翠
+title: 第五出·访翠
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

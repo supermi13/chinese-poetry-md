@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-019-ben-ji-juan-shi-jiu-mu-zong
-title: 本纪·卷十九&#183;穆宗
+title: 本纪·卷十九·穆宗
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

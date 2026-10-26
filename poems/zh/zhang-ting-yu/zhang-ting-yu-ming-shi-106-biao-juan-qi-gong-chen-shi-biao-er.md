@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-106-biao-juan-qi-gong-chen-shi-biao-er
-title: 表·卷七&#183;功臣世表二
+title: 表·卷七·功臣世表二
 section: 表
 author: 张廷玉
 authorSlug: zhang-ting-yu

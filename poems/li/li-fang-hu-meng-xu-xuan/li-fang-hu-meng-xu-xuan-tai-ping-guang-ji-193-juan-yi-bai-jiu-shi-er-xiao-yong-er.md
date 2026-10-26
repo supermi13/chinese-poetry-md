@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-193-juan-yi-bai-jiu-shi-er-xiao-yong-er
-title: 卷一百九十二&#183;骁勇二
+title: 卷一百九十二·骁勇二
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

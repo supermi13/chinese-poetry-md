@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-050-juan-wu-shi-zhi-guan-bu-liu
-title: 卷五十&#183;职官部六
+title: 卷五十·职官部六
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

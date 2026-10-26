@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-063-juan-liu-shi-er-nv-xian-qi
-title: 卷六十二&#183;女仙七
+title: 卷六十二·女仙七
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

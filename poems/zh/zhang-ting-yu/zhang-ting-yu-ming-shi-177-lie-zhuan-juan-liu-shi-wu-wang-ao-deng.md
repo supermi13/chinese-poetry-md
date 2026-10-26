@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-177-lie-zhuan-juan-liu-shi-wu-wang-ao-deng
-title: 列传·卷六十五&#183;王翱等
+title: 列传·卷六十五·王翱等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

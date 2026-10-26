@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-129-lie-zhuan-juan-shi-qi-feng-sheng-deng
-title: 列传·卷十七&#183;冯胜等
+title: 列传·卷十七·冯胜等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

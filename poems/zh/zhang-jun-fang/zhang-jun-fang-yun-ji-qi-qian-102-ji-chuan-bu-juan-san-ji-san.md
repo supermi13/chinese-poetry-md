@@ -1,6 +1,6 @@
 ---
 id: zhang-jun-fang-yun-ji-qi-qian-102-ji-chuan-bu-juan-san-ji-san
-title: 纪传部·卷三&#183;纪三
+title: 纪传部·卷三·纪三
 section: 纪传部
 author: 张君房
 authorSlug: zhang-jun-fang

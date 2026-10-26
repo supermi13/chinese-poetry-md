@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-077-zhi-jia-pian-yu-ji-ze-yi-jiao-jia-ren-qin-lao-chi-jia-di-qi-7e2b8905
-title: 治家篇·谕纪泽&#183;宜教家人勤劳持家第七十七
+title: 治家篇·谕纪泽·宜教家人勤劳持家第七十七
 section: 治家篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

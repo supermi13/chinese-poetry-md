@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-169-wei-zheng-pian-zhi-zhu-di-shu-feng-zhi-wei-jiao-she-da-chen-1c2f2bdc
-title: 为政篇·致诸弟&#183;述奉旨为较射大臣第一百六十九
+title: 为政篇·致诸弟·述奉旨为较射大臣第一百六十九
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

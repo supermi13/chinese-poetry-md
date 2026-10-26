@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-031-di-er-shi-ba-chu-ti-hua
-title: 第二十八出&#183;题画
+title: 第二十八出·题画
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

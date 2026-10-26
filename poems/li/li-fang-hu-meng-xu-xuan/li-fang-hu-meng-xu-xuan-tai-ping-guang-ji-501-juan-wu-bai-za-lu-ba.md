@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-501-juan-wu-bai-za-lu-ba
-title: 卷五百&#183;杂录八
+title: 卷五百·杂录八
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

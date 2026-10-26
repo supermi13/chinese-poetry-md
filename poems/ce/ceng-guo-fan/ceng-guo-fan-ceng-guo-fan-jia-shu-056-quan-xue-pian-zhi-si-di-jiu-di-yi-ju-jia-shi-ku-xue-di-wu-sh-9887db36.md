@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-056-quan-xue-pian-zhi-si-di-jiu-di-yi-ju-jia-shi-ku-xue-di-wu-sh-9887db36
-title: 劝学篇·致四弟九弟&#183;宜居家时苦学第五十六
+title: 劝学篇·致四弟九弟·宜居家时苦学第五十六
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

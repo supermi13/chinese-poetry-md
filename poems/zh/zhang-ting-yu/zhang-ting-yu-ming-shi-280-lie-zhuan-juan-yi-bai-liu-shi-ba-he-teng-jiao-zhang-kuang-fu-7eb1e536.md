@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-280-lie-zhuan-juan-yi-bai-liu-shi-ba-he-teng-jiao-zhang-kuang-fu-7eb1e536
-title: 列传·卷一百六十八&#183;何腾蛟(章旷 傅作霖)　瞿式耜(汪皞等)
+title: 列传·卷一百六十八·何腾蛟(章旷 傅作霖)　瞿式耜(汪皞等)
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

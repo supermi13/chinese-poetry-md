@@ -1,6 +1,6 @@
 ---
 id: zhang-ju-zheng-quan-mou-can-juan-002-juan-er-chou-mou
-title: 卷二&#183;筹谋
+title: 卷二·筹谋
 author: 张居正
 authorSlug: zhang-ju-zheng
 book: 权谋残卷

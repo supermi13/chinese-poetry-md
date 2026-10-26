@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-164-juan-yi-bai-liu-shi-san-chen-ying
-title: 卷一百六十三&#183;谶应
+title: 卷一百六十三·谶应
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

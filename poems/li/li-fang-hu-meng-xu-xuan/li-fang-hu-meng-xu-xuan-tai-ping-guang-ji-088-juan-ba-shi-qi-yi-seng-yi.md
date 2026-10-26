@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-088-juan-ba-shi-qi-yi-seng-yi
-title: 卷八十七&#183;异僧一
+title: 卷八十七·异僧一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

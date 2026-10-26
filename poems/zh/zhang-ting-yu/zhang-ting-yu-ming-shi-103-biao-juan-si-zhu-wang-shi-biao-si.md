@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-103-biao-juan-si-zhu-wang-shi-biao-si
-title: 表·卷四&#183;诸王世表四
+title: 表·卷四·诸王世表四
 section: 表
 author: 张廷玉
 authorSlug: zhang-ting-yu

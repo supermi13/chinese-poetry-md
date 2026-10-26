@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-118-lie-zhuan-juan-liu-zhu-wang-san
-title: 列传·卷六&#183;诸王三
+title: 列传·卷六·诸王三
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

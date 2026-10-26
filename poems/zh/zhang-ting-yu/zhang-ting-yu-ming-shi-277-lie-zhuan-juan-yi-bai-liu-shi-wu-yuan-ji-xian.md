@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-277-lie-zhuan-juan-yi-bai-liu-shi-wu-yuan-ji-xian
-title: 列传·卷一百六十五&#183;袁继咸
+title: 列传·卷一百六十五·袁继咸
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

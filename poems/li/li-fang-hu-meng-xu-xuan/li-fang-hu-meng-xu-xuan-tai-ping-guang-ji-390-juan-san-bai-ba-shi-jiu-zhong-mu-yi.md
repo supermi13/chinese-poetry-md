@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-390-juan-san-bai-ba-shi-jiu-zhong-mu-yi
-title: 卷三百八十九&#183;冢墓一
+title: 卷三百八十九·冢墓一
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-144-wei-zheng-pian-zhi-jiu-di-zan-huan-ji-si-wang-xi-di-yi-bai-s-60d465da
-title: 为政篇·致九弟&#183;暂缓祭祀望溪第一百四十四
+title: 为政篇·致九弟·暂缓祭祀望溪第一百四十四
 section: 为政篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

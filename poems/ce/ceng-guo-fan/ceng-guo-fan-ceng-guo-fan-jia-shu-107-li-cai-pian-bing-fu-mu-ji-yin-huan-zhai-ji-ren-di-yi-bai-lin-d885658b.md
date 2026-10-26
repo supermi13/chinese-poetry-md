@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-107-li-cai-pian-bing-fu-mu-ji-yin-huan-zhai-ji-ren-di-yi-bai-lin-d885658b
-title: 理财篇·禀父母&#183;寄银还债济人第一百零七
+title: 理财篇·禀父母·寄银还债济人第一百零七
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

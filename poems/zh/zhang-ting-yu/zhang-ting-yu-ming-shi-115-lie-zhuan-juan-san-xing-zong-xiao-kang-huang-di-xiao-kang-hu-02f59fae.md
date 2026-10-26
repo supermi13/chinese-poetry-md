@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-115-lie-zhuan-juan-san-xing-zong-xiao-kang-huang-di-xiao-kang-hu-02f59fae
-title: 列传·卷三&#183;兴宗孝康皇帝(孝康皇后 吕太后) 睿宗献皇帝
+title: 列传·卷三·兴宗孝康皇帝(孝康皇后 吕太后) 睿宗献皇帝
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

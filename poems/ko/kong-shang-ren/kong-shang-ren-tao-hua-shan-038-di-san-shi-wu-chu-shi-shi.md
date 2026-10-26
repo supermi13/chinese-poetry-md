@@ -1,6 +1,6 @@
 ---
 id: kong-shang-ren-tao-hua-shan-038-di-san-shi-wu-chu-shi-shi
-title: 第三十五出&#183;誓师
+title: 第三十五出·誓师
 author: 孔尚任
 authorSlug: kong-shang-ren
 book: 桃花扇

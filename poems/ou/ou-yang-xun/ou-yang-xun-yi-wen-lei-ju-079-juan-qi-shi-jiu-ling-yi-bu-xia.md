@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-079-juan-qi-shi-jiu-ling-yi-bu-xia
-title: 卷七十九&#183;灵异部下
+title: 卷七十九·灵异部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

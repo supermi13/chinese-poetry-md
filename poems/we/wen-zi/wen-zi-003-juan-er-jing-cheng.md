@@ -1,6 +1,6 @@
 ---
 id: wen-zi-003-juan-er-jing-cheng
-title: 卷二&#183;精诚
+title: 卷二·精诚
 author: 文子
 authorSlug: wen-zi
 book: 文子

@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-123-li-cai-pian-zhi-zhu-di-jie-jian-zhi-tian-yi-ji-pin-min-di-yi-f1c340b8
-title: 理财篇·致诸弟&#183;节俭置田以济贫民第一百二十三
+title: 理财篇·致诸弟·节俭置田以济贫民第一百二十三
 section: 理财篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

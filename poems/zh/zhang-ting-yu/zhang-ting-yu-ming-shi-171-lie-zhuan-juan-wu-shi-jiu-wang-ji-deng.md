@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-171-lie-zhuan-juan-wu-shi-jiu-wang-ji-deng
-title: 列传·卷五十九&#183;王骥等
+title: 列传·卷五十九·王骥等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu

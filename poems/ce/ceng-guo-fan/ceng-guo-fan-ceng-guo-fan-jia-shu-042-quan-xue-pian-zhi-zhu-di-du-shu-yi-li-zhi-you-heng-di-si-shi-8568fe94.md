@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-042-quan-xue-pian-zhi-zhu-di-du-shu-yi-li-zhi-you-heng-di-si-shi-8568fe94
-title: 劝学篇·致诸弟&#183;读书宜立志有恒第四十二
+title: 劝学篇·致诸弟·读书宜立志有恒第四十二
 section: 劝学篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

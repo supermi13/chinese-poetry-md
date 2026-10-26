@@ -1,6 +1,6 @@
 ---
 id: tang-xian-zu-mu-dan-ting-014-di-shi-san-chu-jue-ye
-title: 第十三出&#183;诀谒
+title: 第十三出·诀谒
 author: 汤显祖
 authorSlug: tang-xian-zu
 book: 牡丹亭

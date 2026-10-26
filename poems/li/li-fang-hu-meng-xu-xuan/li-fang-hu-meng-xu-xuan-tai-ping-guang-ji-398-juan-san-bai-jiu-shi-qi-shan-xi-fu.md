@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-398-juan-san-bai-jiu-shi-qi-shan-xi-fu
-title: 卷三百九十七&#183;山（溪附）
+title: 卷三百九十七·山（溪附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

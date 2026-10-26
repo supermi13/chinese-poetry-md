@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-018-ben-ji-juan-shi-ba-shi-zong-er
-title: 本纪·卷十八&#183;世宗二
+title: 本纪·卷十八·世宗二
 section: 本纪
 author: 张廷玉
 authorSlug: zhang-ting-yu

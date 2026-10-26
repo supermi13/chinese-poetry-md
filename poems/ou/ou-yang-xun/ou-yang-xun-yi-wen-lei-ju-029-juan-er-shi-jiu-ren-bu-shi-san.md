@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-029-juan-er-shi-jiu-ren-bu-shi-san
-title: 卷二十九&#183;人部十三
+title: 卷二十九·人部十三
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

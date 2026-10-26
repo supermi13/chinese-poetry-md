@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-091-juan-jiu-shi-yi-niao-bu-zhong
-title: 卷九十一&#183;鸟部中
+title: 卷九十一·鸟部中
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

@@ -1,6 +1,6 @@
 ---
 id: ou-yang-xun-yi-wen-lei-ju-087-juan-ba-shi-qi-guo-bu-xia
-title: 卷八十七&#183;果部下
+title: 卷八十七·果部下
 author: 欧阳询
 authorSlug: ou-yang-xun
 book: 艺文类聚

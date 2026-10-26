@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-136-jiao-you-pian-zhi-jiu-di-ji-di-shu-you-fu-peng-you-di-yi-bai-a6dce1a1
-title: 交友篇·致九弟季弟&#183;述有负朋友第一百三十六
+title: 交友篇·致九弟季弟·述有负朋友第一百三十六
 section: 交友篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

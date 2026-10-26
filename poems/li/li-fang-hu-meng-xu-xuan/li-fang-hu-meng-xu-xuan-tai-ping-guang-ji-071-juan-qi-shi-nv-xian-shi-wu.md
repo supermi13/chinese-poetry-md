@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-071-juan-qi-shi-nv-xian-shi-wu
-title: 卷七十&#183;女仙十五
+title: 卷七十·女仙十五
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

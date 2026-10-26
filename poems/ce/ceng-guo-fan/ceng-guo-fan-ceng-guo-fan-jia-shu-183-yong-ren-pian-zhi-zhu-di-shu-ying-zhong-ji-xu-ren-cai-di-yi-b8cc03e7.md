@@ -1,6 +1,6 @@
 ---
 id: ceng-guo-fan-ceng-guo-fan-jia-shu-183-yong-ren-pian-zhi-zhu-di-shu-ying-zhong-ji-xu-ren-cai-di-yi-b8cc03e7
-title: 用人篇·致诸弟&#183;述营中急需人才第一百八十三
+title: 用人篇·致诸弟·述营中急需人才第一百八十三
 section: 用人篇
 author: 曾国藩
 authorSlug: ceng-guo-fan

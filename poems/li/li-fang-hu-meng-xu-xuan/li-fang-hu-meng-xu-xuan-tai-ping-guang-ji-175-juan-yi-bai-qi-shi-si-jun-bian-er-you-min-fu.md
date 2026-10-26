@@ -1,6 +1,6 @@
 ---
 id: li-fang-hu-meng-xu-xuan-tai-ping-guang-ji-175-juan-yi-bai-qi-shi-si-jun-bian-er-you-min-fu
-title: 卷一百七十四&#183;俊辩二（幼敏附）
+title: 卷一百七十四·俊辩二（幼敏附）
 author: 李昉、扈蒙、徐铉
 authorSlug: li-fang-hu-meng-xu-xuan
 book: 太平广记

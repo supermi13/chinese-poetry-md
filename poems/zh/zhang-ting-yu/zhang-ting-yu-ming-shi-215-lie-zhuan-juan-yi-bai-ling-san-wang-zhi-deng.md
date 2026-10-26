@@ -1,6 +1,6 @@
 ---
 id: zhang-ting-yu-ming-shi-215-lie-zhuan-juan-yi-bai-ling-san-wang-zhi-deng
-title: 列传·卷一百零三&#183;王治等
+title: 列传·卷一百零三·王治等
 section: 列传
 author: 张廷玉
 authorSlug: zhang-ting-yu
